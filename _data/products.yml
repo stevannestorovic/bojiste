@@ -1,0 +1,30 @@
+- name: "MiG" 
+  price: "150$"
+  img_path: "assets/img/mig.jpg"
+
+- name: "Boja"
+  price: "20$"
+  img_path: "assets/img/boja.jpeg"
+
+
+- name: "Boja"
+  price: "20$"
+  img_path: "assets/img/boja.jpeg"
+
+
+- name: "Boja"
+  price: "20$"
+  img_path: "assets/img/boja.jpeg"
+
+- name: "Boja"
+  price: "20$"
+  img_path: "assets/img/boja.jpeg"
+
+- name: "Boja"
+  price: "20$"
+  img_path: "assets/img/boja.jpeg"
+
+- name: "Boja"
+  price: "20$"
+  img_path: "assets/img/boja.jpeg"
+  
