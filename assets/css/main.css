@@ -70,6 +70,8 @@ nav ul li a {
         display:block;
     }
 
+
+
 }
 /* end navigation */
 
@@ -78,7 +80,8 @@ nav ul li a {
 
 .products {
     display: grid;
-    grid-template-columns: auto auto auto auto;
+    /*grid-template-columns: auto auto auto;*/
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
 }
 
 .product {

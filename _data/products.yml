@@ -7,24 +7,28 @@
   img_path: "assets/img/boja.jpeg"
 
 
-- name: "Boja"
-  price: "20$"
-  img_path: "assets/img/boja.jpeg"
+- name: "Boja za tenk"
+  price: "35$"
+  img_path: "assets/img/boja-za-tenk.jpeg"
 
 
-- name: "Boja"
-  price: "20$"
-  img_path: "assets/img/boja.jpeg"
+- name: "Urban diorama boja"
+  price: "40$"
+  img_path: "assets/img/urban-diorama-boje.jpeg"
 
-- name: "Boja"
-  price: "20$"
-  img_path: "assets/img/boja.jpeg"
+- name: "Marinac"
+  price: "200$"
+  img_path: "assets/img/marinac.jpeg"
 
-- name: "Boja"
-  price: "20$"
-  img_path: "assets/img/boja.jpeg"
+- name: "Varnish"
+  price: "5$"
+  img_path: "assets/img/varnish.jpeg"
 
-- name: "Boja"
-  price: "20$"
-  img_path: "assets/img/boja.jpeg"
+- name: "Tigar"
+  price: "2000$"
+  img_path: "assets/img/tigar-tenk.jpg"
+
+- name: "Paleta boja"
+  price: "80$"
+  img_path: "assets/img/paleta-boja.jpeg"
   
