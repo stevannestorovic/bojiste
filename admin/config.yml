@@ -18,8 +18,9 @@ collections:
             widget: "string"
   - name: "product"
     label: "Product"
-    folder: "_products"
+    folder: "_products/"
     create: true
+    slug: "{{slug}}"
     fields:
       - {label: "Product name", name: "name", widget: "string"}
       - {label: "Product price", name: "price", widget: "string"}

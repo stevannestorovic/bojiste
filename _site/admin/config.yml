@@ -13,13 +13,14 @@ collections:
         name: "site"
         file: "_data/site.yml"
         fields: 
-          - name: "shop-name"
+          - name: "name"
             label: "Shop name"
             widget: "string"
   - name: "product"
     label: "Product"
-    folder: "_products"
+    folder: "_products/"
     create: true
+    slug: "{{slug}}"
     fields:
       - {label: "Product name", name: "name", widget: "string"}
       - {label: "Product price", name: "price", widget: "string"}
