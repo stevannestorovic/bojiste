@@ -1,0 +1,26 @@
+backend:
+  name: github
+  repo: stevannestorovic/bojiste
+
+media_folder: "assets/img"
+
+
+collections:
+  - name: "site-info"
+    label: "Site info"
+    files:
+      - label: "Site settings" 
+        name: "site"
+        file: "_data/site.yml"
+        fields: 
+          - name: "shop-name"
+            label: "Shop name"
+            widget: "string"
+  - name: "product"
+    label: "Product"
+    folder: "_products"
+    create: true
+    fields:
+      - {label: "Product name", name: "name", widget: "string"}
+      - {label: "Product price", name: "price", widget: "string"}
+      - {label: "Image", name: "img_path", widget: "image"}
