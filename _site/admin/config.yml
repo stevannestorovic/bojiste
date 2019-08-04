@@ -20,8 +20,9 @@ collections:
     label: "Product"
     folder: "_products/"
     create: true
+    identifier_field: name
     slug: "{{slug}}"
     fields:
-      - {label: "Product name", name: "name", widget: "string"}
+      - {label: "Product name", name: "title", widget: "string"}
       - {label: "Product price", name: "price", widget: "string"}
       - {label: "Image", name: "img_path", widget: "image"}

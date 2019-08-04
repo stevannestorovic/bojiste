@@ -5,7 +5,7 @@ layout: default
     {% for product in site.products %}
         <div class="product">
             <img src="{{product.img_path}}" alt="">
-            <h4 class="product-name">{{product.name}}</h4>
+            <h4 class="product-name">{{product.title}}</h4>
             <p class="product-price">{{product.price}}</p>
         </div>
     {% endfor %}
