@@ -13,7 +13,7 @@ collections:
         name: "site"
         file: "_data/site.yml"
         fields: 
-          - name: "shop-name"
+          - name: "name"
             label: "Shop name"
             widget: "string"
   - name: "product"
