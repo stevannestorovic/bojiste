@@ -42,4 +42,5 @@ collections:
     fields:
       - {label: "Product name", name: "title", widget: "string"}
       - {label: "Product price", name: "price", widget: "string"}
+      - {label: "Product description", name: "desc", widget: "string"}
       - {label: "Image", name: "img_path", widget: "image"}
