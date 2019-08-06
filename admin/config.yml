@@ -19,8 +19,8 @@ collections:
       - label: "Contact page"
         name: "contact"
         file: "_data/contact.yml"
-        fields_data:
-          - name: ":address"
+        fields:
+          - name: "address"
             label: "Address"
             widget: "string"
           - name: "tel"
