@@ -28,20 +28,31 @@
     </nav>
 </header>
         <section class="contact">
-   <p><span class="contact-info">Email:</span> <a href="">svezamakete@yahoo.com</a></p>
-   <p><span class="contact-info">Adresa:</span> <a href="">Pere pionira 25</a></p>
-   <p><span class="contact-info">Telefon:</span> <a href="">011-555-333</a></p>
+   <div class="contact-info">
+      <div class="contact-text">
+         <p><span class="contact-info">Email:</span> <a href="mailto:svezamakete@yahoo.com">svezamakete@yahoo.com</a></p>
+         <p><span class="contact-info">Adresa:</span> <a href="">Pere pionira 25</a></p>
+         <p><span class="contact-info">Telefon:</span> <a href="">011-555-333</a></p>
+      </div>
+      <div class="contact-map">
+         <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=20.468205213546756%2C44.81304157405872%2C20.48354744911194%2C44.819640061093864&amp;layer=mapnik" style="border: 1px solid black"></iframe>
+      </div>
+   </div>
+   
+<div class="contact-form">
+    <form>
+        <input type="text" name="name" placeholder="Ime" required>
+        <input type="email" name="email" placeholder="Email" required>
+        <textarea name="message" rows="30" placeholder="Unesite poruku ovde...">
+
+        </textarea>
+        <br>
+        <button class="btn">Posalji</button>
+    </form>
+</div>
 </section>
 
-<form>
-    <label for="name">Ime</label> <input type="text" name="name" placeholder="Ime" required>
-    <label for="email">Email</label> <input type="email" name="name" placeholder="Ime" required>
-    <label for="message">Poruka</label>
-    <textarea name="" id="" cols="30" rows="10" required>
 
-    </textarea>
-
-</form>
     </div>
 
     <script src="assets/js/main.js"></script>
