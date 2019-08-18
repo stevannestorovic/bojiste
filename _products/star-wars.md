@@ -1,6 +1,7 @@
 ---
 title: star wars
 price: '1'
-img_path: /assets/img/ljh476g.jpg
+desc: Bla bla
+img_path: /assets/img/tigar-tenk.jpg
 ---
 
