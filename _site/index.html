@@ -6,6 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="assets/css/reset.css">
     <link rel="stylesheet" href="assets/css/main.css">
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="search-index.js"></script>
     <title></title>
 </head>
 <body>
@@ -15,10 +17,15 @@
         <div class="logo">
             <h1>DIYRAMA</h1>
         </div>
+	<div class="sreach-bar">
+		<input class="search-input" type="text" placeholder="Pojam za pretragu...">
+		<button class="search-button"></button>
+	</div>
         <ul class="nav-links">
             <li><a href="index.html">Početna</a></li>
             <li><a href="katalog.html">Katalog</a></li>
             <li><a href="kontakt.html">Kontakt</a></li>
+	    <li><a href="javascript:;" class="simpleCart_checkout">Korpa</a><span class="simpleCart_total"></span></li>
         </ul>
         <div class="burger">
             <div class="line1"></div>
@@ -27,12 +34,21 @@
         </div>
     </nav>
 </header>
+
         <h1>TODO SLIDER</h1>
 <div class="slider">
     
 </div>
     </div>
 
+    <script src="assets/js/jquery-2.2.4.min.js"></script>
+    <script src="assets/js/simpleCart.js"></script>
+    <script>
+	simpleCart({
+		checkout: { type: "PayPal", email:"test@t.com"
+		}
+	});
+    </script>
     <script src="assets/js/main.js"></script>
 </body>
 </html>

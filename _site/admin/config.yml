@@ -38,7 +38,6 @@ collections:
     folder: "_products/"
     create: true
     identifier_field: name
-    slug: "{{slug}}"
     fields:
       - {label: "Product name", name: "title", widget: "string"}
       - {label: "Product price", name: "price", widget: "string"}
