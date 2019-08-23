@@ -46,7 +46,16 @@
     <script>
 	simpleCart({
 		checkout: { type: "PayPal", email:"test@t.com"
-		}
+		},
+		cartColumns: [
+			{attr: "name", label: "Naziv"},
+			{attr: "price", label: "Cena"},
+			{view: "decrement", label: false},
+			{attr: "quantity", label: "kol."},
+			{view: "increment", label: false, text: "+"},
+			{attr: "total", label: "Ukupno", view:"currency"},
+			{view: "remove", text: "Ukloni", label: false}
+		]
 	});
     </script>
     <script src="assets/js/main.js"></script>
