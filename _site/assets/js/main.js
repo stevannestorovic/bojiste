@@ -9,3 +9,29 @@ const navSlide = () => {
 }
 console.log("main loaded");
 navSlide();
+
+simpleCart.currency({
+	code: "RSD",
+	name: "Dinar",
+	symbol: "RSD",
+	after: true
+});
+simpleCart({
+	checkout: { 
+		type: "SendForm", 
+		url:"http://localhost:4000/naplata.html",
+		method: "GET",
+		success: "prodato.html"
+		},
+	cartColumns: [
+		{attr: "name", label: "Naziv"},
+		{attr: "price", label: "Cena"},
+		{view: "decrement", label: false},
+		{attr: "quantity", label: "kol."},
+		{view: "increment", label: false, text: "+"},
+		{attr: "total", label: "Ukupno", view:"currency"},
+		{view: "remove", text: "Ukloni", label: false}
+	],
+//		currency: "dinar",
+	cartStyle: "table"
+});

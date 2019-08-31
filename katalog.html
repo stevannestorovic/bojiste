@@ -4,7 +4,7 @@ layout: default
 <div class="products">
     {% for product in site.products %}
         <div class="product simpleCart_shelfItem">
-            <img src="{{product.img_path}}" alt="">
+            <img class="product-img"src="{{product.img_path}}" alt="">
             <div class="product-data">
                 <h4 class="product-name item_name">{{product.title}}</h4>
                 <p class="product-description"> {{product.desc}}</p>

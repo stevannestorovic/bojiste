@@ -25,7 +25,7 @@
             <li><a href="index.html">Početna</a></li>
             <li><a href="katalog.html">Katalog</a></li>
             <li><a href="kontakt.html">Kontakt</a></li>
-	    <li><a href="korpa.html">Korpa</a></li>
+	    <li><a href="korpa.html">Korpa</a>(<span class="simpleCart_total"></span>)</li>
         </ul>
         <div class="burger">
             <div class="line1"></div>
@@ -38,7 +38,7 @@
         <div class="products">
     
         <div class="product simpleCart_shelfItem">
-            <img src="/assets/img/varnish.jpeg" alt="">
+            <img class="product-img"src="/assets/img/varnish.jpeg" alt="">
             <div class="product-data">
                 <h4 class="product-name item_name">Boja</h4>
                 <p class="product-description"> Odlicna boja za bojenje</p>
@@ -49,7 +49,7 @@
         </div>
     
         <div class="product simpleCart_shelfItem">
-            <img src="/assets/img/boja-za-tenk.jpeg" alt="">
+            <img class="product-img"src="/assets/img/boja-za-tenk.jpeg" alt="">
             <div class="product-data">
                 <h4 class="product-name item_name">MiG</h4>
                 <p class="product-description"> artikal opis bla bla</p>
@@ -60,7 +60,7 @@
         </div>
     
         <div class="product simpleCart_shelfItem">
-            <img src="/assets/img/tigar-tenk.jpg" alt="">
+            <img class="product-img"src="/assets/img/tigar-tenk.jpg" alt="">
             <div class="product-data">
                 <h4 class="product-name item_name">star wars</h4>
                 <p class="product-description"> Bla bla</p>
@@ -71,7 +71,7 @@
         </div>
     
         <div class="product simpleCart_shelfItem">
-            <img src="/assets/img/boja-za-tenk.jpeg" alt="">
+            <img class="product-img"src="/assets/img/boja-za-tenk.jpeg" alt="">
             <div class="product-data">
                 <h4 class="product-name item_name">test</h4>
                 <p class="product-description"> testiranje</p>
@@ -87,33 +87,7 @@
 
     <script src="assets/js/jquery-2.2.4.min.js"></script>
     <script src="assets/js/simpleCart.js"></script>
-    <script>
-	simpleCart.currency({
-		code: "RSD",
-		name: "Dinar",
-		symbol: "RSD",
-		after: true
-	});
-	simpleCart({
-		checkout: { 
-			type: "SendForm", 
-			url:"http://localhost:4000/naplata.html",
-			method: "GET",
-			success: "prodato.html"
-			},
-		cartColumns: [
-			{attr: "name", label: "Naziv"},
-			{attr: "price", label: "Cena"},
-			{view: "decrement", label: false},
-			{attr: "quantity", label: "kol."},
-			{view: "increment", label: false, text: "+"},
-			{attr: "total", label: "Ukupno", view:"currency"},
-			{view: "remove", text: "Ukloni", label: false}
-		],
-//		currency: "dinar",
-		cartStyle: "table"
-	});
-    </script>
     <script src="assets/js/main.js"></script>
+    <script src="assets/js/checkout.js"></script>
 </body>
 </html>
