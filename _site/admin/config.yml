@@ -43,3 +43,13 @@ collections:
       - {label: "Product price", name: "price", widget: "string"}
       - {label: "Product description", name: "desc", widget: "string"}
       - {label: "Image", name: "img_path", widget: "image"}
+      - name: "category"
+	label: "Category"
+	widget: "select"
+	options: ["boja", "maketa", "casopis", "cetkice", "airbrush", "sitni delovi"]
+	default: "boja"
+#      - name: "brand"
+#	label: "Brand"
+#	widget: "select"
+##	options: ["mig jemenez", "imt", "mt makete"]	
+#	default: "imt"

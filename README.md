@@ -2,8 +2,8 @@
 - [ ] sistem korpe i placanja
 	* [x] korpa
 	* [x] kupi dugme
-	* [ ] forma za porucivanje
-	* [ ] valuta
+	* [x] forma za porucivanje
+	* [x] valuta
 	* [ ] racunanje shipinga
 - [ ] pocetna
 	* [ ] slider sa artiklima
@@ -11,7 +11,7 @@
 
 - [ ] kontakt
 	* [x] telefon, adresa, mapa, mejl 
-	* [ ] kontakt forma za pitanja
+	* [x] kontakt forma za pitanja
 
 - [ ] artikli
 	* [ ] kategorije po tipi u po brendovima
