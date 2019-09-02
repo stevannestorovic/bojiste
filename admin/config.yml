@@ -44,12 +44,15 @@ collections:
       - {label: "Product description", name: "desc", widget: "string"}
       - {label: "Image", name: "img_path", widget: "image"}
       - name: "category"
-	label: "Category"
-	widget: "select"
-	options: ["boja", "maketa", "casopis", "cetkice", "airbrush", "sitni delovi"]
-	default: "boja"
-#      - name: "brand"
-#	label: "Brand"
-#	widget: "select"
-##	options: ["mig jemenez", "imt", "mt makete"]	
-#	default: "imt"
+        label: "Category"
+        widget: "select"
+        options: 
+          - {label: "Boja", value: "boja"}
+          - {label: "Maketa", value: "maketa"}
+        default: "boja"
+      - name: "brand"
+        label: "Brand"
+        widget: "select"
+        options: 
+          - {label: "mig", value: "mig"}
+          - {label: "IMT", value: "imt"}
