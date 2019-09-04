@@ -1,6 +1,13 @@
 data = [
  
 	{
+		name: "boja a",
+		desc: "boja za bojenje",
+		price: "10",
+		img_path: "/assets/img/marinac.jpeg"
+	},
+ 
+	{
 		name: "Mig",
 		desc: "mig avion maketa",
 		price: "100",

@@ -10,10 +10,10 @@ CONTENT_CAT = """---
 layout: default
 ---
 
-{% assign products=site.products | where:"category", "CAT"%}
 <h3> NAME </h3>
 <div class="products">
-    {% for product in products %}
+    {% for product in site.products %}
+	{% if product.category=="CAT" %}
         <div class="product simpleCart_shelfItem">
             <img class="product-img"src="{{product.img_path}}" alt="">
             <div class="product-data">
@@ -26,6 +26,7 @@ layout: default
             <input type="number" value="1" class="item_Quantity">
             <a class="item_add btn_buy" href="javascript:;">Kupi</a>
         </div>
+	{% endif %}
     {% endfor %}
 </div>
 """
@@ -35,10 +36,10 @@ CONTENT_BRAND = """---
 layout: default
 ---
 
-{% assign products=site.products | where:"brand", "BRAND"%}
 <h3> NAME </h3>
 <div class="products">
     {% for product in site.products %}
+	{% if product.brand=="BRAND" %}
         <div class="product simpleCart_shelfItem">
             <img class="product-img"src="{{product.img_path}}" alt="">
             <div class="product-data">
@@ -51,6 +52,7 @@ layout: default
             <input type="number" value="1" class="item_Quantity">
             <a class="item_add btn_buy" href="javascript:;">Kupi</a>
         </div>
+	{% endif %}
     {% endfor %}
 </div>
 """
@@ -64,8 +66,8 @@ for line in cats.readlines():
 		content = CONTENT_CAT
 		content = content.replace("CAT", name)
 		content = content.replace("NAME", name.capitalize())
-		name  = name.replace(" ", "_")
-		out = open("{}.html".format(name), "w")
+		url  = name.replace(" ", "_")
+		out = open("{}.html".format(url), "w")
 		out.write(content)
 
 
@@ -75,7 +77,7 @@ for line in brands.readlines():
 		content = CONTENT_BRAND
 		content = content.replace("BRAND", name)
 		content = content.replace("NAME", name.capitalize())
-		name  = name.replace(" ", "_")
-		out = open("{}.html".format(name), "w")
+		url  = name.replace(" ", "_")
+		out = open("{}.html".format(url), "w")
 		out.write(content)
 
