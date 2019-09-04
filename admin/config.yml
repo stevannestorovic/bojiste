@@ -1,3 +1,6 @@
+---
+---
+
 backend:
   name: github
   repo: stevannestorovic/bojiste
@@ -46,13 +49,24 @@ collections:
       - name: "category"
         label: "Category"
         widget: "select"
-        options: 
-          - {label: "Boja", value: "boja"}
-          - {label: "Maketa", value: "maketa"}
-        default: "boja"
+        options: [ 
+         {%- for category in site.data.categories -%}
+         {% if site.data.categories.last == category%}
+	  {label: "{{category.label}}", value: "{{category.name}}"}
+	 {% else %}
+	  {label: "{{category.label}}", value: "{{category.name}}"},
+	 {% endif %}
+	 {%- endfor -%}]
+        default: "{{ site.data.categories.first.name }}"
       - name: "brand"
         label: "Brand"
         widget: "select"
-        options: 
-          - {label: "mig", value: "mig"}
-          - {label: "IMT", value: "imt"}
+        options: [ 
+         {%- for brand in site.data.brands -%}
+         {% if site.data.brands.last == brand %}
+	  {label: "{{brand.label}}", value: "{{brand.name}}"}
+	 {% else %}
+	  {label: "{{brand.label}}", value: "{{brand.name}}"},
+	 {% endif %}
+	 {%- endfor -%}]
+        default: "{{ site.data.brands.first.name }}"

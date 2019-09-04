@@ -1,0 +1,6 @@
+- name: "boja"
+  label: "Boja"
+- name: "maketa"
+  label: "Maketa"
+- name: "cetkice"
+  label: "Cetkice"

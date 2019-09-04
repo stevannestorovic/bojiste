@@ -46,13 +46,22 @@ collections:
       - name: "category"
         label: "Category"
         widget: "select"
-        options: 
-          - {label: "Boja", value: "boja"}
-          - {label: "Maketa", value: "maketa"}
+        options: [
+	  {label: "Boja", value: "boja"},
+	 
+	  {label: "Maketa", value: "maketa"},
+	 
+	  {label: "Cetkice", value: "cetkice"}
+	 ]
         default: "boja"
       - name: "brand"
         label: "Brand"
         widget: "select"
-        options: 
-          - {label: "mig", value: "mig"}
-          - {label: "IMT", value: "imt"}
+        options: [
+	  {label: "Mig", value: "mig jimenez"},
+	 
+	  {label: "Brand 2", value: "brand2"},
+	 
+	  {label: "IMT", value: "imt"}
+	 ]
+        default: "mig jimenez"
