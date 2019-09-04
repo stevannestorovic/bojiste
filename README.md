@@ -14,5 +14,5 @@
 	* [x] kontakt forma za pitanja
 
 - [ ] artikli
-	* [ ] kategorije po tipi u po brendovima
+	* [x] kategorije po tipi u po brendovima
 	* [ ] unos artikala iz xls fajlova

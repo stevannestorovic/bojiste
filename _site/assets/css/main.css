@@ -1,6 +1,7 @@
 :root {
     --clr-primary: #6b8e23; 
-    --clr-text: #3d3d3d;
+    --clr-light: #efefef;
+    --clr-text: #373737;
 }
 
 body {
@@ -19,11 +20,15 @@ body {
 
 /* navigation */
 
+header {
+	background-color: var(--clr-primary);
+}
+
 header nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    min-height: 8vh;;
+    min-height: 40vh;;
     /*background-color:var(--clr-primary);*/
 }
 
@@ -46,6 +51,7 @@ nav ul {
 
 nav ul li a {
     text-decoration: none;
+    color: var(--clr-text);
 }
 
 .burger {
@@ -55,7 +61,7 @@ nav ul li a {
 .burger div {
     width: 30px;
     height: 5px;
-    background-color: #fafafa;
+    background-color: var(--clr-light);
     margin: 5px;
 }
 
@@ -74,7 +80,7 @@ nav ul li a {
     display: grid;
     /*grid-template-columns: auto auto auto;*/
     grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-    gird-gap: 10px;
+    /*gird-gap: 10px;*/
 }
 
 .product {
@@ -150,7 +156,7 @@ nav ul li a {
         flex-direction: column;
         align-items: center;
         width: 100%;
-        background-color:var(--clr-primary);
+        background-color:var(--clr-light);
         transform: translateX(100%);
         transition: 0.5s ease-in;
     }
