@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<div>
+	<ul>
+		{% for category in site.data.categories %}
+			<li><a href="{{category.name}}.html">{{category.label}}</a></li> 
+		{% endfor%}
+	</ul>
+</div>
