@@ -1,5 +1,5 @@
 ---
-title: boja 3
+title: boja 4
 price: '10'
 desc: boja za bojenje
 img_path: /assets/img/marinac.jpeg
