@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign products=site.products | where:"brand", "BRAND"%}
+{% assign products=site.products | where:"brand", "imt"%}
 <h3> Imt </h3>
 <div class="products">
     {% for product in site.products %}

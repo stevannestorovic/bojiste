@@ -11,7 +11,7 @@ layout: default
 ---
 
 {% assign products=site.products | where:"category", "CAT"%}
-<h3> CAT_NAME </h3>
+<h3> NAME </h3>
 <div class="products">
     {% for product in products %}
         <div class="product simpleCart_shelfItem">
@@ -36,7 +36,7 @@ layout: default
 ---
 
 {% assign products=site.products | where:"brand", "BRAND"%}
-<h3> BRAND_NAME </h3>
+<h3> NAME </h3>
 <div class="products">
     {% for product in site.products %}
         <div class="product simpleCart_shelfItem">
@@ -61,9 +61,10 @@ brands = open(BRAND_FILE, "r")
 for line in cats.readlines():
 	if "name" in line:
 		name = line.split('"')[1]
+		content = CONTENT_CAT
+		content = content.replace("CAT", name)
+		content = content.replace("NAME", name.capitalize())
 		name  = name.replace(" ", "_")
-		content = CONTENT_CAT.replace("CAT", name)
-		content = CONTENT_CAT.replace("CAT_NAME", name.capitalize())
 		out = open("{}.html".format(name), "w")
 		out.write(content)
 
@@ -71,9 +72,10 @@ for line in cats.readlines():
 for line in brands.readlines():
 	if "name" in line:
 		name = line.split('"')[1]
+		content = CONTENT_BRAND
+		content = content.replace("BRAND", name)
+		content = content.replace("NAME", name.capitalize())
 		name  = name.replace(" ", "_")
-		content = CONTENT_BRAND.replace("BRAND", name)
-		content = CONTENT_BRAND.replace("BRAND_NAME", name.capitalize())
 		out = open("{}.html".format(name), "w")
 		out.write(content)
 
