@@ -19,9 +19,8 @@ simpleCart.currency({
 simpleCart({
 	checkout: { 
 		type: "SendForm", 
-		url:"http://localhost:4000/naplata.html",
-		method: "GET",
-		success: "prodato.html"
+		url:"https://diyrama.netlify.com/naplata.html",
+		method: "GET"
 		},
 	cartColumns: [
 		{attr: "name", label: "Naziv"},

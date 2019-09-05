@@ -21,7 +21,10 @@ body {
 /* navigation */
 
 header {
+	/*background-image: url('/assets/img/header.jpg');*/
 	background-color: var(--clr-primary);
+	background-size: contain;
+	background-position: center;
 }
 
 header nav {
