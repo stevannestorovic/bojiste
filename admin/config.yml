@@ -46,27 +46,56 @@ collections:
       - {label: "Product price", name: "price", widget: "string"}
       - {label: "Product description", name: "desc", widget: "string"}
       - {label: "Image", name: "img_path", widget: "image"}
-      - name: "category"
-        label: "Category"
-        widget: "select"
-        options: [ 
-         {%- for category in site.data.categories -%}
-         {% if site.data.categories.last == category%}
-	  {label: "{{category.label}}", value: "{{category.name}}"}
-	 {% else %}
-	  {label: "{{category.label}}", value: "{{category.name}}"},
-	 {% endif %}
-	 {%- endfor -%}]
-        default: "{{ site.data.categories.first.name }}"
-      - name: "brand"
-        label: "Brand"
-        widget: "select"
-        options: [ 
-         {%- for brand in site.data.brands -%}
-         {% if site.data.brands.last == brand %}
-	  {label: "{{brand.label}}", value: "{{brand.name}}"}
-	 {% else %}
-	  {label: "{{brand.label}}", value: "{{brand.name}}"},
-	 {% endif %}
-	 {%- endfor -%}]
-        default: "{{ site.data.brands.first.name }}"
+
+      - {name: "cat",
+        label: "Category",
+        widget: "select",
+        options: [
+        {%- for cat in site.data.cats -%}
+	        {% if site.data.cats.last.maincat == cat.maincat %}
+	          {label: "{{cat.maincat}}", value: "{{cat.maincat}}"}
+	        {% else %}
+	          {label: "{{cat.maincat}}", value: "{{cat.maincat}}"},
+          {% endif %}
+	      {%- endfor -%}],
+	      default: "{{site.data.cats.first.maincat}}"}
+      
+      - {name: "subcat",
+        label: "Sub Category",
+        widget: "select",
+        options: [
+	      {% assign lastsubcat = site.data.cats.last.subcats.last %}
+        {%- for cat in site.data.cats -%}
+          {% assign cname = cat.maincat %}
+          {%- for subcat in cat.subcats-%}
+            {%if lastsubcat == subcat %}
+              {label: "{{cname}}->{{subcat.name}}", value: "{{subcat.name}}"}
+	          {% else %}
+              {label: "{{cname}}->{{subcat.name}}", value: "{{subcat.name}}"},
+	          {% endif %}
+          {%- endfor -%}
+	      {%- endfor -%}],
+	      default: "{{site.data.cats.first.maincat.subcats.first.name}}"}
+
+      - {name: "subsubcat",
+        label: "Sub Sub Category",
+        widget: "select",
+        options: [
+	      {% assign lsscname = site.data.cats.last.subcats.last.subsubcats.last.name %}
+	      {% assign lsscparent = site.data.cats.last.subcats.last.name %}
+	      {% assign lsscgrandparent = site.data.cats.last %}
+        {%- for cat in site.data.cats -%}
+          {% assign cname = cat.maincat %}
+          {%- for subcat in cat.subcats-%}
+            {% assign sname = subcat.name %}
+            {%- for subsubcat in subcat.subsubcats -%}
+              {%if lsscname == subsubcat  and lsscparent == sname and lsscgrandparent == cname %}
+                {label: "{{cname}}->{{sname}}->{{subsubcat}}", value: "{{subsubcat}}"}
+	            {% else %}
+                {label: "{{cname}}->{{sname}}->{{subsubcat}}", value: "{{subsubcat}}"},
+	            {% endif %}
+	          {%- endfor -%}
+            {%- endfor -%}
+	      {%- endfor -%}],
+	      default: "{{site.data.cats.first.maincat.subcats.first.name}}"}
+

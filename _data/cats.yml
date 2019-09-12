@@ -1,0 +1,16 @@
+- maincat: "Plasticne Makete"
+  subcats: [{name: "MINIART"}, {name: "TAKOM"}, {name: "KINETIC"}, {name: "RYE FIELD MODELS"},{name: "GREAT WALL HOBBY"}, {name: "MENG"}, {name: "DAS WERK"}, {name: "WINGNUTS WINGS"}, {name: "BANDAI"}, {name: "AMMO"}, {name: "TIGER MODELS"}, {name: "BORDER MODEL"}, {name: "REVOSYS HOBBY"}, {name: "WINGSY KITS"}, {name: "HOBBY 2000"}, {name: "DORA WINGS"}, {name: "AK"}, {name: "DESERT EAGLE"}, {name: "NUTS PLANET"}, {name: "YAN MODELS"}, {name: "DIOPARK"}, {name: "DOOZY"}, {name: "MIG PRODUCTIONS"}, {name: "EBBRO"}, {name: "MICHAEL KONTRAROS"}, {name: "YOUNG MINIATURES"}, {name: "OSTALO"}] 
+- maincat: "Akrilne Boje"
+  subcats: [{name: "AMMO", subsubcats: ["POJEDINACNE BOJE", "SETOVI AKRILNIH BOJA", "AKRILNI PRAJMERI", "AKRILNI RAZREDJIVACI", "SETOVI ZA MODULACIJU", "WARGAMERS SETOVI BOJA"]}, {name: "AK/MENG", subsubcats: ["AK REAL COLORS", "AK SPREJ", "AK AKRLINE BOJE", "TRUE METAL", "XTREME METAL", "MENG POJEDINACNE BOJE 17ML", "MENG SETOVI BOJA"]}, {name: "AK Interactive/MIG PRODUCTIONS", subsubcats: ["AK OLOVKE ZA WEATHERING", "WASH", "PIGMENTI", "FILTERI", "NATURE EFEKTI", "CHIPPING PROIZVODI", "BLATO EFEKETI", "WEATHERING SETOVI"]}, {name: "ABTELLUNG"}, {name: "MIG PRODUCTIONS"}]
+- maincat: "AMMO OILBRUSHERS"
+- maincat: "ALCLAD II METALIC BOJE"
+- maincat: "ABTEILUNG 502"
+  subcats: [{name: "OIL PAINTS"}, {name: "PIGMENTI"}, {name: "CETKICE"}, {name: "OSTALO"}]
+- maincat: "Alat i dodaci"
+  subcats: [{name: "AMMO", subsubcats: ["AIRBRUSH", "CETKICE", "SISTEMI POLICA", "RIGGING", "RAZNO"]},{name: "AK Interactive", subsubcats: ["PRIBOR", "FAROVI", "METALNE GUSENICE", "DEKALI", "RAZNO"]}, {name: "MIG PRODUCTIONS"}, {name: "ABTEILUNG 502"},{name: "MENG"}]
+- maincat: "Diorame"
+  subcats: [{name: "AMMO", subsubcats: ["TRAVNATE PODLOGE", "LISCE", "BILJKE", "ARKILNE TEKSTURE"]}, {name: "AK Interactive", subsubcats: ["LISCE", "BILJKE", "TRAVA", "AKRILNE TEKSTURE", "PLUTENE PLOCICE", "POLISTIRENSKE PLOCICE"]}]
+- maincat: "PhotoEtch"
+  subcats: [{name: "DREAM MODEL PE SETOVI"}]
+- maincat: "Knjige, casopisi, MERCH"
+  subcats: [{name: "AMMO", subsubcats: ["KNJIGE I CASOPISI","MAJCE I TRENERKE"]}, {name: "AK Interactive", subsubcats: ["KNIJGE I CASOPISI", "MAJCE", "OSTALO"]}, {name: "ABTEILUNG 502", subsubcats: ["KNJIGE I CASOPISI", "MAJCE", "OSTALO"]}, {name: "MIG PRODUCTIONS", subsubcats: ["KNJIGE I CASOPISI", "OSTALO"]}] 

@@ -43,25 +43,242 @@ collections:
       - {label: "Product price", name: "price", widget: "string"}
       - {label: "Product description", name: "desc", widget: "string"}
       - {label: "Image", name: "img_path", widget: "image"}
-      - name: "category"
-        label: "Category"
-        widget: "select"
+
+      - {name: "cat",
+        label: "Category",
+        widget: "select",
         options: [
-	  {label: "Boja", value: "boja"},
-	 
-	  {label: "Maketa", value: "maketa"},
-	 
-	  {label: "Cetkice", value: "cetkice"}
-	 ]
-        default: "boja"
-      - name: "brand"
-        label: "Brand"
-        widget: "select"
+	          {label: "Plasticne Makete", value: "Plasticne Makete"},
+          
+	          {label: "Akrilne Boje", value: "Akrilne Boje"},
+          
+	          {label: "AMMO OILBRUSHERS", value: "AMMO OILBRUSHERS"},
+          
+	          {label: "ALCLAD II METALIC BOJE", value: "ALCLAD II METALIC BOJE"},
+          
+	          {label: "ABTEILUNG 502", value: "ABTEILUNG 502"},
+          
+	          {label: "Alat i dodaci", value: "Alat i dodaci"},
+          
+	          {label: "Diorame", value: "Diorame"},
+          
+	          {label: "PhotoEtch", value: "PhotoEtch"},
+          
+	          {label: "Knjige, casopisi, MERCH", value: "Knjige, casopisi, MERCH"}
+	        ],
+	      default: "Plasticne Makete"}
+      
+      - {name: "subcat",
+        label: "Sub Category",
+        widget: "select",
         options: [
-	  {label: "Mig", value: "mig jimenez"},
-	 
-	  {label: "Brand 2", value: "brand2"},
-	 
-	  {label: "IMT", value: "imt"}
-	 ]
-        default: "mig jimenez"
+	      
+              {label: "Plasticne Makete->MINIART", value: "MINIART"},
+	          
+              {label: "Plasticne Makete->TAKOM", value: "TAKOM"},
+	          
+              {label: "Plasticne Makete->KINETIC", value: "KINETIC"},
+	          
+              {label: "Plasticne Makete->RYE FIELD MODELS", value: "RYE FIELD MODELS"},
+	          
+              {label: "Plasticne Makete->GREAT WALL HOBBY", value: "GREAT WALL HOBBY"},
+	          
+              {label: "Plasticne Makete->MENG", value: "MENG"},
+	          
+              {label: "Plasticne Makete->DAS WERK", value: "DAS WERK"},
+	          
+              {label: "Plasticne Makete->WINGNUTS WINGS", value: "WINGNUTS WINGS"},
+	          
+              {label: "Plasticne Makete->BANDAI", value: "BANDAI"},
+	          
+              {label: "Plasticne Makete->AMMO", value: "AMMO"},
+	          
+              {label: "Plasticne Makete->TIGER MODELS", value: "TIGER MODELS"},
+	          
+              {label: "Plasticne Makete->BORDER MODEL", value: "BORDER MODEL"},
+	          
+              {label: "Plasticne Makete->REVOSYS HOBBY", value: "REVOSYS HOBBY"},
+	          
+              {label: "Plasticne Makete->WINGSY KITS", value: "WINGSY KITS"},
+	          
+              {label: "Plasticne Makete->HOBBY 2000", value: "HOBBY 2000"},
+	          
+              {label: "Plasticne Makete->DORA WINGS", value: "DORA WINGS"},
+	          
+              {label: "Plasticne Makete->AK", value: "AK"},
+	          
+              {label: "Plasticne Makete->DESERT EAGLE", value: "DESERT EAGLE"},
+	          
+              {label: "Plasticne Makete->NUTS PLANET", value: "NUTS PLANET"},
+	          
+              {label: "Plasticne Makete->YAN MODELS", value: "YAN MODELS"},
+	          
+              {label: "Plasticne Makete->DIOPARK", value: "DIOPARK"},
+	          
+              {label: "Plasticne Makete->DOOZY", value: "DOOZY"},
+	          
+              {label: "Plasticne Makete->MIG PRODUCTIONS", value: "MIG PRODUCTIONS"},
+	          
+              {label: "Plasticne Makete->EBBRO", value: "EBBRO"},
+	          
+              {label: "Plasticne Makete->MICHAEL KONTRAROS", value: "MICHAEL KONTRAROS"},
+	          
+              {label: "Plasticne Makete->YOUNG MINIATURES", value: "YOUNG MINIATURES"},
+	          
+              {label: "Plasticne Makete->OSTALO", value: "OSTALO"},
+	          
+              {label: "Akrilne Boje->AMMO", value: "AMMO"},
+	          
+              {label: "Akrilne Boje->AK/MENG", value: "AK/MENG"},
+	          
+              {label: "Akrilne Boje->AK Interactive/MIG PRODUCTIONS", value: "AK Interactive/MIG PRODUCTIONS"},
+	          
+              {label: "Akrilne Boje->ABTELLUNG", value: "ABTELLUNG"},
+	          
+              {label: "Akrilne Boje->MIG PRODUCTIONS", value: "MIG PRODUCTIONS"},
+	          
+              {label: "ABTEILUNG 502->OIL PAINTS", value: "OIL PAINTS"},
+	          
+              {label: "ABTEILUNG 502->PIGMENTI", value: "PIGMENTI"},
+	          
+              {label: "ABTEILUNG 502->CETKICE", value: "CETKICE"},
+	          
+              {label: "ABTEILUNG 502->OSTALO", value: "OSTALO"},
+	          
+              {label: "Alat i dodaci->AMMO", value: "AMMO"},
+	          
+              {label: "Alat i dodaci->AK Interactive", value: "AK Interactive"},
+	          
+              {label: "Alat i dodaci->MIG PRODUCTIONS", value: "MIG PRODUCTIONS"},
+	          
+              {label: "Alat i dodaci->ABTEILUNG 502", value: "ABTEILUNG 502"},
+	          
+              {label: "Alat i dodaci->MENG", value: "MENG"},
+	          
+              {label: "Diorame->AMMO", value: "AMMO"},
+	          
+              {label: "Diorame->AK Interactive", value: "AK Interactive"},
+	          
+              {label: "PhotoEtch->DREAM MODEL PE SETOVI", value: "DREAM MODEL PE SETOVI"},
+	          
+              {label: "Knjige, casopisi, MERCH->AMMO", value: "AMMO"},
+	          
+              {label: "Knjige, casopisi, MERCH->AK Interactive", value: "AK Interactive"},
+	          
+              {label: "Knjige, casopisi, MERCH->ABTEILUNG 502", value: "ABTEILUNG 502"},
+	          
+              {label: "Knjige, casopisi, MERCH->MIG PRODUCTIONS", value: "MIG PRODUCTIONS"}
+	          ],
+	      default: ""}
+
+      - {name: "subsubcat",
+        label: "Sub Sub Category",
+        widget: "select",
+        options: [
+	      
+	      
+	      
+                {label: "Akrilne Boje->AMMO->POJEDINACNE BOJE", value: "POJEDINACNE BOJE"},
+	            
+                {label: "Akrilne Boje->AMMO->SETOVI AKRILNIH BOJA", value: "SETOVI AKRILNIH BOJA"},
+	            
+                {label: "Akrilne Boje->AMMO->AKRILNI PRAJMERI", value: "AKRILNI PRAJMERI"},
+	            
+                {label: "Akrilne Boje->AMMO->AKRILNI RAZREDJIVACI", value: "AKRILNI RAZREDJIVACI"},
+	            
+                {label: "Akrilne Boje->AMMO->SETOVI ZA MODULACIJU", value: "SETOVI ZA MODULACIJU"},
+	            
+                {label: "Akrilne Boje->AMMO->WARGAMERS SETOVI BOJA", value: "WARGAMERS SETOVI BOJA"},
+	            
+                {label: "Akrilne Boje->AK/MENG->AK REAL COLORS", value: "AK REAL COLORS"},
+	            
+                {label: "Akrilne Boje->AK/MENG->AK SPREJ", value: "AK SPREJ"},
+	            
+                {label: "Akrilne Boje->AK/MENG->AK AKRLINE BOJE", value: "AK AKRLINE BOJE"},
+	            
+                {label: "Akrilne Boje->AK/MENG->TRUE METAL", value: "TRUE METAL"},
+	            
+                {label: "Akrilne Boje->AK/MENG->XTREME METAL", value: "XTREME METAL"},
+	            
+                {label: "Akrilne Boje->AK/MENG->MENG POJEDINACNE BOJE 17ML", value: "MENG POJEDINACNE BOJE 17ML"},
+	            
+                {label: "Akrilne Boje->AK/MENG->MENG SETOVI BOJA", value: "MENG SETOVI BOJA"},
+	            
+                {label: "Akrilne Boje->AK Interactive/MIG PRODUCTIONS->AK OLOVKE ZA WEATHERING", value: "AK OLOVKE ZA WEATHERING"},
+	            
+                {label: "Akrilne Boje->AK Interactive/MIG PRODUCTIONS->WASH", value: "WASH"},
+	            
+                {label: "Akrilne Boje->AK Interactive/MIG PRODUCTIONS->PIGMENTI", value: "PIGMENTI"},
+	            
+                {label: "Akrilne Boje->AK Interactive/MIG PRODUCTIONS->FILTERI", value: "FILTERI"},
+	            
+                {label: "Akrilne Boje->AK Interactive/MIG PRODUCTIONS->NATURE EFEKTI", value: "NATURE EFEKTI"},
+	            
+                {label: "Akrilne Boje->AK Interactive/MIG PRODUCTIONS->CHIPPING PROIZVODI", value: "CHIPPING PROIZVODI"},
+	            
+                {label: "Akrilne Boje->AK Interactive/MIG PRODUCTIONS->BLATO EFEKETI", value: "BLATO EFEKETI"},
+	            
+                {label: "Akrilne Boje->AK Interactive/MIG PRODUCTIONS->WEATHERING SETOVI", value: "WEATHERING SETOVI"},
+	            
+                {label: "Alat i dodaci->AMMO->AIRBRUSH", value: "AIRBRUSH"},
+	            
+                {label: "Alat i dodaci->AMMO->CETKICE", value: "CETKICE"},
+	            
+                {label: "Alat i dodaci->AMMO->SISTEMI POLICA", value: "SISTEMI POLICA"},
+	            
+                {label: "Alat i dodaci->AMMO->RIGGING", value: "RIGGING"},
+	            
+                {label: "Alat i dodaci->AMMO->RAZNO", value: "RAZNO"},
+	            
+                {label: "Alat i dodaci->AK Interactive->PRIBOR", value: "PRIBOR"},
+	            
+                {label: "Alat i dodaci->AK Interactive->FAROVI", value: "FAROVI"},
+	            
+                {label: "Alat i dodaci->AK Interactive->METALNE GUSENICE", value: "METALNE GUSENICE"},
+	            
+                {label: "Alat i dodaci->AK Interactive->DEKALI", value: "DEKALI"},
+	            
+                {label: "Alat i dodaci->AK Interactive->RAZNO", value: "RAZNO"},
+	            
+                {label: "Diorame->AMMO->TRAVNATE PODLOGE", value: "TRAVNATE PODLOGE"},
+	            
+                {label: "Diorame->AMMO->LISCE", value: "LISCE"},
+	            
+                {label: "Diorame->AMMO->BILJKE", value: "BILJKE"},
+	            
+                {label: "Diorame->AMMO->ARKILNE TEKSTURE", value: "ARKILNE TEKSTURE"},
+	            
+                {label: "Diorame->AK Interactive->LISCE", value: "LISCE"},
+	            
+                {label: "Diorame->AK Interactive->BILJKE", value: "BILJKE"},
+	            
+                {label: "Diorame->AK Interactive->TRAVA", value: "TRAVA"},
+	            
+                {label: "Diorame->AK Interactive->AKRILNE TEKSTURE", value: "AKRILNE TEKSTURE"},
+	            
+                {label: "Diorame->AK Interactive->PLUTENE PLOCICE", value: "PLUTENE PLOCICE"},
+	            
+                {label: "Diorame->AK Interactive->POLISTIRENSKE PLOCICE", value: "POLISTIRENSKE PLOCICE"},
+	            
+                {label: "Knjige, casopisi, MERCH->AMMO->KNJIGE I CASOPISI", value: "KNJIGE I CASOPISI"},
+	            
+                {label: "Knjige, casopisi, MERCH->AMMO->MAJCE I TRENERKE", value: "MAJCE I TRENERKE"},
+	            
+                {label: "Knjige, casopisi, MERCH->AK Interactive->KNIJGE I CASOPISI", value: "KNIJGE I CASOPISI"},
+	            
+                {label: "Knjige, casopisi, MERCH->AK Interactive->MAJCE", value: "MAJCE"},
+	            
+                {label: "Knjige, casopisi, MERCH->AK Interactive->OSTALO", value: "OSTALO"},
+	            
+                {label: "Knjige, casopisi, MERCH->ABTEILUNG 502->KNJIGE I CASOPISI", value: "KNJIGE I CASOPISI"},
+	            
+                {label: "Knjige, casopisi, MERCH->ABTEILUNG 502->MAJCE", value: "MAJCE"},
+	            
+                {label: "Knjige, casopisi, MERCH->ABTEILUNG 502->OSTALO", value: "OSTALO"},
+	            
+                {label: "Knjige, casopisi, MERCH->MIG PRODUCTIONS->KNJIGE I CASOPISI", value: "KNJIGE I CASOPISI"},
+	            
+                {label: "Knjige, casopisi, MERCH->MIG PRODUCTIONS->OSTALO", value: "OSTALO"},
+	            ],
+	      default: ""}
+
