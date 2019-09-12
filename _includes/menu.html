@@ -1,0 +1,28 @@
+<div class="menu">
+	<ul>
+	{% for cat in site.data.cats %}
+ 
+		<li>
+			{{cat.maincat}}
+			{% if cat.subcats != "" %}
+				<ul>
+				{% for subcat in cat.subcats %}
+					<li>
+						{{subcat.name}}
+						{% if subcat.subsubcats != "" %}
+							<ul>
+							{% for subsubcat in subcat.subsubcats %}
+								<li>
+									{{subsubcat}}
+								</li>
+							{% endfor %}
+							</ul>
+						{% endif %}
+					</li>
+				{% endfor %}
+				</ul>
+			{% endif %}
+		</li>
+	{% endfor %}
+	</ul>
+</div>
