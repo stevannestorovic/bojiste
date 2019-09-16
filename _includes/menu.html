@@ -1,19 +1,18 @@
 <div class="menu">
 	<ul>
 	{% for cat in site.data.cats %}
- 
 		<li>
-			{{cat.maincat}}
+			<a href="{{cat.maincat | replace: ' ', '_'}}.html"> {{cat.maincat}} </a>
 			{% if cat.subcats != "" %}
 				<ul>
 				{% for subcat in cat.subcats %}
 					<li>
-						{{subcat.name}}
+						<a href="{{cat.maincat | replace: ' ', '_'}}_{{subcat.name | replace: ' ', '_'}}.html">{{subcat.name}}</a>
 						{% if subcat.subsubcats != "" %}
 							<ul>
 							{% for subsubcat in subcat.subsubcats %}
 								<li>
-									{{subsubcat}}
+									<a href="{{cat.maincat | replace: ' ', '_'}}_{{subcat.name | replace: ' ', '_'}}_{{subsubcat | replace: ' ', '_'}}.html">{{subsubcat}}</a>
 								</li>
 							{% endfor %}
 							</ul>

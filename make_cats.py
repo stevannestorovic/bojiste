@@ -4,8 +4,7 @@ import os
 import sys
 
 
-PAGE='''
----
+PAGE='''---
 layout: default
 ---
 <h1>PATH</h1>
@@ -30,7 +29,7 @@ layout: default
 
 CATS = ''
 
-with open('../_data/cats.yml') as f:
+with open('_data/cats.yml') as f:
 	CATS = yaml.safe_load(f)
 
 
