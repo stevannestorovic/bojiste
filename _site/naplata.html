@@ -13,26 +13,27 @@
 <body>
     <div class="container">
         <header>
-    <nav>
-        <div class="logo">
-            <h1>DIYRAMA</h1>
-        </div>
+    <div class="logo">
+        <h1><a href="index.html"></a>DIYRAMA</a></h1>
+    </div>
+
+    <input type="checkbox" class="menu-checkbox" id="chb-show-links" />
+    <label class="menu-button" for="chb-show-links" id="btn-show-links">
+        <span class="nav-icon"></span>
+    </label>
+
+    <nav class="nav-links">
 <!--
 	<div class="sreach-bar">
 		<input class="search-input" type="text" placeholder="Pojam za pretragu...">
 		<button class="search-button"></button>
 	</div> -->
-        <ul class="nav-links">
-            <li><a href="index.html">Početna</a></li>
-            <li><a href="kategorije.html">Kategorije</a></li>
-            <li><a href="kontakt.html">Kontakt</a></li>
-	    <li><a href="korpa.html">Korpa</a>(<span class="simpleCart_total"></span>)</li>
+        <ul>
+            <li class="nav-link"><a href="index.html">Početna</a></li>
+            <li class="nav-link"><a href="kategorije.html">Kategorije</a></li>
+            <li class="nav-link"><a href="kontakt.html">Kontakt</a></li>
+	        <li class="nav-link"><a href="korpa.html">Korpa<span class="simpleCart_total"></span></a></li>
         </ul>
-        <div class="burger">
-            <div class="line1"></div>
-            <div class="line2"></div>
-            <div class="line3"></div>
-        </div>
     </nav>
 </header>
 
@@ -58,9 +59,9 @@
 
     </div>
 
-    <script defer src="assets/js/jquery-2.2.4.min.js"></script>
-    <script defer src="assets/js/simpleCart.js"></script>
-    <script defer src="assets/js/main.js"></script>
-    <script defer src="assets/js/checkout.js"></script>
+    <script src="assets/js/jquery-2.2.4.min.js"></script>
+    <script src="assets/js/simpleCart.js"></script>
+    <script src="assets/js/main.js"></script>
+    <script src="assets/js/checkout.js"></script>
 </body>
 </html>

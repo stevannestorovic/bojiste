@@ -1,4 +1,4 @@
-const navSlide = () => {
+/*const navSlide = () => {
     console.log('nav slide');
     const burger = document.querySelector(".burger");
     const nav = document.querySelector(".nav-links");
@@ -8,7 +8,7 @@ const navSlide = () => {
     });
 }
 console.log("main loaded");
-navSlide();
+navSlide();*/
 
 simpleCart.currency({
 	code: "RSD",
@@ -25,9 +25,9 @@ simpleCart({
 	cartColumns: [
 		{attr: "name", label: "Naziv"},
 		{attr: "price", label: "Cena"},
-		{view: "decrement", label: false},
+		{view: "decrement", label: false, text: "-1"},
 		{attr: "quantity", label: "kol."},
-		{view: "increment", label: false, text: "+"},
+		{view: "increment", label: false, text: "+1"},
 		{attr: "total", label: "Ukupno", view:"currency"},
 		{view: "remove", text: "Ukloni", label: false}
 	],
