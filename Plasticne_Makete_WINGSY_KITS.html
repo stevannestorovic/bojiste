@@ -1,21 +1,22 @@
 ---
 layout: default
 ---
-<h1>Plasticne Makete WINGSY KITS</h1>
 
 <div class="products">
     {% for product in site.products %}
-        <div class="product simpleCart_shelfItem">
-            <img class="product-img"src="{{product.img_path}}" alt="">
-            <div class="product-data">
-                <h4 class="product-name item_name">{{product.title}}</h4>
-                <p class="product-description"> {{product.desc}}</p>
-                <p class="product-price item_price">{{product.price}}</p>
-		<p class="product-category item_category">{{ product.category }}</p>
-		<p class="product-brand item_brand">{{ product.brand }}</p>
-            </div>
-            <input type="number" value="1" class="item_Quantity">
-	    <a class="item_add btn_buy" href="javascript:;">Kupi</a>
-        </div>
+		{% if product.cat == "Plasticne Makete" and product.subcat == "WINGSY KITS"%}
+			<div class="product simpleCart_shelfItem">
+				<img class="product-img" src="{{product.img_path}}" alt="">
+				<div class="product-data">
+					<h4 class="product-name item_name">{{product.title}}</h4>
+					<p class="product-description"> {{product.desc}}</p>
+					<p class="product-price item_price">{{product.price}}</p>
+			<p class="product-category item_category">{{ product.category }}</p>
+			<p class="product-brand item_brand">{{ product.brand }}</p>
+				</div>
+				<input type="number" value="1" class="item_Quantity">
+			<a class="item_add btn_buy" href="javascript:;">Kupi</a>
+			</div>
+		{% endif %}
     {% endfor %}
 </div>

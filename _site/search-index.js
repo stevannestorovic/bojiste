@@ -8,10 +8,31 @@ data = [
 	},
  
 	{
+		name: "maketa plasticna miniart",
+		desc: "dsadasd",
+		price: "11",
+		img_path: "/assets/img/tigar-tenk.jpg"
+	},
+ 
+	{
 		name: "Mig",
 		desc: "mig avion maketa",
 		price: "100",
 		img_path: "/assets/img/boja-za-tenk.jpeg"
+	},
+ 
+	{
+		name: "mk1",
+		desc: "dasds",
+		price: "adas",
+		img_path: "/assets/img/boja-za-tenk.jpeg"
+	},
+ 
+	{
+		name: "stealth",
+		desc: "lmao",
+		price: "10",
+		img_path: "/assets/img/header-bg.jpeg"
 	},
  
 ];

@@ -58,7 +58,8 @@ collections:
 	          {label: "{{cat.maincat}}", value: "{{cat.maincat}}"},
           {% endif %}
 	      {%- endfor -%}],
-	      default: "{{site.data.cats.first.maincat}}"}
+	      default: "{{site.data.cats.first.maincat}}",
+        required: false}
       
       - {name: "subcat",
         label: "Sub Category",
@@ -75,7 +76,8 @@ collections:
 	          {% endif %}
           {%- endfor -%}
 	      {%- endfor -%}],
-	      default: "{{site.data.cats.first.maincat.subcats.first.name}}"}
+	      default: "{{site.data.cats.first.maincat.subcats.first.name}}",
+        required: false}
 
       - {name: "subsubcat",
         label: "Sub Sub Category",
@@ -97,5 +99,6 @@ collections:
 	          {%- endfor -%}
             {%- endfor -%}
 	      {%- endfor -%}],
-	      default: "{{site.data.cats.first.maincat.subcats.first.name}}"}
+	      default: "{{site.data.cats.first.maincat.subcats.first.name}}",
+        required: false}
 
