@@ -1,32 +1,33 @@
-<nav class="navbar" role="navigation" aria-label="main navigation">
-    <div class="navbar-brand">
-      <a class="navbar-item" href="/">
-        Web Shop
-      </a>
-      <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-      </a>
-    </div>
-    <div id="navbarBasicExample" class="navbar-menu">
-      <div class="navbar-end">
-        <a class="navbar-item" href="index.html">
-            Početna
+<div class="nav-full is-dark">
+    <nav class="navbar is-dark" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+        <a class="navbar-item" href="/">
+            {{ site.data.site.name }}
         </a>
-        <a class="navbar-item" href="kategorije.html">
-          Kategorije
+        <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
         </a>
-        <a class="navbar-item" href="kontakt.html">
-          Kontakt
-        </a>
-        <a class="navbar-item" href="korpa.html">
-          Korpa
-        </a>
-      </div>
-    </div>
-  </nav>
-  
+        </div>
+        <div id="navbarBasicExample" class="navbar-menu">
+        <div class="navbar-end">
+            <a class="navbar-item" href="index.html">
+                Početna
+            </a>
+            <a class="navbar-item" href="kategorije.html">
+            Kategorije
+            </a>
+            <a class="navbar-item" href="kontakt.html">
+            Kontakt
+            </a>
+            <a class="navbar-item" href="korpa.html">
+            Korpa
+            </a>
+        </div>
+        </div>
+    </nav>
+</div>
   <script>
         let burger = document.querySelector('.burger');
         let nav = document.querySelector('#'+burger.dataset.target);

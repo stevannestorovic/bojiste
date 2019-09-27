@@ -4,44 +4,51 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
     <!-- <link rel="stylesheet" href="assets/css/reset.css"> -->
     <!-- <link rel="stylesheet" href="assets/css/main.css"> -->
     <link rel="stylesheet" href="assets/css/bulma.min.css">
+    <link rel="stylesheet" href="assets/css/custom.css">
+
+    <script src="assets/js/jquery-2.2.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.4/dist/js/bulma-carousel.min.js"></script>
     <script src="https://unpkg.com/lunr/lunr.js"></script>
     <script src="search-index.js"></script>
     <title></title>
 </head>
 <body>
-    <div class="container">
-        <nav class="navbar" role="navigation" aria-label="main navigation">
-    <div class="navbar-brand">
-      <a class="navbar-item" href="/">
-        Web Shop
-      </a>
-      <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-      </a>
-    </div>
-    <div id="navbarBasicExample" class="navbar-menu">
-      <div class="navbar-end">
-        <a class="navbar-item" href="index.html">
-            Početna
+   <!-- <div class="section is-paddingless is-fullwidth">
+        <div class="container">-->
+            <div class="nav-full is-dark">
+    <nav class="navbar is-dark" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+        <a class="navbar-item" href="/">
+            DIYRAMA
         </a>
-        <a class="navbar-item" href="kategorije.html">
-          Kategorije
+        <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
         </a>
-        <a class="navbar-item" href="kontakt.html">
-          Kontakt
-        </a>
-        <a class="navbar-item" href="korpa.html">
-          Korpa
-        </a>
-      </div>
-    </div>
-  </nav>
-  
+        </div>
+        <div id="navbarBasicExample" class="navbar-menu">
+        <div class="navbar-end">
+            <a class="navbar-item" href="index.html">
+                Početna
+            </a>
+            <a class="navbar-item" href="kategorije.html">
+            Kategorije
+            </a>
+            <a class="navbar-item" href="kontakt.html">
+            Kontakt
+            </a>
+            <a class="navbar-item" href="korpa.html">
+            Korpa
+            </a>
+        </div>
+        </div>
+    </nav>
+</div>
   <script>
         let burger = document.querySelector('.burger');
         let nav = document.querySelector('#'+burger.dataset.target);
@@ -51,7 +58,12 @@
           nav.classList.toggle('is-active');
         });
   </script>
-        <div id="slider">
+    <!--    </div>
+    </div> -->
+        <div class="section">
+		<div class="my-container">
+
+<div id="slider">
 	<div id="slide-holder">
 		<div class="slide"><img src="assets/img/slider-img-1.jpeg" /></div>
 		<div class="slide"><img src="assets/img/slider-img-2.jpeg" /></div>
@@ -59,14 +71,135 @@
 	</div>
 </div>
 
+<a class="has-text-white button is-main-bg is-large " 
+href="katalog.html" 
+style="margin: 40px auto;"
+>
+ Pogledajte katalog
+</a> 
+</div>
+</div>
 
-<button class="accent-button">
-	<a href="katalog.html">Pogledajte katalog</a> 
-</button>
 
+<!--
+<section class="section">
+		<div class="container">
+			
+			<div id="carousel-demo" class="carousel">
+				<div class="item-1">
+						<img src="assets/img/slider-img-1.jpeg" />
+				</div>
+				<div class="item-2">
+						<img src="assets/img/slider-img-2.jpeg" />
+				</div>
+				<div class="item-3">
+						<img src="assets/img/slider-img-3.jpeg" />
+				</div>
+			</div>
+			
+		</div>
+	</section>
+	<script>
+	bulmaCarousel.attach('#carousel-demo', {
+		slidesToScroll: 1,
+		slidesToShow: 4
+	});
+	</script>
+-->
+<div class="section">
+    <div class="brands-header">
+        <h3 class="title">Partneri</h3>
+        <hr>
     </div>
+    <div class="brands">
+        
+            <div class="brand">
+                <img src="https://picsum.photos/200"
+                    class="brand-img"
+                >
+                <h4 class="brand-name">
+                    Mig
+                </h4>
+            </div>
+        
+            <div class="brand">
+                <img src="https://picsum.photos/200"
+                    class="brand-img"
+                >
+                <h4 class="brand-name">
+                    Brand 2
+                </h4>
+            </div>
+        
+            <div class="brand">
+                <img src="https://picsum.photos/200"
+                    class="brand-img"
+                >
+                <h4 class="brand-name">
+                    IMT
+                </h4>
+            </div>
+        
+            <div class="brand">
+                <img src="https://picsum.photos/200"
+                    class="brand-img"
+                >
+                <h4 class="brand-name">
+                    Mig
+                </h4>
+            </div>
+        
+            <div class="brand">
+                <img src="https://picsum.photos/200"
+                    class="brand-img"
+                >
+                <h4 class="brand-name">
+                    Brand 2
+                </h4>
+            </div>
+        
+            <div class="brand">
+                <img src="https://picsum.photos/200"
+                    class="brand-img"
+                >
+                <h4 class="brand-name">
+                    IMT
+                </h4>
+            </div>
+        
+            <div class="brand">
+                <img src="https://picsum.photos/200"
+                    class="brand-img"
+                >
+                <h4 class="brand-name">
+                    Mig
+                </h4>
+            </div>
+        
+            <div class="brand">
+                <img src="https://picsum.photos/200"
+                    class="brand-img"
+                >
+                <h4 class="brand-name">
+                    Brand 2
+                </h4>
+            </div>
+        
+            <div class="brand">
+                <img src="https://picsum.photos/200"
+                    class="brand-img"
+                >
+                <h4 class="brand-name">
+                    IMT
+                </h4>
+            </div>
+        
+    </div>
+</div>
 
-    <script src="assets/js/jquery-2.2.4.min.js"></script>
+    
+
+    
     <script src="assets/js/simpleCart.js"></script>
     <script src="assets/js/main.js"></script>
     <script src="assets/js/checkout.js"></script>

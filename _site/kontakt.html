@@ -4,44 +4,51 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
     <!-- <link rel="stylesheet" href="assets/css/reset.css"> -->
     <!-- <link rel="stylesheet" href="assets/css/main.css"> -->
     <link rel="stylesheet" href="assets/css/bulma.min.css">
+    <link rel="stylesheet" href="assets/css/custom.css">
+
+    <script src="assets/js/jquery-2.2.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.4/dist/js/bulma-carousel.min.js"></script>
     <script src="https://unpkg.com/lunr/lunr.js"></script>
     <script src="search-index.js"></script>
     <title></title>
 </head>
 <body>
-    <div class="container">
-        <nav class="navbar" role="navigation" aria-label="main navigation">
-    <div class="navbar-brand">
-      <a class="navbar-item" href="/">
-        Web Shop
-      </a>
-      <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-      </a>
-    </div>
-    <div id="navbarBasicExample" class="navbar-menu">
-      <div class="navbar-end">
-        <a class="navbar-item" href="index.html">
-            Početna
+   <!-- <div class="section is-paddingless is-fullwidth">
+        <div class="container">-->
+            <div class="nav-full is-dark">
+    <nav class="navbar is-dark" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+        <a class="navbar-item" href="/">
+            DIYRAMA
         </a>
-        <a class="navbar-item" href="kategorije.html">
-          Kategorije
+        <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
         </a>
-        <a class="navbar-item" href="kontakt.html">
-          Kontakt
-        </a>
-        <a class="navbar-item" href="korpa.html">
-          Korpa
-        </a>
-      </div>
-    </div>
-  </nav>
-  
+        </div>
+        <div id="navbarBasicExample" class="navbar-menu">
+        <div class="navbar-end">
+            <a class="navbar-item" href="index.html">
+                Početna
+            </a>
+            <a class="navbar-item" href="kategorije.html">
+            Kategorije
+            </a>
+            <a class="navbar-item" href="kontakt.html">
+            Kontakt
+            </a>
+            <a class="navbar-item" href="korpa.html">
+            Korpa
+            </a>
+        </div>
+        </div>
+    </nav>
+</div>
   <script>
         let burger = document.querySelector('.burger');
         let nav = document.querySelector('#'+burger.dataset.target);
@@ -51,34 +58,54 @@
           nav.classList.toggle('is-active');
         });
   </script>
-        <section class="contact">
-   <div class="contact-info">
-      <div class="contact-text">
-         <p><span class="contact-info">Email:</span> <a href="mailto:svezamakete@yahoo.com">svezamakete@yahoo.com</a></p>
-         <p><span class="contact-info">Adresa:</span> <a href="">Pere pionira 42</a></p>
-         <p><span class="contact-info">Telefon:</span> <a href="tel:+38111555333">011-555-333</a></p>
+    <!--    </div>
+    </div> -->
+        <section class="section">
+   <div class="container">
+   <div class="contact-info columns">
+      <div class="contact-text column">
+         <p><span class="contact-info is-main-txt">Email:</span> <a class="has-text-grey-dark" href="mailto:svezamakete@yahoo.com">svezamakete@yahoo.com</a></p>
+         <p><span class="contact-info is-main-txt">Adresa:</span> <a class="has-text-grey-dark" href="">Pere pionira 42</a></p>
+         <p><span class="contact-info is-main-txt">Telefon:</span> <a class="has-text-grey-dark" href="tel:+38111555333">011-555-333</a></p>
       </div>
-      <div class="contact-map">
+      <div class="contact-map column">
          <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=20.468205213546756%2C44.81304157405872%2C20.48354744911194%2C44.819640061093864&amp;layer=mapnik" style="border: 1px solid black"></iframe>
       </div>
    </div>
-   
-<div class="contact-form">
+   </div>
+</section>
+   <div class="section">
+<div class="container">
     <form action="https://submit-form.com/iU7O28WjSpoxXAS5GS10z">
-        <input type="text" name="name" placeholder="Ime" required>
-        <input type="email" name="email" placeholder="Email" required>
-        <textarea name="message" rows="30" placeholder="Unesite poruku ovde..."></textarea>
+        <div class="field">
+            <label for="name" class="label">Ime:</label>
+            <div class="control">
+                    <input id="name" class="input" type="text" name="name" placeholder="Ime" required>
+            </div>
+        </div>
+        <div class="field">
+            <label for="email" class="label">Email:</label>
+            <div class="control">
+                    <input id="email" class="input" type="email" name="email" placeholder="Email" required>
+            </div>
+        </div>
+        <div class="field">
+            <label for="message" class="label">Poruka:</label>
+            <div class="control">
+                <textarea id="message" class="textarea" name="message" rows="5" placeholder="Unesite poruku ovde..."></textarea>
+            </div>
+        </div>
         <br>
-        <button type="submit" class="btn">Pošalji</button>
+        <button class="button is-main-bg is-large center" type="submit" class="btn">Pošalji</button>
     </form>
 </div>
+</div>
 
-</section>
 
 
-    </div>
+    
 
-    <script src="assets/js/jquery-2.2.4.min.js"></script>
+    
     <script src="assets/js/simpleCart.js"></script>
     <script src="assets/js/main.js"></script>
     <script src="assets/js/checkout.js"></script>

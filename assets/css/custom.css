@@ -1,0 +1,153 @@
+/* products */
+.products {
+    display: grid;
+    /*grid-template-columns: auto auto auto;*/
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    grid-gap: 10px;
+    max-width: 1350px;
+    margin: 0 auto;
+}
+
+.product {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-height: 500px;
+    /*max-width: 200px; */
+    width:100%;
+    padding: 10px;
+    box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+}
+
+
+.product-data {
+    color: gray;
+    margin-right: auto;
+}
+.product-name, .product-price {
+    margin: 10px 0;
+}
+
+.product-price {
+    color: #33a100;
+}
+
+.product>img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 3px;
+}
+/* end products */
+
+/* brands */
+.brands-header {
+    max-width: 1350px;
+    margin: 20px auto;
+    text-align: center;
+}
+.brands {
+    display: grid;
+    /*grid-template-columns: auto auto auto;*/
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    grid-gap: 10px;
+    max-width: 1350px;
+    margin: 0 auto;
+}
+
+.brand {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-height: 500px;
+    /*max-width: 200px; */
+    width:100%;
+    padding: 10px;
+}
+
+.brand-name {
+    margin: 10px 0;
+}
+
+.brand>img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 3px;
+}
+/* end brands */
+
+
+
+/* slider */
+#slider {
+	width: 800px;
+	height: 400px;
+	padding: 0;
+	overflow: hidden;
+	margin: 10px auto;
+}
+
+.slide {
+	width: 800px;
+	height: 400px;
+	float: left;
+	position: relative;
+	overflow: hidden;
+}
+
+#slide-holder {
+	width: 400%;
+	position: relative;
+	left: 0;	
+	will-change: transform;
+	animation: scroller 15s infinite;
+}
+
+.slide img {
+	width: 100%;
+	height: 100;
+}
+
+@keyframes scroller {
+	0% { transform: translateX(0); }
+	33% { transform: translateX(-800px);}
+	66% { transform: translateX(-1600px);}
+	100% {transform: translateX(0);}
+}
+/* end slider */
+
+
+
+/* table */
+table {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid;
+}
+/* end table */
+
+
+
+/* utils */
+.is-main-bg {
+    background-color: #6b8e23;
+}
+
+.is-main-txt {
+    color: #6b8e23;
+}
+
+.my-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.nav-full {
+    width:100%;
+    height:inherit;
+}
+/* endutils */
+

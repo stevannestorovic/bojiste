@@ -11,9 +11,9 @@ layout: default
 
 <div class="products">
     {% for product in site.products %}
-        <div class="product simpleCart_shelfItem">
+        <div class="product simpleCart_shelfItem card">
             <img class="product-img"src="{{product.img_path}}" alt="">
-            <div class="product-data">
+            <div class="product-data is-left-txt">
                 <h4 class="product-name item_name">{{product.title}}</h4>
                 <p class="product-description"> {{product.desc}}</p>
                 <p class="product-price item_price">{{product.price}}</p>
@@ -31,23 +31,26 @@ CAT_PAGE = '''---
 layout: default
 ---
 
-<div class="products">
-    {% for product in site.products  %}
-		{% if product.cat == "CNAME" %}
-			<div class="product simpleCart_shelfItem">
-				<img class="product-img" src="{{product.img_path}}" alt="">
-				<div class="product-data">
-					<h4 class="product-name item_name">{{product.title}}</h4>
-					<p class="product-description"> {{product.desc}}</p>
-					<p class="product-price item_price">{{product.price}}</p>
-			<p class="product-category item_category">{{ product.category }}</p>
-			<p class="product-brand item_brand">{{ product.brand }}</p>
+<div class="section">
+	<div class="container">
+	<div class="products">
+		{% for product in site.products  %}
+			{% if product.cat == "CNAME" %}
+				<div class="product simpleCart_shelfItem">
+					<h4 class="product-name item_name card-header-title">{{product.title}}</h4>
+					<img class="product-img image" src="{{product.img_path}}" alt="">
+					<div class="product-data">
+						<p class="product-description"> {{product.desc}}</p>
+						<strong class="product-price is-main-txt item_price">{{product.price}} <small>RSD</small></strong>
+						<p class="product-category item_category">{{ product.category }}</p>
+					</div>
+					<input type="number" value="1" class="item_Quantity input">
+				<a class="item_add button is-main-bg buy_button is-large" href="javascript:;">Kupi</a>
 				</div>
-				<input type="number" value="1" class="item_Quantity">
-			<a class="item_add btn_buy" href="javascript:;">Kupi</a>
-			</div>
-		{% endif %}
-    {% endfor %}
+			{% endif %}
+		{% endfor %}
+	</div>
+	</div>
 </div>
 '''
 
@@ -55,21 +58,20 @@ SUBCAT_PAGE = '''---
 layout: default
 ---
 
-<div class="products">
+<div class="products tile is-ancestor">
     {% for product in site.products %}
 		{% if product.cat == "CNAME" and product.subcat == "SNAME"%}
-			<div class="product simpleCart_shelfItem">
-				<img class="product-img" src="{{product.img_path}}" alt="">
-				<div class="product-data">
-					<h4 class="product-name item_name">{{product.title}}</h4>
-					<p class="product-description"> {{product.desc}}</p>
-					<p class="product-price item_price">{{product.price}}</p>
-			<p class="product-category item_category">{{ product.category }}</p>
-			<p class="product-brand item_brand">{{ product.brand }}</p>
+				<div class="product simpleCart_shelfItem">
+					<h4 class="product-name item_name card-header-title">{{product.title}}</h4>
+					<img class="product-img image" src="{{product.img_path}}" alt="">
+					<div class="product-data">
+						<p class="product-description"> {{product.desc}}</p>
+						<strong class="product-price is-main-txt item_price">{{product.price}} <small>RSD</small></strong>
+						<p class="product-category item_category">{{ product.category }}</p>
+					</div>
+					<input type="number" value="1" class="item_Quantity input">
+				<a class="item_add button is-main-bg buy_button is-large" href="javascript:;">Kupi</a>
 				</div>
-				<input type="number" value="1" class="item_Quantity">
-			<a class="item_add btn_buy" href="javascript:;">Kupi</a>
-			</div>
 		{% endif %}
     {% endfor %}
 </div>
@@ -80,21 +82,20 @@ SUBSUBCAT_PAGE = '''---
 layout: default
 ---
 
-<div class="products">
+<div class="products tile is-ancestor">
     {% for product in site.products %}
 		{% if product.cat == "CNAME" and product.subcat == "SNAME" and product.subusbcat == "SSNAME"%}
-			<div class="product simpleCart_shelfItem">
-				<img class="product-img" src="{{product.img_path}}" alt="">
-				<div class="product-data">
-					<h4 class="product-name item_name">{{product.title}}</h4>
-					<p class="product-description"> {{product.desc}}</p>
-					<p class="product-price item_price">{{product.price}}</p>
-			<p class="product-category item_category">{{ product.category }}</p>
-			<p class="product-brand item_brand">{{ product.brand }}</p>
+				<div class="product simpleCart_shelfItem">
+					<h4 class="product-name item_name card-header-title">{{product.title}}</h4>
+					<img class="product-img image" src="{{product.img_path}}" alt="">
+					<div class="product-data">
+						<p class="product-description"> {{product.desc}}</p>
+						<strong class="product-price is-main-txt item_price">{{product.price}} <small>RSD</small></strong>
+						<p class="product-category item_category">{{ product.category }}</p>
+					</div>
+					<input type="number" value="1" class="item_Quantity input">
+				<a class="item_add button is-main-bg buy_button is-large" href="javascript:;">Kupi</a>
 				</div>
-				<input type="number" value="1" class="item_Quantity">
-			<a class="item_add btn_buy" href="javascript:;">Kupi</a>
-			</div>
 		{% endif %}
     {% endfor %}
 </div>

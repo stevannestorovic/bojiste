@@ -1,0 +1,18 @@
+<div class="section">
+    <div class="brands-header">
+        <h3 class="title">Partneri</h3>
+        <hr>
+    </div>
+    <div class="brands">
+        {% for brand in site.data.brands %}
+            <div class="brand">
+                <img src="https://picsum.photos/200"
+                    class="brand-img"
+                >
+                <h4 class="brand-name">
+                    {{brand.label}}
+                </h4>
+            </div>
+        {% endfor %}
+    </div>
+</div>
