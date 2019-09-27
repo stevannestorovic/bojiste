@@ -2,6 +2,9 @@
 layout: default
 ---
 
+<div class="section">
+<div class="container">
+<nav class="breadcrumb has-arrow-separator" aria-label="breadcrumbs"><ul><li><a href="Alat_i_dodaci.html">Alat i dodaci</a></li><li><a href="Alat_i_dodaci_AMMO.html">AMMO</a></li><li><a href="Alat_i_dodaci_AMMOSISTEMI_POLICA.html">SISTEMI POLICA</a></li></ul></nav>
 <div class="products tile is-ancestor">
     {% for product in site.products %}
 		{% if product.cat == "Alat i dodaci" and product.subcat == "AMMO" and product.subusbcat == "SAMMO"%}
@@ -18,4 +21,6 @@ layout: default
 				</div>
 		{% endif %}
     {% endfor %}
+</div>
+</div>
 </div>

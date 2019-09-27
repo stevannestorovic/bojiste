@@ -130,9 +130,9 @@ collections:
 	          
               {label: "Akrilne Boje->AMMO", value: "AMMO"},
 	          
-              {label: "Akrilne Boje->AK/MENG", value: "AK/MENG"},
+              {label: "Akrilne Boje->AK-MENG", value: "AK-MENG"},
 	          
-              {label: "Akrilne Boje->AK Interactive/MIG PRODUCTIONS", value: "AK Interactive/MIG PRODUCTIONS"},
+              {label: "Akrilne Boje->AK Interactive-MIG PRODUCTIONS", value: "AK Interactive-MIG PRODUCTIONS"},
 	          
               {label: "Akrilne Boje->ABTELLUNG", value: "ABTELLUNG"},
 	          
@@ -192,35 +192,35 @@ collections:
 	            
                 {label: "Akrilne Boje->AMMO->WARGAMERS SETOVI BOJA", value: "WARGAMERS SETOVI BOJA"},
 	            
-                {label: "Akrilne Boje->AK/MENG->AK REAL COLORS", value: "AK REAL COLORS"},
+                {label: "Akrilne Boje->AK-MENG->AK REAL COLORS", value: "AK REAL COLORS"},
 	            
-                {label: "Akrilne Boje->AK/MENG->AK SPREJ", value: "AK SPREJ"},
+                {label: "Akrilne Boje->AK-MENG->AK SPREJ", value: "AK SPREJ"},
 	            
-                {label: "Akrilne Boje->AK/MENG->AK AKRLINE BOJE", value: "AK AKRLINE BOJE"},
+                {label: "Akrilne Boje->AK-MENG->AK AKRLINE BOJE", value: "AK AKRLINE BOJE"},
 	            
-                {label: "Akrilne Boje->AK/MENG->TRUE METAL", value: "TRUE METAL"},
+                {label: "Akrilne Boje->AK-MENG->TRUE METAL", value: "TRUE METAL"},
 	            
-                {label: "Akrilne Boje->AK/MENG->XTREME METAL", value: "XTREME METAL"},
+                {label: "Akrilne Boje->AK-MENG->XTREME METAL", value: "XTREME METAL"},
 	            
-                {label: "Akrilne Boje->AK/MENG->MENG POJEDINACNE BOJE 17ML", value: "MENG POJEDINACNE BOJE 17ML"},
+                {label: "Akrilne Boje->AK-MENG->MENG POJEDINACNE BOJE 17ML", value: "MENG POJEDINACNE BOJE 17ML"},
 	            
-                {label: "Akrilne Boje->AK/MENG->MENG SETOVI BOJA", value: "MENG SETOVI BOJA"},
+                {label: "Akrilne Boje->AK-MENG->MENG SETOVI BOJA", value: "MENG SETOVI BOJA"},
 	            
-                {label: "Akrilne Boje->AK Interactive/MIG PRODUCTIONS->AK OLOVKE ZA WEATHERING", value: "AK OLOVKE ZA WEATHERING"},
+                {label: "Akrilne Boje->AK Interactive-MIG PRODUCTIONS->AK OLOVKE ZA WEATHERING", value: "AK OLOVKE ZA WEATHERING"},
 	            
-                {label: "Akrilne Boje->AK Interactive/MIG PRODUCTIONS->WASH", value: "WASH"},
+                {label: "Akrilne Boje->AK Interactive-MIG PRODUCTIONS->WASH", value: "WASH"},
 	            
-                {label: "Akrilne Boje->AK Interactive/MIG PRODUCTIONS->PIGMENTI", value: "PIGMENTI"},
+                {label: "Akrilne Boje->AK Interactive-MIG PRODUCTIONS->PIGMENTI", value: "PIGMENTI"},
 	            
-                {label: "Akrilne Boje->AK Interactive/MIG PRODUCTIONS->FILTERI", value: "FILTERI"},
+                {label: "Akrilne Boje->AK Interactive-MIG PRODUCTIONS->FILTERI", value: "FILTERI"},
 	            
-                {label: "Akrilne Boje->AK Interactive/MIG PRODUCTIONS->NATURE EFEKTI", value: "NATURE EFEKTI"},
+                {label: "Akrilne Boje->AK Interactive-MIG PRODUCTIONS->NATURE EFEKTI", value: "NATURE EFEKTI"},
 	            
-                {label: "Akrilne Boje->AK Interactive/MIG PRODUCTIONS->CHIPPING PROIZVODI", value: "CHIPPING PROIZVODI"},
+                {label: "Akrilne Boje->AK Interactive-MIG PRODUCTIONS->CHIPPING PROIZVODI", value: "CHIPPING PROIZVODI"},
 	            
-                {label: "Akrilne Boje->AK Interactive/MIG PRODUCTIONS->BLATO EFEKETI", value: "BLATO EFEKETI"},
+                {label: "Akrilne Boje->AK Interactive-MIG PRODUCTIONS->BLATO EFEKETI", value: "BLATO EFEKETI"},
 	            
-                {label: "Akrilne Boje->AK Interactive/MIG PRODUCTIONS->WEATHERING SETOVI", value: "WEATHERING SETOVI"},
+                {label: "Akrilne Boje->AK Interactive-MIG PRODUCTIONS->WEATHERING SETOVI", value: "WEATHERING SETOVI"},
 	            
                 {label: "Alat i dodaci->AMMO->AIRBRUSH", value: "AIRBRUSH"},
 	            

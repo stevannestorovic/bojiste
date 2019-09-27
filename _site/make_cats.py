@@ -4,6 +4,18 @@ import os
 import sys
 
 
+def make_breadcrumbs(cname="", sname="", ssname=""):
+	html = '<nav class="breadcrumb has-arrow-separator" aria-label="breadcrumbs">'
+	html += '<ul>'
+	if cname != "":
+		html += '<li><a href="{}.html">{}</a></li>'.format(cname.replace(' ', '_'), cname)
+	if sname != "":
+		html += '<li><a href="{}.html">{}</a></li>'.format(cname.replace(' ', '_') +'_'+ sname.replace(' ', '_'), sname)
+	if ssname != "":
+		html += '<li><a href="{}.html">{}</a></li>'.format(cname.replace(' ', '_') +'_'+ sname.replace(' ', '_') + ssname.replace(' ', '_'), ssname)
+	html += '</ul></nav>'
+	return html
+
 PAGE='''---
 layout: default
 ---
@@ -33,6 +45,7 @@ layout: default
 
 <div class="section">
 	<div class="container">
+	BREADCRUMB
 	<div class="products">
 		{% for product in site.products  %}
 			{% if product.cat == "CNAME" %}
@@ -57,8 +70,10 @@ layout: default
 SUBCAT_PAGE = '''---
 layout: default
 ---
-
-<div class="products tile is-ancestor">
+<div class="section">
+<div class="container">
+BREADCRUMB
+<div class="products">
     {% for product in site.products %}
 		{% if product.cat == "CNAME" and product.subcat == "SNAME"%}
 				<div class="product simpleCart_shelfItem">
@@ -75,6 +90,8 @@ layout: default
 		{% endif %}
     {% endfor %}
 </div>
+</div>
+</div>
 '''
 
 
@@ -82,6 +99,9 @@ SUBSUBCAT_PAGE = '''---
 layout: default
 ---
 
+<div class="section">
+<div class="container">
+BREADCRUMB
 <div class="products tile is-ancestor">
     {% for product in site.products %}
 		{% if product.cat == "CNAME" and product.subcat == "SNAME" and product.subusbcat == "SSNAME"%}
@@ -99,6 +119,8 @@ layout: default
 		{% endif %}
     {% endfor %}
 </div>
+</div>
+</div>
 '''
 
 
@@ -114,9 +136,11 @@ with open('_data/cats.yml') as f:
 print('CATS')
 for cat in CATS:
 	cname = cat['maincat']
+	breadcrumb = make_breadcrumbs(cname=cname)
 	f = open('{}.html'.format(cat['maincat']).replace(' ', '_'), 'w')
 	content = CAT_PAGE.replace('PATH', cat['maincat'])
 	content = content.replace('CNAME', cname)
+	content = content.replace('BREADCRUMB', breadcrumb)
 	f.write(content)
 	f.close()
 	print("[+] " + cat['maincat'])
@@ -127,16 +151,18 @@ for cat in CATS:
 	try:
 		for subcat in cat['subcats']:
 			sname = subcat['name']
+			breadcrumb = make_breadcrumbs(cname=cname,sname=sname)
 			path = '{} {}'.format(cname, sname)
 			f = open(path.replace(' ', '_') + '.html', 'w')
 			content = SUBCAT_PAGE.replace('PATH', path)
 			content = content.replace('CNAME', cname)
 			content = content.replace('SNAME', sname)
+			content = content.replace('BREADCRUMB', breadcrumb)
 			f.write(content)
 			f.close()
 			print('[+]' + path)
-	except:
-		pass
+	except Exception as e:
+				print(e)
 
 print('CAT->SUBCATS->SUBSUBCATS')
 for cat in CATS:
@@ -147,17 +173,19 @@ for cat in CATS:
 			try:
 				for subsubcat in subcat['subsubcats']:
 					ssname = subsubcat
+					breadcrumb = make_breadcrumbs(cname=cname,sname=sname, ssname=ssname)
 					path = '{} {} {}'.format(cname, sname, ssname)
 					f = open(path.replace(' ', '_') + '.html', 'w')
 					content = SUBSUBCAT_PAGE.replace('PATH', path)
 					content = content.replace('CNAME', cname)
 					content = content.replace('SNAME', sname)
 					content = content.replace('SSNAME', ssname)
+					content = content.replace('BREADCRUMB', breadcrumb)
 					f.write(content)
 					f.close()
 					print('[+]' + path)
-			except:
-				pass
+			except Exception as e:
+				print(e)
 	except:
 		pass
 

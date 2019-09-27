@@ -1,8 +1,10 @@
 ---
 layout: default
 ---
-
-<div class="products tile is-ancestor">
+<div class="section">
+<div class="container">
+<nav class="breadcrumb has-arrow-separator" aria-label="breadcrumbs"><ul><li><a href="Knjige,_casopisi,_MERCH.html">Knjige, casopisi, MERCH</a></li><li><a href="Knjige,_casopisi,_MERCH_MIG_PRODUCTIONS.html">MIG PRODUCTIONS</a></li></ul></nav>
+<div class="products">
     {% for product in site.products %}
 		{% if product.cat == "Knjige, casopisi, MERCH" and product.subcat == "MIG PRODUCTIONS"%}
 				<div class="product simpleCart_shelfItem">
@@ -18,4 +20,6 @@ layout: default
 				</div>
 		{% endif %}
     {% endfor %}
+</div>
+</div>
 </div>
