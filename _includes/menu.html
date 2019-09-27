@@ -1,18 +1,25 @@
 <div class="menu">
-	<ul>
+	<span class="menu-label">Kategorije</span>
+	<ul class="menu-list menu" id="dropdown-menu" role="menu">
 	{% for cat in site.data.cats %}
 		<li>
-			<a href="{{cat.maincat | replace: ' ', '_'}}.html"> {{cat.maincat}} </a>
-			{% if cat.subcats != "" %}
-				<ul>
+			<a href="{{cat.maincat | replace: ' ', '_'}}.html">
+				{{cat.maincat}}
+			</a>
+			{% if cat.subcats %}
+				<ul class="menu-list menu">
 				{% for subcat in cat.subcats %}
 					<li>
-						<a href="{{cat.maincat | replace: ' ', '_'}}_{{subcat.name | replace: ' ', '_'}}.html">{{subcat.name}}</a>
-						{% if subcat.subsubcats != "" %}
-							<ul>
+						<a href="{{cat.maincat | replace: ' ', '_'}}_{{subcat.name | replace: ' ', '_'}}.html" class="dropdown-item">
+							{{subcat.name}}
+						</a>
+						{% if subcat.subsubcats %}
+							<ul class="menu-list menu">
 							{% for subsubcat in subcat.subsubcats %}
 								<li>
-									<a href="{{cat.maincat | replace: ' ', '_'}}_{{subcat.name | replace: ' ', '_'}}_{{subsubcat | replace: ' ', '_'}}.html">{{subsubcat}}</a>
+									<a href="{{cat.maincat | replace: ' ', '_'}}_{{subcat.name | replace: ' ', '_'}}_{{subsubcat | replace: ' ', '_'}}.html" class="dropdown-item">
+										{{subsubcat}}
+									</a>
 								</li>
 							{% endfor %}
 							</ul>
