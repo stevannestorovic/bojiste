@@ -6,6 +6,7 @@
     grid-gap: 10px;
     max-width: 1350px;
     margin: 0 auto;
+    margin-top:10px;
 }
 
 .product {
@@ -36,6 +37,10 @@
     max-width: 100%;
     height: auto;
     margin-bottom: 3px;
+}
+.buy_button {
+    margin-top: 15px;
+    margin-top: 15px;
 }
 /* end products */
 
@@ -148,6 +153,12 @@ td {
 .nav-full {
     width:100%;
     height:inherit;
+}
+hr {
+    border:0;
+    height:1px;
+    background-image: linear-gradient(to right,rgba(0, 0, 0, 0.068), rgba(255, 255, 255, 1.0),rgba(0, 0, 0, 0.068));
+    background-color: rgba(0,0,0,0);
 }
 /* endutils */
 

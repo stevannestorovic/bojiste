@@ -1,0 +1,31 @@
+<div class="footer has-background-dark has-text-light" style="margin-top:20px;"">
+    <div class="columns">
+        <div class="column">
+        <h3 class="title has-text-light">Kontakt</h3>
+        <hr>
+        <p><span class="contact-info is-main-txt">Email:</span> <a  class="has-text-light" href="mailto:{{site.data.contact.email}}">{{site.data.contact.email}}</a></p>
+         <p><span class="contact-info is-main-txt">Adresa:</span> <a  class="has-text-light" href="">{{site.data.contact.address}}</a></p>
+         <p><span class="contact-info is-main-txt">Telefon:</span> <a  class="has-text-light" href="tel:{{site.data.contact.fulltel}}">{{site.data.contact.tel}}</a></p>
+        </div>
+        <div class="column">
+        <h3 class="title has-text-light">Partneri</h3>
+        <hr>
+            <ul>
+                {% for brand in site.data.brands%}
+                    <li>
+                        {{brand.label}}
+                    </li>
+                {% endfor%}
+            </ul>
+        </div>
+        <div class="column">
+            <h3 class="title has-text-light">Kategorije</h3>
+            <hr>
+            <ul>
+                {% for cat in site.data.cats %}
+                    <li>{{cat.maincat}}</li>
+                {% endfor %}
+            <ul>
+        </div>
+    </div>
+</div>

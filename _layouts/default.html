@@ -11,30 +11,17 @@
     <link rel="stylesheet" href="assets/css/custom.css">
 
     <script src="assets/js/jquery-2.2.4.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bulma-carousel@4.0.4/dist/js/bulma-carousel.min.js"></script>
     <script src="https://unpkg.com/lunr/lunr.js"></script>
     <script src="search-index.js"></script>
-    <title>{{ page.title }}</title>
+    <title>{{site.data.site.name}} · {{page.title}}</title>
 </head>
 <body>
-   <!-- <div class="section is-paddingless is-fullwidth">
-        <div class="container">-->
-            {% include header.html %}
-    <!--    </div>
-    </div> -->
-        {{ content }}
-    
+    {% include header.html %}
+    {{ content }}
+    {%include footer.html %}
 
-    
     <script src="assets/js/simpleCart.js"></script>
     <script src="assets/js/main.js"></script>
     <script src="assets/js/checkout.js"></script>
-    {% if page.title == "Hvala" %}
-        <script>
-            simpleCart.update();
-            simpleCart.empty();
-            simpleCart.update();
-        </script>
-    {%endif %}
 </body>
 </html>

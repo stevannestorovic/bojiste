@@ -16,6 +16,16 @@ def make_breadcrumbs(cname="", sname="", ssname=""):
 	html += '</ul></nav>'
 	return html
 
+def make_seo_title(cname="", sname="", ssname=""):
+	seo_name = ""
+	if cname != "":
+		seo_name += '{} · '.format(cname)
+	if sname != "":
+		seo_name += '{} '.format( sname)
+	if ssname != "":
+		seo_name += '· {}'.format(ssname)
+	return seo_name
+
 PAGE='''---
 layout: default
 ---
@@ -41,6 +51,7 @@ layout: default
 
 CAT_PAGE = '''---
 layout: default
+title: seo_title
 ---
 
 <div class="section">
@@ -69,6 +80,7 @@ layout: default
 
 SUBCAT_PAGE = '''---
 layout: default
+title: seo_title
 ---
 <div class="section">
 <div class="container">
@@ -97,6 +109,7 @@ BREADCRUMB
 
 SUBSUBCAT_PAGE = '''---
 layout: default
+title: seo_title
 ---
 
 <div class="section">
@@ -137,10 +150,12 @@ print('CATS')
 for cat in CATS:
 	cname = cat['maincat']
 	breadcrumb = make_breadcrumbs(cname=cname)
+	seo_title = make_seo_title(cname=cname)
 	f = open('{}.html'.format(cat['maincat']).replace(' ', '_'), 'w')
 	content = CAT_PAGE.replace('PATH', cat['maincat'])
 	content = content.replace('CNAME', cname)
 	content = content.replace('BREADCRUMB', breadcrumb)
+	content = content.replace('seo_title', seo_title)
 	f.write(content)
 	f.close()
 	print("[+] " + cat['maincat'])
@@ -152,12 +167,14 @@ for cat in CATS:
 		for subcat in cat['subcats']:
 			sname = subcat['name']
 			breadcrumb = make_breadcrumbs(cname=cname,sname=sname)
+			seo_title = make_seo_title(cname=cname, sname=sname)
 			path = '{} {}'.format(cname, sname)
 			f = open(path.replace(' ', '_') + '.html', 'w')
 			content = SUBCAT_PAGE.replace('PATH', path)
 			content = content.replace('CNAME', cname)
 			content = content.replace('SNAME', sname)
 			content = content.replace('BREADCRUMB', breadcrumb)
+			content = content.replace('seo_title', seo_title)
 			f.write(content)
 			f.close()
 			print('[+]' + path)
@@ -174,6 +191,7 @@ for cat in CATS:
 				for subsubcat in subcat['subsubcats']:
 					ssname = subsubcat
 					breadcrumb = make_breadcrumbs(cname=cname,sname=sname, ssname=ssname)
+					seo_title = make_seo_title(cname=cname, sname=sname, ssname=ssname)
 					path = '{} {} {}'.format(cname, sname, ssname)
 					f = open(path.replace(' ', '_') + '.html', 'w')
 					content = SUBSUBCAT_PAGE.replace('PATH', path)
@@ -181,6 +199,7 @@ for cat in CATS:
 					content = content.replace('SNAME', sname)
 					content = content.replace('SSNAME', ssname)
 					content = content.replace('BREADCRUMB', breadcrumb)
+					content = content.replace('seo_title', seo_title)
 					f.write(content)
 					f.close()
 					print('[+]' + path)
