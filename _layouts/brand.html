@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="sr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
+    <!-- <link rel="stylesheet" href="assets/css/reset.css"> -->
+    <!-- <link rel="stylesheet" href="assets/css/main.css"> -->
+    <link rel="stylesheet" href="/assets/css/bulma.min.css">
+    <link rel="stylesheet" href="/assets/css/custom.css">
+
+    <script src="/assets/js/jquery-2.2.4.min.js"></script>
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/search-index.js"></script>
+    <title>{{site.data.site.name}} · {{page.title}}</title>
+</head>
+<body>
+    {% include header.html %}
+    
+    <h4>{{page.name}}</h4>
+    <img src="{{page.img}}" alt="">
+    {{content | markdownify}}
+
+    {%include footer.html %}
+
+    <script src="/assets/js/simpleCart.js"></script>
+    <script src="/assets/js/main.js"></script>
+    <script src="/assets/js/checkout.js"></script>
+</body>
+</html>

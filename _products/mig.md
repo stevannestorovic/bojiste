@@ -1,4 +1,5 @@
 ---
+layout: product
 title: Mig
 price: '100'
 desc: mig avion maketa

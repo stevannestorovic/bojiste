@@ -61,7 +61,7 @@ title: seo_title
 		{% for product in site.products  %}
 			{% if product.cat == "CNAME" %}
 				<div class="product simpleCart_shelfItem">
-					<h4 class="product-name item_name card-header-title">{{product.title}}</h4>
+					<h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
 					<img class="product-img image" src="{{product.img_path}}" alt="">
 					<div class="product-data">
 						<p class="product-description"> {{product.desc}}</p>
@@ -89,7 +89,7 @@ BREADCRUMB
     {% for product in site.products %}
 		{% if product.cat == "CNAME" and product.subcat == "SNAME"%}
 				<div class="product simpleCart_shelfItem">
-					<h4 class="product-name item_name card-header-title">{{product.title}}</h4>
+					<h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
 					<img class="product-img image" src="{{product.img_path}}" alt="">
 					<div class="product-data">
 						<p class="product-description"> {{product.desc}}</p>
@@ -119,7 +119,7 @@ BREADCRUMB
     {% for product in site.products %}
 		{% if product.cat == "CNAME" and product.subcat == "SNAME" and product.subusbcat == "SSNAME"%}
 				<div class="product simpleCart_shelfItem">
-					<h4 class="product-name item_name card-header-title">{{product.title}}</h4>
+					<h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
 					<img class="product-img image" src="{{product.img_path}}" alt="">
 					<div class="product-data">
 						<p class="product-description"> {{product.desc}}</p>

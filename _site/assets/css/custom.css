@@ -74,8 +74,9 @@
 }
 
 .brand>img {
-    max-width: 100%;
+    max-width: 200px;
     height: auto;
+    min-height: 200px;
     margin-bottom: 3px;
     border-radius: 50%;
     box-shadow: 1px 1px 5px black;

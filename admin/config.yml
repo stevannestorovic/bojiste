@@ -9,16 +9,19 @@ media_folder: "assets/img"
 
 
 collections:
-  - name: "site-info"
-    label: "Site info"
+  - name: "shop-info"
+    label: "Shop info"
     files:
-      - label: "Site settings" 
+      - label: "Shop settings" 
         name: "site"
         file: "_data/site.yml"
         fields: 
           - name: "name"
             label: "Shop name"
             widget: "string"
+          - name: "description"
+            label: "Shop Description"
+            widget: "text"
       - label: "Contact page"
         name: "contact"
         file: "_data/contact.yml"
@@ -35,18 +38,42 @@ collections:
           - name: "map_link"
             label: "Map link"
             widget: "string"
-      
+  - name: "brand"
+    label: "Brand"
+    folder: "_brands/"
+    create: true
+    identifier_field: name
+    fields:
+      - {label: "layout", name: "layout", default: "brand", widget: "hidden"}
+      - {label: "Brand name", name: "name", widget: "string"}
+      - {label: "Brand label", name: "label", widget: "string"}
+      - {label: "Brand image", name: "img", widget: "image" }
+      - {label: "Description", name: "body", widget: "markdown"}
   - name: "product"
     label: "Product"
     folder: "_products/"
     create: true
     identifier_field: name
     fields:
+      - {label: "layout", name: "layout", default: "product", widget: "hidden"}
       - {label: "Product name", name: "title", widget: "string"}
       - {label: "Product price", name: "price", widget: "string"}
       - {label: "Product description", name: "desc", widget: "string"}
       - {label: "Image", name: "img_path", widget: "image"}
-
+      - {label: "Brand", 
+         name: "brand", 
+         widget: "select", 
+         options: [
+         {%- for brand in site.brands -%}
+	        {% if site.brands.last.name == brand.name %}
+	            {label: "{{brand.name}}", value: "{{brand.name}}"}
+	          {% else %}
+	            {label: "{{brand.name}}", value: "{{brand.name}}"},
+            {% endif %}
+	        {%- endfor -%}   
+         ],
+         default: "Choose brand"}
+      - {label: "Available", name: "available", widget: "boolean", default: true}
       - {name: "cat",
         label: "Category",
         widget: "select",

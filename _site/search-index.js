@@ -35,6 +35,34 @@ data = [
 		img_path: "/assets/img/header-bg.jpeg"
 	},
  
+	{
+		name: "Vozic 2",
+		desc: "multitrack drifting",
+		price: "100",
+		img_path: "/assets/img/slider-img-2.jpeg"
+	},
+ 
+	{
+		name: "Vozic 22",
+		desc: "multitrack drifting",
+		price: "100",
+		img_path: "/assets/img/slider-img-2.jpeg"
+	},
+ 
+	{
+		name: "Vozic 42",
+		desc: "multitrack drifting",
+		price: "100",
+		img_path: "/assets/img/slider-img-2.jpeg"
+	},
+ 
+	{
+		name: "Vozic",
+		desc: "multitrack drifting",
+		price: "100",
+		img_path: "/assets/img/slider-img-2.jpeg"
+	},
+ 
 ];
 
 let idx = lunr(function (){

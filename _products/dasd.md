@@ -1,4 +1,5 @@
 ---
+layout: product
 title: maketa plasticna miniart
 price: '11'
 desc: dsadasd

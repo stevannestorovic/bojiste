@@ -1,4 +1,5 @@
 ---
+layout: product
 title: stealth
 price: '10'
 desc: lmao

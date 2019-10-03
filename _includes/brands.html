@@ -4,9 +4,9 @@
         <hr>
     </div>
     <div class="brands">
-        {% for brand in site.data.brands %}
+        {% for brand in site.brands %}
             <div class="brand">
-                <img src="https://picsum.photos/200"
+                <img src="{{brand.img}}"
                     class="brand-img"
                 >
                 <h4 class="brand-name has-text-weight-bold is-main-txt">

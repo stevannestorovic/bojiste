@@ -1,4 +1,5 @@
 ---
+layout: product
 title: boja a
 price: '10'
 desc: boja za bojenje

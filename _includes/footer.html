@@ -1,31 +1,31 @@
-<div class="footer has-background-dark has-text-light" style="margin-top:20px;"">
+<div class="footer has-background-light has-text-dark" style="margin-top:20px;"">
     <div class="columns">
         <div class="column">
-        <h3 class="title has-text-light">Kontakt</h3>
+        <h3 class="title has-text-dark">Kontakt</h3>
         <hr>
-        <p><span class="contact-info is-main-txt">Email:</span> <a  class="has-text-light" href="mailto:{{site.data.contact.email}}">{{site.data.contact.email}}</a></p>
-         <p><span class="contact-info is-main-txt">Adresa:</span> <a  class="has-text-light" href="">{{site.data.contact.address}}</a></p>
-         <p><span class="contact-info is-main-txt">Telefon:</span> <a  class="has-text-light" href="tel:{{site.data.contact.fulltel}}">{{site.data.contact.tel}}</a></p>
+        <p><span class="contact-info is-main-txt">Email:</span> <a  class="has-text-dark" href="mailto:{{site.data.contact.email}}">{{site.data.contact.email}}</a></p>
+         <p><span class="contact-info is-main-txt">Adresa:</span> <a  class="has-text-dark" href="">{{site.data.contact.address}}</a></p>
+         <p><span class="contact-info is-main-txt">Telefon:</span> <a  class="has-text-dark href="tel:{{site.data.contact.fulltel}}">{{site.data.contact.tel}}</a></p>
         </div>
         <div class="column">
-        <h3 class="title has-text-light">Partneri</h3>
+        <h3 class="title has-text-dark">Partneri</h3>
         <hr>
             <ul>
-                {% for brand in site.data.brands%}
+                {% for brand in site.brands%}
                     <li>
-                        {{brand.label}}
+                        <a class="has-text-dark" href="{{brand.url}}">{{brand.label}}</a>
                     </li>
                 {% endfor%}
             </ul>
         </div>
         <div class="column">
-            <h3 class="title has-text-light">Kategorije</h3>
+            <h3 class="title has-text-dark">Kategorije</h3>
             <hr>
             <ul>
                 {% for cat in site.data.cats %}
-                    <li><a href="{{cat.maincat | replace: ' ', '_'}}.html" class="has-text-light">{{cat.maincat}}</a></li>
+                    <li><a href="/{{cat.maincat | replace: ' ', '_'}}.html" class="has-text-dark">{{cat.maincat}}</a></li>
                 {% endfor %}
-            <ul>
+            </ul>
         </div>
     </div>
 </div>
