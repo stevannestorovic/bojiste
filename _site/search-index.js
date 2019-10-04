@@ -1,6 +1,7 @@
-data = [
+let data = [
  
 	{
+		id: 1,
 		name: "boja a",
 		desc: "boja za bojenje",
 		price: "10",
@@ -8,6 +9,7 @@ data = [
 	},
  
 	{
+		id: 2,
 		name: "maketa plasticna miniart",
 		desc: "dsadasd",
 		price: "11",
@@ -15,6 +17,7 @@ data = [
 	},
  
 	{
+		id: 3,
 		name: "Mig",
 		desc: "mig avion maketa",
 		price: "100",
@@ -22,6 +25,7 @@ data = [
 	},
  
 	{
+		id: 4,
 		name: "mk1",
 		desc: "dasds",
 		price: "adas",
@@ -29,6 +33,7 @@ data = [
 	},
  
 	{
+		id: 5,
 		name: "stealth",
 		desc: "lmao",
 		price: "10",
@@ -36,6 +41,7 @@ data = [
 	},
  
 	{
+		id: 6,
 		name: "Vozic 2",
 		desc: "multitrack drifting",
 		price: "100",
@@ -43,6 +49,7 @@ data = [
 	},
  
 	{
+		id: 7,
 		name: "Vozic 22",
 		desc: "multitrack drifting",
 		price: "100",
@@ -50,6 +57,7 @@ data = [
 	},
  
 	{
+		id: 8,
 		name: "Vozic 42",
 		desc: "multitrack drifting",
 		price: "100",
@@ -57,6 +65,7 @@ data = [
 	},
  
 	{
+		id: 9,
 		name: "Vozic",
 		desc: "multitrack drifting",
 		price: "100",
@@ -65,12 +74,5 @@ data = [
  
 ];
 
-let idx = lunr(function (){
-	this.ref('name');
-	this.field('name');
-	this.field('desc');
-	this.field('price');
-	this.field('img_path');
-});
 
 

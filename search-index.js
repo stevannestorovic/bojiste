@@ -1,8 +1,9 @@
 ---
 ---
-data = [
+let data = [
  {% for product in site.products %}
 	{
+		id: {{forloop.index}},
 		name: "{{product.title}}",
 		desc: "{{product.desc}}",
 		price: "{{product.price}}",
@@ -11,12 +12,5 @@ data = [
  {% endfor %}
 ];
 
-let idx = lunr(function (){
-	this.ref('name');
-	this.field('name');
-	this.field('desc');
-	this.field('price');
-	this.field('img_path');
-});
 
 
