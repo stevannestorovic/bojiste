@@ -11,6 +11,6 @@
 - maincat: "Diorame"
   subcats: [{name: "AMMO", subsubcats: ["TRAVNATE PODLOGE", "LISCE", "BILJKE", "ARKILNE TEKSTURE"]}, {name: "AK Interactive", subsubcats: ["LISCE", "BILJKE", "TRAVA", "AKRILNE TEKSTURE", "PLUTENE PLOCICE", "POLISTIRENSKE PLOCICE"]}]
 - maincat: "PhotoEtch"
-  subcats: [{name: "DREAM MODEL PE SETOVI"}]
+  subcats: [{name: "DREAM MODEL PE SETOVI"}, {name: "TAMYA"}]
 - maincat: "Knjige, casopisi, MERCH"
   subcats: [{name: "AMMO", subsubcats: ["KNJIGE I CASOPISI","MAJCE I TRENERKE"]}, {name: "AK Interactive", subsubcats: ["KNIJGE I CASOPISI", "MAJCE", "OSTALO"]}, {name: "ABTEILUNG 502", subsubcats: ["KNJIGE I CASOPISI", "MAJCE", "OSTALO"]}, {name: "MIG PRODUCTIONS", subsubcats: ["KNJIGE I CASOPISI", "OSTALO"]}] 

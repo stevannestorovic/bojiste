@@ -19,11 +19,11 @@ def make_breadcrumbs(cname="", sname="", ssname=""):
 def make_seo_title(cname="", sname="", ssname=""):
 	seo_name = ""
 	if cname != "":
-		seo_name += '{} · '.format(cname)
+		seo_name += '{} - '.format(cname)
 	if sname != "":
 		seo_name += '{} '.format( sname)
 	if ssname != "":
-		seo_name += '· {}'.format(ssname)
+		seo_name += '- {}'.format(ssname)
 	return seo_name
 
 PAGE='''---
