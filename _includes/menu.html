@@ -4,17 +4,27 @@
 			<ul class="menu-list menu" id="dropdown-menu" role="menu">
 			{% for cat in site.data.cats %}
 				<li>
+					{% if cat.subcats %}
+					<div class="list-nav">
+					{% endif %}
 					<a href="{{cat.maincat | replace: ' ', '_'}}.html">
 						{{cat.maincat}}
 					</a>
 					{% if cat.subcats %}
+						<button class="list-expand">&#x25BC;</button>
+						</div>
 						<ul class="menu-list menu">
 						{% for subcat in cat.subcats %}
 							<li>
+								{% if subcat.subsubcats %}
+								<div class="list-nav">
+								{% endif %}
 								<a href="{{cat.maincat | replace: ' ', '_'}}_{{subcat.name | replace: ' ', '_'}}.html" class="dropdown-item">
 									{{subcat.name}}
 								</a>
 								{% if subcat.subsubcats %}
+									<button class="list-expand">&#x25BC;</button>
+									</div>
 									<ul class="menu-list menu">
 									{% for subsubcat in subcat.subsubcats %}
 										<li>
@@ -34,3 +44,33 @@
 			</ul>
 	</div>
 </div>
+<script>
+let allSubmenus = document.querySelectorAll('.menu-list ul');
+allSubmenus.forEach(function (elem) {
+	elem.classList.add('hidden');
+});
+
+let linksLvl1 = document.querySelectorAll('.menu-list li .list-nav');
+linksLvl1.forEach(function (elem) {
+	console.clear();
+	console.log(elem);
+	let btn = elem.querySelector('.list-expand');
+	console.table(btn);
+	if(btn != null) {
+		btn.addEventListener('click', function(evt) {
+			console.log('clicked');
+			let menu = evt.target.parentNode.parentNode.querySelector('.menu-list');
+			menu.classList.toggle('hidden');
+		});
+	}
+});
+
+let linksLvl2 = document.querySelectorAll('.menu-list li .menu-list li .list-nav');
+linksLvl2.forEach(function (elem) {
+	let btn = document.querySelector('.list-expand');
+	btn.addEventListener('click', function(evt) {
+  		let menu = evt.target.parentNode.parentNode.querySelector('.menu-list');
+    	menu.classList.toggle('hidden');
+  });
+});
+</script>
