@@ -13,6 +13,17 @@ let data = [
  
 	{
 		id: 2,
+		name: "cvorovic",
+		desc: "testiranje",
+		price: "12",
+		img_path: "/assets/img/boja-za-tenk.jpeg",
+		cat: "Akrilne Boje",
+		subcat: "AK-MENG",
+		subsubcat: "AK REAL COLORS"
+	},
+ 
+	{
+		id: 3,
 		name: "maketa plasticna miniart",
 		desc: "dsadasd",
 		price: "11",
@@ -23,7 +34,7 @@ let data = [
 	},
  
 	{
-		id: 3,
+		id: 4,
 		name: "Mig",
 		desc: "mig avion maketa",
 		price: "100",
@@ -34,7 +45,7 @@ let data = [
 	},
  
 	{
-		id: 4,
+		id: 5,
 		name: "mk1",
 		desc: "dasds",
 		price: "adas",
@@ -45,7 +56,7 @@ let data = [
 	},
  
 	{
-		id: 5,
+		id: 6,
 		name: "stealth",
 		desc: "lmao",
 		price: "10",
@@ -56,7 +67,7 @@ let data = [
 	},
  
 	{
-		id: 6,
+		id: 7,
 		name: "Vozic 2",
 		desc: "multitrack drifting",
 		price: "100",
@@ -67,7 +78,7 @@ let data = [
 	},
  
 	{
-		id: 7,
+		id: 8,
 		name: "Vozic 22",
 		desc: "multitrack drifting",
 		price: "100",
@@ -78,7 +89,7 @@ let data = [
 	},
  
 	{
-		id: 8,
+		id: 9,
 		name: "Vozic 42",
 		desc: "multitrack drifting",
 		price: "100",
@@ -89,7 +100,7 @@ let data = [
 	},
  
 	{
-		id: 9,
+		id: 10,
 		name: "Vozic",
 		desc: "multitrack drifting",
 		price: "100",

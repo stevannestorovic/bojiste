@@ -42,6 +42,30 @@
     margin-top: 15px;
     margin-top: 15px;
 }
+
+.product-widgets {
+    margin-top: 5px;
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: top;
+    align-content: top;
+}
+
+.product-widgets input {
+    /*display: block;*/
+    max-width: 60px;
+    height: 30px;
+    height: 100%;
+}
+
+.product-widgets .button  {
+    /*display: block;*/
+    max-width:160px;
+    max-height: 40px;
+    margin: 0;
+}
 /* end products */
 
 /* brands */
@@ -157,6 +181,7 @@ td {
     width:100%;
     height:inherit;
 }
+
 hr {
     border:0;
     height:1px;

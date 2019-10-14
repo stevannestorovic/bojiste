@@ -42,6 +42,7 @@ res.forEach(element => {
     productData.appendChild(productDesc);
     productData.appendChild(productPrice);
 
+
     let productQuantity = document.createElement('input');
     productQuantity.type = 'number';
     productQuantity.value = 1;
@@ -52,11 +53,17 @@ res.forEach(element => {
     productBuy.href = 'javascript:;';
     productBuy.innerText = 'Kupi';
 
+
+    let productWidgets = document.createElement('div');
+    productWidgets.classList += 'product-widgets';
+    productWidgets.appendChild(productQuantity);
+    productWidgets.appendChild(productBuy);
+
     product.appendChild(productTitle);
     product.appendChild(productImg);
     product.appendChild(productData);
-    product.appendChild(productQuantity);
-    product.appendChild(productBuy);
+    product.appendChild(productWidgets);
+    
 
     products.appendChild(product);
 });
