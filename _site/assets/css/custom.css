@@ -201,7 +201,7 @@ td {
 hr {
     border:0;
     height:1px;
-    background-image: linear-gradient(to right,rgba(0, 0, 0, 0.068), rgba(255, 255, 255, 1.0),rgba(0, 0, 0, 0.068));
+    background-image: linear-gradient(to right,rgb(231, 231, 231), rgba(0, 0, 0, 0.068), rgba(1231, 231, 231));
     background-color: rgba(0,0,0,0);
 }
 /* endutils */
