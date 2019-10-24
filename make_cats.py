@@ -19,9 +19,9 @@ def make_breadcrumbs(cname="", sname="", ssname=""):
 def make_seo_title(cname="", sname="", ssname=""):
 	seo_name = ""
 	if cname != "":
-		seo_name += '{} - '.format(cname)
+		seo_name += '{}'.format(cname)
 	if sname != "":
-		seo_name += '{} '.format( sname)
+		seo_name += ' - {} '.format( sname)
 	if ssname != "":
 		seo_name += '- {}'.format(ssname)
 	return seo_name
@@ -152,23 +152,23 @@ with open('_data/cats.yml') as f:
 
 
 
-print('CATS')
 for cat in CATS:
-	cname = cat['maincat']
+	cname = cat['maincat']['name']
+	#print(cname)
 	breadcrumb = make_breadcrumbs(cname=cname)
 	seo_title = make_seo_title(cname=cname)
-	f = open('{}.html'.format(cat['maincat']).replace(' ', '_'), 'w')
-	content = CAT_PAGE.replace('PATH', cat['maincat'])
+	fname = cname.replace(' ', '_') + '.html'
+	f = open(fname, 'w')
+	content = CAT_PAGE.replace('PATH', cname)
 	content = content.replace('CNAME', cname)
 	content = content.replace('BREADCRUMB', breadcrumb)
 	content = content.replace('seo_title', seo_title)
 	f.write(content)
 	f.close()
-	print("[+] " + cat['maincat'])
-
-print('CATS->SUBCATS')
+	#print("[+] " + cname)
+print("[+] CATS DONE")
 for cat in CATS:
-	cname = cat['maincat']
+	cname = cat['maincat']['name']
 	try:
 		for subcat in cat['subcats']:
 			sname = subcat['name']
@@ -183,19 +183,20 @@ for cat in CATS:
 			content = content.replace('seo_title', seo_title)
 			f.write(content)
 			f.close()
-			print('[+]' + path)
+			#print('[+]' + path)
 	except Exception as e:
 				print(e)
 
-print('CAT->SUBCATS->SUBSUBCATS')
+print('[+] SUBCAT DONE')
 for cat in CATS:
-	cname = cat['maincat']
+	cname = cat['maincat']['name']
 	try:
 		for subcat in cat['subcats']:
 			sname = subcat['name']
 			try:
 				for subsubcat in subcat['subsubcats']:
-					ssname = subsubcat
+					ssname = subsubcat['name']
+					print(ssname)
 					breadcrumb = make_breadcrumbs(cname=cname,sname=sname, ssname=ssname)
 					seo_title = make_seo_title(cname=cname, sname=sname, ssname=ssname)
 					path = '{} {} {}'.format(cname, sname, ssname)
@@ -208,9 +209,10 @@ for cat in CATS:
 					content = content.replace('seo_title', seo_title)
 					f.write(content)
 					f.close()
-					print('[+]' + path)
+					#print('[+]' + path)
 			except Exception as e:
+				
 				print(e)
 	except:
 		pass
-
+print("[+] SUBSUBCAT DONE")

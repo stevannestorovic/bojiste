@@ -60,32 +60,34 @@ collections:
       - {label: "Brand", 
          name: "brand", 
          widget: "select", 
-         options: [],
+         options: [
+	            {label: "Tamiya", value: "Tamiya"}
+	          ],
          default: "Choose brand"}
       - {label: "Available", name: "available", widget: "boolean", default: true}
       - {name: "cat",
         label: "Category",
         widget: "select",
         options: [
-	          {label: "Plasticne Makete", value: "Plasticne Makete"},
+	          {label: "{"name"=>"Plasticne Makete", "label"=>"Plasticne Makete"}", value: "{"name"=>"Plasticne Makete", "label"=>"Plasticne Makete"}"},
           
-	          {label: "Akrilne Boje", value: "Akrilne Boje"},
+	          {label: "{"name"=>"Akrilne Boje", "label"=>"Akrilne Boje"}", value: "{"name"=>"Akrilne Boje", "label"=>"Akrilne Boje"}"},
           
-	          {label: "AMMO OILBRUSHERS", value: "AMMO OILBRUSHERS"},
+	          {label: "{"name"=>"AMMO OILBRUSHERS", "label"=>"AMMO OILBRUSHERS"}", value: "{"name"=>"AMMO OILBRUSHERS", "label"=>"AMMO OILBRUSHERS"}"},
           
-	          {label: "ALCLAD II METALIC BOJE", value: "ALCLAD II METALIC BOJE"},
+	          {label: "{"name"=>"ALCLAD II METALIC BOJE", "label"=>"ALCLAD II METALIC BOJE"}", value: "{"name"=>"ALCLAD II METALIC BOJE", "label"=>"ALCLAD II METALIC BOJE"}"},
           
-	          {label: "ABTEILUNG 502", value: "ABTEILUNG 502"},
+	          {label: "{"name"=>"ABTEILUNG 502", "label"=>"ABTEILUNG 502"}", value: "{"name"=>"ABTEILUNG 502", "label"=>"ABTEILUNG 502"}"},
           
-	          {label: "Alat i dodaci", value: "Alat i dodaci"},
+	          {label: "{"name"=>"Alat i dodaci", "label"=>"Alat i dodaci"}", value: "{"name"=>"Alat i dodaci", "label"=>"Alat i dodaci"}"},
           
-	          {label: "Diorame", value: "Diorame"},
+	          {label: "{"name"=>"Diorame", "label"=>"Diorame"}", value: "{"name"=>"Diorame", "label"=>"Diorame"}"},
           
-	          {label: "PhotoEtch", value: "PhotoEtch"},
+	          {label: "{"name"=>"PhotoEtch", "label"=>"PhotoEtch"}", value: "{"name"=>"PhotoEtch", "label"=>"PhotoEtch"}"},
           
-	          {label: "Knjige, casopisi, MERCH", value: "Knjige, casopisi, MERCH"}
+	          {label: "{"name"=>"Knjige, casopisi, MERCH", "label"=>"Knjige, casopisi, MERCH"}", value: "{"name"=>"Knjige, casopisi, MERCH", "label"=>"Knjige, casopisi, MERCH"}"}
 	        ],
-	      default: "Plasticne Makete",
+	      default: "{"name"=>"Plasticne Makete", "label"=>"Plasticne Makete"}",
         required: false}
       
       - {name: "subcat",
@@ -93,103 +95,103 @@ collections:
         widget: "select",
         options: [
 	      
-              {label: "Plasticne Makete->MINIART", value: "MINIART"},
+              {label: "{"name"=>"Plasticne Makete", "label"=>"Plasticne Makete"}->MINIART", value: "MINIART"},
 	          
-              {label: "Plasticne Makete->TAKOM", value: "TAKOM"},
+              {label: "{"name"=>"Plasticne Makete", "label"=>"Plasticne Makete"}->TAKOM", value: "TAKOM"},
 	          
-              {label: "Plasticne Makete->KINETIC", value: "KINETIC"},
+              {label: "{"name"=>"Plasticne Makete", "label"=>"Plasticne Makete"}->KINETIC", value: "KINETIC"},
 	          
-              {label: "Plasticne Makete->RYE FIELD MODELS", value: "RYE FIELD MODELS"},
+              {label: "{"name"=>"Plasticne Makete", "label"=>"Plasticne Makete"}->RYE FIELD MODELS", value: "RYE FIELD MODELS"},
 	          
-              {label: "Plasticne Makete->GREAT WALL HOBBY", value: "GREAT WALL HOBBY"},
+              {label: "{"name"=>"Plasticne Makete", "label"=>"Plasticne Makete"}->GREAT WALL HOBBY", value: "GREAT WALL HOBBY"},
 	          
-              {label: "Plasticne Makete->MENG", value: "MENG"},
+              {label: "{"name"=>"Plasticne Makete", "label"=>"Plasticne Makete"}->MENG", value: "MENG"},
 	          
-              {label: "Plasticne Makete->DAS WERK", value: "DAS WERK"},
+              {label: "{"name"=>"Plasticne Makete", "label"=>"Plasticne Makete"}->DAS WERK", value: "DAS WERK"},
 	          
-              {label: "Plasticne Makete->WINGNUTS WINGS", value: "WINGNUTS WINGS"},
+              {label: "{"name"=>"Plasticne Makete", "label"=>"Plasticne Makete"}->WINGNUTS WINGS", value: "WINGNUTS WINGS"},
 	          
-              {label: "Plasticne Makete->BANDAI", value: "BANDAI"},
+              {label: "{"name"=>"Plasticne Makete", "label"=>"Plasticne Makete"}->BANDAI", value: "BANDAI"},
 	          
-              {label: "Plasticne Makete->AMMO", value: "AMMO"},
+              {label: "{"name"=>"Plasticne Makete", "label"=>"Plasticne Makete"}->AMMO", value: "AMMO"},
 	          
-              {label: "Plasticne Makete->TIGER MODELS", value: "TIGER MODELS"},
+              {label: "{"name"=>"Plasticne Makete", "label"=>"Plasticne Makete"}->TIGER MODELS", value: "TIGER MODELS"},
 	          
-              {label: "Plasticne Makete->BORDER MODEL", value: "BORDER MODEL"},
+              {label: "{"name"=>"Plasticne Makete", "label"=>"Plasticne Makete"}->BORDER MODEL", value: "BORDER MODEL"},
 	          
-              {label: "Plasticne Makete->REVOSYS HOBBY", value: "REVOSYS HOBBY"},
+              {label: "{"name"=>"Plasticne Makete", "label"=>"Plasticne Makete"}->REVOSYS HOBBY", value: "REVOSYS HOBBY"},
 	          
-              {label: "Plasticne Makete->WINGSY KITS", value: "WINGSY KITS"},
+              {label: "{"name"=>"Plasticne Makete", "label"=>"Plasticne Makete"}->WINGSY KITS", value: "WINGSY KITS"},
 	          
-              {label: "Plasticne Makete->HOBBY 2000", value: "HOBBY 2000"},
+              {label: "{"name"=>"Plasticne Makete", "label"=>"Plasticne Makete"}->HOBBY 2000", value: "HOBBY 2000"},
 	          
-              {label: "Plasticne Makete->DORA WINGS", value: "DORA WINGS"},
+              {label: "{"name"=>"Plasticne Makete", "label"=>"Plasticne Makete"}->DORA WINGS", value: "DORA WINGS"},
 	          
-              {label: "Plasticne Makete->AK", value: "AK"},
+              {label: "{"name"=>"Plasticne Makete", "label"=>"Plasticne Makete"}->AK", value: "AK"},
 	          
-              {label: "Plasticne Makete->DESERT EAGLE", value: "DESERT EAGLE"},
+              {label: "{"name"=>"Plasticne Makete", "label"=>"Plasticne Makete"}->DESERT EAGLE", value: "DESERT EAGLE"},
 	          
-              {label: "Plasticne Makete->NUTS PLANET", value: "NUTS PLANET"},
+              {label: "{"name"=>"Plasticne Makete", "label"=>"Plasticne Makete"}->NUTS PLANET", value: "NUTS PLANET"},
 	          
-              {label: "Plasticne Makete->YAN MODELS", value: "YAN MODELS"},
+              {label: "{"name"=>"Plasticne Makete", "label"=>"Plasticne Makete"}->YAN MODELS", value: "YAN MODELS"},
 	          
-              {label: "Plasticne Makete->DIOPARK", value: "DIOPARK"},
+              {label: "{"name"=>"Plasticne Makete", "label"=>"Plasticne Makete"}->DIOPARK", value: "DIOPARK"},
 	          
-              {label: "Plasticne Makete->DOOZY", value: "DOOZY"},
+              {label: "{"name"=>"Plasticne Makete", "label"=>"Plasticne Makete"}->DOOZY", value: "DOOZY"},
 	          
-              {label: "Plasticne Makete->MIG PRODUCTIONS", value: "MIG PRODUCTIONS"},
+              {label: "{"name"=>"Plasticne Makete", "label"=>"Plasticne Makete"}->MIG PRODUCTIONS", value: "MIG PRODUCTIONS"},
 	          
-              {label: "Plasticne Makete->EBBRO", value: "EBBRO"},
+              {label: "{"name"=>"Plasticne Makete", "label"=>"Plasticne Makete"}->EBBRO", value: "EBBRO"},
 	          
-              {label: "Plasticne Makete->MICHAEL KONTRAROS", value: "MICHAEL KONTRAROS"},
+              {label: "{"name"=>"Plasticne Makete", "label"=>"Plasticne Makete"}->MICHAEL KONTRAROS", value: "MICHAEL KONTRAROS"},
 	          
-              {label: "Plasticne Makete->YOUNG MINIATURES", value: "YOUNG MINIATURES"},
+              {label: "{"name"=>"Plasticne Makete", "label"=>"Plasticne Makete"}->YOUNG MINIATURES", value: "YOUNG MINIATURES"},
 	          
-              {label: "Plasticne Makete->OSTALO", value: "OSTALO"},
+              {label: "{"name"=>"Plasticne Makete", "label"=>"Plasticne Makete"}->OSTALO", value: "OSTALO"},
 	          
-              {label: "Akrilne Boje->AMMO", value: "AMMO"},
+              {label: "{"name"=>"Akrilne Boje", "label"=>"Akrilne Boje"}->AMMO", value: "AMMO"},
 	          
-              {label: "Akrilne Boje->AK-MENG", value: "AK-MENG"},
+              {label: "{"name"=>"Akrilne Boje", "label"=>"Akrilne Boje"}->AK-MENG", value: "AK-MENG"},
 	          
-              {label: "Akrilne Boje->AK Interactive-MIG PRODUCTIONS", value: "AK Interactive-MIG PRODUCTIONS"},
+              {label: "{"name"=>"Akrilne Boje", "label"=>"Akrilne Boje"}->AK Interactive-MIG PRODUCTIONS", value: "AK Interactive-MIG PRODUCTIONS"},
 	          
-              {label: "Akrilne Boje->ABTELLUNG", value: "ABTELLUNG"},
+              {label: "{"name"=>"Akrilne Boje", "label"=>"Akrilne Boje"}->ABTELLUNG", value: "ABTELLUNG"},
 	          
-              {label: "Akrilne Boje->MIG PRODUCTIONS", value: "MIG PRODUCTIONS"},
+              {label: "{"name"=>"Akrilne Boje", "label"=>"Akrilne Boje"}->MIG PRODUCTIONS", value: "MIG PRODUCTIONS"},
 	          
-              {label: "ABTEILUNG 502->OIL PAINTS", value: "OIL PAINTS"},
+              {label: "{"name"=>"ABTEILUNG 502", "label"=>"ABTEILUNG 502"}->OIL PAINTS", value: "OIL PAINTS"},
 	          
-              {label: "ABTEILUNG 502->PIGMENTI", value: "PIGMENTI"},
+              {label: "{"name"=>"ABTEILUNG 502", "label"=>"ABTEILUNG 502"}->PIGMENTI", value: "PIGMENTI"},
 	          
-              {label: "ABTEILUNG 502->CETKICE", value: "CETKICE"},
+              {label: "{"name"=>"ABTEILUNG 502", "label"=>"ABTEILUNG 502"}->CETKICE", value: "CETKICE"},
 	          
-              {label: "ABTEILUNG 502->OSTALO", value: "OSTALO"},
+              {label: "{"name"=>"ABTEILUNG 502", "label"=>"ABTEILUNG 502"}->OSTALO", value: "OSTALO"},
 	          
-              {label: "Alat i dodaci->AMMO", value: "AMMO"},
+              {label: "{"name"=>"Alat i dodaci", "label"=>"Alat i dodaci"}->AMMO", value: "AMMO"},
 	          
-              {label: "Alat i dodaci->AK Interactive", value: "AK Interactive"},
+              {label: "{"name"=>"Alat i dodaci", "label"=>"Alat i dodaci"}->AK Interactive", value: "AK Interactive"},
 	          
-              {label: "Alat i dodaci->MIG PRODUCTIONS", value: "MIG PRODUCTIONS"},
+              {label: "{"name"=>"Alat i dodaci", "label"=>"Alat i dodaci"}->MIG PRODUCTIONS", value: "MIG PRODUCTIONS"},
 	          
-              {label: "Alat i dodaci->ABTEILUNG 502", value: "ABTEILUNG 502"},
+              {label: "{"name"=>"Alat i dodaci", "label"=>"Alat i dodaci"}->ABTEILUNG 502", value: "ABTEILUNG 502"},
 	          
-              {label: "Alat i dodaci->MENG", value: "MENG"},
+              {label: "{"name"=>"Alat i dodaci", "label"=>"Alat i dodaci"}->MENG", value: "MENG"},
 	          
-              {label: "Diorame->AMMO", value: "AMMO"},
+              {label: "{"name"=>"Diorame", "label"=>"Diorame"}->AMMO", value: "AMMO"},
 	          
-              {label: "Diorame->AK Interactive", value: "AK Interactive"},
+              {label: "{"name"=>"Diorame", "label"=>"Diorame"}->AK Interactive", value: "AK Interactive"},
 	          
-              {label: "PhotoEtch->DREAM MODEL PE SETOVI", value: "DREAM MODEL PE SETOVI"},
+              {label: "{"name"=>"PhotoEtch", "label"=>"PhotoEtch"}->DREAM MODEL PE SETOVI", value: "DREAM MODEL PE SETOVI"},
 	          
-              {label: "PhotoEtch->TAMYA", value: "TAMYA"},
+              {label: "{"name"=>"PhotoEtch", "label"=>"PhotoEtch"}->TAMYA", value: "TAMYA"},
 	          
-              {label: "Knjige, casopisi, MERCH->AMMO", value: "AMMO"},
+              {label: "{"name"=>"Knjige, casopisi, MERCH", "label"=>"Knjige, casopisi, MERCH"}->AMMO", value: "AMMO"},
 	          
-              {label: "Knjige, casopisi, MERCH->AK Interactive", value: "AK Interactive"},
+              {label: "{"name"=>"Knjige, casopisi, MERCH", "label"=>"Knjige, casopisi, MERCH"}->AK Interactive", value: "AK Interactive"},
 	          
-              {label: "Knjige, casopisi, MERCH->ABTEILUNG 502", value: "ABTEILUNG 502"},
+              {label: "{"name"=>"Knjige, casopisi, MERCH", "label"=>"Knjige, casopisi, MERCH"}->ABTEILUNG 502", value: "ABTEILUNG 502"},
 	          
-              {label: "Knjige, casopisi, MERCH->MIG PRODUCTIONS", value: "MIG PRODUCTIONS"}
+              {label: "{"name"=>"Knjige, casopisi, MERCH", "label"=>"Knjige, casopisi, MERCH"}->MIG PRODUCTIONS", value: "MIG PRODUCTIONS"}
 	          ],
 	      default: "",
         required: false}
@@ -201,107 +203,107 @@ collections:
 	      
 	      
 	      
-                {label: "Akrilne Boje->AMMO->POJEDINACNE BOJE", value: "POJEDINACNE BOJE"},
+                {label: "{"name"=>"Akrilne Boje", "label"=>"Akrilne Boje"}->AMMO->{"name"=>"POJEDINACNE BOJE", "label; \"POJEDINACNE BOJE\""=>nil}", value: "{"name"=>"POJEDINACNE BOJE", "label; \"POJEDINACNE BOJE\""=>nil}"},
 	            
-                {label: "Akrilne Boje->AMMO->SETOVI AKRILNIH BOJA", value: "SETOVI AKRILNIH BOJA"},
+                {label: "{"name"=>"Akrilne Boje", "label"=>"Akrilne Boje"}->AMMO->{"name"=>"SETOVI AKRILNIH BOJA", "label"=>"SETOVI AKRILNIH BOJA"}", value: "{"name"=>"SETOVI AKRILNIH BOJA", "label"=>"SETOVI AKRILNIH BOJA"}"},
 	            
-                {label: "Akrilne Boje->AMMO->AKRILNI PRAJMERI", value: "AKRILNI PRAJMERI"},
+                {label: "{"name"=>"Akrilne Boje", "label"=>"Akrilne Boje"}->AMMO->{"name"=>"AKRILNI PRAJMERI", "label"=>"AKRILNI PRAJMERI"}", value: "{"name"=>"AKRILNI PRAJMERI", "label"=>"AKRILNI PRAJMERI"}"},
 	            
-                {label: "Akrilne Boje->AMMO->AKRILNI RAZREDJIVACI", value: "AKRILNI RAZREDJIVACI"},
+                {label: "{"name"=>"Akrilne Boje", "label"=>"Akrilne Boje"}->AMMO->{"name"=>"AKRILNI RAZREDJIVACI", "label"=>"AKRILNI RAZREDJIVACI"}", value: "{"name"=>"AKRILNI RAZREDJIVACI", "label"=>"AKRILNI RAZREDJIVACI"}"},
 	            
-                {label: "Akrilne Boje->AMMO->SETOVI ZA MODULACIJU", value: "SETOVI ZA MODULACIJU"},
+                {label: "{"name"=>"Akrilne Boje", "label"=>"Akrilne Boje"}->AMMO->{"name"=>"SETOVI ZA MODULACIJU", "label"=>"SETOVI ZA MODULACIJU"}", value: "{"name"=>"SETOVI ZA MODULACIJU", "label"=>"SETOVI ZA MODULACIJU"}"},
 	            
-                {label: "Akrilne Boje->AMMO->WARGAMERS SETOVI BOJA", value: "WARGAMERS SETOVI BOJA"},
+                {label: "{"name"=>"Akrilne Boje", "label"=>"Akrilne Boje"}->AMMO->{"name"=>"WARGAMERS SETOVI BOJA", "label"=>"WARGAMERS SETOVI BOJA"}", value: "{"name"=>"WARGAMERS SETOVI BOJA", "label"=>"WARGAMERS SETOVI BOJA"}"},
 	            
-                {label: "Akrilne Boje->AK-MENG->AK REAL COLORS", value: "AK REAL COLORS"},
+                {label: "{"name"=>"Akrilne Boje", "label"=>"Akrilne Boje"}->AK-MENG->{"name"=>"AK REAL COLORS", "label"=>"AK REAL COLORS"}", value: "{"name"=>"AK REAL COLORS", "label"=>"AK REAL COLORS"}"},
 	            
-                {label: "Akrilne Boje->AK-MENG->AK SPREJ", value: "AK SPREJ"},
+                {label: "{"name"=>"Akrilne Boje", "label"=>"Akrilne Boje"}->AK-MENG->{"name"=>"AK SPREJ", "label"=>"AK SPREJ"}", value: "{"name"=>"AK SPREJ", "label"=>"AK SPREJ"}"},
 	            
-                {label: "Akrilne Boje->AK-MENG->AK AKRLINE BOJE", value: "AK AKRLINE BOJE"},
+                {label: "{"name"=>"Akrilne Boje", "label"=>"Akrilne Boje"}->AK-MENG->{"name"=>"AK AKRLINE BOJE", "label"=>"AK AKRILNE BOJE"}", value: "{"name"=>"AK AKRLINE BOJE", "label"=>"AK AKRILNE BOJE"}"},
 	            
-                {label: "Akrilne Boje->AK-MENG->TRUE METAL", value: "TRUE METAL"},
+                {label: "{"name"=>"Akrilne Boje", "label"=>"Akrilne Boje"}->AK-MENG->{"name"=>"TRUE METAL", "label"=>"TRUE METAL"}", value: "{"name"=>"TRUE METAL", "label"=>"TRUE METAL"}"},
 	            
-                {label: "Akrilne Boje->AK-MENG->XTREME METAL", value: "XTREME METAL"},
+                {label: "{"name"=>"Akrilne Boje", "label"=>"Akrilne Boje"}->AK-MENG->{"name"=>"XTREME METAL", "label"=>"XTREME METAL"}", value: "{"name"=>"XTREME METAL", "label"=>"XTREME METAL"}"},
 	            
-                {label: "Akrilne Boje->AK-MENG->MENG POJEDINACNE BOJE 17ML", value: "MENG POJEDINACNE BOJE 17ML"},
+                {label: "{"name"=>"Akrilne Boje", "label"=>"Akrilne Boje"}->AK-MENG->{"name"=>"MENG POJEDINACNE BOJE 17ML", "label"=>"MENG POJEDINACNE BOJE 17ML"}", value: "{"name"=>"MENG POJEDINACNE BOJE 17ML", "label"=>"MENG POJEDINACNE BOJE 17ML"}"},
 	            
-                {label: "Akrilne Boje->AK-MENG->MENG SETOVI BOJA", value: "MENG SETOVI BOJA"},
+                {label: "{"name"=>"Akrilne Boje", "label"=>"Akrilne Boje"}->AK-MENG->{"name"=>"MENG SETOVI BOJA", "label"=>"MENG SETOVI BOJA"}", value: "{"name"=>"MENG SETOVI BOJA", "label"=>"MENG SETOVI BOJA"}"},
 	            
-                {label: "Akrilne Boje->AK Interactive-MIG PRODUCTIONS->AK OLOVKE ZA WEATHERING", value: "AK OLOVKE ZA WEATHERING"},
+                {label: "{"name"=>"Akrilne Boje", "label"=>"Akrilne Boje"}->AK Interactive-MIG PRODUCTIONS->{"name"=>"AK OLOVKE ZA WEATHERING", "label"=>"AK OLOVKE ZA WEATHERING"}", value: "{"name"=>"AK OLOVKE ZA WEATHERING", "label"=>"AK OLOVKE ZA WEATHERING"}"},
 	            
-                {label: "Akrilne Boje->AK Interactive-MIG PRODUCTIONS->WASH", value: "WASH"},
+                {label: "{"name"=>"Akrilne Boje", "label"=>"Akrilne Boje"}->AK Interactive-MIG PRODUCTIONS->{"name"=>"WASH", "label"=>"WASH"}", value: "{"name"=>"WASH", "label"=>"WASH"}"},
 	            
-                {label: "Akrilne Boje->AK Interactive-MIG PRODUCTIONS->PIGMENTI", value: "PIGMENTI"},
+                {label: "{"name"=>"Akrilne Boje", "label"=>"Akrilne Boje"}->AK Interactive-MIG PRODUCTIONS->{"name"=>"PIGMENTI", "label"=>"PIGMENTI"}", value: "{"name"=>"PIGMENTI", "label"=>"PIGMENTI"}"},
 	            
-                {label: "Akrilne Boje->AK Interactive-MIG PRODUCTIONS->FILTERI", value: "FILTERI"},
+                {label: "{"name"=>"Akrilne Boje", "label"=>"Akrilne Boje"}->AK Interactive-MIG PRODUCTIONS->{"name"=>"FILTERI", "label"=>"FILTERI"}", value: "{"name"=>"FILTERI", "label"=>"FILTERI"}"},
 	            
-                {label: "Akrilne Boje->AK Interactive-MIG PRODUCTIONS->NATURE EFEKTI", value: "NATURE EFEKTI"},
+                {label: "{"name"=>"Akrilne Boje", "label"=>"Akrilne Boje"}->AK Interactive-MIG PRODUCTIONS->{"name"=>"NATURE EFEKTI", "label"=>"NATURE EFEKTI"}", value: "{"name"=>"NATURE EFEKTI", "label"=>"NATURE EFEKTI"}"},
 	            
-                {label: "Akrilne Boje->AK Interactive-MIG PRODUCTIONS->CHIPPING PROIZVODI", value: "CHIPPING PROIZVODI"},
+                {label: "{"name"=>"Akrilne Boje", "label"=>"Akrilne Boje"}->AK Interactive-MIG PRODUCTIONS->{"name"=>"CHIPPING PROIZVODI", "label"=>"CHIPPING PROIZVODI"}", value: "{"name"=>"CHIPPING PROIZVODI", "label"=>"CHIPPING PROIZVODI"}"},
 	            
-                {label: "Akrilne Boje->AK Interactive-MIG PRODUCTIONS->BLATO EFEKETI", value: "BLATO EFEKETI"},
+                {label: "{"name"=>"Akrilne Boje", "label"=>"Akrilne Boje"}->AK Interactive-MIG PRODUCTIONS->{"name"=>"BLATO EFEKTI", "label"=>"BLATO EFEKTI"}", value: "{"name"=>"BLATO EFEKTI", "label"=>"BLATO EFEKTI"}"},
 	            
-                {label: "Akrilne Boje->AK Interactive-MIG PRODUCTIONS->WEATHERING SETOVI", value: "WEATHERING SETOVI"},
+                {label: "{"name"=>"Akrilne Boje", "label"=>"Akrilne Boje"}->AK Interactive-MIG PRODUCTIONS->{"name"=>"WEATHERING SETOVI", "label"=>"WEATHERING SETOVI"}", value: "{"name"=>"WEATHERING SETOVI", "label"=>"WEATHERING SETOVI"}"},
 	            
-                {label: "Alat i dodaci->AMMO->AIRBRUSH", value: "AIRBRUSH"},
+                {label: "{"name"=>"Alat i dodaci", "label"=>"Alat i dodaci"}->AMMO->{"name"=>"AIRBRUSH", "label"=>"AIRBRUSH"}", value: "{"name"=>"AIRBRUSH", "label"=>"AIRBRUSH"}"},
 	            
-                {label: "Alat i dodaci->AMMO->CETKICE", value: "CETKICE"},
+                {label: "{"name"=>"Alat i dodaci", "label"=>"Alat i dodaci"}->AMMO->{"name"=>"CETKICE", "label"=>"CETKICE"}", value: "{"name"=>"CETKICE", "label"=>"CETKICE"}"},
 	            
-                {label: "Alat i dodaci->AMMO->SISTEMI POLICA", value: "SISTEMI POLICA"},
+                {label: "{"name"=>"Alat i dodaci", "label"=>"Alat i dodaci"}->AMMO->{"name"=>"SISTEMI POLICA", "label"=>"SISTEMI POLICA"}", value: "{"name"=>"SISTEMI POLICA", "label"=>"SISTEMI POLICA"}"},
 	            
-                {label: "Alat i dodaci->AMMO->RIGGING", value: "RIGGING"},
+                {label: "{"name"=>"Alat i dodaci", "label"=>"Alat i dodaci"}->AMMO->{"name"=>"RIGGING", "label"=>"RIGGING"}", value: "{"name"=>"RIGGING", "label"=>"RIGGING"}"},
 	            
-                {label: "Alat i dodaci->AMMO->RAZNO", value: "RAZNO"},
+                {label: "{"name"=>"Alat i dodaci", "label"=>"Alat i dodaci"}->AMMO->{"name"=>"RAZNO", "label"=>"RAZNO"}", value: "{"name"=>"RAZNO", "label"=>"RAZNO"}"},
 	            
-                {label: "Alat i dodaci->AK Interactive->PRIBOR", value: "PRIBOR"},
+                {label: "{"name"=>"Alat i dodaci", "label"=>"Alat i dodaci"}->AK Interactive->{"name"=>"PRIBOR", "label"=>"PRIBOR"}", value: "{"name"=>"PRIBOR", "label"=>"PRIBOR"}"},
 	            
-                {label: "Alat i dodaci->AK Interactive->FAROVI", value: "FAROVI"},
+                {label: "{"name"=>"Alat i dodaci", "label"=>"Alat i dodaci"}->AK Interactive->{"name"=>"FAROVI", "label"=>"FAROVI"}", value: "{"name"=>"FAROVI", "label"=>"FAROVI"}"},
 	            
-                {label: "Alat i dodaci->AK Interactive->METALNE GUSENICE", value: "METALNE GUSENICE"},
+                {label: "{"name"=>"Alat i dodaci", "label"=>"Alat i dodaci"}->AK Interactive->{"name"=>"METALNE GUSENICE", "label"=>"METALNE GUSENICE"}", value: "{"name"=>"METALNE GUSENICE", "label"=>"METALNE GUSENICE"}"},
 	            
-                {label: "Alat i dodaci->AK Interactive->DEKALI", value: "DEKALI"},
+                {label: "{"name"=>"Alat i dodaci", "label"=>"Alat i dodaci"}->AK Interactive->{"name"=>"DEKALI", "label"=>"DEKALI"}", value: "{"name"=>"DEKALI", "label"=>"DEKALI"}"},
 	            
-                {label: "Alat i dodaci->AK Interactive->RAZNO", value: "RAZNO"},
+                {label: "{"name"=>"Alat i dodaci", "label"=>"Alat i dodaci"}->AK Interactive->{"name"=>"RAZNO", "label"=>"RAZNO"}", value: "{"name"=>"RAZNO", "label"=>"RAZNO"}"},
 	            
-                {label: "Diorame->AMMO->TRAVNATE PODLOGE", value: "TRAVNATE PODLOGE"},
+                {label: "{"name"=>"Diorame", "label"=>"Diorame"}->AMMO->{"name"=>"TRAVNATE PODLOGE", "label"=>"TRAVNATE PODLOGE"}", value: "{"name"=>"TRAVNATE PODLOGE", "label"=>"TRAVNATE PODLOGE"}"},
 	            
-                {label: "Diorame->AMMO->LISCE", value: "LISCE"},
+                {label: "{"name"=>"Diorame", "label"=>"Diorame"}->AMMO->{"name"=>"LISCE", "label"=>"LISCE"}", value: "{"name"=>"LISCE", "label"=>"LISCE"}"},
 	            
-                {label: "Diorame->AMMO->BILJKE", value: "BILJKE"},
+                {label: "{"name"=>"Diorame", "label"=>"Diorame"}->AMMO->{"name"=>"BILJKE", "label"=>"BILJKE"}", value: "{"name"=>"BILJKE", "label"=>"BILJKE"}"},
 	            
-                {label: "Diorame->AMMO->ARKILNE TEKSTURE", value: "ARKILNE TEKSTURE"},
+                {label: "{"name"=>"Diorame", "label"=>"Diorame"}->AMMO->{"name"=>"ARKILNE TEKSTURE", "label"=>"AKRILNE TEKSTURE"}", value: "{"name"=>"ARKILNE TEKSTURE", "label"=>"AKRILNE TEKSTURE"}"},
 	            
-                {label: "Diorame->AK Interactive->LISCE", value: "LISCE"},
+                {label: "{"name"=>"Diorame", "label"=>"Diorame"}->AK Interactive->{"name"=>"LISCE", "label"=>"LISCE"}", value: "{"name"=>"LISCE", "label"=>"LISCE"}"},
 	            
-                {label: "Diorame->AK Interactive->BILJKE", value: "BILJKE"},
+                {label: "{"name"=>"Diorame", "label"=>"Diorame"}->AK Interactive->{"name"=>"BILJKE", "label"=>"BILJKE"}", value: "{"name"=>"BILJKE", "label"=>"BILJKE"}"},
 	            
-                {label: "Diorame->AK Interactive->TRAVA", value: "TRAVA"},
+                {label: "{"name"=>"Diorame", "label"=>"Diorame"}->AK Interactive->{"name"=>"TRAVA", "label"=>"TRAVA"}", value: "{"name"=>"TRAVA", "label"=>"TRAVA"}"},
 	            
-                {label: "Diorame->AK Interactive->AKRILNE TEKSTURE", value: "AKRILNE TEKSTURE"},
+                {label: "{"name"=>"Diorame", "label"=>"Diorame"}->AK Interactive->{"name"=>"AKRILNE TEKSTURE", "label"=>"AKRILNE TEKSTURE"}", value: "{"name"=>"AKRILNE TEKSTURE", "label"=>"AKRILNE TEKSTURE"}"},
 	            
-                {label: "Diorame->AK Interactive->PLUTENE PLOCICE", value: "PLUTENE PLOCICE"},
+                {label: "{"name"=>"Diorame", "label"=>"Diorame"}->AK Interactive->{"name"=>"PLUTENE PLOCICE", "label"=>"PLUTENE PLOCICE"}", value: "{"name"=>"PLUTENE PLOCICE", "label"=>"PLUTENE PLOCICE"}"},
 	            
-                {label: "Diorame->AK Interactive->POLISTIRENSKE PLOCICE", value: "POLISTIRENSKE PLOCICE"},
+                {label: "{"name"=>"Diorame", "label"=>"Diorame"}->AK Interactive->{"name"=>"POLISTIRENSKE PLOCICE", "label"=>"POLISTIRENSKE PLOCICE"}", value: "{"name"=>"POLISTIRENSKE PLOCICE", "label"=>"POLISTIRENSKE PLOCICE"}"},
 	            
-                {label: "Knjige, casopisi, MERCH->AMMO->KNJIGE I CASOPISI", value: "KNJIGE I CASOPISI"},
+                {label: "{"name"=>"Knjige, casopisi, MERCH", "label"=>"Knjige, casopisi, MERCH"}->AMMO->{"name"=>"KNJIGE I CASOPISI", "label"=>"KNJIGE I CASOPISI"}", value: "{"name"=>"KNJIGE I CASOPISI", "label"=>"KNJIGE I CASOPISI"}"},
 	            
-                {label: "Knjige, casopisi, MERCH->AMMO->MAJCE I TRENERKE", value: "MAJCE I TRENERKE"},
+                {label: "{"name"=>"Knjige, casopisi, MERCH", "label"=>"Knjige, casopisi, MERCH"}->AMMO->{"name"=>"MAJCE I TRENERKE", "label"=>"MAJCE I TRENERKE"}", value: "{"name"=>"MAJCE I TRENERKE", "label"=>"MAJCE I TRENERKE"}"},
 	            
-                {label: "Knjige, casopisi, MERCH->AK Interactive->KNIJGE I CASOPISI", value: "KNIJGE I CASOPISI"},
+                {label: "{"name"=>"Knjige, casopisi, MERCH", "label"=>"Knjige, casopisi, MERCH"}->AK Interactive->{"name"=>"KNIJGE I CASOPISI", "label"=>"KNJIGE I CASOPISI"}", value: "{"name"=>"KNIJGE I CASOPISI", "label"=>"KNJIGE I CASOPISI"}"},
 	            
-                {label: "Knjige, casopisi, MERCH->AK Interactive->MAJCE", value: "MAJCE"},
+                {label: "{"name"=>"Knjige, casopisi, MERCH", "label"=>"Knjige, casopisi, MERCH"}->AK Interactive->{"name"=>"MAJCE", "label"=>"MAJCE"}", value: "{"name"=>"MAJCE", "label"=>"MAJCE"}"},
 	            
-                {label: "Knjige, casopisi, MERCH->AK Interactive->OSTALO", value: "OSTALO"},
+                {label: "{"name"=>"Knjige, casopisi, MERCH", "label"=>"Knjige, casopisi, MERCH"}->AK Interactive->{"name"=>"OSTALO", "label"=>"OSTALO"}", value: "{"name"=>"OSTALO", "label"=>"OSTALO"}"},
 	            
-                {label: "Knjige, casopisi, MERCH->ABTEILUNG 502->KNJIGE I CASOPISI", value: "KNJIGE I CASOPISI"},
+                {label: "{"name"=>"Knjige, casopisi, MERCH", "label"=>"Knjige, casopisi, MERCH"}->ABTEILUNG 502->{"name"=>"KNJIGE I CASOPISI", "label"=>"KNJIGE I CASOPISI"}", value: "{"name"=>"KNJIGE I CASOPISI", "label"=>"KNJIGE I CASOPISI"}"},
 	            
-                {label: "Knjige, casopisi, MERCH->ABTEILUNG 502->MAJCE", value: "MAJCE"},
+                {label: "{"name"=>"Knjige, casopisi, MERCH", "label"=>"Knjige, casopisi, MERCH"}->ABTEILUNG 502->{"name"=>"MAJCE", "label"=>"MAJCE"}", value: "{"name"=>"MAJCE", "label"=>"MAJCE"}"},
 	            
-                {label: "Knjige, casopisi, MERCH->ABTEILUNG 502->OSTALO", value: "OSTALO"},
+                {label: "{"name"=>"Knjige, casopisi, MERCH", "label"=>"Knjige, casopisi, MERCH"}->ABTEILUNG 502->{"name"=>"OSTALO", "label"=>"OSTALO"}", value: "{"name"=>"OSTALO", "label"=>"OSTALO"}"},
 	            
-                {label: "Knjige, casopisi, MERCH->MIG PRODUCTIONS->KNJIGE I CASOPISI", value: "KNJIGE I CASOPISI"},
+                {label: "{"name"=>"Knjige, casopisi, MERCH", "label"=>"Knjige, casopisi, MERCH"}->MIG PRODUCTIONS->{"name"=>"KNJIGE I CASOPISI", "label"=>"KNJIGE I CASOPISI"}", value: "{"name"=>"KNJIGE I CASOPISI", "label"=>"KNJIGE I CASOPISI"}"},
 	            
-                {label: "Knjige, casopisi, MERCH->MIG PRODUCTIONS->OSTALO", value: "OSTALO"},
+                {label: "{"name"=>"Knjige, casopisi, MERCH", "label"=>"Knjige, casopisi, MERCH"}->MIG PRODUCTIONS->{"name"=>"OSTALO", "label"=>"OSTALO"}", value: "{"name"=>"OSTALO", "label"=>"OSTALO"}"},
 	            ],
 	      default: "",
         required: false}
