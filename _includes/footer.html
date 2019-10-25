@@ -23,7 +23,7 @@
             <hr>
             <ul>
                 {% for cat in site.data.cats %}
-                    <li><a href="/{{cat.maincat | replace: ' ', '_'}}.html" class="has-text-dark">{{cat.maincat}}</a></li>
+                    <li><a href="/{{cat.maincat.name | replace: ' ', '_'}}.html" class="has-text-dark">{{cat.maincat.name}}</a></li>
                 {% endfor %}
             </ul>
         </div>

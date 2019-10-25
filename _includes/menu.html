@@ -1,46 +1,44 @@
-<div class="container">
-	<div class="menu">
-			<strong class="menu-label">Kategorije</strong>
-			<ul class="menu-list menu" id="dropdown-menu" role="menu">
-			{% for cat in site.data.cats %}
-				<li>
+<div class="menu">
+		<ul class="menu-list menu" id="dropdown-menu" role="menu">
+		{% for cat in site.data.cats %}
+			<li>
 
-					<a href="{{cat.maincat | replace: ' ', '_'}}.html">
-						{{cat.maincat}}
-						{% if cat.subcats %}
-						<span class="list-expand">&#x25BC;</span>
-						{% endif %}
-					</a>
+				<a href="{{cat.maincat.name | replace: ' ', '_'}}.html">
+					{{cat.maincat.name}}
 					{% if cat.subcats %}
-						<ul class="menu-list menu">
-						{% for subcat in cat.subcats %}
-							<li>
-								<a href="{{cat.maincat | replace: ' ', '_'}}_{{subcat.name | replace: ' ', '_'}}.html" class="dropdown-item">
-									{{subcat.name}}
-									{% if subcat.subsubcats %}
-									<span class="list-expand">&#x25BC;</span>
-									{% endif %}
-								</a>
-								{% if subcat.subsubcats %}
-									<ul class="menu-list menu">
-									{% for subsubcat in subcat.subsubcats %}
-										<li>
-											<a href="{{cat.maincat | replace: ' ', '_'}}_{{subcat.name | replace: ' ', '_'}}_{{subsubcat | replace: ' ', '_'}}.html" class="dropdown-item">
-												{{subsubcat}}
-											</a>
-										</li>
-									{% endfor %}
-									</ul>
-								{% endif %}
-							</li>
-						{% endfor %}
-						</ul>
+					<span class="list-expand">&#x25BC;</span>
 					{% endif %}
-				</li>
-			{% endfor %}
-			</ul>
-	</div>
+				</a>
+				{% if cat.subcats %}
+					<ul class="menu-list menu">
+					{% for subcat in cat.subcats %}
+						<li>
+							<a href="{{cat.maincat.name | replace: ' ', '_'}}_{{subcat.name | replace: ' ', '_'}}.html" class="dropdown-item">
+								{{subcat.name}}
+								{% if subcat.subsubcats %}
+								<span class="list-expand">&#x25BC;</span>
+								{% endif %}
+							</a>
+							{% if subcat.subsubcats %}
+								<ul class="menu-list menu">
+								{% for subsubcat in subcat.subsubcats %}
+									<li>
+										<a href="{{cat.maincat.name | replace: ' ', '_'}}_{{subcat.name | replace: ' ', '_'}}_{{subsubcat.name | replace: ' ', '_'}}.html" class="dropdown-item">
+											{{subsubcat.name}}
+										</a>
+									</li>
+								{% endfor %}
+								</ul>
+							{% endif %}
+						</li>
+					{% endfor %}
+					</ul>
+				{% endif %}
+			</li>
+		{% endfor %}
+		</ul>
 </div>
+
 <script>
 let allSubmenus = document.querySelectorAll('.menu-list ul');
 allSubmenus.forEach(function (elem) {

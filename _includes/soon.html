@@ -1,0 +1,15 @@
+<div class="product-panel">
+	<h2 class="product-panel-title">
+	Uskoro
+	</h2>
+	<br>
+	{% for product in site.products limit:5 %}
+		<div class="panel-product">
+			<h3>{{product.title}}</h3>
+			<img src="{{product.img_path}}">
+			<p class="panel-product-desc">
+				{{product.desc}}
+			</p>
+		</div>
+	{% endfor %}
+</div>

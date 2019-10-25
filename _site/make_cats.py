@@ -19,9 +19,9 @@ def make_breadcrumbs(cname="", sname="", ssname=""):
 def make_seo_title(cname="", sname="", ssname=""):
 	seo_name = ""
 	if cname != "":
-		seo_name += '{} - '.format(cname)
+		seo_name += '{}'.format(cname)
 	if sname != "":
-		seo_name += '{} '.format( sname)
+		seo_name += ' - {} '.format( sname)
 	if ssname != "":
 		seo_name += '- {}'.format(ssname)
 	return seo_name
@@ -59,7 +59,7 @@ title: seo_title
 	BREADCRUMB
 	<div class="products">
 		{% for product in site.products  %}
-			{% if product.cat == "CNAME" %}
+			{% if product.cat == "CLAB" %}
 				<div class="product simpleCart_shelfItem">
 					<h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
 					<img class="product-img image" src="{{product.img_path}}" alt="">
@@ -89,7 +89,7 @@ title: seo_title
 BREADCRUMB
 <div class="products">
     {% for product in site.products %}
-		{% if product.cat == "CNAME" and product.subcat == "SNAME"%}
+		{% if product.cat == "CLAB" and product.subcat == "SLAB"%}
 				<div class="product simpleCart_shelfItem">
 					<h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
 					<img class="product-img image" src="{{product.img_path}}" alt="">
@@ -121,7 +121,7 @@ title: seo_title
 BREADCRUMB
 <div class="products tile is-ancestor">
     {% for product in site.products %}
-		{% if product.cat == "CNAME" and product.subcat == "SNAME" and product.subusbcat == "SSNAME"%}
+		{% if product.cat == "LAB" and product.subcat == "SLAB" and product.subusbcat == "SSLAB"%}
 				<div class="product simpleCart_shelfItem">
 					<h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
 					<img class="product-img image" src="{{product.img_path}}" alt="">
@@ -152,65 +152,73 @@ with open('_data/cats.yml') as f:
 
 
 
-print('CATS')
 for cat in CATS:
-	cname = cat['maincat']
+	cname = cat['maincat']['name']
+	clab = cat['maincat']['label']
+	#print(cname)
 	breadcrumb = make_breadcrumbs(cname=cname)
 	seo_title = make_seo_title(cname=cname)
-	f = open('{}.html'.format(cat['maincat']).replace(' ', '_'), 'w')
-	content = CAT_PAGE.replace('PATH', cat['maincat'])
-	content = content.replace('CNAME', cname)
+	fname = cname.replace(' ', '_') + '.html'
+	f = open(fname, 'w')
+	content = CAT_PAGE.replace('PATH', cname)
+	content = content.replace('CLAB', clab)
 	content = content.replace('BREADCRUMB', breadcrumb)
 	content = content.replace('seo_title', seo_title)
 	f.write(content)
 	f.close()
-	print("[+] " + cat['maincat'])
-
-print('CATS->SUBCATS')
+	#print("[+] " + cname)
+print("[+] CATS DONE")
 for cat in CATS:
-	cname = cat['maincat']
+	cname = cat['maincat']['name']
+	clab = cat['maincat']['label']
 	try:
 		for subcat in cat['subcats']:
 			sname = subcat['name']
+			slab = subcat['label']
 			breadcrumb = make_breadcrumbs(cname=cname,sname=sname)
 			seo_title = make_seo_title(cname=cname, sname=sname)
 			path = '{} {}'.format(cname, sname)
 			f = open(path.replace(' ', '_') + '.html', 'w')
 			content = SUBCAT_PAGE.replace('PATH', path)
-			content = content.replace('CNAME', cname)
-			content = content.replace('SNAME', sname)
+			content = content.replace('CLAB', clab)
+			content = content.replace('SLAB', slab)
 			content = content.replace('BREADCRUMB', breadcrumb)
 			content = content.replace('seo_title', seo_title)
 			f.write(content)
 			f.close()
-			print('[+]' + path)
+			#print('[+]' + path)
 	except Exception as e:
 				print(e)
 
-print('CAT->SUBCATS->SUBSUBCATS')
+print('[+] SUBCAT DONE')
 for cat in CATS:
-	cname = cat['maincat']
+	cname = cat['maincat']['name']
+	clab = cat['maincat']['label']
 	try:
 		for subcat in cat['subcats']:
 			sname = subcat['name']
+			slab = subcat['label']
 			try:
 				for subsubcat in subcat['subsubcats']:
-					ssname = subsubcat
+					ssname = subsubcat['name']
+					sslab = subsubcat['label']
+					#print(ssname)
 					breadcrumb = make_breadcrumbs(cname=cname,sname=sname, ssname=ssname)
 					seo_title = make_seo_title(cname=cname, sname=sname, ssname=ssname)
 					path = '{} {} {}'.format(cname, sname, ssname)
 					f = open(path.replace(' ', '_') + '.html', 'w')
 					content = SUBSUBCAT_PAGE.replace('PATH', path)
-					content = content.replace('CNAME', cname)
-					content = content.replace('SNAME', sname)
-					content = content.replace('SSNAME', ssname)
+					content = content.replace('CLAB', clab)
+					content = content.replace('SLAB', slab)
+					content = content.replace('SSLAB', sslab)
 					content = content.replace('BREADCRUMB', breadcrumb)
 					content = content.replace('seo_title', seo_title)
 					f.write(content)
 					f.close()
-					print('[+]' + path)
+					#print('[+]' + path)
 			except Exception as e:
+				
 				print(e)
 	except:
 		pass
-
+print("[+] SUBSUBCAT DONE")
