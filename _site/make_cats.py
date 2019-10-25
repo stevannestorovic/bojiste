@@ -34,7 +34,7 @@ layout: default
 <div class="products">
     {% for product in site.products %}
         <div class="product simpleCart_shelfItem card">
-            <img class="product-img"src="{{product.img_path}}" alt="">
+            <img class="product-img" data-src="{{product.img_path}}" alt="">
             <div class="product-data is-left-txt">
                 <h4 class="product-name item_name">{{product.title}}</h4>
                 <p class="product-description"> {{product.desc}}</p>
@@ -62,7 +62,7 @@ title: seo_title
 			{% if product.cat == "CLAB" %}
 				<div class="product simpleCart_shelfItem">
 					<h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
-					<img class="product-img image" src="{{product.img_path}}" alt="">
+					<img class="product-img image" data-src="{{product.img_path}}" alt="">
 					<div class="product-data">
 						<p class="product-description"> {{product.desc}}</p>
 						<strong class="product-price is-main-txt item_price">{{product.price}} <small>RSD</small></strong>
@@ -92,7 +92,7 @@ BREADCRUMB
 		{% if product.cat == "CLAB" and product.subcat == "SLAB"%}
 				<div class="product simpleCart_shelfItem">
 					<h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
-					<img class="product-img image" src="{{product.img_path}}" alt="">
+					<img class="product-img image" data-src="{{product.img_path}}" alt="">
 					<div class="product-data">
 						<p class="product-description"> {{product.desc}}</p>
 						<strong class="product-price is-main-txt item_price">{{product.price}} <small>RSD</small></strong>
@@ -124,7 +124,7 @@ BREADCRUMB
 		{% if product.cat == "LAB" and product.subcat == "SLAB" and product.subusbcat == "SSLAB"%}
 				<div class="product simpleCart_shelfItem">
 					<h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
-					<img class="product-img image" src="{{product.img_path}}" alt="">
+					<img class="product-img image" data-src="{{product.img_path}}" alt="">
 					<div class="product-data">
 						<p class="product-description"> {{product.desc}}</p>
 						<strong class="product-price is-main-txt item_price">{{product.price}} <small>RSD</small></strong>
