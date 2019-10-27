@@ -73,7 +73,7 @@ collections:
         options: [
 	          {label: "Plasticne Makete", value: "Plasticne Makete"},
           
-	          {label: "Akrilne Boje", value: "Akrilne Boje"},
+	          {label: "Akril", value: "Akrilne Boje"},
           
 	          {label: "AMMO OILBRUSHERS", value: "AMMO OILBRUSHERS"},
           
@@ -81,11 +81,11 @@ collections:
           
 	          {label: "ABTEILUNG 502", value: "ABTEILUNG 502"},
           
+	          {label: "Weathering", value: "Weathering"},
+          
 	          {label: "Alat i dodaci", value: "Alat i dodaci"},
           
 	          {label: "Diorame", value: "Diorame"},
-          
-	          {label: "PhotoEtch", value: "PhotoEtch"},
           
 	          {label: "Knjige, casopisi, MERCH", value: "Knjige, casopisi, MERCH"}
 	        ],
@@ -100,6 +100,14 @@ collections:
               {label: "Plasticne Makete->MINIART", value: "PM-MINIART"},
 	          
               {label: "Plasticne Makete->TAKOM", value: "PM-TAKOM"},
+	          
+              {label: "Plasticne Makete->Tamiya", value: "PM-TAMIYA"},
+	          
+              {label: "Plasticne Makete->Eduard", value: "PM-EDUARD"},
+	          
+              {label: "Plasticne Makete->Italeri", value: "PM-ITALERI"},
+	          
+              {label: "Plasticne Makete->Dragon", value: "PM-DRAGON"},
 	          
               {label: "Plasticne Makete->KINETIC", value: "PM-KINETIC"},
 	          
@@ -151,15 +159,19 @@ collections:
 	          
               {label: "Plasticne Makete->OSTALO", value: "PM-OSTALO"},
 	          
-              {label: "Akrilne Boje->AMMO", value: "AB-AMMO"},
+              {label: "Akril->AMMO", value: "AB-AMMO"},
 	          
-              {label: "Akrilne Boje->AK-MENG", value: "AB-AK-MENG"},
+              {label: "Akril->AK-MENG", value: "AB-AK-MENG"},
 	          
-              {label: "Akrilne Boje->AK Interactive-MIG PRODUCTIONS", value: "AB-AK Interactive-MIG PRODUCTIONS"},
+              {label: "Akril->AK Interactive-MIG PRODUCTIONS", value: "AB-AK Interactive-MIG PRODUCTIONS"},
 	          
-              {label: "Akrilne Boje->ABTELLUNG", value: "AB-ABTELLUNG"},
+              {label: "Akril->ABTELLUNG", value: "AB-ABTELLUNG"},
 	          
-              {label: "Akrilne Boje->MIG PRODUCTIONS", value: "AB-MIG PRODUCTIONS"},
+              {label: "Akril->MIG PRODUCTIONS", value: "AB-MIG PRODUCTIONS"},
+	          
+              {label: "ALCLAD II METALIC BOJE->ALCLAD II 30mL", value: "ALC-30mL"},
+	          
+              {label: "ALCLAD II METALIC BOJE->Titans AMMO 400mL", value: "ALC-Titans AMMO 400mL"},
 	          
               {label: "ABTEILUNG 502->OIL PAINTS", value: "ABT-OIL PAINTS"},
 	          
@@ -169,6 +181,20 @@ collections:
 	          
               {label: "ABTEILUNG 502->OSTALO", value: "ABT-OSTALO"},
 	          
+              {label: "Weathering->Emajl vash", value: "wet-emajl wash"},
+	          
+              {label: "Weathering->Emajl Panelni vash", value: "wet-Emajl Panelni vash"},
+	          
+              {label: "Weathering->Filteri", value: "wet-filteri"},
+	          
+              {label: "Weathering->Emajl Efekti", value: "wet-Emajl Efekti"},
+	          
+              {label: "Weathering->Pigmenti", value: "wet-pigmenti"},
+	          
+              {label: "Weathering->Setovi", value: "wet-setovi"},
+	          
+              {label: "Weathering->Dodaci", value: "wet-dodaci"},
+	          
               {label: "Alat i dodaci->AMMO", value: "AL-AMMO"},
 	          
               {label: "Alat i dodaci->AK Interactive", value: "AL-AK Interactive"},
@@ -177,15 +203,13 @@ collections:
 	          
               {label: "Alat i dodaci->ABTEILUNG 502", value: "AL-ABTEILUNG 502"},
 	          
+              {label: "Alat i dodaci->Tamiya", value: "AL-tamiya"},
+	          
               {label: "Alat i dodaci->MENG", value: "AL-MENG"},
 	          
               {label: "Diorame->AMMO", value: "DI-AMMO"},
 	          
               {label: "Diorame->AK Interactive", value: "DI-AK Interactive"},
-	          
-              {label: "PhotoEtch->DREAM MODEL PE SETOVI", value: "PE-DREAM MODEL PE SETOVI"},
-	          
-              {label: "PhotoEtch->TAMYA", value: "PE-TAMYA"},
 	          
               {label: "Knjige, casopisi, MERCH->AMMO", value: "KNJ-AMMO"},
 	          
@@ -206,157 +230,154 @@ collections:
 	      
 	      
               
-                {label: "Akrilne Boje->AMMO->POJEDINACNE BOJE", value: ""},
+                {label: "Akril->AMMO->Pojedinacne Boje", value: "AkrilneBoje-AMMO-POJEDINACNE BOJE"},
 	            
               
-                {label: "Akrilne Boje->AMMO->SETOVI AKRILNIH BOJA", value: "AB-AM-SETOVI AKRILNIH BOJA"},
+                {label: "Akril->AMMO->Setovi Akrlinih Boja", value: "AkrilneBoje-AMMO-SETOVI AKRILNIH BOJA"},
 	            
               
-                {label: "Akrilne Boje->AMMO->AKRILNI PRAJMERI", value: "AB-AM-AKRILNI PRAJMERI"},
+                {label: "Akril->AMMO->Akrilni Prajmeri", value: "AkrilneBoje-AMMO-AKRILNI PRAJMERI"},
 	            
               
-                {label: "Akrilne Boje->AMMO->AKRILNI RAZREDJIVACI", value: "AB-AM-AKRILNI RAZREDJIVACI"},
+                {label: "Akril->AMMO->Akrilni Dodaci", value: ""},
 	            
               
-                {label: "Akrilne Boje->AMMO->SETOVI ZA MODULACIJU", value: "AB-AM-SETOVI ZA MODULACIJU"},
+                {label: "Akril->AK-MENG->AK Real Colors", value: "AkrilneBoje-AKMENG-AK REAL COLORS"},
 	            
               
-                {label: "Akrilne Boje->AMMO->WARGAMERS SETOVI BOJA", value: "AB-AM-WARGAMERS SETOVI BOJA"},
+                {label: "Akril->AK-MENG->AK Sprej", value: "AkrilneBoje-AKMENG-AK SPREJ"},
 	            
               
-                {label: "Akrilne Boje->AK-MENG->AK REAL COLORS", value: "AB-MENG-AK REAL COLORS"},
+                {label: "Akril->AK-MENG->AK Akrilne Boje", value: "AkrilneBoje-AKMENG-AK AKRILNE BOJE"},
 	            
               
-                {label: "Akrilne Boje->AK-MENG->AK SPREJ", value: "AB-MENG-AK SPREJ"},
+                {label: "Akril->AK-MENG->True Metal", value: "AkrilneBoje-AKMENG-TRUE METAL"},
 	            
               
-                {label: "Akrilne Boje->AK-MENG->AK AKRLINE BOJE", value: "AB-MENG-AK AKRILNE BOJE"},
+                {label: "Akril->AK-MENG->Tamiya", value: "AkrilneBoje-AKMENG-tamiya"},
 	            
               
-                {label: "Akrilne Boje->AK-MENG->TRUE METAL", value: "AB-MENG-TRUE METAL"},
+                {label: "Akril->AK-MENG->XTREME METAL", value: "AkrilneBoje-AKMENG-XTREME METAL"},
 	            
               
-                {label: "Akrilne Boje->AK-MENG->XTREME METAL", value: "AB-MENG-XTREME METAL"},
+                {label: "Akril->AK-MENG->Meng Pojedinacne Boje", value: "AkrilneBoje-AKMENG-MENG POJEDINACNE BOJE 17ML"},
 	            
               
-                {label: "Akrilne Boje->AK-MENG->MENG POJEDINACNE BOJE 17ML", value: "AB-MENG-MENG POJEDINACNE BOJE 17ML"},
+                {label: "Akril->AK-MENG->Meng Setovi Boja", value: "AkrilneBoje-AKMENG-MENG SETOVI BOJA"},
 	            
               
-                {label: "Akrilne Boje->AK-MENG->MENG SETOVI BOJA", value: "AB-MENG-MENG SETOVI BOJA"},
+                {label: "Akril->AK Interactive-MIG PRODUCTIONS->AK Olovke za Weathering", value: "AkrilneBoje-AK Interactive-AK OLOVKE ZA WEATHERING"},
 	            
               
-                {label: "Akrilne Boje->AK Interactive-MIG PRODUCTIONS->AK OLOVKE ZA WEATHERING", value: "AB-IN-AK OLOVKE ZA WEATHERING"},
+                {label: "Akril->AK Interactive-MIG PRODUCTIONS->WASH", value: "AkrilneBoje-AK Interactive-WASH"},
 	            
               
-                {label: "Akrilne Boje->AK Interactive-MIG PRODUCTIONS->WASH", value: "AB-IN-WASH"},
+                {label: "Akril->AK Interactive-MIG PRODUCTIONS->PIGMENTI", value: "AkrilneBoje-AK Interactive-PIGMENTI"},
 	            
               
-                {label: "Akrilne Boje->AK Interactive-MIG PRODUCTIONS->PIGMENTI", value: "AB-IN-PIGMENTI"},
+                {label: "Akril->AK Interactive-MIG PRODUCTIONS->FILTERI", value: "AkrilneBoje-AK Interactive-FILTERI"},
 	            
               
-                {label: "Akrilne Boje->AK Interactive-MIG PRODUCTIONS->FILTERI", value: "AB-IN-FILTERI"},
+                {label: "Akril->AK Interactive-MIG PRODUCTIONS->NATURE EFEKTI", value: "AkrilneBoje-AK Interactive-NATURE EFEKTI"},
 	            
               
-                {label: "Akrilne Boje->AK Interactive-MIG PRODUCTIONS->NATURE EFEKTI", value: "AB-IN-NATURE EFEKTI"},
+                {label: "Akril->AK Interactive-MIG PRODUCTIONS->CHIPPING PROIZVODI", value: "AkrilneBoje-AK Interactive-CHIPPING PROIZVODI"},
 	            
               
-                {label: "Akrilne Boje->AK Interactive-MIG PRODUCTIONS->CHIPPING PROIZVODI", value: "AB-IN-CHIPPING PROIZVODI"},
+                {label: "Akril->AK Interactive-MIG PRODUCTIONS->BLATO EFEKTI", value: "AkrilneBoje-AK Interactive-BLATO EFEKTI"},
 	            
               
-                {label: "Akrilne Boje->AK Interactive-MIG PRODUCTIONS->BLATO EFEKTI", value: "AB-IN-BLATO EFEKTI"},
+                {label: "Akril->AK Interactive-MIG PRODUCTIONS->WEATHERING SETOVI", value: "AkrilneBoje-AK Interactive-WEATHERING SETOVI"},
 	            
               
-                {label: "Akrilne Boje->AK Interactive-MIG PRODUCTIONS->WEATHERING SETOVI", value: "AB-IN-WEATHERING SETOVI"},
+                {label: "Alat i dodaci->AMMO->IRBRUSH", value: "Alati-AMMO-AIRBRUSH"},
 	            
               
-                {label: "Alat i dodaci->AMMO->IRBRUSH", value: "AL-AM-AIRBRUSH"},
+                {label: "Alat i dodaci->AMMO->CETKICE", value: "Alati-AMMO-CETKICE"},
 	            
               
-                {label: "Alat i dodaci->AMMO->CETKICE", value: "AL-AM-CETKICE"},
+                {label: "Alat i dodaci->AMMO->SISTEMI POLICA", value: "Alati-AMMO-SISTEMI POLICA"},
 	            
               
-                {label: "Alat i dodaci->AMMO->SISTEMI POLICA", value: "AL-AM-SISTEMI POLICA"},
+                {label: "Alat i dodaci->AMMO->Lepkovi i Hemija", value: "Alati-lepkovi i hemija"},
 	            
               
-                {label: "Alat i dodaci->AMMO->RIGGING", value: "AL-AM-RIGGING"},
+                {label: "Alat i dodaci->AMMO->RAZNO", value: "Alati-AMMO-RAZNO"},
 	            
               
-                {label: "Alat i dodaci->AMMO->RAZNO", value: "AL-AM-RAZNO"},
+                {label: "Alat i dodaci->AK Interactive->PRIBOR", value: "Alati-AKInteractive-PRIBOR"},
 	            
               
-                {label: "Alat i dodaci->AK Interactive->PRIBOR", value: "AL-AK-PRIBOR"},
+                {label: "Alat i dodaci->AK Interactive->FAROVI", value: "Alati-AKInteractive-FAROVI"},
 	            
               
-                {label: "Alat i dodaci->AK Interactive->FAROVI", value: "AL-AK-FAROVI"},
+                {label: "Alat i dodaci->AK Interactive->METALNE GUSENICE", value: "Alati-AKInteractive-METALNE GUSENICE"},
 	            
               
-                {label: "Alat i dodaci->AK Interactive->METALNE GUSENICE", value: "AL-AK-METALNE GUSENICE"},
+                {label: "Alat i dodaci->AK Interactive->DEKALI", value: "Alati-AKInteractive-DEKALI"},
 	            
               
-                {label: "Alat i dodaci->AK Interactive->DEKALI", value: "AL-AK-DEKALI"},
+                {label: "Alat i dodaci->AK Interactive->RAZNO", value: "Alati-AKInteractive-RAZNO"},
 	            
               
-                {label: "Alat i dodaci->AK Interactive->RAZNO", value: "AL-AK-RAZNO"},
+                {label: "Diorame->AMMO->TRAVNATE PODLOGE", value: "Diorame-AMMO-TRAVNATE PODLOGE"},
 	            
               
-                {label: "Diorame->AMMO->TRAVNATE PODLOGE", value: "DI-AM-TRAVNATE PODLOGE"},
+                {label: "Diorame->AMMO->LISCE", value: "Diorame-AMMO-LISCE"},
 	            
               
-                {label: "Diorame->AMMO->LISCE", value: "DI-AM-LISCE"},
+                {label: "Diorame->AMMO->BILJKE", value: "Diorame-AMMO-BILJKE"},
 	            
               
-                {label: "Diorame->AMMO->BILJKE", value: "DI-AM-BILJKE"},
+                {label: "Diorame->AMMO->ARKILNE TEKSTURE", value: "Diorame-AMMO-AKRILNE TEKSTURE"},
 	            
               
-                {label: "Diorame->AMMO->ARKILNE TEKSTURE", value: "DI-AM-AKRILNE TEKSTURE"},
+                {label: "Diorame->AK Interactive->LISCE", value: "Diorame-AKInteractive-LISCE"},
 	            
               
-                {label: "Diorame->AK Interactive->LISCE", value: "DI-AK-LISCE"},
+                {label: "Diorame->AK Interactive->BILJKE", value: "Diorame-AKInteractive-BILJKE"},
 	            
               
-                {label: "Diorame->AK Interactive->BILJKE", value: "DI-AK-BILJKE"},
+                {label: "Diorame->AK Interactive->TRAVA", value: "Diorame-AKInteractive-TRAVA"},
 	            
               
-                {label: "Diorame->AK Interactive->TRAVA", value: "DI-AK-TRAVA"},
+                {label: "Diorame->AK Interactive->AKRILNE TEKSTURE", value: "Diorame-AKInteractive-AKRILNE TEKSTURE"},
 	            
               
-                {label: "Diorame->AK Interactive->AKRILNE TEKSTURE", value: "DI-AK-AKRILNE TEKSTURE"},
+                {label: "Diorame->AK Interactive->PLUTENE PLOCICE", value: "Diorame-AKInteractive-PLUTENE PLOCICE"},
 	            
               
-                {label: "Diorame->AK Interactive->PLUTENE PLOCICE", value: "DI-AK-PLUTENE PLOCICE"},
+                {label: "Diorame->AK Interactive->POLISTIRENSKE PLOCICE", value: "Diorame-AKInteractive-POLISTIRENSKE PLOCICE"},
 	            
               
-                {label: "Diorame->AK Interactive->POLISTIRENSKE PLOCICE", value: "DI-AK-POLISTIRENSKE PLOCICE"},
+                {label: "Knjige, casopisi, MERCH->AMMO->KNJIGE I CASOPISI", value: "Knjige-AMMO-KNJIGE I CASOPISI"},
 	            
               
-                {label: "Knjige, casopisi, MERCH->AMMO->KNJIGE I CASOPISI", value: "KNJ-AM-KNJIGE I CASOPISI"},
+                {label: "Knjige, casopisi, MERCH->AMMO->MAJCE I TRENERKE", value: "Knjige-AMMO-MAJCE I TRENERKE"},
 	            
               
-                {label: "Knjige, casopisi, MERCH->AMMO->MAJCE I TRENERKE", value: "KNJ-AM-MAJCE I TRENERKE"},
+                {label: "Knjige, casopisi, MERCH->AK Interactive->KNIJGE I CASOPISI", value: "Knjige-AKInteractive-KNJIGE I CASOPISI"},
 	            
               
-                {label: "Knjige, casopisi, MERCH->AK Interactive->KNIJGE I CASOPISI", value: "KNJ-AK-KNJIGE I CASOPISI"},
+                {label: "Knjige, casopisi, MERCH->AK Interactive->MAJCE", value: "Knjige-AKInteractive-MAJCE"},
 	            
               
-                {label: "Knjige, casopisi, MERCH->AK Interactive->MAJCE", value: "KNJ-AK-MAJCE"},
+                {label: "Knjige, casopisi, MERCH->AK Interactive->OSTALO", value: "Knjige-AKInteractive-OSTALO"},
 	            
               
-                {label: "Knjige, casopisi, MERCH->AK Interactive->OSTALO", value: "KNJ-AK-OSTALO"},
+                {label: "Knjige, casopisi, MERCH->ABTEILUNG 502->KNJIGE I CASOPISI", value: "Knjige-Abteilung-KNJIGE I CASOPISI"},
 	            
               
-                {label: "Knjige, casopisi, MERCH->ABTEILUNG 502->KNJIGE I CASOPISI", value: "KNJ-ABT-KNJIGE I CASOPISI"},
+                {label: "Knjige, casopisi, MERCH->ABTEILUNG 502->MAJCE", value: "Knjige-Abteilung-MAJCE"},
 	            
               
-                {label: "Knjige, casopisi, MERCH->ABTEILUNG 502->MAJCE", value: "KNJ-ABT-MAJCE"},
+                {label: "Knjige, casopisi, MERCH->ABTEILUNG 502->OSTALO", value: "Knjige-Abteilung-OSTALO"},
 	            
               
-                {label: "Knjige, casopisi, MERCH->ABTEILUNG 502->OSTALO", value: "KNJ-ABT-OSTALO"},
+                {label: "Knjige, casopisi, MERCH->MIG PRODUCTIONS->KNJIGE I CASOPISI", value: "Knjige-MIG-KNJIGE I CASOPISI"},
 	            
               
-                {label: "Knjige, casopisi, MERCH->MIG PRODUCTIONS->KNJIGE I CASOPISI", value: "KNJ-MIG-KNJIGE I CASOPISI"},
-	            
-              
-                {label: "Knjige, casopisi, MERCH->MIG PRODUCTIONS->OSTALO", value: "KNJ-MIG-OSTALO"},
+                {label: "Knjige, casopisi, MERCH->MIG PRODUCTIONS->OSTALO", value: "Knjige-MIG-OSTALO"},
 	            ],
 	      default: "",
         required: false}

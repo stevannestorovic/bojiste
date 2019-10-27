@@ -119,6 +119,7 @@ title: seo_title
 <div class="section">
 <div class="container">
 BREADCRUMB
+FILTERS
 <div class="products tile is-ancestor">
     {% for product in site.products %}
 		{% if product.cat == "LAB" and product.subcat == "SLAB" and product.subusbcat == "SSLAB"%}
@@ -201,6 +202,7 @@ for cat in CATS:
 			try:
 				for subsubcat in subcat['subsubcats']:
 					ssname = subsubcat['name']
+					filters = subsubcat['filters']
 					sslab = subsubcat['label']
 					#print(ssname)
 					breadcrumb = make_breadcrumbs(cname=cname,sname=sname, ssname=ssname)
@@ -212,6 +214,7 @@ for cat in CATS:
 					content = content.replace('SLAB', slab)
 					content = content.replace('SSLAB', sslab)
 					content = content.replace('BREADCRUMB', breadcrumb)
+					content = content.replace('FILTERS', filters)
 					content = content.replace('seo_title', seo_title)
 					f.write(content)
 					f.close()
