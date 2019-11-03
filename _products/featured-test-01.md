@@ -1,8 +1,8 @@
 ---
 layout: product
-title: featured-test-01
+title: featured-test-02
 price: '20'
-desc: metalik boja za bojenje
+desc: 'periva boja akrilna za bojenje maketa '
 brand: Choose brand
 available: true
 special_offer: true
