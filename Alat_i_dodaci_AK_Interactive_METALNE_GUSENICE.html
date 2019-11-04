@@ -6,10 +6,11 @@ title: Alat i dodaci - AK Interactive - METALNE GUSENICE
 <div class="section">
 <div class="container">
 <nav class="breadcrumb has-arrow-separator" aria-label="breadcrumbs"><ul><li><a href="Alat_i_dodaci.html">Alat i dodaci</a></li><li><a href="Alat_i_dodaci_AK_Interactive.html">AK Interactive</a></li><li><a href="Alat_i_dodaci_AK_InteractiveMETALNE_GUSENICE.html">METALNE GUSENICE</a></li></ul></nav>
+<div class="filters" data-filter=""></div>
 
 <div class="products tile is-ancestor">
     {% for product in site.products %}
-		{% if product.cat == "LAB" and product.subcat == "AL-AK Interactive" and product.subusbcat == "SAL-AK Interactive"%}
+		{% if product.cat == "Alat-i-dodaci" and product.subcat == "AL-AK-Interactive" and product.subsubcat == "Alati-AKInteractive-METALNE GUSENICE"%}
 				<div class="product simpleCart_shelfItem">
 					<h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
 					<img class="product-img image" data-src="{{product.img_path}}" alt="">

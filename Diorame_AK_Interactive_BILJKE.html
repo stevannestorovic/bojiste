@@ -6,10 +6,11 @@ title: Diorame - AK Interactive - BILJKE
 <div class="section">
 <div class="container">
 <nav class="breadcrumb has-arrow-separator" aria-label="breadcrumbs"><ul><li><a href="Diorame.html">Diorame</a></li><li><a href="Diorame_AK_Interactive.html">AK Interactive</a></li><li><a href="Diorame_AK_InteractiveBILJKE.html">BILJKE</a></li></ul></nav>
+<div class="filters" data-filter=""></div>
 
 <div class="products tile is-ancestor">
     {% for product in site.products %}
-		{% if product.cat == "LAB" and product.subcat == "DI-AK Interactive" and product.subusbcat == "SDI-AK Interactive"%}
+		{% if product.cat == "Diorame" and product.subcat == "DI-AK-Interactive" and product.subsubcat == "Diorame-AKInteractive-BILJKE"%}
 				<div class="product simpleCart_shelfItem">
 					<h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
 					<img class="product-img image" data-src="{{product.img_path}}" alt="">

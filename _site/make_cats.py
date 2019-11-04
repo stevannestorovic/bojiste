@@ -119,10 +119,11 @@ title: seo_title
 <div class="section">
 <div class="container">
 BREADCRUMB
-FILTERS
+<div class="filters" data-filter="FILTERS"></div>
+SCRIPT
 <div class="products tile is-ancestor">
     {% for product in site.products %}
-		{% if product.cat == "LAB" and product.subcat == "SLAB" and product.subusbcat == "SSLAB"%}
+		{% if product.cat == "CLAB" and product.subcat == "SLAB" and product.subsubcat == "SUBSUBLAB"%}
 				<div class="product simpleCart_shelfItem">
 					<h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
 					<img class="product-img image" data-src="{{product.img_path}}" alt="">
@@ -195,33 +196,47 @@ print('[+] SUBCAT DONE')
 for cat in CATS:
 	cname = cat['maincat']['name']
 	clab = cat['maincat']['label']
-	try:
+	#try:
+	if 'subcats' in cat.keys():
 		for subcat in cat['subcats']:
 			sname = subcat['name']
 			slab = subcat['label']
-			try:
+			#try:
+			if 'subsubcats' in subcat.keys():
 				for subsubcat in subcat['subsubcats']:
 					ssname = subsubcat['name']
-					filters = subsubcat['filters']
-					sslab = subsubcat['label']
+					if 'filters' in subsubcat.keys():
+						filters = subsubcat['filters']
+						script_tag = '<script defer src="/assets/js/filters.js"></script>'
+					else:
+						filters = ""
+						script_tag = ""
+					if 'label' in subsubcat.keys():
+						sslab = subsubcat['label']
+					else:
+						print(subsubcat)
+						exit(1)
 					#print(ssname)
 					breadcrumb = make_breadcrumbs(cname=cname,sname=sname, ssname=ssname)
 					seo_title = make_seo_title(cname=cname, sname=sname, ssname=ssname)
 					path = '{} {} {}'.format(cname, sname, ssname)
 					f = open(path.replace(' ', '_') + '.html', 'w')
-					content = SUBSUBCAT_PAGE.replace('PATH', path)
+					content = SUBSUBCAT_PAGE
 					content = content.replace('CLAB', clab)
 					content = content.replace('SLAB', slab)
-					content = content.replace('SSLAB', sslab)
+					content = content.replace('SUBSUBLAB', sslab)
 					content = content.replace('BREADCRUMB', breadcrumb)
-					content = content.replace('FILTERS', filters)
+					content = content.replace('FILTERS', str(filters))
+					content = content.replace('SCRIPT', script_tag)
 					content = content.replace('seo_title', seo_title)
 					f.write(content)
 					f.close()
-					#print('[+]' + path)
-			except Exception as e:
-				
-				print(e)
-	except:
-		pass
+						#print('[+]' + path)
+					#except Exception as e:
+					#	print(subsubcat)	
+			else:
+				print("[!] no subsubcat")	
+		
+	#except:
+	#	pass
 print("[+] SUBSUBCAT DONE")

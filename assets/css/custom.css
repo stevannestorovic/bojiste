@@ -42,6 +42,7 @@
 
 .product-panel-title {
 	font-size: 1.5em;
+	display: block;	
 1
 }
 
@@ -128,6 +129,23 @@
     margin: 0;
 }
 /* end products */
+
+/* filters */
+.filters {
+	margin-bottom: 15px;
+	text-align: center;
+	background-color: whitesmoke;
+	padding: 30px;
+}
+
+.filters input {
+	margin-right: 5px;
+}
+
+.filter label {
+	margin-right: 5px;
+}
+/* end filters */
 
 /* brands */
 .brands-header {
@@ -283,6 +301,10 @@ tr:nth-child(odd) {
     outline: inherit;
 }
 
+.cta-button {
+	background-opacity: .6;
+	padding: 30px;
+}
 hr {
     border:0;
     height:1px;

@@ -7,8 +7,8 @@ brand: Choose brand
 available: true
 special_offer: true
 soon: false
-cat: Akrilne Boje
+cat: Akrilne-Boje
 subcat: AB-AMMO
-subsubcat: AkrilneBoje-AMMO-POJEDINACNE BOJE
+subsubcat: AkrilneBoje-AMMO-POJEDINACNE-BOJE
 ---
 

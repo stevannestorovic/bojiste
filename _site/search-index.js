@@ -9317,6 +9317,28 @@ let data = [
 		subsubcat: "SS"
 	},
  
+	{
+		id: 848,
+		name: "feature-test-03",
+		desc: "Kristal boja za bojenje, AMMO",
+		price: "450",
+		img_path: "",
+		cat: "Akrilne-Boje",
+		subcat: "AB-AMMO",
+		subsubcat: "AkrilneBoje-AMMO-POJEDINACNE-BOJE"
+	},
+ 
+	{
+		id: 849,
+		name: "featured-test-02",
+		desc: "periva boja akrilna za bojenje maketa ",
+		price: "20",
+		img_path: "",
+		cat: "Akrilne-Boje",
+		subcat: "AB-AMMO",
+		subsubcat: "AkrilneBoje-AMMO-POJEDINACNE-BOJE"
+	},
+ 
 ];
 
 
