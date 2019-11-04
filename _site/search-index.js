@@ -9322,7 +9322,7 @@ let data = [
 		name: "feature-test-03",
 		desc: "Kristal boja za bojenje, AMMO",
 		price: "450",
-		img_path: "",
+		img_path: "/assets/img/A.MIG-0001.jpg",
 		cat: "Akrilne-Boje",
 		subcat: "AB-AMMO",
 		subsubcat: "AkrilneBoje-AMMO-POJEDINACNE-BOJE"
@@ -9333,7 +9333,7 @@ let data = [
 		name: "featured-test-02",
 		desc: "periva boja akrilna za bojenje maketa ",
 		price: "20",
-		img_path: "",
+		img_path: "/assets/img/A.MIG-0001.jpg",
 		cat: "Akrilne-Boje",
 		subcat: "AB-AMMO",
 		subsubcat: "AkrilneBoje-AMMO-POJEDINACNE-BOJE"

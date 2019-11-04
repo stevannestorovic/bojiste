@@ -2,8 +2,9 @@
 	<h2 class="product-panel-title">
 	Preporuka
 	</h2>
+	<div class="panel-products">
 	{% for product in site.products  %}
-		{%- if product.special_offer -%}
+		{% if product.special_offer %}
 			<div class="panel-product">
 				<h3>{{product.title}}</h3>
 				<img src="{{product.img_path}}">
@@ -11,6 +12,7 @@
 					{{product.desc}}
 				</p>
 			</div>
-		{%- endif -%}
+		{% endif %}
 	{% endfor %}
+	</div>
 </div>

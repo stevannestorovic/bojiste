@@ -2,7 +2,7 @@
 	<h2 class="product-panel-title">
 	Uskoro
 	</h2>
-	<br>
+	<div class="panel-products"> 
 	{% for product in site.products %}
 		{%- if product.soon -%}
 		<div class="panel-product">
@@ -14,4 +14,6 @@
 		</div>
 		{%- endif -%}
 	{% endfor %}
+	</div>
 </div>
+
