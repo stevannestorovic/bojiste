@@ -1,4 +1,4 @@
-- maincat: {name: "Plasticne Makete", label: "Plasticne-Makete"}
+- maincat: {name: "Plastične Makete", label: "Plasticne-Makete"}
   subcats: [{name: "MINIART", label: "PM-MINIART"}, 
             {name: "TAKOM", label: "PM-TAKOM"},
             {name: "Tamiya", label: "PM-TAMIYA"},
@@ -32,7 +32,7 @@
             {name: "OSTALO", label: "PM-OSTALO"}] 
 - maincat: {name: "Akril", label: "Akrilne-Boje"}
   subcats: [{name: "AMMO", label: "AB-AMMO",
-             subsubcats: [ {name: "Pojedinacne Boje", label: "AkrilneBoje-AMMO-POJEDINACNE-BOJE", filters: ["periva", "metali", "kristal"]},
+             subsubcats: [ {name: "Pojedinačne Boje", label: "AkrilneBoje-AMMO-POJEDINACNE-BOJE", filters: ["periva", "metali", "kristal"]},
                           {name: "Setovi Akrlinih Boja", label: "AkrilneBoje-AMMO-SETOVI-AKRILNIH-BOJA", filters: ["oklop", "avijacija", "figure", "modulacija"]},
                           {name: "Akrilni Prajmeri", label: "AkrilneBoje-AMMO-AKRILNI-PRAJMERI"},
                           {name: "Akrilni Dodaci", label:  "AkrilneBoje-AMMO-AKRILNI-DODACI"}]},
@@ -66,8 +66,8 @@
             {name: "CETKICE", label: "ABT-CETKICE"}, 
             {name: "OSTALO", label: "ABT-OSTALO"}]
 - maincat: {name: "Weathering", label: "Weathering"}
-  subcats: [{name: "Emajl vash", label: "wet-emajl-wash"},
-            {name: "Emajl Panelni vash", label: "wet-Emajl-Panelni-vash"},
+  subcats: [{name: "Emajl Voš", label: "wet-emajl-wash"},
+            {name: "Emajl Panelni Voš", label: "wet-Emajl-Panelni-vash"},
             {name: "Filteri", label: "wet-filteri"},
             {name: "Emajl Efekti", label: "wet-Emajl-Efekti"},
             {name: "Pigmenti", label: "wet-pigmenti"},
@@ -103,18 +103,18 @@
                           {name: "AKRILNE TEKSTURE", label: "Diorame-AKInteractive-AKRILNE-TEKSTURE"}, 
                           {name: "PLUTENE PLOCICE", label: "Diorame-AKInteractive-PLUTENE-PLOCICE"}, 
                           {name: "POLISTIRENSKE PLOCICE", label: "Diorame-AKInteractive-POLISTIRENSKE-PLOCICE"}]}]
-- maincat: {name: "Knjige, casopisi, MERCH", label: "Knjige, casopisi, MERCH"}
+- maincat: {name: "Knjige, časopisi, MERCH", label: "Knjige,-casopisi,-MERCH"}
   subcats: [{name: "AMMO", label: "KNJ-AMMO",
-             subsubcats: [{name: "KNJIGE I CASOPISI", label: "Knjige-AMMO-KNJIGE-I-CASOPISI"},
-                          {name: "MAJCE I TRENERKE", label: "Knjige-AMMO-MAJCE-I-TRENERKE"}]}, 
+             subsubcats: [{name: "Knjige i časopisi", label: "Knjige-AMMO-KNJIGE-I-CASOPISI"},
+                          {name: "Majce I Trenerke", label: "Knjige-AMMO-MAJCE-I-TRENERKE"}]}, 
             {name: "AK Interactive", label: "KNJ-AK-Interactive",
-             subsubcats: [{name: "KNIJGE I CASOPISI", label: "Knjige-AKInteractive-KNJIGE-I-CASOPISI"}, 
-                          {name: "MAJCE", label: "Knjige-AKInteractive-MAJCE"},
-                          {name: "OSTALO", label: "Knjige-AKInteractive-OSTALO"}]}, 
+             subsubcats: [{name: "Knjige i časopisi", label: "Knjige-AKInteractive-KNJIGE-I-CASOPISI"}, 
+                          {name: "Majce", label: "Knjige-AKInteractive-MAJCE"},
+                          {name: "Ostalo", label: "Knjige-AKInteractive-OSTALO"}]}, 
             {name: "ABTEILUNG 502", label: "KNJ-ABTEILUNG-502",
-             subsubcats: [{name: "KNJIGE I CASOPISI", label: "Knjige-Abteilung-KNJIGE-I-CASOPISI"},
-                          {name: "MAJCE", label: "Knjige-Abteilung-MAJCE"},
-                          {name: "OSTALO", label: "Knjige-Abteilung-OSTALO"}]}, 
-            {name: "MIG PRODUCTIONS", label: "KNJ-MIG PRODUCTIONS",
-             subsubcats: [{name: "KNJIGE I CASOPISI", label: "Knjige-MIG-KNJIGE-I-CASOPISI"}, 
-                          {name: "OSTALO", label: "Knjige-MIG-OSTALO"}]}] 
+             subsubcats: [{name: "Knjige i časopisi", label: "Knjige-Abteilung-KNJIGE-I-CASOPISI"},
+                          {name: "Majce", label: "Knjige-Abteilung-MAJCE"},
+                          {name: "Ostalo", label: "Knjige-Abteilung-OSTALO"}]}, 
+            {name: "MIG PRODUCTIONS", label: "KNJ-MIG-PRODUCTIONS",
+             subsubcats: [{name: "Knjige i časopisi", label: "Knjige-MIG-KNJIGE-I-CASOPISI"}, 
+                          {name: "Ostalo", label: "Knjige-MIG-OSTALO"}]}] 
