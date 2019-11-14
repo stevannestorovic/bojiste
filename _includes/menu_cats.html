@@ -1,0 +1,93 @@
+<div class="menu-wrapper">
+	<button>
+		Meni
+	</button>
+	<div class="menu hidden">
+			<ul class="menu-list menu" id="dropdown-menu" role="menu">
+			{% for cat in site.data.cats %}
+				<li>
+
+					<a href="{{cat.maincat.name | replace: ' ', '_'}}.html">
+						{{cat.maincat.name}}
+						{% if cat.subcats %}
+						<span class="list-expand">&#x25BC;</span>
+						{% endif %}
+					</a>
+					{% if cat.subcats %}
+						<ul class="menu-list menu">
+						{% for subcat in cat.subcats %}
+							<li>
+								<a href="{{cat.maincat.name | replace: ' ', '_'}}_{{subcat.name | replace: ' ', '_'}}.html" class="dropdown-item">
+									{{subcat.name}}
+									{% if subcat.subsubcats %}
+									<span class="list-expand">&#x25BC;</span>
+									{% endif %}
+								</a>
+								{% if subcat.subsubcats %}
+									<ul class="menu-list menu">
+									{% for subsubcat in subcat.subsubcats %}
+										<li>
+											<a href="{{cat.maincat.name | replace: ' ', '_'}}_{{subcat.name | replace: ' ', '_'}}_{{subsubcat.name | replace: ' ', '_'}}.html" class="dropdown-item">
+												{{subsubcat.name}}
+											</a>
+										</li>
+									{% endfor %}
+									</ul>
+								{% endif %}
+							</li>
+						{% endfor %}
+						</ul>
+					{% endif %}
+				</li>
+			{% endfor %}
+			</ul>
+	</div>
+</div>
+
+<script>
+/* Menu wrapper */
+const showMenuText = "Prikaži kategorije";
+const hideMenuText = "Sakriji kategorije";
+
+let menuWrapBtn= document.querySelector(".menu-wrapper button");
+menuWrapBtn.innerText = showMenuText;
+menuWrapBtn.addEventListener("click", e => {
+	let menu = document.querySelector(".menu");
+	menu.classList.toggle("hidden");
+	if (menuWrapBtn.innerText == showMenuText) menuWrapBtn.innerText = hideMenuText;
+	else menuWrapBtn.innerText = showMenuText;
+});
+
+
+/* Menu links */ 
+let allSubmenus = document.querySelectorAll('.menu-list ul');
+allSubmenus.forEach(function (elem) {
+	elem.classList.add('hidden');
+});
+
+let linksLvl1 = document.querySelectorAll('.menu-list li a');
+linksLvl1.forEach(function (elem) {
+	console.clear();
+	console.log(elem);
+	let btn = elem.querySelector('.list-expand');
+	console.table(btn);
+	if(btn != null) {
+		btn.addEventListener('click', function(evt) {
+			console.log('clicked');
+			evt.preventDefault();
+			let menu = evt.target.parentNode.parentNode.querySelector('.menu-list');
+			menu.classList.toggle('hidden');
+		});
+	}
+});
+
+let linksLvl2 = document.querySelectorAll('.menu-list li .menu-list li a');
+linksLvl2.forEach(function (elem) {
+	let btn = document.querySelector('.list-expand');
+	btn.addEventListener('click', function(evt) {
+		evt.preventDefault();
+  		let menu = evt.target.parentNode.parentNode.querySelector('.menu-list');
+    	menu.classList.toggle('hidden');
+  });
+});
+</script>

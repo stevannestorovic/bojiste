@@ -26,34 +26,15 @@ def make_seo_title(cname="", sname="", ssname=""):
 		seo_name += '- {}'.format(ssname)
 	return seo_name
 
-PAGE='''---
-layout: default
----
-<h1>PATH</h1>
-
-<div class="products">
-    {% for product in site.products %}
-        <div class="product simpleCart_shelfItem card">
-            <img class="product-img" data-src="{{product.img_path}}" alt="">
-            <div class="product-data is-left-txt">
-                <h4 class="product-name item_name">{{product.title}}</h4>
-                <p class="product-description"> {{product.desc}}</p>
-                <p class="product-price item_price">{{product.price}}</p>
-		<p class="product-category item_category">{{ product.category }}</p>
-		<p class="product-brand item_brand">{{ product.brand }}</p>
-            </div>
-            <input type="number" value="1" class="item_Quantity">
-	    <a class="item_add btn_buy" href="javascript:;">Kupi</a>
-        </div>
-    {% endfor %}
-</div>
-'''
 
 CAT_PAGE = '''---
 layout: default
 title: seo_title
 ---
-
+<aside> 
+    {% include menu_cats.html %}
+</aside>
+<section>
 <div class="section">
 	<div class="container">
 	BREADCRUMB
@@ -78,12 +59,17 @@ title: seo_title
 	</div>
 	</div>
 </div>
+</section>
 '''
 
 SUBCAT_PAGE = '''---
 layout: default
 title: seo_title
 ---
+<aside>
+    {% include menu_cats.html %}
+</aside>
+<section>
 <div class="section">
 <div class="container">
 BREADCRUMB
@@ -108,6 +94,7 @@ BREADCRUMB
 </div>
 </div>
 </div>
+</section>
 '''
 
 
@@ -115,7 +102,10 @@ SUBSUBCAT_PAGE = '''---
 layout: default
 title: seo_title
 ---
-
+<aside> 
+    {% include menu_cats.html %}
+</aside>
+<section>
 <div class="section">
 <div class="container">
 BREADCRUMB
@@ -142,6 +132,7 @@ SCRIPT
 </div>
 </div>
 </div>
+</section>
 '''
 
 

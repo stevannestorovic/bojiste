@@ -158,11 +158,11 @@
 }
 
 .filters input {
-	margin-right: 5px;
+	margin-right: 15px;
 }
 
 .filter label {
-	margin-right: 5px;
+	margin-right: 15px;
 }
 /* end filters */
 
@@ -205,6 +205,22 @@
 }
 /* end brands */
 
+/* menu_cats */
+.menu-wrapper {
+	max-width:960px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 0 auto;
+	margin-top: 10px;	
+}
+
+.menu-wrapper button {
+	width: 100px;
+	height: 40px;
+	border-radius: 10%;
+}
+/* end_menu_cats */
 
 
 /* slider */
