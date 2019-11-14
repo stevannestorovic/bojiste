@@ -37,15 +37,13 @@
                           {name: "Akrilni Prajmeri", label: "AkrilneBoje-AMMO-AKRILNI-PRAJMERI"},
                           {name: "Akrilni Lakovi", label: "AkrilneBoje-AMMO-AKRILNI-LAKOVI"},
                           {name: "Akrilni Dodaci", label:  "AkrilneBoje-AMMO-AKRILNI-DODACI"}]},
-            {name: "AK-MENG", label: "AB-AK-MENG",
+            {name: "AK", label: "AB-AK-MENG",
              subsubcats: [{name: "AK Real Colors", label: "AkrilneBoje-AKMENG-AK-REAL-COLORS"},
                           {name: "AK Sprej", label: "AkrilneBoje-AKMENG-AK SPREJ"}, 
                           {name: "AK Akrilne Boje", label: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"}, 
                           {name: "True Metal", label: "AkrilneBoje-AKMENG-TRUE METAL"}, 
-                          {name: "Tamiya", label: "AkrilneBoje-AKMENG-tamiya"}, 
-                          {name: "XTREME METAL", label: "AkrilneBoje-AKMENG-XTREME-METAL"},
-                          {name: "Meng Pojedinacne Boje", label: "AkrilneBoje-AKMENG-MENG-POJEDINACNE-BOJE"}, 
-                          {name: "Meng Setovi Boja", label: "AkrilneBoje-AKMENG-MENG SETOVI-BOJA"}]}, 
+                          {name: "XTREME METAL", label: "AkrilneBoje-AKMENG-XTREME-METAL"}]}, 
+           {name: "Tamiya", label: "AB-TAMIYA"},
            {name: "AK Interactive-MIG PRODUCTIONS", label: "AB-AK Interactive-MIG-PRODUCTIONS", 
             subsubcats: [{name: "AK Olovke za Weathering", label: "AkrilneBoje-AK-Interactive-AK OLOVKE-ZA-WEATHERING"}, 
                          {name: "WASH", label: "AkrilneBoje-AK-Interactive-WASH"}, 
@@ -55,7 +53,6 @@
                          {name: "CHIPPING PROIZVODI", label: "AkrilneBoje-AK-Interactive-CHIPPING-PROIZVODI"}, 
                          {name: "BLATO EFEKTI", label: "AkrilneBoje-AK Interactive-BLATO-EFEKTI"},
                          {name: "WEATHERING SETOVI", label: "AkrilneBoje-AK Interactive-WEATHERING-SETOVI"}]}, 
-          {name: "ABTELLUNG", label: "AB-ABTELLUNG"}, 
           {name: "MIG PRODUCTIONS", label: "AB-MIG-PRODUCTIONS"}]
 - maincat: {name: "AMMO OILBRUSHERS", label: "AMMO-OILBRUSHERS"}
 - maincat: {name: "ALCLAD II METALIC BOJE", label: "ALCLAD-II-METALIC-BOJE"}
