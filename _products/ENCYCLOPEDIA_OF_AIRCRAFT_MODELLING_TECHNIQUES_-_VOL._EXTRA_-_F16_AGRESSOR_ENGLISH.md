@@ -1,11 +1,13 @@
 ---
-title: "ENCYCLOPEDIA OF AIRCRAFT MODELLING TECHNIQUES - VOL. EXTRA - F16 AGRESSOR ENGLISH"
+title: "ENCYCLOPEDIA OF AIRCRAFT MODELLING TECHNIQUES - VOL. EXTRA - F16 AGREKnjige-AMMO-KNJIGE-I-CASOPISIOR ENGLISH"
 price: "TBA"
-desc: "Opis nije dostupan"
+desc: "Bez opisa"
 img_path: "/assets/img/A.MIG-6055.jpg"
 brand: AMMO
 available: true
-cat: "books"
-subcat: "SOLUTION BOOKS - MULTILINGUAL"
-subsubcat: "SS"
+special_offer: false
+soon: false
+cat: "Knjige,-casopisi,-MERCH"
+subcat: "KNJ-AMMO"
+subsubcat: "Knjige-AMMO-KNJIGE-I-CASOPISI"
 ---

@@ -1,11 +1,13 @@
 ---
 title: "TURFS - SMALL MIXTURE"
 price: "TBA"
-desc: "Opis nije dostupan"
+desc: "Bez opisa"
 img_path: "/assets/img/A.MIG-8356.jpg"
 brand: AMMO
 available: true
-cat: "dioramas"
-subcat: "GRASS MATS"
-subsubcat: "SS"
+special_offer: false
+soon: false
+cat: "Diorame"
+subcat: "DI-AMMO"
+subsubcat: "Diorame-AMMO-TRAVNATE-PODLOGE"
 ---

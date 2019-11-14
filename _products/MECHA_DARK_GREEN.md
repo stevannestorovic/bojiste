@@ -1,11 +1,13 @@
 ---
 title: "MECHA DARK GREEN"
 price: "TBA"
-desc: "Opis nije dostupan"
+desc: "Bez opisa"
 img_path: "/assets/img/A.MIG-3531.jpg"
 brand: AMMO
 available: true
-cat: "weathering"
-subcat: "OILBRUSHERS"
-subsubcat: "SS"
+special_offer: false
+soon: false
+cat: "AMMO-OILBRUSHERS"
+subcat: ""
+subsubcat: ""
 ---

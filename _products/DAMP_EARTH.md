@@ -1,11 +1,13 @@
 ---
 title: "DAMP EARTH"
 price: "TBA"
-desc: "Opis nije dostupan"
+desc: "Bez opisa"
 img_path: "/assets/img/A.MIG-1406.jpg"
 brand: AMMO
 available: true
-cat: "weathering"
-subcat: "ENAMEL EFFECTS (35 mL)"
-subsubcat: "SS"
+special_offer: false
+soon: false
+cat: "Weathering"
+subcat: ""
+subsubcat: "wet-Emajl-Efekti"
 ---

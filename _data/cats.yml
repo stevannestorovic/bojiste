@@ -35,6 +35,7 @@
              subsubcats: [ {name: "Pojedinačne Boje", label: "AkrilneBoje-AMMO-POJEDINACNE-BOJE", filters: ["periva", "metali", "kristal"]},
                           {name: "Setovi Akrlinih Boja", label: "AkrilneBoje-AMMO-SETOVI-AKRILNIH-BOJA", filters: ["oklop", "avijacija", "figure", "modulacija"]},
                           {name: "Akrilni Prajmeri", label: "AkrilneBoje-AMMO-AKRILNI-PRAJMERI"},
+                          {name: "Akrilni Lakovi", label: "AkrilneBoje-AMMO-AKRILNI-LAKOVI"},
                           {name: "Akrilni Dodaci", label:  "AkrilneBoje-AMMO-AKRILNI-DODACI"}]},
             {name: "AK-MENG", label: "AB-AK-MENG",
              subsubcats: [{name: "AK Real Colors", label: "AkrilneBoje-AKMENG-AK-REAL-COLORS"},
@@ -75,7 +76,7 @@
             {name: "Dodaci", label: "wet-dodaci"}]
 - maincat: {name: "Alat i dodaci", label: "Alat-i-dodaci"}
   subcats: [{name: "AMMO", label: "AL-AMMO",
-             subsubcats: [{name: "IRBRUSH", label: "Alati-AMMO-AIRBRUSH"}, 
+             subsubcats: [{name: "AIRBRUSH", label: "Alati-AMMO-AIRBRUSH"}, 
                           {name: "CETKICE", label: "Alati-AMMO-CETKICE"}, 
                           {name: "SISTEMI POLICA", label: "Alati-AMMO-SISTEMI-POLICA"}, 
                           {name: "Lepkovi i Hemija", label: "Alati-lepkovi-i-hemija"},
@@ -92,10 +93,10 @@
             {name: "MENG", label: "AL-MENG"}]
 - maincat: {name: "Diorame", label: "Diorame"}
   subcats: [{name: "AMMO", label: "DI-AMMO",
-             subsubcats: [{name: "TRAVNATE PODLOGE", label: "Diorame-AMMO-TRAVNATE-PODLOGE"}, 
-                          {name: "LISCE", label: "Diorame-AMMO-LISCE"}, 
-                          {name: "BILJKE", label: "Diorame-AMMO-BILJKE"}, 
-                          {name: "ARKILNE TEKSTURE", label: "Diorame-AMMO-AKRILNE-TEKSTURE"}]}, 
+             subsubcats: [{name: "Travnate Podloge", label: "Diorame-AMMO-TRAVNATE-PODLOGE"}, 
+                          {name: "Lišće", label: "Diorame-AMMO-LISCE"}, 
+                          {name: "Biljke", label: "Diorame-AMMO-BILJKE"}, 
+                          {name: "Akrilne Teksture", label: "Diorame-AMMO-AKRILNE-TEKSTURE"}]}, 
             {name: "AK Interactive", label: "DI-AK-Interactive",
              subsubcats: [{name: "LISCE", label: "Diorame-AKInteractive-LISCE"},
                           {name: "BILJKE", label: "Diorame-AKInteractive-BILJKE"},

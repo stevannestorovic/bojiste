@@ -1,11 +1,13 @@
 ---
 title: "OCHRE FOR LIGHT SAND"
 price: "TBA"
-desc: "Opis nije dostupan"
+desc: "Bez opisa"
 img_path: "/assets/img/A.MIG-1503.jpg"
 brand: AMMO
 available: true
-cat: "weathering"
-subcat: "FILTERS (35 mL)"
-subsubcat: "SS"
+special_offer: false
+soon: false
+cat: "Weathering"
+subcat: ""
+subsubcat: "wet-filteri"
 ---

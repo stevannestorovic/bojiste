@@ -1,11 +1,13 @@
 ---
 title: "AIRCOBRA AIRBRUSH (0,3 mm)"
 price: "TBA"
-desc: "Opis nije dostupan"
+desc: "Bez opisa"
 img_path: "/assets/img/A.MIG-8625.jpg"
 brand: AMMO
 available: true
-cat: "tools"
-subcat: "AIRBRUSH"
-subsubcat: "SS"
+special_offer: false
+soon: false
+cat: "Alat-i-dodaci"
+subcat: "AL-AMMO"
+subsubcat: "Alati-lepkovi-i-hemija"
 ---

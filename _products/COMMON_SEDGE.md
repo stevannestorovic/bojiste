@@ -1,11 +1,13 @@
 ---
 title: "COMMON SEDGE"
 price: "TBA"
-desc: "Opis nije dostupan"
+desc: "Bez opisa"
 img_path: "/assets/img/A.MIG-8456.jpg"
 brand: AMMO
 available: true
-cat: "dioramas"
-subcat: "LASER CUT PLANTS"
-subsubcat: "SS"
+special_offer: false
+soon: false
+cat: "Diorame"
+subcat: "DI-AMMO"
+subsubcat: "Diorame-AMMO-BILJKE"
 ---

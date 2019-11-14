@@ -1,11 +1,13 @@
 ---
 title: "ARGENTINIAN COLORS VOL.1 (ALSO FALKLANDS WAR)"
 price: "TBA"
-desc: "Opis nije dostupan"
+desc: "Set Akrilnih Boja , Avijacija"
 img_path: "/assets/img/A.MIG-7206.jpg"
 brand: AMMO
 available: true
-cat: "acrylics"
-subcat: "ACRYLIC SMART SETS FOR AIRCRAFTS   (4 x 17mL jars)"
-subsubcat: "SS"
+special_offer: false
+soon: false
+cat: "Akrilne-Boje"
+subcat: "AB-AMMO"
+subsubcat: "AkrilneBoje-AMMO-SETOVI-AKRILNIH-BOJA"
 ---

@@ -1,11 +1,13 @@
 ---
-title: "ENAMEL ODOURLESS THINNER 35 ML"
+title: "ENAMEL ODOURLEwet-pigmenti THINNER 35 ML"
 price: "TBA"
-desc: "Opis nije dostupan"
+desc: "Bez opisa"
 img_path: "/assets/img/A.MIG-2018.jpg"
 brand: AMMO
 available: true
-cat: "tools"
-subcat: "AUXILIARY PRODUCTS"
-subsubcat: "SS"
+special_offer: false
+soon: false
+cat: "Weathering"
+subcat: ""
+subsubcat: "wet-pigmenti"
 ---

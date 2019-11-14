@@ -1,11 +1,13 @@
 ---
 title: "Needle alignment tube and lever assembly"
 price: "TBA"
-desc: "Opis nije dostupan"
+desc: "Bez opisa"
 img_path: "/assets/img/A.MIG-8642.jpg"
 brand: AMMO
 available: true
-cat: "tools"
-subcat: "AIRBRUSH SPARE PARTS"
-subsubcat: "SS"
+special_offer: false
+soon: false
+cat: "Alat-i-dodaci"
+subcat: "AL-AMMO"
+subsubcat: "Alati-AMMO-AIRBRUSH"
 ---

@@ -1,11 +1,13 @@
 ---
 title: "REALISTIC ROBOTS COLOR SET"
 price: "TBA"
-desc: "Opis nije dostupan"
+desc: "Set Akrilnih Boja , Oklop"
 img_path: "/assets/img/A.MIG-7156.jpg"
 brand: AMMO
 available: true
-cat: "acrylics"
-subcat: "ACRYLIC PAINT SETS"
-subsubcat: "SS"
+special_offer: false
+soon: false
+cat: "Akrilne-Boje"
+subcat: "AB-AMMO"
+subsubcat: "AkrilneBoje-AMMO-SETOVI-AKRILNIH-BOJA"
 ---

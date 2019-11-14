@@ -1,11 +1,13 @@
 ---
-title: "SS CAMOUFLAGE GUIDE ENGLISH"
+title: "Knjige-AMMO-KNJIGE-I-CASOPISI CAMOUFLAGE GUIDE ENGLISH"
 price: "TBA"
-desc: "Opis nije dostupan"
+desc: "Bez opisa"
 img_path: "/assets/img/A.MIG-6001.jpg"
 brand: AMMO
 available: true
-cat: "books"
-subcat: "SOLUTION BOOKS - MULTILINGUAL"
-subsubcat: "SS"
+special_offer: false
+soon: false
+cat: "Knjige,-casopisi,-MERCH"
+subcat: "KNJ-AMMO"
+subsubcat: "Knjige-AMMO-KNJIGE-I-CASOPISI"
 ---

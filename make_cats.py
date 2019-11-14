@@ -121,7 +121,7 @@ title: seo_title
 BREADCRUMB
 <div class="filters" data-filter="FILTERS"></div>
 SCRIPT
-<div class="products tile is-ancestor">
+<div class="products">
     {% for product in site.products %}
 		{% if product.cat == "CLAB" and product.subcat == "SLAB" and product.subsubcat == "SUBSUBLAB"%}
 				<div class="product simpleCart_shelfItem">

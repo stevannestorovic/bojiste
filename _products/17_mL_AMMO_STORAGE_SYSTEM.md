@@ -1,11 +1,13 @@
 ---
 title: "17 mL AMMO STORAGE SYSTEM"
 price: "TBA"
-desc: "Opis nije dostupan"
+desc: "Bez opisa"
 img_path: "/assets/img/A.MIG-8005.jpg"
 brand: AMMO
 available: true
-cat: "tools"
-subcat: "ORGANIZERS"
-subsubcat: "SS"
+special_offer: false
+soon: false
+cat: "Alat-i-dodaci"
+subcat: "AL-AMMO"
+subsubcat: "Alati-AMMO-SISTEMI-POLICA"
 ---

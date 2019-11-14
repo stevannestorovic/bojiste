@@ -1,11 +1,13 @@
 ---
 title: "WHITE"
 price: "TBA"
-desc: "Opis nije dostupan"
-img_path: "/assets/img/A.MIG-3016.jpg"
+desc: "Bez opisa"
+img_path: "/assets/img/A.MIG-3501.jpg"
 brand: AMMO
 available: true
-cat: "weathering"
-subcat: "PIGMENTS (35 mL)"
-subsubcat: "SS"
+special_offer: false
+soon: false
+cat: "AMMO-OILBRUSHERS"
+subcat: ""
+subsubcat: ""
 ---

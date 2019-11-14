@@ -1,11 +1,13 @@
 ---
 title: "BLITZKRIEG LIGHTNING WAR 1939-41 ENGLISH"
 price: "TBA"
-desc: "Opis nije dostupan"
+desc: "Bez opisa"
 img_path: "/assets/img/EURO-0024.jpg"
 brand: AMMO
 available: true
-cat: "books"
-subcat: "SOLUTION BOOKS - MULTILINGUAL"
-subsubcat: "SS"
+special_offer: false
+soon: false
+cat: "Knjige,-casopisi,-MERCH"
+subcat: "KNJ-AMMO"
+subsubcat: "Knjige-AMMO-KNJIGE-I-CASOPISI"
 ---

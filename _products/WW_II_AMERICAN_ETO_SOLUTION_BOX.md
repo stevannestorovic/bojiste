@@ -1,11 +1,13 @@
 ---
 title: "WW II AMERICAN ETO SOLUTION BOX"
 price: "TBA"
-desc: "Opis nije dostupan"
+desc: "Bez opisa"
 img_path: "/assets/img/A.MIG-7700.jpg"
 brand: AMMO
 available: true
-cat: "tools"
-subcat: "SOLUTION BOX"
-subsubcat: "SS"
+special_offer: false
+soon: false
+cat: "Alat-i-dodaci"
+subcat: "AL-AMMO"
+subsubcat: "Alati-AMMO-RAZNO"
 ---

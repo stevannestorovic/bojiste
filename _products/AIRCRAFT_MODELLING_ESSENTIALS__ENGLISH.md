@@ -1,11 +1,13 @@
 ---
-title: "AIRCRAFT MODELLING ESSENTIALS  ENGLISH"
+title: "AIRCRAFT MODELLING EKnjige-AMMO-KNJIGE-I-CASOPISIENTIALS  ENGLISH"
 price: "TBA"
-desc: "Opis nije dostupan"
+desc: "Bez opisa"
 img_path: "/assets/img/EURO-0014.jpg"
 brand: AMMO
 available: true
-cat: "books"
-subcat: "SOLUTION BOOKS - MULTILINGUAL"
-subsubcat: "SS"
+special_offer: false
+soon: false
+cat: "Knjige,-casopisi,-MERCH"
+subcat: "KNJ-AMMO"
+subsubcat: "Knjige-AMMO-KNJIGE-I-CASOPISI"
 ---

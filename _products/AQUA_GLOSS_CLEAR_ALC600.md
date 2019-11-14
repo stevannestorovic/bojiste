@@ -1,11 +1,13 @@
 ---
-title: "AQUA GLOSS CLEAR ALC600"
+title: "AQUA GLO CLEAR ALC600"
 price: "TBA"
-desc: "Opis nije dostupan"
+desc: ""
 img_path: "/assets/img/A.MIG-8212.jpg"
 brand: AMMO
 available: true
-cat: "titans"
-subcat: "ALCLAD II - AMMO AUXILIARY PRODUCTS"
-subsubcat: "SS"
+special_offer: false
+soon: false
+cat: "ALCLAD-II-METALIC-BOJE"
+subcat: ""
+subsubcat: ""
 ---

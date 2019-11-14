@@ -1,11 +1,13 @@
 ---
 title: "DEPOT AREAS - SLUDGE TRACKS WEATHERING SET"
 price: "TBA"
-desc: "Opis nije dostupan"
+desc: "Bez opisa"
 img_path: "/assets/img/A.MIG-7470.jpg"
 brand: AMMO
 available: true
-cat: "weathering"
-subcat: "RAILROADS PAINT SETS"
-subsubcat: "SS"
+special_offer: false
+soon: false
+cat: "Akrilne-Boje"
+subcat: "AB-AMMO"
+subsubcat: "AkrilneBoje-AMMO-SETOVI-AKRILNIH-BOJA"
 ---

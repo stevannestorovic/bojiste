@@ -1,11 +1,13 @@
 ---
 title: "RIGGING - SUPER FINE 0,01 MM"
 price: "TBA"
-desc: "Opis nije dostupan"
+desc: "Bez opisa"
 img_path: "/assets/img/A.MIG-8016.jpg"
 brand: AMMO
 available: true
-cat: "tools"
-subcat: "MISCELANEA"
-subsubcat: "SS"
+special_offer: false
+soon: false
+cat: "Alat-i-dodaci"
+subcat: "AL-AMMO"
+subsubcat: "Alati-AMMO-RAZNO"
 ---

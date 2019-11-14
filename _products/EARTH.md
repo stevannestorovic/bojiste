@@ -1,11 +1,13 @@
 ---
-title: "EARTH "
+title: "EARTH"
 price: "TBA"
-desc: "Opis nije dostupan"
-img_path: "/assets/img/A.MIG-1403.jpg"
+desc: "Bez opisa"
+img_path: "/assets/img/A.MIG-3514.jpg"
 brand: AMMO
 available: true
-cat: "weathering"
-subcat: "ENAMEL EFFECTS (35 mL)"
-subsubcat: "SS"
+special_offer: false
+soon: false
+cat: "AMMO-OILBRUSHERS"
+subcat: ""
+subsubcat: ""
 ---

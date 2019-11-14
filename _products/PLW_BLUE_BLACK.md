@@ -1,11 +1,13 @@
 ---
 title: "PLW BLUE BLACK"
 price: "TBA"
-desc: "Opis nije dostupan"
+desc: "Bez opisa"
 img_path: "/assets/img/A.MIG-1617.jpg"
 brand: AMMO
 available: true
-cat: "weathering"
-subcat: "PANEL LINE WASH (35 mL)"
-subsubcat: "SS"
+special_offer: false
+soon: false
+cat: "Weathering"
+subcat: ""
+subsubcat: "wet-Emajl-Panelni-vash"
 ---

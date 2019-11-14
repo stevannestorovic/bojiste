@@ -1,11 +1,13 @@
 ---
 title: "NORTH AFRICA DUST"
 price: "TBA"
-desc: "Opis nije dostupan"
+desc: "Bez opisa"
 img_path: "/assets/img/A.MIG-3003.jpg"
 brand: AMMO
 available: true
-cat: "weathering"
-subcat: "PIGMENTS (35 mL)"
-subsubcat: "SS"
+special_offer: false
+soon: false
+cat: "Weathering"
+subcat: ""
+subsubcat: "wet-pigmenti"
 ---

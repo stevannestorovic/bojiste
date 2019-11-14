@@ -1,11 +1,13 @@
 ---
 title: "DARK MUD GROUND"
 price: "TBA"
-desc: "Opis nije dostupan"
+desc: "Bez opisa"
 img_path: "/assets/img/A.MIG-2104.jpg"
 brand: AMMO
 available: true
-cat: "dioramas"
-subcat: "ACRYLIC MUD (250 mL. jars)"
-subsubcat: "SS"
+special_offer: false
+soon: false
+cat: "Diorame"
+subcat: "DI-AMMO"
+subsubcat: "Diorame-AMMO-AKRILNE-TEKSTURE"
 ---
