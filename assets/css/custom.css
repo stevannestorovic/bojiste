@@ -19,20 +19,20 @@
 
 .index-main h1 {
     font-size: 3em;
-    text-shadow:
+    /*text-shadow:
     -1px -1px 0 #000,  
     1px -1px 0 #000,
     -1px 1px 0 #000,
-    1px 1px 0 #000;
+    1px 1px 0 #000;*/
 }
 
 .index-main p {
     font-size: 1.5em;
-    text-shadow:
+    /*text-shadow:
     -1px -1px 0 #000,  
     1px -1px 0 #000,
     -1px 1px 0 #000,
-    1px 1px 0 #000;
+    1px 1px 0 #000; */
 }
 /* end index main */
 
@@ -213,12 +213,20 @@
 	align-items: center;
 	margin: 0 auto;
 	margin-top: 10px;	
+	position: sticky;
+	top: 0;
 }
 
 .menu-wrapper button {
-	width: 100px;
-	height: 40px;
-	border-radius: 10%;
+	width: 200px;
+	/*height: 20px;*/
+	padding: 10px;
+	text-align: center;
+	/*background-color: #6b8e23;*/
+}
+
+.menu-wrapper button:hover {
+	/*background-color: #6f8f2f;*/
 }
 /* end_menu_cats */
 

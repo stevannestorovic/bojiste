@@ -1,6 +1,5 @@
 <div class="menu-wrapper">
-	<button>
-		Meni
+	<button class="is-light">		Meni
 	</button>
 	<div class="menu hidden">
 			<ul class="menu-list menu" id="dropdown-menu" role="menu">
@@ -46,8 +45,8 @@
 
 <script>
 /* Menu wrapper */
-const showMenuText = "Prikaži kategorije";
-const hideMenuText = "Sakriji kategorije";
+const showMenuText = "↓ Prikaži kategorije";
+const hideMenuText = "↑ Sakriji kategorije";
 
 let menuWrapBtn= document.querySelector(".menu-wrapper button");
 menuWrapBtn.innerText = showMenuText;

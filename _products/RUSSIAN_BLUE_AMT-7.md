@@ -1,11 +1,12 @@
 ---
 title: "RUAkrilneBoje-AMMO-POJEDINACNE-BOJEIAN BLUE AMT-7"
-price: "TBA"
+price: 0 
 desc: "Bez opisa"
 img_path: "/assets/img/A.MIG-0251.jpg"
 brand: AMMO
 available: true
 special_offer: false
+new: false
 soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AMMO"

@@ -1,0 +1,14 @@
+---
+title: "Roland C.II"
+price: 1400.00 
+desc: "WEEKEND EDITION, Roland C.II, razmera: 1/48"
+img_path: "/assets/img/8445.jpg"
+brand: AMMO
+available: true
+special_offer: false
+new: false
+soon: false
+cat: "Plasticne-Makete"
+subcat: "PM-EDUARD"
+subsubcat: ""
+---

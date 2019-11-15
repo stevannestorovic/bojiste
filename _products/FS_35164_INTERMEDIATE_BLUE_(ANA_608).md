@@ -1,11 +1,12 @@
 ---
 title: "FS 35164 INTERMEDIATE BLUE (ANA 608)"
-price: "TBA"
+price: 0 
 desc: "Bez opisa"
 img_path: "/assets/img/A.MIG-0228.jpg"
 brand: AMMO
 available: true
 special_offer: false
+new: false
 soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AMMO"

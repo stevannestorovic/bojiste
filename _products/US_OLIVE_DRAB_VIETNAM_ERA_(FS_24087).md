@@ -1,11 +1,12 @@
 ---
 title: "US OLIVE DRAB VIETNAM ERA (FS 24087)"
-price: "TBA"
+price: 0 
 desc: "Bez opisa"
 img_path: "/assets/img/A.MIG-0081.jpg"
 brand: AMMO
 available: true
 special_offer: false
+new: false
 soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AMMO"

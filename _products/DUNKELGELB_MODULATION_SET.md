@@ -1,11 +1,12 @@
 ---
 title: "DUNKELGELB MODULATION SET"
-price: "TBA"
+price: 0 
 desc: "Set Akrilnih Boja , Modulacija"
 img_path: "/assets/img/A.MIG-7000.jpg"
 brand: AMMO
 available: true
 special_offer: false
+new: false
 soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AMMO"
