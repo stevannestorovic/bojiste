@@ -2,7 +2,15 @@
 layout: default
 title: Početna
 ---
-{% include index_main.html %}
-{% include featured.html %}
-{% include soon.html %}
-{% include brands.html %}
+<div class="container">
+	<div class="cat-page">
+		<aside>
+			{% include menu.html %}
+		</aside>
+		<section>
+			{% include featured.html %}
+			{% include soon.html %}
+		</section>
+	</div>
+	{% include brands.html %}
+</div>
