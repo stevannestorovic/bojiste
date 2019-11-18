@@ -9,6 +9,6 @@ special_offer: false
 new: false
 soon: false
 cat: "Weathering"
-subcat: ""
+subcat: "wet-emajl-wash"
 subsubcat: "wet-emajl-wash"
 ---

@@ -85,7 +85,7 @@
     /*grid-template-columns: auto auto auto;*/
     grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
     grid-gap: 10px;
-    max-width: 1350px;
+    max-width: 600px;
     margin: 0 auto;
     margin-top:10px;
 }
@@ -213,8 +213,6 @@
 	align-items: center;
 	margin: 0 auto;
 	margin-top: 10px;	
-	position: sticky;
-	top: 0;
 }
 
 .menu-wrapper button {
@@ -230,6 +228,14 @@
 }
 /* end_menu_cats */
 
+/* IMG fallback */
+img:before {
+	content: ' ';
+        max-width: 100%;
+	width: 100px;
+        height: auto;
+	background-color: rgb(255,120,255);
+}
 
 /* slider */
 #slider {
@@ -356,3 +362,11 @@ hr {
 }
 /* endutils */
 
+@media (min-width: 48rem) {
+	.sidebar-helper {
+		display: flex;
+	}	
+	.products {
+		max-width: 900px;
+	}
+}

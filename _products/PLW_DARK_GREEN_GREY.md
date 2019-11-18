@@ -9,6 +9,6 @@ special_offer: false
 new: false
 soon: false
 cat: "Weathering"
-subcat: ""
+subcat: "wet-Emajl-Panelni-vash"
 subsubcat: "wet-Emajl-Panelni-vash"
 ---

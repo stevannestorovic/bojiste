@@ -31,6 +31,8 @@ CAT_PAGE = '''---
 layout: default
 title: seo_title
 ---
+<div class="container">
+<div class="sidebar-helper">
 <aside> 
     {% include menu_cats.html %}
 </aside>
@@ -60,12 +62,16 @@ title: seo_title
 	</div>
 </div>
 </section>
+</div>
+</div>
 '''
 
 SUBCAT_PAGE = '''---
 layout: default
 title: seo_title
 ---
+<div class="container">
+<div class="sidebar-helper">
 <aside>
     {% include menu_cats.html %}
 </aside>
@@ -95,6 +101,8 @@ BREADCRUMB
 </div>
 </div>
 </section>
+</div>
+</div>
 '''
 
 
@@ -102,37 +110,41 @@ SUBSUBCAT_PAGE = '''---
 layout: default
 title: seo_title
 ---
-<aside> 
-    {% include menu_cats.html %}
-</aside>
-<section>
-<div class="section">
 <div class="container">
-BREADCRUMB
-<div class="filters" data-filter="FILTERS"></div>
-SCRIPT
-<div class="products">
-    {% for product in site.products %}
-		{% if product.cat == "CLAB" and product.subcat == "SLAB" and product.subsubcat == "SUBSUBLAB"%}
-				<div class="product simpleCart_shelfItem">
-					<h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
-					<img class="product-img image" data-src="{{product.img_path}}" alt="">
-					<div class="product-data">
-						<p class="product-description"> {{product.desc}}</p>
-						<strong class="product-price is-main-txt item_price">{{product.price}} <small>RSD</small></strong>
-						<p class="product-category item_category">{{ product.category }}</p>
-					</div>
-					<div class="product-widgets">
-						<input type="number" value="1" class="item_Quantity input">
-						<a class="item_add button is-main-bg buy_button is-large" href="javascript:;">Kupi</a>
-					</div>
-				</div>
-		{% endif %}
-    {% endfor %}
+<div class="sidebar-helper">
+    <aside> 
+        {% include menu_cats.html %}
+    </aside>
+    <section>
+        <div class="section">
+            <div class="container">
+            BREADCRUMB
+            <div class="filters" data-filter="FILTERS"></div>
+            SCRIPT
+            <div class="products">
+                {% for product in site.products %}
+                            {% if product.cat == "CLAB" and product.subcat == "SLAB" and product.subsubcat == "SUBSUBLAB"%}
+                                            <div class="product simpleCart_shelfItem">
+                                                    <h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
+                                                    <img class="product-img image" data-src="{{product.img_path}}" alt="">
+                                                    <div class="product-data">
+                                                            <p class="product-description"> {{product.desc}}</p>
+                                                            <strong class="product-price is-main-txt item_price">{{product.price}} <small>RSD</small></strong>
+                                                            <p class="product-category item_category">{{ product.category }}</p>
+                                                    </div>
+                                                    <div class="product-widgets">
+                                                            <input type="number" value="1" class="item_Quantity input">
+                                                            <a class="item_add button is-main-bg buy_button is-large" href="javascript:;">Kupi</a>
+                                                    </div>
+                                            </div>
+                            {% endif %}
+                {% endfor %}
+            </div>
+            </div>
+        </div>
+    </section>
 </div>
 </div>
-</div>
-</section>
 '''
 
 
