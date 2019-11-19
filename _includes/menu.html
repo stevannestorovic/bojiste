@@ -47,15 +47,16 @@ allSubmenus.forEach(function (elem) {
 
 let linksLvl1 = document.querySelectorAll('.menu-list li a');
 linksLvl1.forEach(function (elem) {
-	console.clear();
-	console.log(elem);
+	//console.clear();
+	//console.log(elem);
 	let btn = elem.querySelector('.list-expand');
-	console.table(btn);
+	//console.table(btn);
 	if(btn != null) {
 		btn.addEventListener('click', function(evt) {
-			console.log('clicked');
+			console.log('clicked' + evt.target + evt.target.parentNode.parentNode.querySelector('.menu-list'));
 			evt.preventDefault();
 			let menu = evt.target.parentNode.parentNode.querySelector('.menu-list');
+			console.log(menu.innerText);
 			menu.classList.toggle('hidden');
 		});
 	}
@@ -67,7 +68,7 @@ linksLvl2.forEach(function (elem) {
 	btn.addEventListener('click', function(evt) {
 		evt.preventDefault();
   		let menu = evt.target.parentNode.parentNode.querySelector('.menu-list');
-    	menu.classList.toggle('hidden');
+		menu.classList.toggle('hidden');
   });
 });
 </script>
