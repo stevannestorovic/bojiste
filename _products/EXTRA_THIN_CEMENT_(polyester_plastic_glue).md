@@ -1,14 +1,14 @@
 ---
-title: "EXTRA THIN CEMENT (polyester plastic glue)"
-price: 0 
-desc: "Bez opisa"
-img_path: "/assets/img/A.MIG-2025.jpg"
+title: EXTRA THIN CEMENT (polyester plastic glue)
+price: 0
+desc: Bez opisa
+img_path: /assets/img/A.MIG-2025.jpg
 brand: AMMO
 available: true
-special_offer: false
-new: false
+special_offer: true
 soon: false
-cat: "Alat-i-dodaci"
-subcat: "AL-AMMO"
-subsubcat: "Alati-lepkovi-i-hemija"
+cat: Alat-i-dodaci
+subcat: AL-AMMO
+subsubcat: Alati-lepkovi-i-hemija
 ---
+
