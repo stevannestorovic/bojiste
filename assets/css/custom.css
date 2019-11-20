@@ -361,6 +361,13 @@ hr {
     background-color: rgba(0,0,0,0);
 }
 /* endutils */
+@media (max-width 1000px) {
+	.cat-page section {
+		display: flex;
+		flex-direction: column;
+		border: 1px solid red;
+	}
+}
 
 @media (min-width: 48rem) {
 	.sidebar-helper {
