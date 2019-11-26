@@ -1,0 +1,96 @@
+<button class="is-light button toggle-menu-button">Meni</button>
+<div class="menu hidden">
+		<ul class="menu-list menu" id="dropdown-menu" role="menu">
+		{%- for cat in site.data.cats -%}
+		<li>
+			<a href="{{cat.maincat.name | replace: ' ', '_'}}.html">
+			{{cat.maincat.name}}
+			{%- if cat.subcats -%}
+			<span class="list-expand">&#x25BC;</span>
+			{%- endif -%}
+			</a>
+			{%- if cat.subcats -%}
+			<ul class="menu-list menu">
+			{%- for subcat in cat.subcats -%}
+				<li>
+				<a href="{{cat.maincat.name | replace: ' ', '_'}}_{{subcat.name | replace: ' ', '_'}}.html" class="dropdown-item">
+				{{subcat.name}}
+				{%- if subcat.subsubcats -%}
+				<span class="list-expand">&#x25BC;</span>
+				{%- endif -%}
+				</a>
+				{%- if subcat.subsubcats -%}
+				<ul class="menu-list menu">
+				{%- for subsubcat in subcat.subsubcats -%}
+					<li>
+					<a href="{{cat.maincat.name | replace: ' ', '_'}}_{{subcat.name | replace: ' ', '_'}}_{{subsubcat.name | replace: ' ', '_'}}.html" class="dropdown-item">
+					{{subsubcat.name}}
+					</a>
+					</li>
+				{%- endfor -%}
+				</ul>
+				{%- endif -%}
+				</li>
+			{%- endfor -%}
+				</ul>
+			{%- endif -%}
+			</li>
+		{%- endfor -%}
+		</ul>
+</div>
+
+<script>
+/* Menu wrapper */
+const showMenuText = "↓ Prikaži kategorije";
+const hideMenuText = "↑ Sakriji kategorije";
+
+let menuWrapBtn= document.querySelector(".toggle-menu-button");
+menuWrapBtn.innerText = showMenuText;
+menuWrapBtn.addEventListener("click", e => {
+	let menu = document.querySelector(".menu");
+	menu.classList.toggle("hidden");
+	if (menuWrapBtn.innerText == showMenuText) menuWrapBtn.innerText = hideMenuText;
+	else menuWrapBtn.innerText = showMenuText;
+});
+
+
+/* Menu links */ 
+let allSubmenus = document.querySelectorAll('.menu-list ul');
+allSubmenus.forEach(function (elem) {
+	elem.classList.add('hidden');
+});
+
+
+let pmMenu = document.querySelector('#dropdown-menu > li:nth-child(1) > a:nth-child(1)');
+let pmExpandBtn = pmMenu.querySelector('a .list-expand');
+pmExpandBtn.addEventListener('click', (e) => {
+	let menu = document.querySelector('#dropdown-menu > li:nth-child(1) > ul:nth-child(2)');
+	menu.classList.toggle('hidden');	
+	console.log('PM clicked');
+	console.log(pmMenu);
+});
+
+let linksLvl1 = document.querySelectorAll('.menu-list li a');
+linksLvl1.forEach(function (elem) {
+	let btn = elem.querySelector('.list-expand');
+	if(btn != null) {
+		btn.addEventListener('click', function(evt) {	
+			console.log(btn);
+			evt.preventDefault();
+			let menu = evt.target.parentNode.parentNode.querySelector('.menu-list');
+			console.log(menu);
+			menu.classList.toggle('hidden');
+		});
+	}
+});
+
+let linksLvl2 = document.querySelectorAll('.menu-list li .menu-list li a');
+linksLvl2.forEach(function (elem) {
+	let btn = document.querySelector('.list-expand');
+	btn.addEventListener('click', function(evt) {
+		evt.preventDefault();
+  		let menu = evt.target.parentNode.parentNode.querySelector('.menu-list');
+		menu.classList.toggle('hidden');
+  });
+});
+</script>

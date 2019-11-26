@@ -1,0 +1,14 @@
+---
+title: "IDF Sinai Grey 82-17ml"
+price: 0 
+desc: "Akrilni setovi boja"
+img_path: "/assets/img/AK-791.jpg"
+brand: AMMO
+available: true
+special_offer: false
+new: false
+soon: false
+cat: "Akrilne-Boje"
+subcat: "AB-AK-MENG"
+subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
+---

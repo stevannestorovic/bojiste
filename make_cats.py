@@ -34,7 +34,7 @@ title: seo_title
 <div class="container">
 <div class="sidebar-helper">
 <aside> 
-    {% include menu_cats.html %}
+    {% include menu_new_side.html %}
 </aside>
 <section>
 <div class="section">
@@ -53,14 +53,13 @@ title: seo_title
 					</div>
 					<div class="product-widgets">
 						<input type="number" value="1" class="item_Quantity input">
-						<a class="item_add button is-main-bg buy_button is-large" href="javascript:;">Kupi</a>
+						<a class="item_add button is-main-bg buy_button is-large" href="javascript:;">KUPI</a>
 					</div>
 				</div>
 			{% endif %}
 		{% endfor %}
 	</div>
 	</div>
-</div>
 </section>
 </div>
 </div>
@@ -73,7 +72,7 @@ title: seo_title
 <div class="container">
 <div class="sidebar-helper">
 <aside>
-    {% include menu_cats.html %}
+    {% include menu_new_side.html %}
 </aside>
 <section>
 <div class="section">
@@ -92,7 +91,7 @@ BREADCRUMB
 					</div>
 					<div class="product-widgets">
 						<input type="number" value="1" class="item_Quantity input">
-						<a class="item_add button is-main-bg buy_button is-large" href="javascript:;">Kupi</a>
+						<a class="item_add button is-main-bg buy_button is-large" href="javascript:;">KUPI</a>
 					</div>
 				</div>
 		{% endif %}
@@ -113,7 +112,7 @@ title: seo_title
 <div class="container">
 <div class="sidebar-helper">
     <aside> 
-        {% include menu_cats.html %}
+        {% include menu_new_side.html %}
     </aside>
     <section>
         <div class="section">
@@ -134,7 +133,7 @@ title: seo_title
                                                     </div>
                                                     <div class="product-widgets">
                                                             <input type="number" value="1" class="item_Quantity input">
-                                                            <a class="item_add button is-main-bg buy_button is-large" href="javascript:;">Kupi</a>
+                                                            <a class="item_add button is-main-bg buy_button is-large" href="javascript:;">KUPI</a>
                                                     </div>
                                             </div>
                             {% endif %}

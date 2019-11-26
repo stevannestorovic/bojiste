@@ -1,0 +1,14 @@
+---
+title: "NCO, 1.FJ Division, Italy 1943-45"
+price: 0 
+desc: ""
+img_path: "/assets/img/RDM35026.jpg"
+brand: AMMO
+available: true
+special_offer: false
+new: false
+soon: false
+cat: "Plasticne-Makete"
+subcat: "PM-OSTALO"
+subsubcat: ""
+---

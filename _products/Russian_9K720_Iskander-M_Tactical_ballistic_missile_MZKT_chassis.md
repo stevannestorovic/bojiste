@@ -1,0 +1,14 @@
+---
+title: "Russian 9K720 Iskander-M Tactical ballistic missile MZKT chassis "
+price: 0 
+desc: ""
+img_path: "/assets/img/MA72011.jpg"
+brand: AMMO
+available: true
+special_offer: false
+new: false
+soon: false
+cat: "Plasticne-Makete"
+subcat: "PM-OSTALO"
+subsubcat: ""
+---

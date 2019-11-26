@@ -77,6 +77,14 @@
     height: auto;
     margin-bottom: 3px;
 }
+
+.item_add {
+	transition: all 0.5s;
+}
+
+.item_add:active {
+	background-color: #ade63a;
+}
 /* end product-panel */
 
 /* products */
@@ -377,3 +385,4 @@ hr {
 		max-width: 900px;
 	}
 }
+

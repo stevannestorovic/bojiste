@@ -1,0 +1,14 @@
+---
+title: "1/48 T-HARRIER T2/T4/T8"
+price: 0 
+desc: ""
+img_path: "/assets/img/KIN48040.jpg"
+brand: AMMO
+available: true
+special_offer: false
+new: false
+soon: false
+cat: "Plasticne-Makete"
+subcat: "PM-KINETIC"
+subsubcat: ""
+---
