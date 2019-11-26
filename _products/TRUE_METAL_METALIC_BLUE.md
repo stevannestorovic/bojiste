@@ -10,5 +10,5 @@ new: false
 soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AK-MENG"
-subsubcat: "AkrilneBoje-AKMENG-TRUE METAL"
+subsubcat: "AkrilneBoje-AKMENG-TRUE-METAL"
 ---

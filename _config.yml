@@ -1,7 +1,5 @@
 collections:
     products:
         sort_by: name
-        output: true
     brands:
         sort_by: label
-        output: true
