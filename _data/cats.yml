@@ -50,7 +50,7 @@
   subcats: [{name: "ALCLAD II 30mL", label: "ALC-30mL"},
             {name: "Titans AMMO 400mL", label: "ALC-Titans-AMMO-400mL"}]
 - maincat: {name: "ABTEILUNG 502", label: "ABTEILUNG-502"}
-  subcats: [{name: "OIL PAINTS", label: "ABT-OIL-PAINTS"}, 
+  subcats: [{name: "Uljane Boje", label: "ABT-OIL-PAINTS"}, 
             {name: "PIGMENTI", label: "ABT-PIGMENTI"}, 
             {name: "CETKICE", label: "ABT-CETKICE"}, 
             {name: "OSTALO", label: "ABT-OSTALO"}]

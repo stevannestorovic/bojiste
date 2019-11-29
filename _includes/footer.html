@@ -8,12 +8,12 @@
          <p><span class="contact-info is-main-txt">Telefon:</span> <a  class="has-text-dark href="tel:{{site.data.contact.tel}}">{{site.data.contact.tel}}</a></p>
         </div>
         <div class="column">
-        <h3 class="title has-text-dark">Partneri</h3>
+        <h3 class="title has-text-dark">Brendovi</h3>
         <hr>
             <ul>
-                {% for brand in site.brands%}
+                {% for brand in site.data.brendovi %}
                     <li>
-                        <a class="has-text-dark" href="{{brand.url}}">{{brand.label}}</a>
+                        <a class="has-text-dark" href="#">{{brand.label}}</a>
                     </li>
                 {% endfor%}
             </ul>

@@ -4,16 +4,14 @@
         <hr>
     </div>
     <div class="brands">
-        {% for brand in site.brands %}
+        {% for brand in site.data.brendovi %}
             <div class="brand">
                 <img src="{{brand.img}}"
                     class="brand-img"
                 >
-                <a href="{{brand.url}}"> 
-                    <h4 class="brand-name has-text-weight-bold is-main-txt">
-                        {{brand.label}}
-                    </h4>
-                </a>
+	    <h4 class="brand-name has-text-weight-bold is-main-txt">
+		{{brand.label}}
+	    </h4>
             </div>
         {% endfor %}
     </div>

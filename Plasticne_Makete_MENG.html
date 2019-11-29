@@ -1,10 +1,16 @@
 ---
 layout: default
-title: Plasticne Makete - MENG 
+title: Plastične Makete - MENG 
 ---
+<div class="container">
+<div class="sidebar-helper">
+<aside>
+    {% include menu_new_side.html %}
+</aside>
+<section>
 <div class="section">
 <div class="container">
-<nav class="breadcrumb has-arrow-separator" aria-label="breadcrumbs"><ul><li><a href="Plasticne_Makete.html">Plasticne Makete</a></li><li><a href="Plasticne_Makete_MENG.html">MENG</a></li></ul></nav>
+<nav class="breadcrumb has-arrow-separator" aria-label="breadcrumbs"><ul><li><a href="Plastične_Makete.html">Plastične Makete</a></li><li><a href="Plastične_Makete_MENG.html">MENG</a></li></ul></nav>
 <div class="products">
     {% for product in site.products %}
 		{% if product.cat == "Plasticne-Makete" and product.subcat == "PM-MENG"%}
@@ -18,11 +24,14 @@ title: Plasticne Makete - MENG
 					</div>
 					<div class="product-widgets">
 						<input type="number" value="1" class="item_Quantity input">
-						<a class="item_add button is-main-bg buy_button is-large" href="javascript:;">Kupi</a>
+						<a class="item_add button is-main-bg buy_button is-large" href="javascript:;">KUPI</a>
 					</div>
 				</div>
 		{% endif %}
     {% endfor %}
 </div>
+</div>
+</div>
+</section>
 </div>
 </div>

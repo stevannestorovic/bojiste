@@ -40,6 +40,8 @@
 </div>
 
 <script>
+/* UX Stuff*/
+let openedCategory = document.querySelector('.breadcrumb > ul:nth-child(1) > li:nth-child(1) > a:nth-child(1)');
 /* Menu wrapper */
 const showMenuText = "↓ Prikaži kategorije";
 const hideMenuText = "↑ Sakriji kategorije";
@@ -57,6 +59,7 @@ menuWrapBtn.addEventListener("click", e => {
 /* Menu links */ 
 let allSubmenus = document.querySelectorAll('.menu-list ul');
 allSubmenus.forEach(function (elem) {
+	console.log(elem.parentNode.innerText);
 	elem.classList.add('hidden');
 });
 
