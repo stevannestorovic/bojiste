@@ -9,6 +9,6 @@ special_offer: false
 new: false
 soon: false
 cat: "ALCLAD-II-METALIC-BOJE"
-subcat: ""
+subcat: "ALC-30mL"
 subsubcat: ""
 ---
