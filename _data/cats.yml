@@ -29,7 +29,7 @@
             {name: "EBBRO", label: "PM-EBBRO"},
             {name: "MICHAEL KONTRAROS", label: "PM-MICHAEL-KONTRAROS"},
             {name: "YOUNG MINIATURES", label: "PM-YOUNG-MINIATURES"},
-            {name: "OSTALO", label: "PM-OSTALO"}] 
+            {name: "Ostalo", label: "PM-OSTALO"}] 
 - maincat: {name: "Akril", label: "Akrilne-Boje"}
   subcats: [{name: "AMMO", label: "AB-AMMO",
              subsubcats: [ {name: "Pojedinačne Boje", label: "AkrilneBoje-AMMO-POJEDINACNE-BOJE", filters: ["periva", "metali", "kristal"]},
@@ -51,9 +51,9 @@
             {name: "Titans AMMO 400mL", label: "ALC-Titans-AMMO-400mL"}]
 - maincat: {name: "ABTEILUNG 502", label: "ABTEILUNG-502"}
   subcats: [{name: "Uljane Boje", label: "ABT-OIL-PAINTS"}, 
-            {name: "PIGMENTI", label: "ABT-PIGMENTI"}, 
-            {name: "CETKICE", label: "ABT-CETKICE"}, 
-            {name: "OSTALO", label: "ABT-OSTALO"}]
+            {name: "Pigmenti", label: "ABT-PIGMENTI"}, 
+            {name: "Cetkice", label: "ABT-CETKICE"}, 
+            {name: "Ostalo", label: "ABT-OSTALO"}]
 - maincat: {name: "Weathering", label: "Weathering"}
   subcats: [{name: "Emajl Voš", label: "wet-emajl-wash"},
         {name: "AK Olovke za Weathering", label: "wet-ak"},
@@ -65,17 +65,17 @@
             {name: "Dodaci", label: "wet-dodaci"}]
 - maincat: {name: "Alat i dodaci", label: "Alat-i-dodaci"}
   subcats: [{name: "AMMO", label: "AL-AMMO",
-             subsubcats: [{name: "AIRBRUSH", label: "Alati-AMMO-AIRBRUSH"}, 
-                          {name: "CETKICE", label: "Alati-AMMO-CETKICE"}, 
-                          {name: "SISTEMI POLICA", label: "Alati-AMMO-SISTEMI-POLICA"}, 
+             subsubcats: [{name: "Airbrush", label: "Alati-AMMO-AIRBRUSH"}, 
+                          {name: "Cetkice", label: "Alati-AMMO-CETKICE"}, 
+                          {name: "Sistemi Polica", label: "Alati-AMMO-SISTEMI-POLICA"}, 
                           {name: "Lepkovi i Hemija", label: "Alati-lepkovi-i-hemija"},
-                          {name: "RAZNO", label: "Alati-AMMO-RAZNO"}]},
+                          {name: "Razno", label: "Alati-AMMO-RAZNO"}]},
             {name: "AK Interactive", label: "AL-AK-Interactive",
-             subsubcats: [{name: "PRIBOR", label: "Alati-AKInteractive-PRIBOR"}, 
-                          {name: "FAROVI", label: "Alati-AKInteractive-FAROVI"},
-                          {name: "METALNE GUSENICE", label: "Alati-AKInteractive-METALNE GUSENICE"},
-                          {name: "DEKALI", label: "Alati-AKInteractive-DEKALI"}, 
-                          {name: "RAZNO", label: "Alati-AKInteractive-RAZNO"}]}, 
+             subsubcats: [{name: "Pribor", label: "Alati-AKInteractive-PRIBOR"}, 
+                          {name: "Farovi", label: "Alati-AKInteractive-FAROVI"},
+                          {name: "Metalne Gusenice", label: "Alati-AKInteractive-METALNE GUSENICE"},
+                          {name: "Dekali", label: "Alati-AKInteractive-DEKALI"}, 
+                          {name: "Razno", label: "Alati-AKInteractive-RAZNO"}]}, 
             {name: "MIG PRODUCTIONS", label: "AL-MIG-PRODUCTIONS"}, 
             {name: "ABTEILUNG 502", label: "AL-ABTEILUNG-502"},
             {name: "Tamiya", label: "AL-tamiya"},
@@ -87,12 +87,12 @@
                           {name: "Biljke", label: "Diorame-AMMO-BILJKE"}, 
                           {name: "Akrilne Teksture", label: "Diorame-AMMO-AKRILNE-TEKSTURE"}]}, 
             {name: "AK Interactive", label: "DI-AK-Interactive",
-             subsubcats: [{name: "LISCE", label: "Diorame-AKInteractive-LISCE"},
-                          {name: "BILJKE", label: "Diorame-AKInteractive-BILJKE"},
-                          {name: "TRAVA", label: "Diorame-AKInteractive-TRAVA"}, 
-                          {name: "AKRILNE TEKSTURE", label: "Diorame-AKInteractive-AKRILNE-TEKSTURE"}, 
-                          {name: "PLUTENE PLOCICE", label: "Diorame-AKInteractive-PLUTENE-PLOCICE"}, 
-                          {name: "POLISTIRENSKE PLOCICE", label: "Diorame-AKInteractive-POLISTIRENSKE-PLOCICE"}]}]
+             subsubcats: [{name: "Lisce", label: "Diorame-AKInteractive-LISCE"},
+                          {name: "Biljke", label: "Diorame-AKInteractive-BILJKE"},
+                          {name: "Trava", label: "Diorame-AKInteractive-TRAVA"}, 
+                          {name: "Akrilne Teksture", label: "Diorame-AKInteractive-AKRILNE-TEKSTURE"}, 
+                          {name: "Plutene Plocice", label: "Diorame-AKInteractive-PLUTENE-PLOCICE"}, 
+                          {name: "Polistirenske Plocice", label: "Diorame-AKInteractive-POLISTIRENSKE-PLOCICE"}]}]
 - maincat: {name: "Knjige, časopisi, MERCH", label: "Knjige,-casopisi,-MERCH"}
   subcats: [{name: "AMMO", label: "KNJ-AMMO",
              subsubcats: [{name: "Knjige i časopisi", label: "Knjige-AMMO-KNJIGE-I-CASOPISI"},
