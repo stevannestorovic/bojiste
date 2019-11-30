@@ -23,5 +23,23 @@
     <script src="/assets/js/simpleCart.js"></script>
     <script src="/assets/js/main.js"></script>
     <script src="/assets/js/checkout.js"></script>
+    <script>
+	let breadCrumb = document.querySelector('.breadcrumb ul');
+	if(breadCrumb != null) {
+		if(breadCrumb.childNodes.length >= 1) {
+			// otvori prvi nivo
+			let catName = breadCrumb.querySelector('ul li a').innerText;
+			let lvl1Menu = document.querySelectorAll('.lvl1');
+			lvl1Menu.forEach((e) => {
+				if(e.childNodes[0].textContent.includes(catName)) {
+					let allSubs = e.parentNode.querySelectorAll('ul');
+					allSubs.forEach((e) => {
+						e.classList.remove('hidden');
+					});
+				}
+			});
+		}
+	}
+    </script>
 </body>
 </html>

@@ -1,9 +1,9 @@
-<button class="is-light button toggle-menu-button">Meni</button>
-<div class="menu hidden">
+<!-- <button class="is-light button toggle-menu-button">Meni</button> -->
+<div class="menu">
 		<ul class="menu-list menu" id="dropdown-menu" role="menu">
 		{%- for cat in site.data.cats -%}
 		<li>
-			<a href="{{cat.maincat.name | replace: ' ', '_'}}.html">
+			<a href="{{cat.maincat.name | replace: ' ', '_'}}.html" class="lvl1">
 			{{cat.maincat.name}}
 			{%- if cat.subcats -%}
 			<span class="list-expand">&#x25BC;</span>
@@ -13,7 +13,7 @@
 			<ul class="menu-list menu">
 			{%- for subcat in cat.subcats -%}
 				<li>
-				<a href="{{cat.maincat.name | replace: ' ', '_'}}_{{subcat.name | replace: ' ', '_'}}.html" class="dropdown-item">
+				<a href="{{cat.maincat.name | replace: ' ', '_'}}_{{subcat.name | replace: ' ', '_'}}.html" class="dropdown-item lvl2">
 				{{subcat.name}}
 				{%- if subcat.subsubcats -%}
 				<span class="list-expand">&#x25BC;</span>
@@ -23,7 +23,7 @@
 				<ul class="menu-list menu">
 				{%- for subsubcat in subcat.subsubcats -%}
 					<li>
-					<a href="{{cat.maincat.name | replace: ' ', '_'}}_{{subcat.name | replace: ' ', '_'}}_{{subsubcat.name | replace: ' ', '_'}}.html" class="dropdown-item">
+					<a href="{{cat.maincat.name | replace: ' ', '_'}}_{{subcat.name | replace: ' ', '_'}}_{{subsubcat.name | replace: ' ', '_'}}.html" class="dropdown-item lvl3">
 					{{subsubcat.name}}
 					</a>
 					</li>
@@ -38,13 +38,9 @@
 		{%- endfor -%}
 		</ul>
 </div>
-
 <script>
-/* UX Stuff*/
-let openedCategory = document.querySelector('.breadcrumb > ul:nth-child(1) > li:nth-child(1) > a:nth-child(1)');
-console.log(openedeCategory.innerText);
 /* Menu wrapper */
-const showMenuText = "↓ Prikaži kategorije";
+/*const showMenuText = "↓ Prikaži kategorije";
 const hideMenuText = "↑ Sakriji kategorije";
 
 let menuWrapBtn= document.querySelector(".toggle-menu-button");
@@ -55,12 +51,11 @@ menuWrapBtn.addEventListener("click", e => {
 	if (menuWrapBtn.innerText == showMenuText) menuWrapBtn.innerText = hideMenuText;
 	else menuWrapBtn.innerText = showMenuText;
 });
-
+*/
 
 /* Menu links */ 
 let allSubmenus = document.querySelectorAll('.menu-list ul');
 allSubmenus.forEach(function (elem) {
-	console.log(elem.parentNode.innerText);
 	elem.classList.add('hidden');
 });
 
@@ -70,8 +65,6 @@ let pmExpandBtn = pmMenu.querySelector('a .list-expand');
 pmExpandBtn.addEventListener('click', (e) => {
 	let menu = document.querySelector('#dropdown-menu > li:nth-child(1) > ul:nth-child(2)');
 	menu.classList.toggle('hidden');	
-	console.log('PM clicked');
-	console.log(pmMenu);
 });
 
 let linksLvl1 = document.querySelectorAll('.menu-list li a');
@@ -79,10 +72,8 @@ linksLvl1.forEach(function (elem) {
 	let btn = elem.querySelector('.list-expand');
 	if(btn != null) {
 		btn.addEventListener('click', function(evt) {	
-			console.log(btn);
 			evt.preventDefault();
 			let menu = evt.target.parentNode.parentNode.querySelector('.menu-list');
-			console.log(menu);
 			menu.classList.toggle('hidden');
 		});
 	}

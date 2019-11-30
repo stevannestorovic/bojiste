@@ -14,5 +14,16 @@
 			</div>
 		{% endif %}
 	{% endfor %}
+	{% for product in site.data.products  %}
+		{% if product.special_offer %}
+			<div class="panel-product">
+				<h3>{{product.title}}</h3>
+				<img src="{{product.img_path}}">
+				<p class="panel-product-desc">
+					{{product.desc}}
+				</p>
+			</div>
+		{% endif %}
+	{% endfor %}
 	</div>
 </div>
