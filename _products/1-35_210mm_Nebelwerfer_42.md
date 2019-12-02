@@ -1,6 +1,6 @@
 ---
 title: "1/35 210mm Nebelwerfer 42 "
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/GWH03503.jpg"
 brand: AMMO

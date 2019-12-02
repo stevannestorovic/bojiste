@@ -1,6 +1,6 @@
 ---
 title: "1/48 MIG-29 SMT"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/GWH04818.jpg"
 brand: AMMO

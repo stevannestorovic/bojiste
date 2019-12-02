@@ -1,6 +1,6 @@
 ---
 title: "Cute  U.S F4U Fighter"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TIGE101.jpg"
 brand: AMMO

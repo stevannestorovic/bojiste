@@ -1,6 +1,6 @@
 ---
 title: "1/48 S-2A/E ROCAF "
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/KIN48074.jpg"
 brand: AMMO

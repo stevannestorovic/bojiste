@@ -1,6 +1,6 @@
 ---
 title: "1/35 NEXTER T40 IFV"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TIGE4665.jpg"
 brand: AMMO

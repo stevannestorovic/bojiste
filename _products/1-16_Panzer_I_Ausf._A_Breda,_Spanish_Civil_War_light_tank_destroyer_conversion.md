@@ -1,6 +1,6 @@
 ---
 title: "1/16 Panzer I Ausf. A Breda, Spanish Civil War light tank destroyer conversion"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/AMIG8503.jpg"
 brand: AMMO

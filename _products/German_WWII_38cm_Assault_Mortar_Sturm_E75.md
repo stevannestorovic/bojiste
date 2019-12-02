@@ -1,6 +1,6 @@
 ---
 title: "German WWII 38cm Assault Mortar Sturm E75"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72140.jpg"
 brand: AMMO

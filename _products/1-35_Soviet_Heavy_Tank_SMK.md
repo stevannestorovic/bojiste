@@ -1,6 +1,6 @@
 ---
 title: "1/35 Soviet Heavy Tank SMK"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2112.jpg"
 brand: AMMO

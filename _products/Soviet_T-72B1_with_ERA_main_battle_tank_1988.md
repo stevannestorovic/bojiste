@@ -1,6 +1,6 @@
 ---
 title: "Soviet T-72B1 with ERA main battle tank 1988"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72104.jpg"
 brand: AMMO

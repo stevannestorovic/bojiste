@@ -1,6 +1,6 @@
 ---
 title: "1/35 M-ATV (MRAP ALL TERRAIN VEHICLE) M1024A1"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/RFM5032.jpg"
 brand: AMMO

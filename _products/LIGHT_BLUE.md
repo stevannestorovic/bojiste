@@ -1,14 +1,14 @@
 ---
-title: "LIGHT BLUE "
+title: "LIGHT BLUE"
 price: 0 
-desc: "Bez opisa"
-img_path: "/assets/img/A.MIG-0249.jpg"
+desc: "Figure Series Special Paints"
+img_path: "/assets/img/AK3078.jpg"
 brand: AMMO
 available: true
 special_offer: false
 new: false
 soon: false
 cat: "Akrilne-Boje"
-subcat: "AB-AMMO"
-subsubcat: "AkrilneBoje-AMMO-POJEDINACNE-BOJE"
+subcat: "AB-AK-MENG"
+subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
 ---

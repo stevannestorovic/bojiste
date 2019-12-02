@@ -1,6 +1,6 @@
 ---
 title: "1/35 STURMTIGER W/ WORKABLE TRACK LINKS"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/RFM5035.jpg"
 brand: AMMO

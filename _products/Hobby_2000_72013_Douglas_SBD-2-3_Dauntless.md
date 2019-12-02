@@ -1,6 +1,6 @@
 ---
 title: "Hobby 2000 72013 Douglas SBD-2/3 Dauntless"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/H2K72013.jpg"
 brand: AMMO

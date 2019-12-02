@@ -1,14 +1,14 @@
 ---
 title: "OLD RUST"
-price: 0 
-desc: "Bez opisa"
-img_path: "/assets/img/A.MIG-0042.jpg"
-brand: AMMO
+price: "560" 
+desc: "PIGMENT COLORS"
+img_path: "/assets/img/ABTP230 .jpg"
+brand: Abteilung
 available: true
 special_offer: false
 new: false
 soon: false
-cat: "Akrilne-Boje"
-subcat: "AB-AMMO"
-subsubcat: "AkrilneBoje-AMMO-POJEDINACNE-BOJE"
+cat: "ABTEILUNG-502"
+subcat: "ABT-PIGMENTI"
+subsubcat: ""
 ---

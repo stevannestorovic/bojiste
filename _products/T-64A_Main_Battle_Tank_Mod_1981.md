@@ -1,6 +1,6 @@
 ---
 title: "T-64A Main Battle Tank Mod 1981"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72014.jpg"
 brand: AMMO

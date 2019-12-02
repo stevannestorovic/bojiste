@@ -1,6 +1,6 @@
 ---
 title: "1/35 T55 Tracks RMSH "
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2093.jpg"
 brand: AMMO

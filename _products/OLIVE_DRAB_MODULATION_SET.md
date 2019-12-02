@@ -1,14 +1,14 @@
 ---
 title: "OLIVE DRAB MODULATION SET"
 price: 0 
-desc: "Set Akrilnih Boja , Modulacija"
-img_path: "/assets/img/A.MIG-7003.jpg"
+desc: "Modulation set"
+img_path: "/assets/img/AK-131.jpg"
 brand: AMMO
 available: true
 special_offer: false
 new: false
 soon: false
 cat: "Akrilne-Boje"
-subcat: "AB-AMMO"
-subsubcat: "AkrilneBoje-AMMO-SETOVI-AKRILNIH-BOJA"
+subcat: "AB-AK-MENG"
+subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
 ---

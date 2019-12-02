@@ -27,8 +27,6 @@ def make_seo_title(cname="", sname="", ssname=""):
 	return seo_name
 
 
-def buzzcut_latin(text):
-	return text.replace('Š', 's').replace('š', 's').replace('č', 'c') 
 
 
 CAT_PAGE = '''---
@@ -166,7 +164,7 @@ for cat in CATS:
 	#print(cname)
 	breadcrumb = make_breadcrumbs(cname=cname)
 	seo_title = make_seo_title(cname=cname)
-	fname = buzzcut_latin(cname.replace(' ', '_')) + '.html'
+	fname = cname.replace(' ', '_') + '.html'
 	f = open(fname, 'w')
 	print(fname)
 	input('...')
@@ -187,7 +185,7 @@ for cat in CATS:
 			slab = subcat['label']
 			breadcrumb = make_breadcrumbs(cname=cname,sname=sname)
 			seo_title = make_seo_title(cname=cname, sname=sname)
-			path = buzzcut_latin('{} {}'.format(cname, sname))
+			path = '{} {}'.format(cname, sname)
 			f = open(path.replace(' ', '_') + '.html', 'w')
 			content = SUBCAT_PAGE.replace('PATH', path)
 			content = content.replace('CLAB', clab)
@@ -227,7 +225,7 @@ for cat in CATS:
 					#print(ssname)
 					breadcrumb = make_breadcrumbs(cname=cname,sname=sname, ssname=ssname)
 					seo_title = make_seo_title(cname=cname, sname=sname, ssname=ssname)
-					path = buzzcut_latin('{} {} {}'.format(cname, sname, ssname))
+					path = '{} {} {}'.format(cname, sname, ssname)
 					f = open(path.replace(' ', '_') + '.html', 'w')
 					content = SUBSUBCAT_PAGE
 					content = content.replace('CLAB', clab)

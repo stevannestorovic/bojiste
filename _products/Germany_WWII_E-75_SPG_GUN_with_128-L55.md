@@ -1,6 +1,6 @@
 ---
 title: "Germany WWII E-75 SPG GUN with 128/L55"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72054.jpg"
 brand: AMMO

@@ -1,14 +1,14 @@
 ---
 title: "VIETNAM EARTH"
-price: 0 
-desc: "Bez opisa"
-img_path: "/assets/img/A.MIG-3022.jpg"
-brand: AMMO
+price: "560" 
+desc: "PIGMENT COLORS"
+img_path: "/assets/img/ABTP031 .jpg"
+brand: Abteilung
 available: true
 special_offer: false
 new: false
 soon: false
-cat: "Weathering"
-subcat: "wet-pigmenti"
-subsubcat: "wet-pigmenti"
+cat: "ABTEILUNG-502"
+subcat: "ABT-PIGMENTI"
+subsubcat: ""
 ---

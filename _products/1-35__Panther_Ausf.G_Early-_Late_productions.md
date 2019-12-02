@@ -1,6 +1,6 @@
 ---
 title: "1/35  Panther Ausf.G Early/ Late productions"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/RFM5018.jpg"
 brand: AMMO

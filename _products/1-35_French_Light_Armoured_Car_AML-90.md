@@ -1,6 +1,6 @@
 ---
 title: "1/35 French Light Armoured Car AML-90 "
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2077.jpg"
 brand: AMMO

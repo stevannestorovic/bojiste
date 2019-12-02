@@ -1,6 +1,6 @@
 ---
 title: "Hobby 2000 72008 Macchi MC.202 Italy 1943"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/H2K72008.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "Percival Proctor Mk.III"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/DORAW48006.jpg"
 brand: AMMO

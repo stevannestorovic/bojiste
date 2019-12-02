@@ -1,6 +1,6 @@
 ---
 title: "1/35 US Medium Tank M3 Lee Late"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2087.jpg"
 brand: AMMO

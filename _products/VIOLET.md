@@ -1,14 +1,14 @@
 ---
 title: "VIOLET"
 price: 0 
-desc: "Bez opisa"
-img_path: "/assets/img/A.MIG-0126.jpg"
+desc: "Figure Series Special Paints"
+img_path: "/assets/img/AK3094.jpg"
 brand: AMMO
 available: true
 special_offer: false
 new: false
 soon: false
 cat: "Akrilne-Boje"
-subcat: "AB-AMMO"
-subsubcat: "AkrilneBoje-AMMO-POJEDINACNE-BOJE"
+subcat: "AB-AK-MENG"
+subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
 ---

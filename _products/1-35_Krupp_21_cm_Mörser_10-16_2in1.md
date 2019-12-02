@@ -1,6 +1,6 @@
 ---
 title: "1/35 Krupp 21 cm Mörser 10/16 2in1"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2032.jpg"
 brand: AMMO

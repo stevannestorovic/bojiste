@@ -1,6 +1,6 @@
 ---
 title: "F-15J JASDF"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/GWHGQ002.jpg"
 brand: AMMO

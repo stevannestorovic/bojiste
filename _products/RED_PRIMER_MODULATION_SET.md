@@ -1,14 +1,14 @@
 ---
 title: "RED PRIMER MODULATION SET"
 price: 0 
-desc: "Set Akrilnih Boja , Modulacija"
-img_path: "/assets/img/A.MIG-7002.jpg"
+desc: "Modulation set"
+img_path: "/assets/img/AK-124.jpg"
 brand: AMMO
 available: true
 special_offer: false
 new: false
 soon: false
 cat: "Akrilne-Boje"
-subcat: "AB-AMMO"
-subsubcat: "AkrilneBoje-AMMO-SETOVI-AKRILNIH-BOJA"
+subcat: "AB-AK-MENG"
+subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
 ---

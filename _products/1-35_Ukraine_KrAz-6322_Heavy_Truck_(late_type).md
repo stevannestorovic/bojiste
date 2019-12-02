@@ -1,6 +1,6 @@
 ---
 title: "1/35 Ukraine KrAz-6322 Heavy Truck (late type)"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2022.jpg"
 brand: AMMO

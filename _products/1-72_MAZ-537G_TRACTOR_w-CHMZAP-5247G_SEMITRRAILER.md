@@ -1,6 +1,6 @@
 ---
 title: "1/72 MAZ-537G TRACTOR w/CHMZAP-5247G SEMITRRAILER"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO5004.jpg"
 brand: AMMO

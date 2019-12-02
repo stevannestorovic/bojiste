@@ -1,6 +1,6 @@
 ---
 title: "Hobby 2000 72012 Brewster Model 339B/C Buffalo"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/H2K72012.jpg"
 brand: AMMO

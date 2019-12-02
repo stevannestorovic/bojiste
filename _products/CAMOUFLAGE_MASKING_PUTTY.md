@@ -1,6 +1,6 @@
 ---
 title: "CAMOUFLAGE MASKING PUTTY"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/AMIG8012.jpg"
 brand: AMMO

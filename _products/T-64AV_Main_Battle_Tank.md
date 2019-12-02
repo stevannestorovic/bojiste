@@ -1,6 +1,6 @@
 ---
 title: "T-64AV Main Battle Tank"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72059.jpg"
 brand: AMMO

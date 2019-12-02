@@ -1,6 +1,6 @@
 ---
 title: "T-80B Main Battle Tank Ultra Ver. 3 in 1, Limited"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72041.jpg"
 brand: AMMO

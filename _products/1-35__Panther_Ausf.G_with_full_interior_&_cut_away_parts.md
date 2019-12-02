@@ -1,6 +1,6 @@
 ---
 title: "1/35  Panther Ausf.G with full interior & cut away parts"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/RFM5019.jpg"
 brand: AMMO

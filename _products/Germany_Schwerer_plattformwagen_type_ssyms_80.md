@@ -1,6 +1,6 @@
 ---
 title: "Germany Schwerer plattformwagen type ssyms 80"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72043.jpg"
 brand: AMMO

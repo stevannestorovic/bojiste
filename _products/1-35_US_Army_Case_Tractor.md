@@ -1,6 +1,6 @@
 ---
 title: "1/35 US Army Case Tractor"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TM35001.jpg"
 brand: AMMO

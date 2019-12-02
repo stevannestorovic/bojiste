@@ -1,6 +1,6 @@
 ---
 title: "1/35 US Medium Tank M47"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2070.jpg"
 brand: AMMO

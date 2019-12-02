@@ -1,14 +1,14 @@
 ---
 title: "LIGHT FLESH"
 price: 0 
-desc: "Bez opisa"
-img_path: "/assets/img/A.MIG-3519.jpg"
+desc: "Figure Series Special Paints"
+img_path: "/assets/img/AK3012.jpg"
 brand: AMMO
 available: true
 special_offer: false
 new: false
 soon: false
-cat: "AMMO-OILBRUSHERS"
-subcat: ""
-subsubcat: ""
+cat: "Akrilne-Boje"
+subcat: "AB-AK-MENG"
+subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
 ---

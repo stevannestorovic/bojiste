@@ -1,6 +1,6 @@
 ---
 title: "1/72 USAF F-15E In action of OEF & OIF "
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/GWH07201.jpg"
 brand: AMMO

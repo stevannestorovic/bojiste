@@ -1,6 +1,6 @@
 ---
 title: "1/35 Tiger I Early Production Full Interior"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/RFM5003.jpg"
 brand: AMMO

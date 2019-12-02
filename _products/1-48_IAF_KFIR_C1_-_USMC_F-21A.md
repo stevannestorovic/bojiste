@@ -1,6 +1,6 @@
 ---
 title: "1/48 IAF KFIR C1 / USMC F-21A"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/KIN48053.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "1/35 M3A3 BRADLEY"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/KIN61014.jpg"
 brand: AMMO

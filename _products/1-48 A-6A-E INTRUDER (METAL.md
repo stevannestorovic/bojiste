@@ -1,6 +1,6 @@
 ---
 title: "1/48 A-6A/E INTRUDER (METAL  "
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/KIN48034.jpg"
 brand: AMMO

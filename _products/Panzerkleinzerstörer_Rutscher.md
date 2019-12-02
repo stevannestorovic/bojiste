@@ -1,6 +1,6 @@
 ---
 title: "Panzerkleinzerstörer Rutscher"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/DW35007.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "Borgward IV Panzerjäger Wanze"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/DW35008.jpg"
 brand: AMMO

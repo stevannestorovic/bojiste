@@ -1,6 +1,6 @@
 ---
 title: "T-72A Main battle tank"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72004.jpg"
 brand: AMMO

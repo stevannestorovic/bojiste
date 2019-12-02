@@ -1,6 +1,6 @@
 ---
 title: "1/35 AMX-30B2 BRENNUS"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TIGE4604.jpg"
 brand: AMMO

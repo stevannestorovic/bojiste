@@ -1,6 +1,6 @@
 ---
 title: "1/35 WWII German King Tiger Porsche Turret w/Zimmerit and interior  "
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2046.jpg"
 brand: AMMO

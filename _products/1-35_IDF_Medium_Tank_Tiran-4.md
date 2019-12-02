@@ -1,6 +1,6 @@
 ---
 title: "1/35 IDF Medium Tank Tiran-4"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2051.jpg"
 brand: AMMO

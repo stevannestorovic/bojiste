@@ -1,6 +1,6 @@
 ---
 title: "Hobby 2000 72014 Douglas SBD-4/5 Dauntless"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/H2K72014.jpg"
 brand: AMMO

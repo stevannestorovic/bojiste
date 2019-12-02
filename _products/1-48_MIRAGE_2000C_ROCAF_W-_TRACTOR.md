@@ -1,6 +1,6 @@
 ---
 title: "1/48 MIRAGE 2000C ROCAF W/ TRACTOR"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/KIN48045.jpg"
 brand: AMMO

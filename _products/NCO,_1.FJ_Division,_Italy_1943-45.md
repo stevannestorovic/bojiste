@@ -1,6 +1,6 @@
 ---
 title: "NCO, 1.FJ Division, Italy 1943-45"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/RDM35026.jpg"
 brand: AMMO

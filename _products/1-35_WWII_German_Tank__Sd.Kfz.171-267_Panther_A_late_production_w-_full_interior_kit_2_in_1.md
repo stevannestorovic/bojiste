@@ -1,6 +1,6 @@
 ---
 title: "1/35 WWII German Tank  Sd.Kfz.171/267 Panther A late production w/ full interior kit 2 in 1"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2099.jpg"
 brand: AMMO

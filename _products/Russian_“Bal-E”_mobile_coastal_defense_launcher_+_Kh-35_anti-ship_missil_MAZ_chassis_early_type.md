@@ -1,6 +1,6 @@
 ---
 title: "Russian “Bal-E” mobile coastal defense launcher + Kh-35 anti-ship missil MAZ chassis early type     "
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72103.jpg"
 brand: AMMO

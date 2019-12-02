@@ -1,6 +1,6 @@
 ---
 title: "1/35 Scammell Pioneer Tank Transporter 30t with Goose neck trailer"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TM35207.jpg"
 brand: AMMO

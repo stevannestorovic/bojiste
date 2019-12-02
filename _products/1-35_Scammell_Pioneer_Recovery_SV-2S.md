@@ -1,6 +1,6 @@
 ---
 title: "1/35 Scammell Pioneer Recovery SV/2S"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TM35201.jpg"
 brand: AMMO

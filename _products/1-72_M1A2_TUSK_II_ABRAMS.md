@@ -1,6 +1,6 @@
 ---
 title: "1/72 M1A2 TUSK II ABRAMS"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TIGE9601.jpg"
 brand: AMMO

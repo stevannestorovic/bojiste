@@ -1,6 +1,6 @@
 ---
 title: "1/35 WWII Škoda PA-II (Turtle)"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2024.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "Pzkpfwg. V Panther A early/mid"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/DW35010.jpg"
 brand: AMMO

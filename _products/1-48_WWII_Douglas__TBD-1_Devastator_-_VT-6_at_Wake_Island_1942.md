@@ -1,6 +1,6 @@
 ---
 title: "1/48 WWII Douglas  TBD-1 Devastator - VT-6 at Wake Island 1942"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/GWH04809.jpg"
 brand: AMMO

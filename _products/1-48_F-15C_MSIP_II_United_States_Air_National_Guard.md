@@ -1,6 +1,6 @@
 ---
 title: "1/48 F-15C MSIP II United States Air National Guard"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/GWH04817.jpg"
 brand: AMMO

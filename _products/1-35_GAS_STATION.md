@@ -1,6 +1,6 @@
 ---
 title: "1/35 GAS STATION"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/AMIG8501.jpg"
 brand: AMMO

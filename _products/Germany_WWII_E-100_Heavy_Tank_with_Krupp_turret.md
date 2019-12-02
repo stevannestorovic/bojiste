@@ -1,6 +1,6 @@
 ---
 title: "Germany WWII E-100 Heavy Tank with Krupp turret "
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72081.jpg"
 brand: AMMO

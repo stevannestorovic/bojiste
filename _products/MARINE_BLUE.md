@@ -1,14 +1,14 @@
 ---
 title: "MARINE BLUE"
-price: 0 
-desc: "Bez opisa"
-img_path: "/assets/img/A.MIG-3527.jpg"
-brand: AMMO
+price: "560" 
+desc: "PIGMENT COLORS"
+img_path: "/assets/img/ABTPF616 .jpg"
+brand: Abteilung
 available: true
 special_offer: false
 new: false
 soon: false
-cat: "AMMO-OILBRUSHERS"
-subcat: ""
+cat: "ABTEILUNG-502"
+subcat: "ABT-PIGMENTI"
 subsubcat: ""
 ---

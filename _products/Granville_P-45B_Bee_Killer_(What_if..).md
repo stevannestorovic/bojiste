@@ -1,6 +1,6 @@
 ---
 title: "Granville P-45B Bee Killer (What if..)"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/DORAW48010.jpg"
 brand: AMMO

@@ -1,14 +1,14 @@
 ---
 title: "LIGHT RUST WASH"
-price: 0 
-desc: "Bez opisa"
-img_path: "/assets/img/A.MIG-1004.jpg"
-brand: AMMO
+price: "500" 
+desc: "Efekti"
+img_path: "/assets/img/AK-046.jpg"
+brand: AK
 available: true
 special_offer: false
 new: false
 soon: false
 cat: "Weathering"
-subcat: "wet-emajl-wash"
-subsubcat: "wet-emajl-wash"
+subcat: "wet-ak"
+subsubcat: ""
 ---

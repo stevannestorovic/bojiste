@@ -1,6 +1,6 @@
 ---
 title: "Fist of War German WWII E75 flak 40 ZWILLING panzer"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72117.jpg"
 brand: AMMO

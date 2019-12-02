@@ -1,6 +1,6 @@
 ---
 title: "1/35 Polish PL-01 Prototype light tank "
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2127.jpg"
 brand: AMMO

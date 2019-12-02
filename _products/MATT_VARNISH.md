@@ -1,14 +1,14 @@
 ---
 title: "MATT VARNISH"
 price: 0 
-desc: "Bez opisa"
-img_path: "/assets/img/A.MIG-0089.jpg"
+desc: "Varnish"
+img_path: "/assets/img/AK-775.jpg"
 brand: AMMO
 available: true
 special_offer: false
 new: false
 soon: false
 cat: "Akrilne-Boje"
-subcat: "AB-AMMO"
-subsubcat: "AkrilneBoje-AMMO-AKRILNI-LAKOVI"
+subcat: "AB-AK-MENG"
+subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
 ---

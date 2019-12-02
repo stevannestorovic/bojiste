@@ -1,6 +1,6 @@
 ---
 title: "1/35 German Ssyl Flat Wagon"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TM35904.jpg"
 brand: AMMO

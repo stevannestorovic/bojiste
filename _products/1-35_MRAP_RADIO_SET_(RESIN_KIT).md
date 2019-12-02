@@ -1,6 +1,6 @@
 ---
 title: "1/35 MRAP RADIO SET (RESIN KIT)"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/RM1002.jpg"
 brand: AMMO

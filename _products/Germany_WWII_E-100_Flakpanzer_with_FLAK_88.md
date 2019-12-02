@@ -1,6 +1,6 @@
 ---
 title: "Germany WWII E-100 Flakpanzer with FLAK 88 "
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72067.jpg"
 brand: AMMO

@@ -1,14 +1,14 @@
 ---
 title: "DRY FERN"
 price: 0 
-desc: "Bez opisa"
-img_path: "/assets/img/A.MIG-8457.jpg"
-brand: AMMO
+desc: ""
+img_path: "/assets/img/AK8135.jpg"
+brand: AK
 available: true
 special_offer: false
 new: false
 soon: false
 cat: "Diorame"
-subcat: "DI-AMMO"
-subsubcat: "Diorame-AMMO-BILJKE"
+subcat: "DI-AK-Interactive"
+subsubcat: "Diorame-AKInteractive-BILJKE"
 ---

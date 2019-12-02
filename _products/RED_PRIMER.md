@@ -1,14 +1,14 @@
 ---
 title: "RED PRIMER"
 price: 0 
-desc: "Bez opisa"
-img_path: "/assets/img/A.MIG-3511.jpg"
+desc: "Primers"
+img_path: "/assets/img/AK-180.jpg"
 brand: AMMO
 available: true
 special_offer: false
 new: false
 soon: false
-cat: "AMMO-OILBRUSHERS"
-subcat: ""
-subsubcat: ""
+cat: "Akrilne-Boje"
+subcat: "AB-AK-MENG"
+subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
 ---

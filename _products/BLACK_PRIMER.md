@@ -1,14 +1,14 @@
 ---
 title: "BLACK PRIMER"
 price: 0 
-desc: "Bez opisa"
-img_path: "/assets/img/A.MIG-2005.jpg"
+desc: "Primers"
+img_path: "/assets/img/AK-178.jpg"
 brand: AMMO
 available: true
 special_offer: false
 new: false
 soon: false
 cat: "Akrilne-Boje"
-subcat: "AB-AMMO"
-subsubcat: "AkrilneBoje-AMMO-AKRILNI-PRAJMERI"
+subcat: "AB-AK-MENG"
+subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
 ---

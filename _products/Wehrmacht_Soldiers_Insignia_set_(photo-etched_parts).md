@@ -1,6 +1,6 @@
 ---
 title: "Wehrmacht Soldiers Insignia set (photo-etched parts)"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/RDM35PE03.jpg"
 brand: AMMO

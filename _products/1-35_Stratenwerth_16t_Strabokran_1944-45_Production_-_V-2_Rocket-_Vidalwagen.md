@@ -1,6 +1,6 @@
 ---
 title: "1/35 Stratenwerth 16t Strabokran 1944/45 Production / V-2 Rocket/ Vidalwagen"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2123.jpg"
 brand: AMMO

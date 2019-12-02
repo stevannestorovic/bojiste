@@ -1,6 +1,6 @@
 ---
 title: "T-90MS main battle tank"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72010.jpg"
 brand: AMMO

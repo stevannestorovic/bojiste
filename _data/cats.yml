@@ -53,11 +53,13 @@
   subcats: [{name: "Uljane Boje", label: "ABT-OIL-PAINTS"}, 
             {name: "Pigmenti", label: "ABT-PIGMENTI"}, 
             {name: "Cetkice", label: "ABT-CETKICE"}, 
+            {name: "Setovi uljanih boja", label: "ABT-OIL-SETS"}, 
             {name: "Ostalo", label: "ABT-OSTALO"}]
 - maincat: {name: "Weathering", label: "Weathering"}
   subcats: [{name: "Emajl Voš", label: "wet-emajl-wash"},
-        {name: "AK Olovke za Weathering", label: "wet-ak"},
+        {name: "AK Olovke za Weathering", label: "wet-ak-olovke"},
             {name: "Emajl Panelni Voš", label: "wet-Emajl-Panelni-vash"},
+            {name: "AK Weathering", label: "wet-ak"},
             {name: "Filteri", label: "wet-filteri"},
             {name: "Emajl Efekti", label: "wet-Emajl-Efekti"},
             {name: "Pigmenti", label: "wet-pigmenti"},

@@ -1,14 +1,14 @@
 ---
 title: "ENGINE GRIME"
-price: 0 
-desc: "Bez opisa"
-img_path: "/assets/img/A.MIG-1407.jpg"
-brand: AMMO
+price: "500" 
+desc: "Efekti"
+img_path: "/assets/img/AK-082.jpg"
+brand: AK
 available: true
 special_offer: false
 new: false
 soon: false
 cat: "Weathering"
-subcat: "wet-Emajl-Efekti"
-subsubcat: "wet-Emajl-Efekti"
+subcat: "wet-ak"
+subsubcat: ""
 ---

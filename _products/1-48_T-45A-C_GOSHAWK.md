@@ -1,6 +1,6 @@
 ---
 title: "1/48 T-45A/C GOSHAWK"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/KIN48038.jpg"
 brand: AMMO

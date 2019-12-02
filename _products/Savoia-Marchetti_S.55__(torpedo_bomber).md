@@ -1,6 +1,6 @@
 ---
 title: "Savoia-Marchetti S.55  (torpedo bomber)"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/DORAW72020.jpg"
 brand: AMMO

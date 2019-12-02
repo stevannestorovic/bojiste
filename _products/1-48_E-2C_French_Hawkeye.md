@@ -1,6 +1,6 @@
 ---
 title: "1/48 E-2C French Hawkeye"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/KIN48015.jpg"
 brand: AMMO

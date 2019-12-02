@@ -1,6 +1,6 @@
 ---
 title: "Percival Vega Gull (civil registration)"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/DORAW48015.jpg"
 brand: AMMO

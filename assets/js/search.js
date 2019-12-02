@@ -8,7 +8,7 @@ console.log('index');
 let idx = new MiniSearch({
     fields: ['name', 'price', 'desc', 'cat', 'subcat', 'subsubcat'],
     storeFields: ['name', 'price', 'desc', 'img_path'],
-    searchOptions: {prefix: true, fuzzy: 0.2}
+    searchOptions: {prefix: true, fuzzy: 0.1}
 });
 
 idx.addAll(data);

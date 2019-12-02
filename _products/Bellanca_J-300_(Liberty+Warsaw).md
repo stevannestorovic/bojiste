@@ -1,6 +1,6 @@
 ---
 title: "Bellanca J-300 (Liberty+Warsaw)"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/DORAW72012.jpg"
 brand: AMMO

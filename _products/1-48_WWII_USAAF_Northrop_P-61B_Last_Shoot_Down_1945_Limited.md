@@ -1,6 +1,6 @@
 ---
 title: "1/48 WWII USAAF Northrop P-61B Last Shoot Down 1945 Limited"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/GWH04802.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "130 mm coastal defense gun A-222 bereg"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72051.jpg"
 brand: AMMO

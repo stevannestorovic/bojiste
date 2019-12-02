@@ -1,6 +1,6 @@
 ---
 title: "1/16 WWII  Imperial Japanese Army  Tank Commander"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO1005.jpg"
 brand: AMMO

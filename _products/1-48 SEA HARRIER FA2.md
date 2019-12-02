@@ -1,6 +1,6 @@
 ---
 title: "1/48 SEA HARRIER FA2  "
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/KIN48041.jpg"
 brand: AMMO

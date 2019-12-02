@@ -1,6 +1,6 @@
 ---
 title: "1/35 TIGER I TRANSPORT WORKABLE TRACK LINKS"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/RFM5027.jpg"
 brand: AMMO

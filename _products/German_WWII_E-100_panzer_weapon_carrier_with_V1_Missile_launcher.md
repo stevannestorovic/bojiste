@@ -1,6 +1,6 @@
 ---
 title: "German WWII E-100 panzer weapon carrier with V1 Missile launcher"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72112.jpg"
 brand: AMMO

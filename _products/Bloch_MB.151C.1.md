@@ -1,6 +1,6 @@
 ---
 title: "Bloch MB.151C.1"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/DORAW48017.jpg"
 brand: AMMO

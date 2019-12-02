@@ -1,6 +1,6 @@
 ---
 title: "German WWII E-100 panzer weapon carrier with 128mm gun"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72108.jpg"
 brand: AMMO

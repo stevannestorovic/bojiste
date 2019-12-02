@@ -1,6 +1,6 @@
 ---
 title: "1/48 WWII USAAF Northrop P-61A 'Black Widow' Glass Nose"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/GWH04806.jpg"
 brand: AMMO

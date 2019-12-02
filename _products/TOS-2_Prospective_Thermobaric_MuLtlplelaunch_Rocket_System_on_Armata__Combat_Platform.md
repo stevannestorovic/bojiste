@@ -1,6 +1,6 @@
 ---
 title: "TOS-2 Prospective Thermobaric MuLtlplelaunch Rocket System on Armata  Combat Platform"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72127.jpg"
 brand: AMMO

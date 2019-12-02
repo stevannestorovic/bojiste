@@ -1,6 +1,6 @@
 ---
 title: "1/35 Bergehetzer Early"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TM35102.jpg"
 brand: AMMO

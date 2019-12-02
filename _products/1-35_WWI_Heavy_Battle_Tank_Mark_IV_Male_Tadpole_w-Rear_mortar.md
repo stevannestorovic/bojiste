@@ -1,6 +1,6 @@
 ---
 title: "1/35 WWI Heavy Battle Tank Mark IV Male Tadpole w/Rear mortar"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2015.jpg"
 brand: AMMO

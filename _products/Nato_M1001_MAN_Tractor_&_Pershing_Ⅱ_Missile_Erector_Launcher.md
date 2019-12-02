@@ -1,6 +1,6 @@
 ---
 title: "Nato M1001 MAN Tractor & Pershing Ⅱ Missile Erector Launcher "
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72084.jpg"
 brand: AMMO

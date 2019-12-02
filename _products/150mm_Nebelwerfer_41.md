@@ -1,6 +1,6 @@
 ---
 title: "150mm Nebelwerfer 41 "
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/GWH03501.jpg"
 brand: AMMO

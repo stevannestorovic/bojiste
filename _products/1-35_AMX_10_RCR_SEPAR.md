@@ -1,6 +1,6 @@
 ---
 title: "1/35 AMX 10 RCR SEPAR"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TIGE4607.jpg"
 brand: AMMO

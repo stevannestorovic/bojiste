@@ -1,6 +1,6 @@
 ---
 title: "T-72BM model 1989 with cage armour "
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72066.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "1/48 Luftwaffe Jack Stand Set with Saw Horses - Standard Edition"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/DW48001.jpg"
 brand: AMMO

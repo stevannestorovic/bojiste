@@ -1,6 +1,6 @@
 ---
 title: "1/35 M31 US TANK RECOVERY VEHICLE"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2088.jpg"
 brand: AMMO

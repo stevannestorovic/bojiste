@@ -1,6 +1,6 @@
 ---
 title: "Soviet Razviedchik w/MP40, 1941-45"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/RDM35019.jpg"
 brand: AMMO

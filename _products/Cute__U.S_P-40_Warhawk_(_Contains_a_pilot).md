@@ -1,6 +1,6 @@
 ---
 title: "Cute  U.S P-40 Warhawk ( Contains a pilot)"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TIGETT002.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "T-80UM1 Main Battle Tank "
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72063.jpg"
 brand: AMMO

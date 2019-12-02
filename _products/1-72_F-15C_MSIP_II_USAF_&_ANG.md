@@ -1,6 +1,6 @@
 ---
 title: "1/72 F-15C MSIP II USAF & ANG"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/GWH07205.jpg"
 brand: AMMO

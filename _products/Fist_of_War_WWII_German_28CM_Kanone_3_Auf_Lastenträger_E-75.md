@@ -1,6 +1,6 @@
 ---
 title: "Fist of War WWII German 28CM Kanone 3 Auf Lastenträger E-75"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72192.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "Soviet Razviedchik w/PPsh 41, 1941-45"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/RDM35020.jpg"
 brand: AMMO

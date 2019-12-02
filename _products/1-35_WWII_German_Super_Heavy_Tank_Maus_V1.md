@@ -1,6 +1,6 @@
 ---
 title: "1/35 WWII German Super Heavy Tank Maus V1"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2049.jpg"
 brand: AMMO

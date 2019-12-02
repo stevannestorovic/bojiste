@@ -1,6 +1,6 @@
 ---
 title: "1/35 FRIES KRAN 16t Strabokran 43/44 + Panther full interior (Random: TAKO2097/2098/2099/2100/2104)"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2108.jpg"
 brand: AMMO

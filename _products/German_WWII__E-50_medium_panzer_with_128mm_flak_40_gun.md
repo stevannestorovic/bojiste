@@ -1,6 +1,6 @@
 ---
 title: "German WWII  E-50 medium panzer with 128mm flak 40 gun"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72099.jpg"
 brand: AMMO

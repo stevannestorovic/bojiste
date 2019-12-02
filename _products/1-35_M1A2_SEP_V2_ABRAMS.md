@@ -1,6 +1,6 @@
 ---
 title: "1/35 M1A2 SEP V2 ABRAMS"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/RFM5029.jpg"
 brand: AMMO

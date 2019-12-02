@@ -1,6 +1,6 @@
 ---
 title: "1/35 KING TIGER TRACKS"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2048.jpg"
 brand: AMMO

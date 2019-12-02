@@ -1,6 +1,6 @@
 ---
 title: "1/35 T-90MS MBT"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TIGE4612.jpg"
 brand: AMMO

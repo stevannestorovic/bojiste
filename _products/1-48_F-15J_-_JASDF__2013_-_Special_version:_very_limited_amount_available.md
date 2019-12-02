@@ -1,6 +1,6 @@
 ---
 title: "1/48 F-15J - JASDF  2013 - Special version: very limited amount available"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/GWHSNG03.jpg"
 brand: AMMO

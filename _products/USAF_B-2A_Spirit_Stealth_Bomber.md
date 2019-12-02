@@ -1,6 +1,6 @@
 ---
 title: "USAF B-2A Spirit Stealth Bomber"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72201.jpg"
 brand: AMMO

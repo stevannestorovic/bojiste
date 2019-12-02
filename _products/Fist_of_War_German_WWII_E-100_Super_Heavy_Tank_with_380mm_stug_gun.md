@@ -1,6 +1,6 @@
 ---
 title: "Fist of War German WWII E-100 Super Heavy Tank with 380mm stug gun"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72151.jpg"
 brand: AMMO

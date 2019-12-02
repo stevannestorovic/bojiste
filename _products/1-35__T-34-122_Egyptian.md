@@ -1,6 +1,6 @@
 ---
 title: "1/35  T-34/122 Egyptian "
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/RFM5013.jpg"
 brand: AMMO

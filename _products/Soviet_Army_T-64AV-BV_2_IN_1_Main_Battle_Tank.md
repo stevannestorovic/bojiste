@@ -1,6 +1,6 @@
 ---
 title: "Soviet Army T-64AV/BV 2 IN 1 Main Battle Tank"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72128.jpg"
 brand: AMMO

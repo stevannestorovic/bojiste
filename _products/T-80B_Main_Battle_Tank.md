@@ -1,6 +1,6 @@
 ---
 title: "T-80B Main Battle Tank"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72024.jpg"
 brand: AMMO

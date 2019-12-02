@@ -1,6 +1,6 @@
 ---
 title: "1/35 WWII German King Tiger Henschel w/Zimmerit and interior [Pz.Abt.505] SPECIAL EDITION"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2047S.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "1/35 M1A1/ A2 Abrams w/Full Interior 2 in 1"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/RFM5007.jpg"
 brand: AMMO

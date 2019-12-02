@@ -1,6 +1,6 @@
 ---
 title: "1/35 Bergepanzer Tiger I"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/RFM5008.jpg"
 brand: AMMO

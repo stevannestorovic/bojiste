@@ -1,6 +1,6 @@
 ---
 title: "1/48 SUPER ETENDARD   "
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/KIN48061.jpg"
 brand: AMMO

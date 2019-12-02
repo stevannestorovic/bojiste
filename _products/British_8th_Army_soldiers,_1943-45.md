@@ -1,6 +1,6 @@
 ---
 title: "British 8th Army soldiers, 1943-45"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/RDM35009.jpg"
 brand: AMMO

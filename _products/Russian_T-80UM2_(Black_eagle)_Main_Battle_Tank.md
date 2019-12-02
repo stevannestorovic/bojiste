@@ -1,6 +1,6 @@
 ---
 title: "Russian T-80UM2 (Black eagle) Main Battle Tank"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72057.jpg"
 brand: AMMO

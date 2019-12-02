@@ -1,6 +1,6 @@
 ---
 title: "1/35 M551A1/ A1TTS SHERIDAN "
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/RFM5020.jpg"
 brand: AMMO

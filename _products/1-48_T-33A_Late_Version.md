@@ -1,6 +1,6 @@
 ---
 title: "1/48 T-33A Late Version"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/GWH04821.jpg"
 brand: AMMO

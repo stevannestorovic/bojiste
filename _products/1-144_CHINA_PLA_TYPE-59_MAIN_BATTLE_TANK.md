@@ -1,6 +1,6 @@
 ---
 title: "1/144 CHINA PLA TYPE-59 MAIN BATTLE TANK"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA-60001.jpg"
 brand: AMMO

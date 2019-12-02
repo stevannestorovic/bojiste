@@ -1,6 +1,6 @@
 ---
 title: "F-14D US Navy VF-2 Bounty Hunters"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/GWH07203.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "GERMAN WWII E-100 SUPER HEAVY TANK WITH 128mm FLAK 40 GUN"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72133.jpg"
 brand: AMMO

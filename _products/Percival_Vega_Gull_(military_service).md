@@ -1,6 +1,6 @@
 ---
 title: "Percival Vega Gull (military service)"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/DORAW72004.jpg"
 brand: AMMO

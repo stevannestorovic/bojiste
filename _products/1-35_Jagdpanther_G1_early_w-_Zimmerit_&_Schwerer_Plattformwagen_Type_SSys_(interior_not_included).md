@@ -1,6 +1,6 @@
 ---
 title: "1/35 Jagdpanther G1 early w/ Zimmerit & Schwerer Plattformwagen Type ys (interior not included)"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2125X.jpg"
 brand: AMMO

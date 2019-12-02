@@ -1,6 +1,6 @@
 ---
 title: "1/35 US Medium Tank M47 E/M 2 in 1"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2072.jpg"
 brand: AMMO

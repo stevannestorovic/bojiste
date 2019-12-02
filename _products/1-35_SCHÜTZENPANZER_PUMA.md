@@ -1,6 +1,6 @@
 ---
 title: "1/35 SCHÜTZENPANZER PUMA"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/RFM5021.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "1/35 British Main Battle Tank Chieftain Mk.11"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2026.jpg"
 brand: AMMO

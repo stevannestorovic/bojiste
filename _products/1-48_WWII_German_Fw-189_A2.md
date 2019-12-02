@@ -1,6 +1,6 @@
 ---
 title: "1/48 WWII German Fw-189 A2"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/GWH04803.jpg"
 brand: AMMO

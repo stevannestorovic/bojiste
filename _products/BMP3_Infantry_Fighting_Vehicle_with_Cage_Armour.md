@@ -1,6 +1,6 @@
 ---
 title: "BMP3 Infantry Fighting Vehicle with Cage Armour"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72055.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "Soviet/Russian Army MAZ-7410 with ChMZAP-9990 semi-trailer"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72048.jpg"
 brand: AMMO

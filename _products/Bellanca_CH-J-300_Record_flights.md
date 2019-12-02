@@ -1,6 +1,6 @@
 ---
 title: "Bellanca CH/J-300 Record flights"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/DORAW72001.jpg"
 brand: AMMO

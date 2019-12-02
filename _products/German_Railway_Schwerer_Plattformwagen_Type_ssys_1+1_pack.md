@@ -1,6 +1,6 @@
 ---
 title: "German Railway Schwerer Plattformwagen Type ssys 1+1 pack"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72086.jpg"
 brand: AMMO

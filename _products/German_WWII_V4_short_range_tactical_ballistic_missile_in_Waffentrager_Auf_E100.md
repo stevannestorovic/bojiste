@@ -1,6 +1,6 @@
 ---
 title: "German WWII V4 short range tactical ballistic missile in Waffentrager Auf E100"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72190.jpg"
 brand: AMMO

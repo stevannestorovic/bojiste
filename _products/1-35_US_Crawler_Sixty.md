@@ -1,6 +1,6 @@
 ---
 title: "1/35 US Crawler Sixty"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TM35006.jpg"
 brand: AMMO

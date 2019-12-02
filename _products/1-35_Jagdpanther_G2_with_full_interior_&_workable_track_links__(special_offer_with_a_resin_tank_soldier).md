@@ -1,6 +1,6 @@
 ---
 title: "1/35 Jagdpanther G2 with full interior & workable track links  (special offer with a resin tank soldier)"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/RFM5022.jpg"
 brand: AMMO

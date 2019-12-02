@@ -1,6 +1,6 @@
 ---
 title: "1/35 WWII German King Tiger Henschel Turret w/interior [without Zimmerit]"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2073.jpg"
 brand: AMMO

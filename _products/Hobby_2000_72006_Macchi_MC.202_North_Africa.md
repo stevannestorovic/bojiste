@@ -1,6 +1,6 @@
 ---
 title: "Hobby 2000 72006 Macchi MC.202 North Africa"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/H2K72006.jpg"
 brand: AMMO
