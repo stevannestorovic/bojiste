@@ -1,6 +1,6 @@
 ---
 title: "1/35 Ukraine KrAZ-6446 Tractor w/ChMZAP-5247G Semi-trailer"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TAKO2019.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "Russian BMP3 infantry fighting vehicle"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/MA72007.jpg"
 brand: AMMO

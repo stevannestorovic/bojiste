@@ -1,6 +1,6 @@
 ---
 title: "German WWII 128mm FLAK 40 ZWILLING"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/UA72098.jpg"
 brand: AMMO

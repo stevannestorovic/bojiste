@@ -1,6 +1,6 @@
 ---
 title: "1/48 MIG-29 9-13 “Fulcrum C”"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/GWH04813.jpg"
 brand: AMMO

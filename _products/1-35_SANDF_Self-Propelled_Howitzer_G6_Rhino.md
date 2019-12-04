@@ -1,6 +1,6 @@
 ---
 title: "1/35 SANDF Self-Propelled Howitzer G6 Rhino     "
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TAKO2052.jpg"
 brand: AMMO

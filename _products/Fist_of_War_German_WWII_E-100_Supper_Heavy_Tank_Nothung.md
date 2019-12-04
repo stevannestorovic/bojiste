@@ -1,6 +1,6 @@
 ---
 title: "Fist of War German WWII E-100 Supper Heavy Tank Nothung"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/UA72126.jpg"
 brand: AMMO

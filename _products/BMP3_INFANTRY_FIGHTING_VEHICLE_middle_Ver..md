@@ -1,6 +1,6 @@
 ---
 title: "BMP3 INFANTRY FIGHTING VEHICLE middle Ver."
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/UA72035.jpg"
 brand: AMMO

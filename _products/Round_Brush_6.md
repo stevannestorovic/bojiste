@@ -1,7 +1,7 @@
 ---
 title: "Round Brush 6"
-price: "560" 
-desc: "Cetkice"
+price: "560.0" 
+desc: "Sintetička četkica"
 img_path: "/assets/img/ABT830-6.jpg"
 brand: Abteilung
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "ABTEILUNG-502"
 subcat: "ABT-CETKICE"
 subsubcat: ""
+sifra: "ABT830-6"
 ---

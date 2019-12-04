@@ -1,6 +1,6 @@
 ---
 title: "1/35 British Air-defense Weapon System Chieftain Marksman SPAAG"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TAKO2039.jpg"
 brand: AMMO

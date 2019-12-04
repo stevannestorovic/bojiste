@@ -1,6 +1,6 @@
 ---
 title: "Cute  Lavochkin La-7 Fighter"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TIGE107.jpg"
 brand: AMMO

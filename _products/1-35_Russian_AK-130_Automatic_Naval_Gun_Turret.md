@@ -1,6 +1,6 @@
 ---
 title: "1/35 Russian AK-130 Automatic Naval Gun Turret"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TAKO2129.jpg"
 brand: AMMO

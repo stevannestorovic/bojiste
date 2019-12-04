@@ -1,6 +1,6 @@
 ---
 title: "Germany V1 movable Missile launcher with E75 body"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/UA72093.jpg"
 brand: AMMO

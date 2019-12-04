@@ -11,4 +11,5 @@ soon: false
 cat: "Plasticne-Makete"
 subcat: "PM-EDUARD"
 subsubcat: ""
+sifra: "8803"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "WWII Germany landcruiser p.1000 ratte weapon set pack"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/UA72150.jpg"
 brand: AMMO

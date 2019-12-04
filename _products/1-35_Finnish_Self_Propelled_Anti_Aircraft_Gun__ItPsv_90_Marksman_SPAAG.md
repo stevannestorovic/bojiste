@@ -1,6 +1,6 @@
 ---
 title: "1/35 Finnish Self Propelled Anti Aircraft Gun  ItPsv 90 Marksman SPAAG"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TAKO2043.jpg"
 brand: AMMO

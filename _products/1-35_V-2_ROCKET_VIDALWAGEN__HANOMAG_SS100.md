@@ -1,6 +1,6 @@
 ---
 title: "1/35 V-2 ROCKET VIDALWAGEN  HANOMAG 100"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TAKO2110.jpg"
 brand: AMMO

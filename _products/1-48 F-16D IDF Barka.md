@@ -1,6 +1,6 @@
 ---
 title: "1/48 F-16D IDF Barka  "
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/KIN48009.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "1/48 F-16C/D POLISH TIGER MEET 2013/2014"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/KIN48076.jpg"
 brand: AMMO

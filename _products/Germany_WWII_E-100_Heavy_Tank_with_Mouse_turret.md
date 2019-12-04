@@ -1,6 +1,6 @@
 ---
 title: "Germany WWII E-100 Heavy Tank with Mouse turret"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/UA72068.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "1/48 AMX Ground Attack Aircraft - Brazil & Italy"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/KIN48026.jpg"
 brand: AMMO

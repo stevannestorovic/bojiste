@@ -1,6 +1,6 @@
 ---
 title: "1/48 WWII German Fw 189A-1 Night Fighter "
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/GWH04801.jpg"
 brand: AMMO

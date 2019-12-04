@@ -1,6 +1,6 @@
 ---
 title: "Savoia-Marchetti S.55 Record flights"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/DORAW72015.jpg"
 brand: AMMO

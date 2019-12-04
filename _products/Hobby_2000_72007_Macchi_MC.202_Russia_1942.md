@@ -1,6 +1,6 @@
 ---
 title: "Hobby 2000 72007 Macchi MC.202 Russia 1942"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/H2K72007.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "1/35 Bergehetzer Late Special Edition"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TM35100.jpg"
 brand: AMMO

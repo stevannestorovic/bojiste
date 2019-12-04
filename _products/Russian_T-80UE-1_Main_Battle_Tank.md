@@ -1,6 +1,6 @@
 ---
 title: "Russian T-80UE-1 Main Battle Tank"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/UA72061.jpg"
 brand: AMMO

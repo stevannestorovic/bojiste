@@ -1,6 +1,6 @@
 ---
 title: "1/48 F-15I IAF Ra'am"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/GWH04816.jpg"
 brand: AMMO

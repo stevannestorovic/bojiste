@@ -1,6 +1,6 @@
 ---
 title: "Fist of War Series German P300/2 PanzerKampfWagen und Träger"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/UA72161.jpg"
 brand: AMMO

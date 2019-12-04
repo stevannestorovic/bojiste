@@ -1,6 +1,6 @@
 ---
 title: "F-14A US Navy Tomcat "
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/GWH07206.jpg"
 brand: AMMO

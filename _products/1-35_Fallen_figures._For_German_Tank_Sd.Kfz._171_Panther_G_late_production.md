@@ -1,6 +1,6 @@
 ---
 title: "1/35 Fallen figures. For German Tank Sd.Kfz. 171 Panther G late production"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/OM35001.jpg"
 brand: AMMO

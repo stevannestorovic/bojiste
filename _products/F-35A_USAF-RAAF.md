@@ -1,6 +1,6 @@
 ---
 title: "F-35A USAF/RAAF"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/GWHGQ001.jpg"
 brand: AMMO

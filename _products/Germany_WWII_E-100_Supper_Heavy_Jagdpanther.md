@@ -1,6 +1,6 @@
 ---
 title: "Germany WWII E-100 Supper Heavy Jagdpanther "
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/UA72036.jpg"
 brand: AMMO

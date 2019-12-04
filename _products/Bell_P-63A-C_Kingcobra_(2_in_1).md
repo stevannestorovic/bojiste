@@ -1,6 +1,6 @@
 ---
 title: "Bell P-63A/C Kingcobra (2 in 1)"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/DORAW14401.jpg"
 brand: AMMO

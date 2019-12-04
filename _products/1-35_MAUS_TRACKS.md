@@ -1,6 +1,6 @@
 ---
 title: "1/35 MAUS TRACKS"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TAKO2094.jpg"
 brand: AMMO

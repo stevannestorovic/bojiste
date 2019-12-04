@@ -1,6 +1,6 @@
 ---
 title: "TOS-1 Heavy Flamethrower System"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/UA72008.jpg"
 brand: AMMO

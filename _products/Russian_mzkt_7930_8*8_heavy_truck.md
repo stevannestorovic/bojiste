@@ -1,6 +1,6 @@
 ---
 title: "Russian mzkt 7930 8*8 heavy truck  "
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/UA72165.jpg"
 brand: AMMO

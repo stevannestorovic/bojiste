@@ -1,6 +1,6 @@
 ---
 title: "1/144 WWII Heavy Tank Landkreuzer P1000 Ratte & Panzer VIII Maus  3 in 1"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TAKO3001.jpg"
 brand: AMMO

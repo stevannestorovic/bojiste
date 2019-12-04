@@ -1,6 +1,6 @@
 ---
 title: "1/48 E-2C JASDF"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/KIN48014.jpg"
 brand: AMMO

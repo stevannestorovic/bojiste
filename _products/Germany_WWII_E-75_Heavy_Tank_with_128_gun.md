@@ -1,6 +1,6 @@
 ---
 title: "Germany WWII E-75 Heavy Tank with 128 gun"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/UA72029.jpg"
 brand: AMMO

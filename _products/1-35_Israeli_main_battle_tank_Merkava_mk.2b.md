@@ -1,6 +1,6 @@
 ---
 title: "1/35 Israeli main battle tank Merkava mk.2b"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TAKO2080.jpg"
 brand: AMMO

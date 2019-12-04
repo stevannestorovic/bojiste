@@ -1,6 +1,6 @@
 ---
 title: "Russian T-90M Main battle tank early type"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/UA72124.jpg"
 brand: AMMO

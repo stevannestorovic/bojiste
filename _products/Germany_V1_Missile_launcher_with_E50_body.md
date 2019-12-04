@@ -1,6 +1,6 @@
 ---
 title: "Germany V1 Missile launcher with E50 body"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/UA72073.jpg"
 brand: AMMO

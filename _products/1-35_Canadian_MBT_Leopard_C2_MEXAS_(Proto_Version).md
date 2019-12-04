@@ -1,6 +1,6 @@
 ---
 title: "1/35 Canadian MBT Leopard C2 MEXAS (Proto Version) "
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TAKO2003.jpg"
 brand: AMMO

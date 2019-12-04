@@ -11,4 +11,5 @@ soon: false
 cat: "Plasticne-Makete"
 subcat: "PM-DORA-WINGS"
 subsubcat: ""
+sifra: "DORAW48010"
 ---

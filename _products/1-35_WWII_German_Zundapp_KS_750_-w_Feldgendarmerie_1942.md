@@ -1,6 +1,6 @@
 ---
 title: "1/35 WWII German Zundapp KS 750 /w Feldgendarmerie 1942"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/GWH03524.jpg"
 brand: AMMO

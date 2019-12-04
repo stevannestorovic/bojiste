@@ -1,6 +1,6 @@
 ---
 title: "Germany WWII E-100 Heavy Tank Ausf.C with 128mm gun"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/UA72089.jpg"
 brand: AMMO

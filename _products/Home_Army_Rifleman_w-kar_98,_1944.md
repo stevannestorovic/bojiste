@@ -1,6 +1,6 @@
 ---
 title: "Home Army Rifleman w/kar 98, 1944"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/RDM35017.jpg"
 brand: AMMO

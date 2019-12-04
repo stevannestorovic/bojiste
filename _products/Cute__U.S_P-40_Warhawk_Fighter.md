@@ -1,6 +1,6 @@
 ---
 title: "Cute  U.S P-40 Warhawk Fighter"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TIGE106.jpg"
 brand: AMMO

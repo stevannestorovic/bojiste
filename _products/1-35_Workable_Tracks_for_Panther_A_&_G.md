@@ -1,6 +1,6 @@
 ---
 title: "1/35 Workable Tracks for Panther A & G"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/RFM5014.jpg"
 brand: AMMO

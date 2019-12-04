@@ -1,6 +1,6 @@
 ---
 title: "1/35 British 7.2 Inch Howitzer "
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TM35211.jpg"
 brand: AMMO

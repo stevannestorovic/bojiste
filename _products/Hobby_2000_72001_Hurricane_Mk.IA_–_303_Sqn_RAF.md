@@ -1,6 +1,6 @@
 ---
 title: "Hobby 2000 72001 Hurricane Mk.IA – 303 Sqn RAF "
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/H2K72001.jpg"
 brand: AMMO

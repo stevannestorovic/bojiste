@@ -1,6 +1,6 @@
 ---
 title: "1/35 FAUN L 900 plus Sd.Ah.115 10t low bed trailer"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/DW35003.jpg"
 brand: AMMO

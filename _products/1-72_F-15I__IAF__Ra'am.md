@@ -1,6 +1,6 @@
 ---
 title: "1/72 F-15I  IAF  Ra'am"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/GWH07202.jpg"
 brand: AMMO

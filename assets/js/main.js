@@ -25,6 +25,7 @@ simpleCart({
 	cartColumns: [
 		{attr: "name", label: "Naziv"},
 		{attr: "price", label: "Cena"},
+		{attr: "code", label: "Sifra"},
 		{view: "decrement", label: false, text: "-1"},
 		{attr: "quantity", label: "kol."},
 		{view: "increment", label: false, text: "+1"},

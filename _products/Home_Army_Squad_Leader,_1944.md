@@ -1,6 +1,6 @@
 ---
 title: "Home Army Squad Leader, 1944"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/RDM35016.jpg"
 brand: AMMO

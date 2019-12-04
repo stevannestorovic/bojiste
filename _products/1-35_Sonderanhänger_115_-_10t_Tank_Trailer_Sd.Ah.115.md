@@ -1,6 +1,6 @@
 ---
 title: "1/35 Sonderanhänger 115 - 10t Tank Trailer Sd.Ah.115"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/DW35002.jpg"
 brand: AMMO

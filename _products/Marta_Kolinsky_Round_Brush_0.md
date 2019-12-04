@@ -1,7 +1,7 @@
 ---
 title: "Marta Kolinsky Round Brush 0"
-price: "640" 
-desc: "Cetkice"
+price: "640.0" 
+desc: "Četkica od prirodne dlake"
 img_path: "/assets/img/ABT850-0.jpg"
 brand: Abteilung
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "ABTEILUNG-502"
 subcat: "ABT-CETKICE"
 subsubcat: ""
+sifra: "ABT850-0"
 ---

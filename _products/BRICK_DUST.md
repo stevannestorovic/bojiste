@@ -1,14 +1,14 @@
 ---
 title: "BRICK DUST"
-price: "560" 
-desc: "PIGMENT COLORS"
-img_path: "/assets/img/ABTP029 .jpg"
-brand: Abteilung
+price: 0 
+desc: "Bez opisa"
+img_path: "/assets/img/A.MIG-3015.jpg"
+brand: AMMO
 available: true
 special_offer: false
 new: false
 soon: false
-cat: "ABTEILUNG-502"
-subcat: "ABT-PIGMENTI"
-subsubcat: ""
+cat: "Weathering"
+subcat: "wet-pigmenti"
+subsubcat: "wet-pigmenti"
 ---

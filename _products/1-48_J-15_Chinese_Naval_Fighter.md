@@ -1,6 +1,6 @@
 ---
 title: "1/48 J-15 Chinese Naval Fighter"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/KIN48065.jpg"
 brand: AMMO

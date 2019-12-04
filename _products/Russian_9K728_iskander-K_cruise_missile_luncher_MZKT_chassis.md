@@ -1,6 +1,6 @@
 ---
 title: "Russian 9K728 iskander-K cruise missile luncher MZKT chassis"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/UA72032.jpg"
 brand: AMMO

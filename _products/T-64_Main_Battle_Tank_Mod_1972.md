@@ -1,6 +1,6 @@
 ---
 title: "T-64 Main Battle Tank Mod 1972"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/UA72012.jpg"
 brand: AMMO

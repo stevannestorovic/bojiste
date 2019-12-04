@@ -1,6 +1,6 @@
 ---
 title: "1/35 Scammel Pioneer R100 Artillery tractor"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TM35202.jpg"
 brand: AMMO

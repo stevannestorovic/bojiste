@@ -1,6 +1,6 @@
 ---
 title: "1/35 Bergepanther Ausf.G German Armored Recovery Vehicle Sd.Kfz.179 w/ full interior kit "
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TAKO2107.jpg"
 brand: AMMO

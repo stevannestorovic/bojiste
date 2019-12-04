@@ -1,6 +1,6 @@
 ---
 title: "1/35 M1A1 Abrams Gulf War 1991"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/RFM5006.jpg"
 brand: AMMO

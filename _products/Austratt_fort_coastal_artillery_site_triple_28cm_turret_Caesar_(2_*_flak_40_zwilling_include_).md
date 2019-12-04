@@ -1,6 +1,6 @@
 ---
 title: "Austratt fort coastal artillery site triple 28cm turret Caesar (2 * flak 40 zwilling include )"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/UA72148.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "1/35 GERMAN TAFF CAR TYPE 82E"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/RFM5023.jpg"
 brand: AMMO

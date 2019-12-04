@@ -1,6 +1,6 @@
 ---
 title: "1/35 US  MEDIUM  TANK M-46  PATTON"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TAKO2117.jpg"
 brand: AMMO

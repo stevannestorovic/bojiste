@@ -1,6 +1,6 @@
 ---
 title: "Pz.Kpfw.VI Ausf C/ B(VK36.01) 2 in 1 w/ interior"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/RS3001.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "1/72 T-54 B - Mid Production"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/AMIG8502.jpg"
 brand: AMMO

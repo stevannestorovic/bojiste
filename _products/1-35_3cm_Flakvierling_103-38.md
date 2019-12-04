@@ -1,6 +1,6 @@
 ---
 title: "1/35 3cm Flakvierling 103/38"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/DW35004.jpg"
 brand: AMMO

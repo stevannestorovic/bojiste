@@ -1,6 +1,6 @@
 ---
 title: "1/35 German G10 Guterwagen"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TM35901.jpg"
 brand: AMMO

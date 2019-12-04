@@ -1,6 +1,6 @@
 ---
 title: "1/35 Soviet Super Heavy Tank KV-5 "
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TAKO2006.jpg"
 brand: AMMO

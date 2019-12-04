@@ -1,6 +1,6 @@
 ---
 title: "German MAN KAT1M1014 8*8 HIGH-Mobility off-road truck"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/UA72132.jpg"
 brand: AMMO

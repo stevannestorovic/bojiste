@@ -1,6 +1,6 @@
 ---
 title: "1/48 CF-188A 20 YRS SERVICES"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/KIN48079.jpg"
 brand: AMMO

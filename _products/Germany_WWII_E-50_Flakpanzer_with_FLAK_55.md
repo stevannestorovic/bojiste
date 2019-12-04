@@ -1,6 +1,6 @@
 ---
 title: "Germany WWII E-50 Flakpanzer with FLAK 55"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/UA72020.jpg"
 brand: AMMO

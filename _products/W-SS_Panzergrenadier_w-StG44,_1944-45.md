@@ -1,6 +1,6 @@
 ---
 title: "W- Panzergrenadier w/StG44, 1944/45"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/RDM35011.jpg"
 brand: AMMO

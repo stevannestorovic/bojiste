@@ -1,6 +1,6 @@
 ---
 title: "1/35 NAGMACHON DOGHOUSE-LATE APC"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TIGE4616.jpg"
 brand: AMMO

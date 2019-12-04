@@ -1,6 +1,6 @@
 ---
 title: "1/35 Russian S60 Tractor "
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TM35400.jpg"
 brand: AMMO

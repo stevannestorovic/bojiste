@@ -1,6 +1,6 @@
 ---
 title: "Bell P-63C Kingcobra Racer                                                      "
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/DORAW48007.jpg"
 brand: AMMO

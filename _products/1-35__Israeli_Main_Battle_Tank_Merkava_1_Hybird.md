@@ -1,6 +1,6 @@
 ---
 title: "1/35  Israeli Main Battle Tank Merkava 1 Hybird"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TAKO2079.jpg"
 brand: AMMO

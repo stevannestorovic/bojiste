@@ -1,6 +1,6 @@
 ---
 title: "PHL03 Multiple launch rocket system"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/UA72110.jpg"
 brand: AMMO

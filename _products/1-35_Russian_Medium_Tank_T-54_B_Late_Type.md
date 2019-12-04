@@ -1,6 +1,6 @@
 ---
 title: "1/35 Russian Medium Tank T-54 B Late Type   "
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TAKO2055.jpg"
 brand: AMMO

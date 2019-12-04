@@ -1,6 +1,6 @@
 ---
 title: "Cute  Japanese KI84 Fighter"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TIGE102.jpg"
 brand: AMMO

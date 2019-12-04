@@ -1,6 +1,6 @@
 ---
 title: "1/35 WWI Medium Tank Mk A Whippet"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TAKO2025.jpg"
 brand: AMMO

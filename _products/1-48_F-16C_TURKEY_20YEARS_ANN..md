@@ -1,6 +1,6 @@
 ---
 title: "1/48 F-16C TURKEY 20YEARS ANN."
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/KIN48069.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "BMP3E INFANTRY FIGHTING VEHICLE "
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/UA72034.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "1/35 Jagdpanther G1 Late Production Sd.Kfz.173"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TAKO2106.jpg"
 brand: AMMO

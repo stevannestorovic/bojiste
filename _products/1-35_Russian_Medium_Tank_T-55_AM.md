@@ -1,7 +1,7 @@
 ---
 title: "1/35 Russian Medium Tank T-55 AM
 "
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TAKO2041.jpg"
 brand: AMMO

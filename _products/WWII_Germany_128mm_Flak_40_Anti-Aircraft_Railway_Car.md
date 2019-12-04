@@ -1,6 +1,6 @@
 ---
 title: "WWII Germany 128mm Flak 40 Anti-Aircraft Railway Car"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/UA72118.jpg"
 brand: AMMO

@@ -1,6 +1,7 @@
 <div class="products">
+test
                 {% for product in site.products %}
-                            {% if product.avaliable %}
+                            {% if product.available %}
                                             <div class="product simpleCart_shelfItem">
                                                     <h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
                                                     <img class="product-img image" data-src="{{product.img_path}}" alt="">

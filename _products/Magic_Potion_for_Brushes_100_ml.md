@@ -1,7 +1,7 @@
 ---
 title: "Magic Potion for Brushes 100 ml"
-price: "920" 
-desc: " AUXILIARY PRODUCTS"
+price: "920.0" 
+desc: "Tečnost za četkice"
 img_path: "/assets/img/ABT117.jpg"
 brand: Abteilung
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "ABTEILUNG-502"
 subcat: "ABT-OSTALO"
 subsubcat: ""
+sifra: "ABT117"
 ---

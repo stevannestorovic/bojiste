@@ -1,6 +1,6 @@
 ---
 title: "1/35 PANHARD VBL milan"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TIGE4618.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "Hobby 2000 72016 Nakajima B6N2 Model 12 Tenzan"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/H2K72016.jpg"
 brand: AMMO

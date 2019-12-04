@@ -1,7 +1,7 @@
 ---
 title: "Angular Brush 4"
-price: "550" 
-desc: "Cetkice"
+price: "550.0" 
+desc: "Sintetička četkica"
 img_path: "/assets/img/ABT845-4.jpg"
 brand: Abteilung
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "ABTEILUNG-502"
 subcat: "ABT-CETKICE"
 subsubcat: ""
+sifra: "ABT845-4"
 ---

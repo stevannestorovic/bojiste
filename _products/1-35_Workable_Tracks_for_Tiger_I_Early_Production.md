@@ -1,6 +1,6 @@
 ---
 title: "1/35 Workable Tracks for Tiger I Early Production"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/RFM5002.jpg"
 brand: AMMO

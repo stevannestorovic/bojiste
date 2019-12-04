@@ -1,6 +1,6 @@
 ---
 title: "T-72 SIM1 Main Battle Tank"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/UA72131.jpg"
 brand: AMMO

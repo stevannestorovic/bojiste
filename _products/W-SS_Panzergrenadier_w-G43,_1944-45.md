@@ -1,6 +1,6 @@
 ---
 title: "W- Panzergrenadier w/G43, 1944/45"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/RDM35010.jpg"
 brand: AMMO

@@ -1,7 +1,7 @@
 ---
 title: "Odourless Thinner 100 ml"
-price: "850" 
-desc: " AUXILIARY PRODUCTS"
+price: "850.0" 
+desc: "Emajl razredjivač"
 img_path: "/assets/img/ABT111.jpg"
 brand: Abteilung
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "ABTEILUNG-502"
 subcat: "ABT-OSTALO"
 subsubcat: ""
+sifra: "ABT111"
 ---

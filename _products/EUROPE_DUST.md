@@ -1,7 +1,7 @@
 ---
 title: "EUROPE DUST"
-price: "560" 
-desc: "PIGMENT COLORS"
+price: "560.0" 
+desc: "Pigment 25mL"
 img_path: "/assets/img/ABTP028 .jpg"
 brand: Abteilung
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "ABTEILUNG-502"
 subcat: "ABT-PIGMENTI"
 subsubcat: ""
+sifra: "ABTP028 "
 ---

@@ -1,6 +1,6 @@
 ---
 title: "1/35 Bergepanzer 2"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TAKO2122.jpg"
 brand: AMMO

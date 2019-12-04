@@ -1,6 +1,6 @@
 ---
 title: "USA M983 HEMTT Tractor with Pershing Ⅱ Missile Erector Launcher "
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/UA72077.jpg"
 brand: AMMO

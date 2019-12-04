@@ -1,6 +1,6 @@
 ---
 title: "Soviet Razviedchiki, 1941-45"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/RDM35021.jpg"
 brand: AMMO

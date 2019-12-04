@@ -1,6 +1,6 @@
 ---
 title: "T-72B1 with ERA main battle tank"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/UA72011.jpg"
 brand: AMMO

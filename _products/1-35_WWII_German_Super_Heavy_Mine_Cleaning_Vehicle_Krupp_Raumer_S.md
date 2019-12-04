@@ -1,6 +1,6 @@
 ---
 title: "1/35 WWII German Super Heavy Mine Cleaning Vehicle Krupp Raumer S"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TAKO2053.jpg"
 brand: AMMO

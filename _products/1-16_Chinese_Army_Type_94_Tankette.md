@@ -1,6 +1,6 @@
 ---
 title: "1/16 Chinese Army Type 94 Tankette"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/TAKO1009.jpg"
 brand: AMMO

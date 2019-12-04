@@ -11,4 +11,5 @@ soon: false
 cat: "Weathering"
 subcat: "wet-ak-olovke"
 subsubcat: ""
+sifra: "AK4186"
 ---

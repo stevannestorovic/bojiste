@@ -1,6 +1,6 @@
 ---
 title: "Russian t-14 armata Main Battle Tank"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/UA72058.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "Gee Bee Super Sportster R-2"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/DORAW48001.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "Aircraft weapons set1 U.S.cruise missiles"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/UA72204.jpg"
 brand: AMMO

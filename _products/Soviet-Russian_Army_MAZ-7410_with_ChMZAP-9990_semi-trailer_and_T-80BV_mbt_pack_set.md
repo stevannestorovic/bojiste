@@ -1,6 +1,6 @@
 ---
 title: "Soviet/Russian Army MAZ-7410 with ChMZAP-9990 semi-trailer and T-80BV mbt pack set"
-price: TBA
+price: 0 
 desc: ""
 img_path: "/assets/img/UA72153.jpg"
 brand: AMMO
