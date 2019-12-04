@@ -15,6 +15,7 @@ title: Plastične Makete - Italeri
     {% for product in site.products %}
 		{% if product.cat == "Plasticne-Makete" and product.subcat == "PM-ITALERI"%}
 				<div class="product simpleCart_shelfItem">
+                                        <h3 style="display:none;" class="item_code">{{product.sifra}}
 					<h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
 					<img class="product-img image" data-src="{{product.img_path}}" alt="">
 					<div class="product-data">

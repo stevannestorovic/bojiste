@@ -85,6 +85,7 @@ BREADCRUMB
     {% for product in site.products %}
 		{% if product.cat == "CLAB" and product.subcat == "SLAB"%}
 				<div class="product simpleCart_shelfItem">
+                                        <h3 style="display:none;" class="item_code">{{product.sifra}}
 					<h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
 					<img class="product-img image" data-src="{{product.img_path}}" alt="">
 					<div class="product-data">
@@ -127,6 +128,7 @@ title: seo_title
                 {% for product in site.products %}
                             {% if product.cat == "CLAB" and product.subcat == "SLAB" and product.subsubcat == "SUBSUBLAB"%}
                                             <div class="product simpleCart_shelfItem">
+						    <h3 style="display:none;" class="item_code">{{product.sifra}}
                                                     <h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
                                                     <img class="product-img image" data-src="{{product.img_path}}" alt="">
                                                     <div class="product-data">
