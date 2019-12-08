@@ -1,6 +1,6 @@
 ---
 title: "Nato Black RAL 9021 F-9 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC082.jpg"
 brand: AMMO

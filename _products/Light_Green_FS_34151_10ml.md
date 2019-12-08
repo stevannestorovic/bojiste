@@ -1,6 +1,6 @@
 ---
 title: "Light Green FS 34151 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC028.jpg"
 brand: AMMO

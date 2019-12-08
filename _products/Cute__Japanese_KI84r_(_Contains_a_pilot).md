@@ -1,6 +1,6 @@
 ---
 title: "Cute  Japanese KI84r ( Contains a pilot) "
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TIGETT001.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Plasticne-Makete"
 subcat: "PM-TIGER-MODELS"
 subsubcat: ""
+sifra: "TIGETT001"
 ---

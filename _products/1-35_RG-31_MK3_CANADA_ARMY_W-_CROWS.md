@@ -1,6 +1,6 @@
 ---
 title: "1/35 RG-31 MK3 CANADA ARMY W/ CROWS"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/KIN61010.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Plasticne-Makete"
 subcat: "PM-KINETIC"
 subsubcat: ""
+sifra: "KIN61010"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "SCI-FI PLANTS"
-price: 0 
-desc: "Bez opisa"
+price: "1000" 
+desc: "Laserski sečene biljke"
 img_path: "/assets/img/A.MIG-8459.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "Diorame"
 subcat: "DI-AMMO"
 subsubcat: "Diorame-AMMO-BILJKE"
+sifra: "A.MIG-8459"
 ---

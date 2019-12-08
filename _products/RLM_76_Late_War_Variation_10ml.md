@@ -1,6 +1,6 @@
 ---
 title: "RLM 76 Late War Variation 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC322.jpg"
 brand: AMMO

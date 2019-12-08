@@ -1,6 +1,6 @@
 ---
 title: "MIG-29 Grey Green 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC338.jpg"
 brand: AMMO

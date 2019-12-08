@@ -1,6 +1,6 @@
 ---
 title: "Dunkelgelb Ausgabe 44 Dark Yellow RAL 7028  10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC061.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "TRUE METAL SILVER"
-price: 0 
+price: "800" 
 desc: "TRUE METAL WAXES"
 img_path: "/assets/img/AK-458.jpg"
 brand: AMMO
@@ -10,5 +10,5 @@ new: false
 soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AK-MENG"
-subsubcat: "AkrilneBoje-AKMENG-TRUE METAL"
+subsubcat: "AkrilneBoje-AKMENG-TRUE-METAL"
 ---

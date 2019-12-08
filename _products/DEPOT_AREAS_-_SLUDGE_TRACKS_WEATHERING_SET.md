@@ -1,7 +1,7 @@
 ---
 title: "DEPOT AREAS - SLUDGE TRACKS WEATHERING SET"
-price: 0 
-desc: "Bez opisa"
+price: "2600" 
+desc: "Set efekata"
 img_path: "/assets/img/A.MIG-7470.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AMMO"
 subsubcat: "AkrilneBoje-AMMO-SETOVI-AKRILNIH-BOJA"
+sifra: "A.MIG-7470"
 ---

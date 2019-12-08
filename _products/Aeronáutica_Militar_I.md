@@ -1,6 +1,6 @@
 ---
 title: "Aeronáutica Militar I"
-price: 0 
+price: "1050" 
 desc: "Real Colors Paint Sets"
 img_path: "/assets/img/RCS059.jpg"
 brand: AMMO

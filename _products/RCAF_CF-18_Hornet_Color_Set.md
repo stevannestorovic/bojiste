@@ -1,6 +1,6 @@
 ---
 title: "RCAF CF-18 Hornet Color Set"
-price: 0 
+price: "1050" 
 desc: "Real Colors Paint Sets"
 img_path: "/assets/img/RCS056.jpg"
 brand: AMMO

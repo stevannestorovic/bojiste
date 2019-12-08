@@ -1,6 +1,6 @@
 ---
 title: "Brown FS 30140 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC224.jpg"
 brand: AMMO

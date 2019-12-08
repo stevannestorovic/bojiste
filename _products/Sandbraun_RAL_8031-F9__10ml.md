@@ -1,6 +1,6 @@
 ---
 title: "Sandbraun RAL 8031-F9  10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC092.jpg"
 brand: AMMO

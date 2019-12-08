@@ -1,6 +1,6 @@
 ---
 title: "GERMAN CAMOUFLAGE COLORS SET"
-price: 0 
+price: "1800" 
 desc: "Wargames Series Set"
 img_path: "/assets/img/AK-1167.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AK-MENG"
 subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
+sifra: "AK-1167"
 ---

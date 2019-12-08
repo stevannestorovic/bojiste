@@ -1,7 +1,8 @@
 ---
 title: "BLUE WASH FOR PANZER GREY"
-price: 0 
-desc: "Bez opisa"
+price: "500" 
+desc: "Voš 35mL
+"
 img_path: "/assets/img/A.MIG-1006.jpg"
 brand: AMMO
 available: true
@@ -11,4 +12,5 @@ soon: false
 cat: "Weathering"
 subcat: "wet-emajl-wash"
 subsubcat: "wet-emajl-wash"
+sifra: "A.MIG-1006"
 ---

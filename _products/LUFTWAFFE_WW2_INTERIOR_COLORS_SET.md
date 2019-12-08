@@ -1,6 +1,6 @@
 ---
 title: "LUFTWAFFE WW2 INTERIOR COLORS SET"
-price: 0 
+price: "1400" 
 desc: "Real Colors Paint Sets"
 img_path: "/assets/img/RCS061.jpg"
 brand: AMMO

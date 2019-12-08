@@ -1,6 +1,6 @@
 ---
 title: "Luftwaffe Fighter Colors 1941-1944"
-price: 0 
+price: "1400" 
 desc: "Real Colors Paint Sets"
 img_path: "/assets/img/RCS031.jpg"
 brand: AMMO

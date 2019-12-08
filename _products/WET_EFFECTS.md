@@ -1,7 +1,7 @@
 ---
 title: "WET EFFECTS"
-price: 0 
-desc: "Bez opisa"
+price: "500" 
+desc: "Efekat vlažnosti"
 img_path: "/assets/img/A.MIG-2015.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "Weathering"
 subcat: "wet-dodaci"
 subsubcat: "wet-pigmenti"
+sifra: "A.MIG-2015"
 ---

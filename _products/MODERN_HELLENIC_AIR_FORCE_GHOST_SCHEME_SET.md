@@ -1,6 +1,6 @@
 ---
 title: "MODERN HELLENIC AIR FORCE GHOST SCHEME SET"
-price: 0 
+price: "1400" 
 desc: "Real Colors Paint Sets"
 img_path: "/assets/img/RCS067.jpg"
 brand: AMMO

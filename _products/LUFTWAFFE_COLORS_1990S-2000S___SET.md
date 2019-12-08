@@ -1,6 +1,6 @@
 ---
 title: "LUFTWAFFE COLORS 1990S-2000S   SET"
-price: 0 
+price: "1400" 
 desc: "Real Colors Paint Sets"
 img_path: "/assets/img/RCS063.jpg"
 brand: AMMO

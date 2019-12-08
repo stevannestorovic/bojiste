@@ -1,6 +1,6 @@
 ---
 title: "Força Aérea Portuguesa II ‘FIGHTING FALCON’S 1990’s’"
-price: 0 
+price: "1400" 
 desc: "Real Colors Paint Sets"
 img_path: "/assets/img/RCS058.jpg"
 brand: AMMO

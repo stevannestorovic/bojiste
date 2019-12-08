@@ -1,6 +1,6 @@
 ---
 title: "Pale Green FS 34227 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC232.jpg"
 brand: AMMO

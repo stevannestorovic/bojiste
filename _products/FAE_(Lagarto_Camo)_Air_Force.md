@@ -1,6 +1,6 @@
 ---
 title: "FAE (Lagarto Camo) Air Force"
-price: 0 
+price: "1400" 
 desc: "Real Colors Paint Sets"
 img_path: "/assets/img/RCS055.jpg"
 brand: AMMO

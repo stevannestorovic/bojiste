@@ -1,7 +1,7 @@
 ---
 title: "FS 34151 ZINC CHROMATE GREEN (INTERIOR GREEN)"
-price: 0 
-desc: "Bez opisa"
+price: "300" 
+desc: "Akrilna boja"
 img_path: "/assets/img/A.MIG-0220.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AMMO"
 subsubcat: "AkrilneBoje-AMMO-POJEDINACNE-BOJE"
+sifra: "A.MIG-0220"
 ---

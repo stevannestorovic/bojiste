@@ -1,6 +1,6 @@
 ---
 title: "Tarngrau RAL 7050-F9  10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC091.jpg"
 brand: AMMO

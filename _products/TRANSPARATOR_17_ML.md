@@ -1,7 +1,7 @@
 ---
 title: "TRANSPARATOR 17 ML"
-price: 0 
-desc: "Bez opisa"
+price: "350" 
+desc: "Transparator"
 img_path: "/assets/img/A.MIG-2016.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AMMO"
 subsubcat: "AkrilneBoje-AMMO-AKRILNI-DODACI"
+sifra: "A.MIG-2016"
 ---

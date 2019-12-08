@@ -1,6 +1,6 @@
 ---
 title: "Cute  U.S F4U Fighter"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TIGE101.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Plasticne-Makete"
 subcat: "PM-TIGER-MODELS"
 subsubcat: ""
+sifra: "TIGE101"
 ---

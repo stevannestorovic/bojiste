@@ -1,6 +1,6 @@
 ---
 title: "Protective Varnish - Spray 400ml (Includes 2 nozzles)"
-price: 0 
+price: "1300" 
 desc: "AK SPRAYS - BASIC COLORS "
 img_path: "/assets/img/AK1015.jpg"
 brand: AMMO

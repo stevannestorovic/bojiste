@@ -1,6 +1,6 @@
 ---
 title: "Sandbeige RAL 1039 - F9   10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC088.jpg"
 brand: AMMO

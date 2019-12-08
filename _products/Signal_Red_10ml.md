@@ -1,6 +1,6 @@
 ---
 title: "Signal Red 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC005.jpg"
 brand: AMMO

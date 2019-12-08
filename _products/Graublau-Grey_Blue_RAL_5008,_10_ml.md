@@ -1,6 +1,6 @@
 ---
 title: "Graublau-Grey Blue RAL 5008, 10 ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC208.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "A-18F Light Grey-Blue 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC311.jpg"
 brand: AMMO

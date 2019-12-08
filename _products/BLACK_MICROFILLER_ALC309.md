@@ -1,6 +1,6 @@
 ---
 title: "BLACK MICROFILLER ALC309"
-price: 0 
+price: "760" 
 desc: ""
 img_path: "/assets/img/A.MIG-8211.jpg"
 brand: AMMO
@@ -9,6 +9,7 @@ special_offer: false
 new: false
 soon: false
 cat: "ALCLAD-II-METALIC-BOJE"
-subcat: ""
+subcat: "ALC-30mL"
 subsubcat: ""
+sifra: "A.MIG-8211"
 ---

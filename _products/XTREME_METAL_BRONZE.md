@@ -1,6 +1,6 @@
 ---
 title: "XTREME METAL BRONZE"
-price: 0 
+price: "0" 
 desc: "XTREME METAL COLOR"
 img_path: "/assets/img/AK-474.jpg"
 brand: AMMO

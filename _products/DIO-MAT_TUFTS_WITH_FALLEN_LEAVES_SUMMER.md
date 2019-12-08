@@ -1,6 +1,6 @@
 ---
 title: "DIO-MAT TUFTS WITH FALLEN LEAVES SUMMER"
-price: 0 
+price: "1020.0"
 desc: ""
 img_path: "/assets/img/AK8139.jpg"
 brand: AK
@@ -11,4 +11,5 @@ soon: false
 cat: "Diorame"
 subcat: "DI-AK-Interactive"
 subsubcat: "Diorame-AKInteractive-TRAVA"
+sifra: "AK8139"
 ---

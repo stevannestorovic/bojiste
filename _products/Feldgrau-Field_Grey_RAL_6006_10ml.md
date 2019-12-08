@@ -1,6 +1,6 @@
 ---
 title: "Feldgrau-Field Grey RAL 6006 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC048.jpg"
 brand: AMMO

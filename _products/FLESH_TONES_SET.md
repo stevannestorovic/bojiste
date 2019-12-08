@@ -1,7 +1,7 @@
 ---
 title: "FLESH TONES SET"
-price: 0 
-desc: "Bez opisa"
+price: "1200" 
+desc: "Set uljanih boja sa četkicom "
 img_path: "/assets/img/A.MIG-7500.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "AMMO-OILBRUSHERS"
 subcat: ""
 subsubcat: ""
+sifra: "A.MIG-7500"
 ---

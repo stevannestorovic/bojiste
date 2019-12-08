@@ -1,6 +1,6 @@
 ---
 title: "Hobby 2000 72015 Nakajima B6N1 Model 11 Tenzam"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/H2K72015.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Plasticne-Makete"
 subcat: "PM-HOBBY-2000"
 subsubcat: ""
+sifra: "H2K72015"
 ---

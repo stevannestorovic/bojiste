@@ -1,6 +1,6 @@
 ---
 title: "Staubgrau-Dusty Grey RAL 7037 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC215.jpg"
 brand: AMMO

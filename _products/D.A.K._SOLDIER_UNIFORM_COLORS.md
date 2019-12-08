@@ -1,6 +1,6 @@
 ---
 title: "D.A.K. SOLDIER UNIFORM COLORS"
-price: 0 
+price: "1850" 
 desc: "Figure Series Set"
 img_path: "/assets/img/AK-3110.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AK-MENG"
 subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
+sifra: "AK-3110"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "SATIN VARNISH"
-price: 0 
+price: "300" 
 desc: "Varnish"
 img_path: "/assets/img/AK-776.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AK-MENG"
 subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
+sifra: "AK-776"
 ---

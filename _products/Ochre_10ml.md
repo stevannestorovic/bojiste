@@ -1,6 +1,6 @@
 ---
 title: "Ochre 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC016.jpg"
 brand: AMMO

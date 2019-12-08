@@ -1,6 +1,6 @@
 ---
 title: "Dark Gull Grey FS 36231 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC247.jpg"
 brand: AMMO

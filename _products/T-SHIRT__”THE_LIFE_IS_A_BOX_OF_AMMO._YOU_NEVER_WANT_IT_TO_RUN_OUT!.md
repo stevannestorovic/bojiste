@@ -1,7 +1,7 @@
 ---
 title: "T-SHIRT  ”THE LIFE IS A BOX OF AMMO. YOU NEVER WANT IT TO RUN OUT! "
-price: 0 
-desc: "Bez opisa"
+price: "TBA" 
+desc: ""
 img_path: "/assets/img/A.MIG-8000XXL .jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "Knjige,-casopisi,-MERCH"
 subcat: "KNJ-AMMO"
 subsubcat: "Knjige-AMMO-MAJCE-I-TRENERKE"
+sifra: "A.MIG-8000XXL "
 ---

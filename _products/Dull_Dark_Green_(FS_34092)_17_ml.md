@@ -1,6 +1,6 @@
 ---
 title: "Dull Dark Green (FS 34092) 17 ml"
-price: 0 
+price: "300" 
 desc: "Air Series Special Paint"
 img_path: "/assets/img/AK-2106.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AK-MENG"
 subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
+sifra: "AK-2106"
 ---

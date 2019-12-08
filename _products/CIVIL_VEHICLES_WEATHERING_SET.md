@@ -1,7 +1,7 @@
 ---
 title: "CIVIL VEHICLES WEATHERING SET"
-price: 0 
-desc: "Bez opisa"
+price: "2450" 
+desc: "Set efekata"
 img_path: "/assets/img/A.MIG-7145.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "Weathering"
 subcat: "wet-setovi"
 subsubcat: "wet-setovi"
+sifra: "A.MIG-7145"
 ---

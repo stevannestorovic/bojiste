@@ -1,6 +1,6 @@
 ---
 title: "Grüngrau-Green Grey RAL 7009 (MODERN) 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC211.jpg"
 brand: AMMO

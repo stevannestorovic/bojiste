@@ -1,6 +1,6 @@
 ---
 title: "Camouflage Grey FS 36622 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC254.jpg"
 brand: AMMO

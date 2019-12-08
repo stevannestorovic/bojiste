@@ -1,7 +1,7 @@
 ---
 title: "SCRATCHES EFFECTS"
-price: 0 
-desc: "Bez opisa"
+price: "500" 
+desc: "Čiping tečnost - ogrebotine"
 img_path: "/assets/img/A.MIG-2010.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "Weathering"
 subcat: "wet-dodaci"
 subsubcat: "wet-pigmenti"
+sifra: "A.MIG-2010"
 ---

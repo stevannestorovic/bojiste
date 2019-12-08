@@ -1,6 +1,6 @@
 ---
 title: "1/48 J-15 Chinese Naval Fighter"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/KIN48065.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Plasticne-Makete"
 subcat: "PM-KINETIC"
 subsubcat: ""
+sifra: "KIN48065"
 ---

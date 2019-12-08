@@ -1,6 +1,6 @@
 ---
 title: "Spanish Green 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC105.jpg"
 brand: AMMO

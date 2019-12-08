@@ -1,14 +1,15 @@
 ---
 title: "1/144 CANADA LEOPARD C2 MEXAS MAIN BATTLE TANK "
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA-60005.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false
 cat: "Plasticne-Makete"
 subcat: "PM-OSTALO"
 subsubcat: ""
+sifra: "UA-60005"
 ---

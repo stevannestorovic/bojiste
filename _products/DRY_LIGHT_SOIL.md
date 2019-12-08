@@ -1,7 +1,7 @@
 ---
 title: "DRY LIGHT SOIL          "
-price: 0 
-desc: "Bez opisa"
+price: "550" 
+desc: ""
 img_path: "/assets/img/A.MIG-1700.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "Weathering"
 subcat: "wet-Emajl-Efekti"
 subsubcat: "wet-Emajl-Efekti"
+sifra: "A.MIG-1700"
 ---

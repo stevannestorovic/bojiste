@@ -1,6 +1,6 @@
 ---
 title: "Força Aérea Portuguesa I ‘WRAP-AROUND 1990’s’"
-price: 0 
+price: "1400" 
 desc: "Real Colors Paint Sets"
 img_path: "/assets/img/RCS057.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "1/35 Sweden CB-90 H Fast Assault Craft"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TIGE6293.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Plasticne-Makete"
 subcat: "PM-TIGER-MODELS"
 subsubcat: ""
+sifra: "TIGE6293"
 ---

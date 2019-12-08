@@ -44,7 +44,7 @@ title: seo_title
 	BREADCRUMB
 	<div class="products">
 		{% for product in site.products  %}
-			{% if product.cat == "CLAB" %}
+			{% if product.cat == "CLAB" %}</h3>
 				<div class="product simpleCart_shelfItem">
                                         <h3 style="display:none;" class="item_code">{{product.sifra}}
 					<h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>

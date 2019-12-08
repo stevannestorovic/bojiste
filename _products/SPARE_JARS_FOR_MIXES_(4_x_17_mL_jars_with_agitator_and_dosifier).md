@@ -1,7 +1,7 @@
 ---
 title: "SPARE JARS FOR MIXES (4 x 17 mL jars with agitator and dosifier)"
-price: 0 
-desc: "Bez opisa"
+price: "560" 
+desc: "Prazne posudice"
 img_path: "/assets/img/A.MIG-8004.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "Alat-i-dodaci"
 subcat: "AL-AMMO"
 subsubcat: "Alati-AMMO-RAZNO"
+sifra: "A.MIG-8004"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Field Green FS 34097 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC231.jpg"
 brand: AMMO

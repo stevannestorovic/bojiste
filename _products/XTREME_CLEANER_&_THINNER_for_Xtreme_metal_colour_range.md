@@ -1,6 +1,6 @@
 ---
 title: "XTREME CLEANER & THINNER for Xtreme metal colour range"
-price: 0 
+price: "0" 
 desc: "XTREME METAL COLOR"
 img_path: "/assets/img/AK-470.jpg"
 brand: AMMO

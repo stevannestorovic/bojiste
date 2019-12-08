@@ -1,6 +1,6 @@
 ---
 title: "XTERME METAL MATTE ALUMINIUM"
-price: 0 
+price: "0" 
 desc: "XTREME METAL COLOR"
 img_path: "/assets/img/AK-488.jpg"
 brand: AMMO

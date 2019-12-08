@@ -1,6 +1,6 @@
 ---
 title: "IJN J3 SP (AMBER GREY) 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC303.jpg"
 brand: AMMO

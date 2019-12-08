@@ -1,15 +1,16 @@
 ---
 title: "SLIMY GRIME DARK"
 price: "500" 
-desc: "Efekti"
-img_path: "/assets/img/AK-026.jpg"
-brand: AK
+desc: "Emajl efekat 35mL
+"
+img_path: "/assets/img/A.MIG-1410.jpg"
+brand: AMMO
 available: true
 special_offer: false
 new: false
 soon: false
 cat: "Weathering"
-subcat: "wet-ak"
-subsubcat: ""
-sifra: "AK-026"
+subcat: "wet-Emajl-Efekti"
+subsubcat: "wet-Emajl-Efekti"
+sifra: "A.MIG-1410"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "RLM 81 Version 3 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC325.jpg"
 brand: AMMO

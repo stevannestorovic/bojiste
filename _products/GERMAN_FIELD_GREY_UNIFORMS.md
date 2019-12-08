@@ -1,14 +1,15 @@
 ---
 title: "GERMAN FIELD GREY UNIFORMS"
-price: 0 
-desc: "Figure Series Set"
-img_path: "/assets/img/AK-3140.jpg"
+price: "1300" 
+desc: "Set akrilnih boja za figure"
+img_path: "/assets/img/A.MIG-7021.jpg"
 brand: AMMO
 available: true
 special_offer: false
 new: false
 soon: false
 cat: "Akrilne-Boje"
-subcat: "AB-AK-MENG"
-subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
+subcat: "AB-AMMO"
+subsubcat: "AkrilneBoje-AMMO-SETOVI-AKRILNIH-BOJA"
+sifra: "A.MIG-7021"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Olive Braun-Olive Brown RAL 8008 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC218.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "Olive Drab color - Spray 150ml"
-price: 0 
+price: "900" 
 desc: "AK SPRAYS - BASIC COLORS "
 img_path: "/assets/img/AK1025.jpg"
 brand: AMMO

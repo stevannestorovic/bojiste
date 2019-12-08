@@ -1,6 +1,6 @@
 ---
 title: "Field Drab FS 30118  10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC085.jpg"
 brand: AMMO

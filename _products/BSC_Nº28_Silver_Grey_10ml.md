@@ -1,6 +1,6 @@
 ---
 title: "BSC Nº28 Silver Grey 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC038.jpg"
 brand: AMMO

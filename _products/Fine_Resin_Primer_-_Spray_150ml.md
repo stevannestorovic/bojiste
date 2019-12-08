@@ -1,6 +1,6 @@
 ---
 title: "Fine Resin Primer - Spray 150ml"
-price: 0 
+price: "1000" 
 desc: "AK SPRAYS - BASIC COLORS "
 img_path: "/assets/img/AK1017.jpg"
 brand: AMMO

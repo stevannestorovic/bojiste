@@ -1,7 +1,7 @@
 ---
 title: "FILTER SET FOR GERMAN TANKS"
-price: 0 
-desc: "Bez opisa"
+price: "1500" 
+desc: "Set filtera"
 img_path: "/assets/img/A.MIG-7453.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "Weathering"
 subcat: "wet-setovi"
 subsubcat: "wet-setovi"
+sifra: "A.MIG-7453"
 ---

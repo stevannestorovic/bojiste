@@ -1,14 +1,15 @@
 ---
 title: "1/35 WORKABLE TRACK LINKS SET FOR PZ.III/IV.LATE PRODUCTION (40CM)"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/RFM5037.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false
 cat: "Plasticne-Makete"
 subcat: "PM-RYE-FIELD-MODELS"
 subsubcat: ""
+sifra: "RFM5037"
 ---

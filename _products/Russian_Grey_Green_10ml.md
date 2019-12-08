@@ -1,6 +1,6 @@
 ---
 title: "Russian Grey Green 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC100.jpg"
 brand: AMMO

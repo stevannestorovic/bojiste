@@ -1,6 +1,6 @@
 ---
 title: "FS 36270 Medium Grey 17 ml"
-price: 0 
+price: "300" 
 desc: "Air Series Special Paint"
 img_path: "/assets/img/AK-2141.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AK-MENG"
 subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
+sifra: "AK-2141"
 ---

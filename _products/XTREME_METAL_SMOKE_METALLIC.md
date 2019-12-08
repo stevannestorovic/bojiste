@@ -1,6 +1,6 @@
 ---
 title: "XTREME METAL SMOKE METALLIC"
-price: 0 
+price: "0" 
 desc: "XTREME METAL COLOR"
 img_path: "/assets/img/AK-671.jpg"
 brand: AMMO

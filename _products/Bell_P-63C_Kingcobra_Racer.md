@@ -1,6 +1,6 @@
 ---
 title: "Bell P-63C Kingcobra Racer                                                      "
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/DORAW48007.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Plasticne-Makete"
 subcat: "PM-DORA-WINGS"
 subsubcat: ""
+sifra: "DORAW48007"
 ---

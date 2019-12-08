@@ -1,6 +1,6 @@
 ---
 title: "Nato Green RAL 6031 F9  10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC080.jpg"
 brand: AMMO

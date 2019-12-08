@@ -1,15 +1,16 @@
 ---
 title: "LIGHT RUST WASH"
 price: "500" 
-desc: "Efekti"
-img_path: "/assets/img/AK-046.jpg"
-brand: AK
+desc: "Voš 35mL
+"
+img_path: "/assets/img/A.MIG-1004.jpg"
+brand: AMMO
 available: true
 special_offer: false
 new: false
 soon: false
 cat: "Weathering"
-subcat: "wet-ak"
-subsubcat: ""
-sifra: "AK-046"
+subcat: "wet-emajl-wash"
+subsubcat: "wet-emajl-wash"
+sifra: "A.MIG-1004"
 ---

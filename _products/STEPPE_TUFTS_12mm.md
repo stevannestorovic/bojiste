@@ -1,6 +1,6 @@
 ---
 title: "STEPPE TUFTS 12mm"
-price: 0 
+price: "1085.0"
 desc: ""
 img_path: "/assets/img/AK8125.jpg"
 brand: AK
@@ -11,4 +11,5 @@ soon: false
 cat: "Diorame"
 subcat: "DI-AK-Interactive"
 subsubcat: "Diorame-AKInteractive-TRAVA"
+sifra: "AK8125"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "BRACKEN FERN"
-price: 0 
+price: "1000.0"
 desc: ""
 img_path: "/assets/img/AK8136.jpg"
 brand: AK
@@ -11,4 +11,5 @@ soon: false
 cat: "Diorame"
 subcat: "DI-AK-Interactive"
 subsubcat: "Diorame-AKInteractive-BILJKE"
+sifra: "AK8136"
 ---

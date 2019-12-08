@@ -1,9 +1,9 @@
 ---
 title: "VIPER UNDER THE SKIN, F-16  -  (English)"
-price: 0 
+price: 4100.0
 desc: ""
 img_path: "/assets/img/EA 16.jpg"
-brand: AMMO
+brand: AK
 available: true
 special_offer: false
 new: false
@@ -11,4 +11,5 @@ soon: false
 cat: "Knjige,-casopisi,-MERCH"
 subcat: "KNJ-AK-Interactive"
 subsubcat: ""
+sifra: "EA 16"
 ---

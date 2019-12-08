@@ -1,6 +1,6 @@
 ---
 title: "WW2 IJN Aircraft Colors"
-price: 0 
+price: "1400" 
 desc: "Real Colors Paint Sets"
 img_path: "/assets/img/RCS037.jpg"
 brand: AMMO

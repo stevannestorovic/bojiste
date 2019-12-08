@@ -1,6 +1,6 @@
 ---
 title: "Light Gull Grey FS 16440 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC220.jpg"
 brand: AMMO

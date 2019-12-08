@@ -1,6 +1,6 @@
 ---
 title: "Duck Egg Blue FS 35622 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC241.jpg"
 brand: AMMO

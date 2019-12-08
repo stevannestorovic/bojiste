@@ -1,6 +1,6 @@
 ---
 title: "Spray Difussers Set 1"
-price: 0 
+price: "250" 
 desc: "AK SPRAYS - ACCESORIES"
 img_path: "/assets/img/AK1028.jpg"
 brand: AMMO

@@ -1,9 +1,9 @@
 ---
 title: "Magach 7 &7C"
-price: 0 
+price: 4750.0
 desc: ""
 img_path: "/assets/img/DEP-14.jpg"
-brand: AMMO
+brand: AK
 available: true
 special_offer: false
 new: false
@@ -11,4 +11,5 @@ soon: false
 cat: "Knjige,-casopisi,-MERCH"
 subcat: "KNJ-AK-Interactive"
 subsubcat: ""
+sifra: "DEP-14"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "A-21m Light Yellowish Brown"
-price: 0 
+price: "300" 
 desc: "Air Series Special Paint"
 img_path: "/assets/img/AK-2248.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AK-MENG"
 subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
+sifra: "AK-2248"
 ---

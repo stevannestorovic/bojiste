@@ -1,14 +1,15 @@
 ---
 title: "Russian T-72B2 Rogatka Main Battle Tank"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72005.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false
 cat: "Plasticne-Makete"
 subcat: "PM-OSTALO"
 subsubcat: ""
+sifra: "UA72005"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "FIGURES BRUSH SET"
-price: 0 
-desc: "Bez opisa"
+price: "4500" 
+desc: "Set četkica"
 img_path: "/assets/img/A.MIG-7600.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "Alat-i-dodaci"
 subcat: "AL-AMMO"
 subsubcat: "Alati-AMMO-CETKICE"
+sifra: "A.MIG-7600"
 ---

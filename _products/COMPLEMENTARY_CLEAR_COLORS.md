@@ -1,6 +1,6 @@
 ---
 title: "COMPLEMENTARY CLEAR COLORS"
-price: 0 
+price: "1050" 
 desc: "Real Colors Paint Sets"
 img_path: "/assets/img/RCS023.jpg"
 brand: AMMO

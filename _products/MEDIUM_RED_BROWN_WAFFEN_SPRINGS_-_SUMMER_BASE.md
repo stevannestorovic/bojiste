@@ -1,6 +1,6 @@
 ---
 title: "MEDIUM RED BROWN WAFFEN SPRINGS / SUMMER BASE"
-price: 0 
+price: "300" 
 desc: "Figure Series Special Paints"
 img_path: "/assets/img/AK3061.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AK-MENG"
 subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
+sifra: "AK3061"
 ---

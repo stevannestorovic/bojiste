@@ -1,6 +1,6 @@
 ---
 title: "Erdgelb-Earth Yellow RAL 8002  10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC064.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "APC Interior Green FS24533  10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC078.jpg"
 brand: AMMO

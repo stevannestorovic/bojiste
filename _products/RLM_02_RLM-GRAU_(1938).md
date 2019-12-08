@@ -1,6 +1,6 @@
 ---
 title: "RLM 02 RLM-GRAU (1938)"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC265.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "LUFTWAFFE PRE-WAR CAMOUFLAGE COLORS"
-price: 0 
+price: "1300" 
 desc: "Air Series Sets"
 img_path: "/assets/img/AK-2320.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AK-MENG"
 subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
+sifra: "AK-2320"
 ---

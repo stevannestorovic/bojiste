@@ -1,6 +1,6 @@
 ---
 title: "Iraqi Army Desert Sand 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC104.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "MARINEFLIEGER NORM 78 AND 87 SCHEMES SET"
-price: 0 
+price: "1400" 
 desc: "Real Colors Paint Sets"
 img_path: "/assets/img/RCS065.jpg"
 brand: AMMO

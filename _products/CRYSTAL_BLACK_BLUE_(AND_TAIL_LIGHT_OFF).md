@@ -1,7 +1,7 @@
 ---
 title: "CRYSTAL BLACK BLUE (AND TAIL LIGHT OFF)"
-price: 0 
-desc: "Bez opisa"
+price: "300" 
+desc: "Akrilna boja - Kristalna"
 img_path: "/assets/img/A.MIG-0099.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AMMO"
 subsubcat: "AkrilneBoje-AMMO-POJEDINACNE-BOJE"
+sifra: "A.MIG-0099"
 ---

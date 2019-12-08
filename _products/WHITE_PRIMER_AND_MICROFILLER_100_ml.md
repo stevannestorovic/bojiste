@@ -1,6 +1,6 @@
 ---
 title: "WHITE PRIMER AND MICROFILLER 100 ml"
-price: 0 
+price: "980" 
 desc: "PROFESSIONAL PRIMERS"
 img_path: "/assets/img/AK-759.jpg"
 brand: AMMO

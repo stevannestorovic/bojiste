@@ -1,6 +1,6 @@
 ---
 title: "Grün-Green RAL 6007 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC049.jpg"
 brand: AMMO

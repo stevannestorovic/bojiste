@@ -1,6 +1,6 @@
 ---
 title: "Luftwaffe Pre-WW2 Camouflage Colors"
-price: 0 
+price: "1400" 
 desc: "Real Colors Paint Sets"
 img_path: "/assets/img/RCS028.jpg"
 brand: AMMO

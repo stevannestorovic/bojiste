@@ -1,7 +1,8 @@
 ---
 title: "FRESH MUD"
-price: 0 
-desc: "Bez opisa"
+price: "500" 
+desc: "Emajl efekat 35mL
+"
 img_path: "/assets/img/A.MIG-1402.jpg"
 brand: AMMO
 available: true
@@ -11,4 +12,5 @@ soon: false
 cat: "Weathering"
 subcat: "wet-Emajl-Efekti"
 subsubcat: "wet-Emajl-Efekti"
+sifra: "A.MIG-1402"
 ---

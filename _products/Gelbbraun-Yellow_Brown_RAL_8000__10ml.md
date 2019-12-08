@@ -1,6 +1,6 @@
 ---
 title: "Gelbbraun-Yellow Brown RAL 8000  10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC063.jpg"
 brand: AMMO

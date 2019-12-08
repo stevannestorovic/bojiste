@@ -1,7 +1,7 @@
 ---
 title: "PHOTOETCH BURNISHING FLUID"
-price: 0 
-desc: "Bez opisa"
+price: "900" 
+desc: "Tečnost za patiniranje"
 img_path: "/assets/img/A.MIG-2021.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "Weathering"
 subcat: "wet-dodaci"
 subsubcat: "wet-pigmenti"
+sifra: "A.MIG-2021"
 ---

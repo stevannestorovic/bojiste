@@ -1,6 +1,6 @@
 ---
 title: "RAF Camouflage (BARLEY) Grey BS381C/626 - 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC299.jpg"
 brand: AMMO

@@ -1,7 +1,7 @@
 ---
 title: "WW II USA INTERIORS "
-price: 0 
-desc: "Bez opisa"
+price: "1350" 
+desc: "Set efekata - Avijacija"
 img_path: "/assets/img/A.MIG-7434.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "Weathering"
 subcat: "wet-setovi"
 subsubcat: "wet-Emajl-Efekti"
+sifra: "A.MIG-7434"
 ---

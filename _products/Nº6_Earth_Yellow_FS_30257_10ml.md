@@ -1,6 +1,6 @@
 ---
 title: "Nº6 Earth Yellow FS 30257 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC030.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "Hellgrau-Light Grey RAL7009 (interior color) 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC054.jpg"
 brand: AMMO

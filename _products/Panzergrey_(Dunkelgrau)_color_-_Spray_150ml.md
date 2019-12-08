@@ -1,6 +1,6 @@
 ---
 title: "Panzergrey (Dunkelgrau) color - Spray 150ml"
-price: 0 
+price: "900" 
 desc: "AK SPRAYS - BASIC COLORS "
 img_path: "/assets/img/AK1027.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "VIETNAM COLORS SET"
-price: 0 
+price: "950" 
 desc: "AK Akrilne Boje"
 img_path: "/assets/img/AK-4010.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AK-MENG"
 subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
+sifra: "AK-4010"
 ---

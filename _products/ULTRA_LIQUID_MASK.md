@@ -1,7 +1,7 @@
 ---
 title: "ULTRA LIQUID MASK"
-price: 0 
-desc: "Bez opisa"
+price: "550" 
+desc: "Tečna maska"
 img_path: "/assets/img/A.MIG-2032.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "Alat-i-dodaci"
 subcat: "AL-AMMO"
 subsubcat: "Alati-lepkovi-i-hemija"
+sifra: "A.MIG-2032"
 ---

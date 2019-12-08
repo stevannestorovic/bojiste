@@ -1,7 +1,7 @@
 ---
 title: "SLOW DRY CYANOACRYLATE"
-price: 0 
-desc: "Bez opisa"
+price: "1080" 
+desc: "Cijanoakrilni lepak"
 img_path: "/assets/img/A.MIG-8013.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "Alat-i-dodaci"
 subcat: "AL-AMMO"
 subsubcat: "Alati-lepkovi-i-hemija"
+sifra: "A.MIG-8013"
 ---

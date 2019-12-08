@@ -1,6 +1,6 @@
 ---
 title: "US Modern Aircraft Greys 1980s-Present"
-price: 0 
+price: "1400" 
 desc: "Real Colors Paint Sets"
 img_path: "/assets/img/RCS049.jpg"
 brand: AMMO

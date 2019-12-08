@@ -1,6 +1,6 @@
 ---
 title: "Silbergrau -Silver Grey RAL 7001 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC210.jpg"
 brand: AMMO

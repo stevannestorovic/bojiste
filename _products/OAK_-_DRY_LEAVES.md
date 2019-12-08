@@ -1,7 +1,7 @@
 ---
 title: "OAK - DRY LEAVES"
-price: 0 
-desc: "Bez opisa"
+price: "700" 
+desc: "Laserski sečeno lišće"
 img_path: "/assets/img/A.MIG-8402.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "Diorame"
 subcat: "DI-AMMO"
 subsubcat: "Diorame-AMMO-LISCE"
+sifra: "A.MIG-8402"
 ---

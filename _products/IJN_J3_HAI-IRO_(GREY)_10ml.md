@@ -1,6 +1,6 @@
 ---
 title: "IJN J3 HAI-IRO (GREY) 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC302.jpg"
 brand: AMMO

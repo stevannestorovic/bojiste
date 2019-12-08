@@ -1,6 +1,6 @@
 ---
 title: "1/35 US Army Loader"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/TM35002.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Plasticne-Makete"
 subcat: "PM-OSTALO"
 subsubcat: ""
+sifra: "TM35002"
 ---

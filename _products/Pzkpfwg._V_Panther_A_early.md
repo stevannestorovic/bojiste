@@ -1,6 +1,6 @@
 ---
 title: "Pzkpfwg. V Panther A early"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/DW35009.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Plasticne-Makete"
 subcat: "PM-DAS WERK"
 subsubcat: ""
+sifra: "DW35009"
 ---

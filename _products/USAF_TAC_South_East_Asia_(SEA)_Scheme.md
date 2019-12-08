@@ -1,6 +1,6 @@
 ---
 title: "USAF TAC South East Asia (SEA) Scheme"
-price: 0 
+price: "1400" 
 desc: "Real Colors Paint Sets"
 img_path: "/assets/img/RCS047.jpg"
 brand: AMMO

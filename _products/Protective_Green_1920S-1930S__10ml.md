@@ -1,6 +1,6 @@
 ---
 title: "Protective Green 1920S-1930S  10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC076.jpg"
 brand: AMMO

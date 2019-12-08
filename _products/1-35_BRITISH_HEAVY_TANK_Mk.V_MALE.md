@@ -1,9 +1,9 @@
 ---
 title: "1/35 BRITISH HEAVY TANK Mk.V MALE"
-price: 0 
+price: 9200.0
 desc: ""
 img_path: "/assets/img/MM TS-020.jpg"
-brand: AMMO
+brand: AK
 available: true
 special_offer: false
 new: false
@@ -11,4 +11,5 @@ soon: false
 cat: "Plasticne-Makete"
 subcat: "PM-MENG"
 subsubcat: ""
+sifra: "MM TS-020"
 ---

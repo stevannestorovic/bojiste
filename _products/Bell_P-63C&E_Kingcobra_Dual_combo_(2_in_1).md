@@ -1,6 +1,6 @@
 ---
 title: "Bell P-63C&E Kingcobra Dual combo (2 in 1)"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/DORAW7201D.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Plasticne-Makete"
 subcat: "PM-DORA-WINGS"
 subsubcat: ""
+sifra: "DORAW7201D"
 ---

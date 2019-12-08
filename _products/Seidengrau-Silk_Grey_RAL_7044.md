@@ -1,6 +1,6 @@
 ---
 title: "Seidengrau-Silk Grey RAL 7044"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC217.jpg"
 brand: AMMO

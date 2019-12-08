@@ -1,6 +1,6 @@
 ---
 title: "New Iraqui Army Sand 17ml"
-price: 0 
+price: "300" 
 desc: "Akrilni setovi boja"
 img_path: "/assets/img/AK-725.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AK-MENG"
 subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
+sifra: "AK-725"
 ---

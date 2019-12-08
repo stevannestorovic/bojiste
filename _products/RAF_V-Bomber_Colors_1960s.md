@@ -1,6 +1,6 @@
 ---
 title: "RAF V-Bomber Colors 1960s"
-price: 0 
+price: "1050" 
 desc: "Real Colors Paint Sets"
 img_path: "/assets/img/RCS044.jpg"
 brand: AMMO

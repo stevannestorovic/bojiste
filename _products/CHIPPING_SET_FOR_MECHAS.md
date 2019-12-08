@@ -1,7 +1,7 @@
 ---
 title: "CHIPPING SET FOR MECHAS "
-price: 0 
-desc: "Bez opisa"
+price: "1350" 
+desc: "Set efekata"
 img_path: "/assets/img/A.MIG-7428.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "Weathering"
 subcat: "wet-setovi"
 subsubcat: "wet-setovi"
+sifra: "A.MIG-7428"
 ---

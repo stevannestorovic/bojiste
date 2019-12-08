@@ -1,6 +1,6 @@
 ---
 title: "RAF SKY GREY / FS 26373 - 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC285.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "IDF Sinai Grey since 1990  10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC094.jpg"
 brand: AMMO

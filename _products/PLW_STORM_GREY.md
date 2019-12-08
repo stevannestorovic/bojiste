@@ -1,7 +1,8 @@
 ---
 title: "PLW STORM GREY"
-price: 0 
-desc: "Bez opisa"
+price: "500" 
+desc: "Panelni voš 35mL
+"
 img_path: "/assets/img/A.MIG-1609.jpg"
 brand: AMMO
 available: true
@@ -11,4 +12,5 @@ soon: false
 cat: "Weathering"
 subcat: "wet-Emajl-Panelni-vash"
 subsubcat: "wet-Emajl-Panelni-vash"
+sifra: "A.MIG-1609"
 ---

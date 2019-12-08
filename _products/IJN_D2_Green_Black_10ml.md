@@ -1,6 +1,6 @@
 ---
 title: "IJN D2 Green Black 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC305.jpg"
 brand: AMMO

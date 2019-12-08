@@ -1,9 +1,9 @@
 ---
 title: "German Heavy Tank Sd.Kfz.182 King Tiger Turret Maintenance Stand & Muzzle Cover (Resin) "
-price: 0 
+price: 4100.0
 desc: ""
 img_path: "/assets/img/MM SPS-061.jpg"
-brand: AMMO
+brand: AK
 available: true
 special_offer: false
 new: false
@@ -11,4 +11,5 @@ soon: false
 cat: "Plasticne-Makete"
 subcat: "PM-MENG"
 subsubcat: ""
+sifra: "MM SPS-061"
 ---

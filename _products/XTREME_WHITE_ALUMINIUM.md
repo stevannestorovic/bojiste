@@ -1,6 +1,6 @@
 ---
 title: "XTREME WHITE ALUMINIUM"
-price: 0 
+price: "0" 
 desc: "XTREME METAL COLOR"
 img_path: "/assets/img/AK-478.jpg"
 brand: AMMO

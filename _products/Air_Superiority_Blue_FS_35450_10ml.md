@@ -1,6 +1,6 @@
 ---
 title: "Air Superiority Blue FS 35450 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC239.jpg"
 brand: AMMO

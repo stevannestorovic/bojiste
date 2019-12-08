@@ -1,6 +1,6 @@
 ---
 title: "1/48 SOUTH AMERICAN MIRAGE IIIE/V"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/KIN48052.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Plasticne-Makete"
 subcat: "PM-KINETIC"
 subsubcat: ""
+sifra: "KIN48052"
 ---

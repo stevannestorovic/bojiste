@@ -1,6 +1,6 @@
 ---
 title: "Desert Sand FS 30279  10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC032.jpg"
 brand: AMMO

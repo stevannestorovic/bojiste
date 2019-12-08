@@ -1,6 +1,6 @@
 ---
 title: "Olive Green/USMC Green RAL 6003/FS34095 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC209.jpg"
 brand: AMMO

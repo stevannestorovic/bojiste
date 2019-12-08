@@ -1,6 +1,6 @@
 ---
 title: "Light Sea Grey FS 36307 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC250.jpg"
 brand: AMMO

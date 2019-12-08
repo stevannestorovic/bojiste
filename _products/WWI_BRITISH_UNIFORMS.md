@@ -1,6 +1,6 @@
 ---
 title: "WWI BRITISH UNIFORMS"
-price: 0 
+price: "1000" 
 desc: "Figure Series Set"
 img_path: "/assets/img/AK-3080.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AK-MENG"
 subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
+sifra: "AK-3080"
 ---

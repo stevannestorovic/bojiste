@@ -1,7 +1,7 @@
 ---
 title: "ALUMINIUM PALLET (6 WELLS)"
-price: 0 
-desc: "Bez opisa"
+price: "340" 
+desc: "Alu paleta "
 img_path: "/assets/img/A.MIG-8008.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "Alat-i-dodaci"
 subcat: "AL-AMMO"
 subsubcat: "Alati-AMMO-RAZNO"
+sifra: "A.MIG-8008"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "FINE BUSH - EARLY AUTUMN"
-price: 0 
-desc: "Bez opisa"
+price: "1350" 
+desc: "Žbunje"
 img_path: "/assets/img/A.MIG-8382.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "Diorame"
 subcat: "DI-AMMO"
 subsubcat: "Diorame-AMMO-TRAVNATE-PODLOGE"
+sifra: "A.MIG-8382"
 ---

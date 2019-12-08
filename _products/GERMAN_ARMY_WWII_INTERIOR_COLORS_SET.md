@@ -1,6 +1,6 @@
 ---
 title: "GERMAN ARMY WWII INTERIOR COLORS SET"
-price: 0 
+price: "1400" 
 desc: "Real Colors Paint Sets"
 img_path: "/assets/img/RCS005.jpg"
 brand: AMMO

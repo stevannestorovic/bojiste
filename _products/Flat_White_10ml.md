@@ -1,6 +1,6 @@
 ---
 title: "Flat White 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC004.jpg"
 brand: AMMO

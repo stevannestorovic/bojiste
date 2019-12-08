@@ -1,6 +1,6 @@
 ---
 title: "Pzkpfwg. V Panther A late 2 in 1 (Sd.Kfz.171/268)"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/DW35011.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Plasticne-Makete"
 subcat: "PM-DAS WERK"
 subsubcat: ""
+sifra: "DW35011"
 ---

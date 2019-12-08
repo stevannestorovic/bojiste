@@ -1,6 +1,6 @@
 ---
 title: "Leuchtorange-Luminous Orange RAL 2005 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC207.jpg"
 brand: AMMO

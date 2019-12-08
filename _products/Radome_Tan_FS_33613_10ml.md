@@ -1,6 +1,6 @@
 ---
 title: "Radome Tan FS 33613 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC227.jpg"
 brand: AMMO

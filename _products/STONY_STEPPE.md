@@ -1,7 +1,7 @@
 ---
 title: "STONY STEPPE"
-price: 0 
-desc: "Bez opisa"
+price: "1800" 
+desc: "Travnata podloga"
 img_path: "/assets/img/A.MIG-8350.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "Diorame"
 subcat: "DI-AMMO"
 subsubcat: "Diorame-AMMO-TRAVNATE-PODLOGE"
+sifra: "A.MIG-8350"
 ---

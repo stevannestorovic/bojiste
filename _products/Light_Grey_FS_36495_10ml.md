@@ -1,6 +1,6 @@
 ---
 title: "Light Grey FS 36495 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC253.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "ZB AU Basic Protector 36 A7  10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC077.jpg"
 brand: AMMO

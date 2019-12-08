@@ -1,6 +1,6 @@
 ---
 title: "US ARMY SOLDIER UNIFORM COLORS WWII"
-price: 0 
+price: "1850" 
 desc: "Figure Series Set"
 img_path: "/assets/img/AK-3070.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AK-MENG"
 subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
+sifra: "AK-3070"
 ---

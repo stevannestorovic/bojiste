@@ -1,7 +1,7 @@
 ---
 title: "MATT LUCKY VARNISH  (17 ML SIZE)"
-price: 0 
-desc: "Bez opisa"
+price: "300" 
+desc: "Akrilni lak"
 img_path: "/assets/img/A.MIG-2055.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AMMO"
 subsubcat: "AkrilneBoje-AMMO-AKRILNI-LAKOVI"
+sifra: "A.MIG-2055"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Luftwaffe Tropical Colors 1942-1944"
-price: 0 
+price: "1050" 
 desc: "Real Colors Paint Sets"
 img_path: "/assets/img/RCS033.jpg"
 brand: AMMO

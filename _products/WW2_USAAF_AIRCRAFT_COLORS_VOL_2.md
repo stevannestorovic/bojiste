@@ -1,6 +1,6 @@
 ---
 title: "WW2 USAAF AIRCRAFT COLORS VOL 2"
-price: 0 
+price: "2800" 
 desc: "Air Series Sets"
 img_path: "/assets/img/AK-2210.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AK-MENG"
 subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
+sifra: "AK-2210"
 ---

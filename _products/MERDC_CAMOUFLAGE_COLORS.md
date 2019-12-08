@@ -1,6 +1,6 @@
 ---
 title: "MERDC CAMOUFLAGE COLORS"
-price: 0 
+price: "2450" 
 desc: "AK Akrilne Boje"
 img_path: "/assets/img/AK-4230.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AK-MENG"
 subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
+sifra: "AK-4230"
 ---

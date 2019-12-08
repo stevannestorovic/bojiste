@@ -1,14 +1,15 @@
 ---
 title: "Germany V1 Missile launcher with E50 body"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72073.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false
 cat: "Plasticne-Makete"
 subcat: "PM-OSTALO"
 subsubcat: ""
+sifra: "UA72073"
 ---

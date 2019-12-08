@@ -1,6 +1,6 @@
 ---
 title: "Yellow 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC007.jpg"
 brand: AMMO

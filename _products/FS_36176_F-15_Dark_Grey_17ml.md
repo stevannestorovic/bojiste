@@ -1,6 +1,6 @@
 ---
 title: "FS 36176 F-15 Dark Grey 17ml"
-price: 0 
+price: "300" 
 desc: "Air Series Special Paint"
 img_path: "/assets/img/AK-2143.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AK-MENG"
 subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
+sifra: "AK-2143"
 ---

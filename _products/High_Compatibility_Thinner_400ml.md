@@ -1,6 +1,6 @@
 ---
 title: "High Compatibility Thinner 400ml"
-price: 0 
+price: "1700" 
 desc: "REAL COLORS AUXILIARY PRODUCTS"
 img_path: "/assets/img/RC702.jpg"
 brand: AMMO

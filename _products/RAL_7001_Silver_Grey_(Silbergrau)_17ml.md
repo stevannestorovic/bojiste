@@ -1,6 +1,6 @@
 ---
 title: "RAL 7001 Silver Grey (Silbergrau) 17ml"
-price: 0 
+price: "300" 
 desc: "Air Series Special Paint"
 img_path: "/assets/img/AK-2174.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AK-MENG"
 subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
+sifra: "AK-2174"
 ---

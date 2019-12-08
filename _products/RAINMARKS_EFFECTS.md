@@ -1,15 +1,16 @@
 ---
 title: "RAINMARKS EFFECTS"
 price: "500" 
-desc: "Efekti"
-img_path: "/assets/img/AK-074.jpg"
-brand: AK
+desc: "Efekat prljavštine - Tragovi
+"
+img_path: "/assets/img/A.MIG-1208.jpg"
+brand: AMMO
 available: true
 special_offer: false
 new: false
 soon: false
 cat: "Weathering"
-subcat: "wet-ak"
-subsubcat: ""
-sifra: "AK-074"
+subcat: "wet-Emajl-Efekti"
+subsubcat: "wet-Emajl-Efekti"
+sifra: "A.MIG-1208"
 ---

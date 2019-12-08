@@ -1,6 +1,6 @@
 ---
 title: "Blaugrau-Blue Grey RAL 7016 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC055.jpg"
 brand: AMMO

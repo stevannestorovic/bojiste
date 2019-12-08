@@ -1,6 +1,6 @@
 ---
 title: "RAF Pru Blue BS381C/636 - 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC297.jpg"
 brand: AMMO

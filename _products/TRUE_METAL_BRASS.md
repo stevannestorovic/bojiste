@@ -1,6 +1,6 @@
 ---
-title: "TRUE METAL BRAAkrilneBoje-AKMENG-TRUE METAL"
-price: 0 
+title: "TRUE METAL BRAAkrilneBoje-AKMENG-TRUE-METAL"
+price: "800" 
 desc: "TRUE METAL WAXES"
 img_path: "/assets/img/AK-999.jpg"
 brand: AMMO
@@ -10,5 +10,5 @@ new: false
 soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AK-MENG"
-subsubcat: "AkrilneBoje-AKMENG-TRUE METAL"
+subsubcat: "AkrilneBoje-AKMENG-TRUE-METAL"
 ---

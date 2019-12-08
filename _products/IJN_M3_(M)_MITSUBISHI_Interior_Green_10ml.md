@@ -1,6 +1,6 @@
 ---
 title: "IJN M3 (M) MITAB-AK-MENGISHI Interior Green 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC306.jpg"
 brand: AMMO

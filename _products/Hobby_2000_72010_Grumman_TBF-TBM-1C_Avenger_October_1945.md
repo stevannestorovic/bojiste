@@ -1,6 +1,6 @@
 ---
 title: "Hobby 2000 72010 Grumman TBF/TBM-1C Avenger October 1945"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/H2K72010.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Plasticne-Makete"
 subcat: "PM-HOBBY-2000"
 subsubcat: ""
+sifra: "H2K72010"
 ---

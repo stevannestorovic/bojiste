@@ -1,6 +1,6 @@
 ---
 title: "RAF Extra Dark Sea Grey BS381C/640 - 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC295.jpg"
 brand: AMMO

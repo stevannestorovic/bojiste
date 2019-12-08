@@ -1,6 +1,6 @@
 ---
 title: "BROWN GLAZE 35 ml"
-price: 0 
+price: "500" 
 desc: "Figure Series Special Paints"
 img_path: "/assets/img/AK3018.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AK-MENG"
 subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
+sifra: "AK3018"
 ---

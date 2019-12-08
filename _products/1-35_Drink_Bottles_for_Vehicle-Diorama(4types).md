@@ -1,9 +1,9 @@
 ---
 title: " 1/35 Drink Bottles for Vehicle/Diorama(4types)"
-price: 0 
+price: 700.0
 desc: ""
 img_path: "/assets/img/MM SPS-002.jpg"
-brand: AMMO
+brand: AK
 available: true
 special_offer: false
 new: false
@@ -11,4 +11,5 @@ soon: false
 cat: "Plasticne-Makete"
 subcat: "PM-MENG"
 subsubcat: ""
+sifra: "MM SPS-002"
 ---

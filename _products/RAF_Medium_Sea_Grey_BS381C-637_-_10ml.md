@@ -1,6 +1,6 @@
 ---
 title: "RAF Medium Sea Grey BS381C/637 - 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC289.jpg"
 brand: AMMO

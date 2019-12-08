@@ -1,6 +1,6 @@
 ---
 title: "Dark Olive Drab 41 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC259.jpg"
 brand: AMMO

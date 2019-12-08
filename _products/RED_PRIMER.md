@@ -1,14 +1,15 @@
 ---
 title: "RED PRIMER"
-price: 0 
-desc: "Primers"
-img_path: "/assets/img/AK-180.jpg"
+price: "400" 
+desc: "Uljana boja sa četkicom 10mL"
+img_path: "/assets/img/A.MIG-3511.jpg"
 brand: AMMO
 available: true
 special_offer: false
 new: false
 soon: false
-cat: "Akrilne-Boje"
-subcat: "AB-AK-MENG"
-subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
+cat: "AMMO-OILBRUSHERS"
+subcat: ""
+subsubcat: ""
+sifra: "A.MIG-3511"
 ---

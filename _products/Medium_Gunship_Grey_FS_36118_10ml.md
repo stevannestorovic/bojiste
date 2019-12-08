@@ -1,6 +1,6 @@
 ---
 title: "Medium Gunship Grey FS 36118 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC244.jpg"
 brand: AMMO

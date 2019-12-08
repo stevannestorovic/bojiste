@@ -1,6 +1,6 @@
 ---
 title: "BSC Nº61 Light Stone 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC040.jpg"
 brand: AMMO

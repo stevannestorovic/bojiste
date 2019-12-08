@@ -1,6 +1,6 @@
 ---
 title: "RAF SKY / FS 34424 - 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC290.jpg"
 brand: AMMO

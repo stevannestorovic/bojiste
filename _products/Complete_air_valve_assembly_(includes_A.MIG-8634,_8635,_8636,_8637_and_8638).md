@@ -1,7 +1,7 @@
 ---
 title: "Complete air valve assembly (includes A.MIG-8634, 8635, 8636, 8637 and 8638)"
-price: 0 
-desc: "Bez opisa"
+price: "3100" 
+desc: "Zamenski deo za airbrush"
 img_path: "/assets/img/A.MIG-8639.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "Alat-i-dodaci"
 subcat: "AL-AMMO"
 subsubcat: "Alati-AMMO-AIRBRUSH"
+sifra: "A.MIG-8639"
 ---

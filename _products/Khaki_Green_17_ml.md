@@ -1,6 +1,6 @@
 ---
 title: "Khaki Green 17 ml"
-price: 0 
+price: "300" 
 desc: "Akrilni setovi boja"
 img_path: "/assets/img/AK-4072.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AK-MENG"
 subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
+sifra: "AK-4072"
 ---

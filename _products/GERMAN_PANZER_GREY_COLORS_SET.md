@@ -1,6 +1,6 @@
 ---
 title: "GERMAN PANZER GREY COLORS SET"
-price: 0 
+price: "1800" 
 desc: "Wargames Series Set"
 img_path: "/assets/img/AK-1160.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AK-MENG"
 subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
+sifra: "AK-1160"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Dull Dark Green FS 34092 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC230.jpg"
 brand: AMMO

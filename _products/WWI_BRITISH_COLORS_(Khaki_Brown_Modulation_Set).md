@@ -1,6 +1,6 @@
 ---
 title: "WWI BRITISH COLORS (Khaki Brown Modulation Set)"
-price: 0 
+price: "950" 
 desc: "AK Akrilne Boje"
 img_path: "/assets/img/AK-4040.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AK-MENG"
 subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
+sifra: "AK-4040"
 ---

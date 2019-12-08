@@ -1,14 +1,15 @@
 ---
 title: "T-90A Main Battle Tank (welded turret)"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72001.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false
 cat: "Plasticne-Makete"
 subcat: "PM-OSTALO"
 subsubcat: ""
+sifra: "UA72001"
 ---

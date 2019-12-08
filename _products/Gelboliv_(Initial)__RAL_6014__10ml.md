@@ -1,6 +1,6 @@
 ---
 title: "Gelboliv (Initial)  RAL 6014  10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC086.jpg"
 brand: AMMO

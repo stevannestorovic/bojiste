@@ -2,28 +2,22 @@
 	<h2 class="product-panel-title">
 	Preporuka
 	</h2>
-	<div class="panel-products">
-	{% for product in site.products  %}
-		{% if product.special_offer %}
-			<div class="panel-product">
-				<h3>{{product.title}}</h3>
-				<img src="{{product.img_path}}">
-				<p class="panel-product-desc">
-					{{product.desc}}
-				</p>
+	<div class="panel-products"> 
+	{% for product in site.products %}
+		{%- if product.featured -%}
+			<div class="panel-product simpleCart_shelfItem">
+				<h3 style="display:none;" class="item_code">{{product.sifra}}</h3>
+				<h4 class="product-panel-name item_name"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
+				<img class="product-panel-img image" data-src="{{product.img_path}}" alt="">
+				<div class="product-panel-data">
+					<p class="product-panel-description"> {{product.desc}}</p>
+					<strong class="product-panel-price is-main-txt item_price">{{product.price}} <small>RSD</small></strong>
+				</div>
+				<div class="product-widgets">
+					<input type="number" value="1" class="item_Quantity input">
+					<a class="item_add button is-main-bg buy_button is-small" href="javascript:;">KUPI</a>
+				</div>
 			</div>
-		{% endif %}
+		{%- endif -%}
 	{% endfor %}
-	{% for product in site.data.products  %}
-		{% if product.special_offer %}
-			<div class="panel-product">
-				<h3>{{product.title}}</h3>
-				<img src="{{product.img_path}}">
-				<p class="panel-product-desc">
-					{{product.desc}}
-				</p>
-			</div>
-		{% endif %}
-	{% endfor %}
-	</div>
 </div>

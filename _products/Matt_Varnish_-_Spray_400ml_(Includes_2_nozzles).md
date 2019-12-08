@@ -1,6 +1,6 @@
 ---
 title: "Matt Varnish - Spray 400ml (Includes 2 nozzles)"
-price: 0 
+price: "1100" 
 desc: "AK SPRAYS - BASIC COLORS "
 img_path: "/assets/img/AK1013.jpg"
 brand: AMMO

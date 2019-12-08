@@ -1,6 +1,6 @@
 ---
 title: "RUAkrilneBoje-AKMENG-AK-AKRILNE-BOJEIAN PRIMER"
-price: 0 
+price: "630" 
 desc: "Primers"
 img_path: "/assets/img/AK-179.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AK-MENG"
 subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
+sifra: "AK-179"
 ---

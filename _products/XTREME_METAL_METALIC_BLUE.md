@@ -1,6 +1,6 @@
 ---
 title: "XTREME METAL METALIC BLUE"
-price: 0 
+price: "0" 
 desc: "XTREME METAL COLOR"
 img_path: "/assets/img/AK-487.jpg"
 brand: AMMO

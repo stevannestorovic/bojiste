@@ -1,6 +1,6 @@
 ---
 title: "Have Glass Grey 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC245.jpg"
 brand: AMMO

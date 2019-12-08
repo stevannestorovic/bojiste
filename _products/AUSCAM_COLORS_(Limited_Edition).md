@@ -1,6 +1,6 @@
 ---
 title: "AUSCAM COLORS (Limited Edition)"
-price: 0 
+price: "1050" 
 desc: "Real Colors Paint Sets"
 img_path: "/assets/img/RCS071.jpg"
 brand: AMMO

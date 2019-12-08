@@ -1,6 +1,6 @@
 ---
 title: "F-15 Dark Grey (MOD EAGLE) FS 36176 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC246.jpg"
 brand: AMMO

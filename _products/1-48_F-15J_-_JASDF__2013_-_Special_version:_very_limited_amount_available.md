@@ -1,14 +1,15 @@
 ---
 title: "1/48 F-15J - JASDF  2013 - Special version: very limited amount available"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/GWHSNG03.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false
 cat: "Plasticne-Makete"
 subcat: "PM-GREAT-WALL-HOBBY"
 subsubcat: ""
+sifra: "GWHSNG03"
 ---

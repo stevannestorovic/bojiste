@@ -1,9 +1,9 @@
 ---
 title: "1/9 Kawasaki Ninja H2R "
-price: 0 
+price: 12900.0
 desc: ""
 img_path: "/assets/img/MM MT-001.jpg"
-brand: AMMO
+brand: AK
 available: true
 special_offer: false
 new: false
@@ -11,4 +11,5 @@ soon: false
 cat: "Plasticne-Makete"
 subcat: "PM-MENG"
 subsubcat: ""
+sifra: "MM MT-001"
 ---

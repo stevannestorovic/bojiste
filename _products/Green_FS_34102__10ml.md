@@ -1,6 +1,6 @@
 ---
 title: "Green FS 34102  10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC083.jpg"
 brand: AMMO

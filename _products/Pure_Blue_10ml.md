@@ -1,6 +1,6 @@
 ---
 title: "Pure Blue 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC010.jpg"
 brand: AMMO

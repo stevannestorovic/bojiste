@@ -1,6 +1,6 @@
 ---
 title: "BELGIAN AIR FORCE COLORS 1950S-1970S SET"
-price: 0 
+price: "1400" 
 desc: "Real Colors Paint Sets"
 img_path: "/assets/img/RCS068.jpg"
 brand: AMMO

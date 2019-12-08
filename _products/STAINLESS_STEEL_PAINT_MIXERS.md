@@ -1,7 +1,7 @@
 ---
 title: "STAINLEAlati-AMMO-RAZNO STEEL PAINT MIXERS"
-price: 0 
-desc: "Bez opisa"
+price: "400" 
+desc: "Čelilčne kuglice za mešanje"
 img_path: "/assets/img/A.MIG-8003.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "Alat-i-dodaci"
 subcat: "AL-AMMO"
 subsubcat: "Alati-AMMO-RAZNO"
+sifra: "A.MIG-8003"
 ---

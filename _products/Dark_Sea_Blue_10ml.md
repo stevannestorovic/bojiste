@@ -1,6 +1,6 @@
 ---
 title: "Dark Sea Blue 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC258.jpg"
 brand: AMMO

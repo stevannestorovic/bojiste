@@ -1,6 +1,6 @@
 ---
 title: "AMT-7 Light Blue 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC316.jpg"
 brand: AMMO

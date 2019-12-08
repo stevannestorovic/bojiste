@@ -1,7 +1,7 @@
 ---
 title: "ONE SHOT PRIMER - BLACK"
-price: 0 
-desc: "Bez opisa"
+price: "800" 
+desc: "Poliuretanski prajmer"
 img_path: "/assets/img/A.MIG-2023.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AMMO"
 subsubcat: "AkrilneBoje-AMMO-AKRILNI-PRAJMERI"
+sifra: "A.MIG-2023"
 ---

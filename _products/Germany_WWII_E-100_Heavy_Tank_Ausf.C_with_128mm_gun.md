@@ -1,14 +1,15 @@
 ---
 title: "Germany WWII E-100 Heavy Tank Ausf.C with 128mm gun"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72089.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false
 cat: "Plasticne-Makete"
 subcat: "PM-OSTALO"
 subsubcat: ""
+sifra: "UA72089"
 ---

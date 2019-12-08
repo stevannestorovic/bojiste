@@ -1,6 +1,6 @@
 ---
 title: "Olivgrün-Olive Green RAL 6003 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC047.jpg"
 brand: AMMO

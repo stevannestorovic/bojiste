@@ -1,6 +1,6 @@
 ---
 title: "Black 6RP  10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC071.jpg"
 brand: AMMO

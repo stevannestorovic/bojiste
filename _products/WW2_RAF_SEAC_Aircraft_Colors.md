@@ -1,6 +1,6 @@
 ---
 title: "WW2 RAF SEAC Aircraft Colors"
-price: 0 
+price: "1400" 
 desc: "Real Colors Paint Sets"
 img_path: "/assets/img/RCS041.jpg"
 brand: AMMO

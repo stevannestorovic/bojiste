@@ -1,6 +1,6 @@
 ---
 title: "Elfenbein-Ivory RAL 1001 (Interior Color) 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC046.jpg"
 brand: AMMO

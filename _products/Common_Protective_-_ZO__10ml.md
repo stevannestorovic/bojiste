@@ -1,6 +1,6 @@
 ---
 title: "Common Protective - ZO  10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC070.jpg"
 brand: AMMO

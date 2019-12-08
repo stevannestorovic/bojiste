@@ -1,6 +1,6 @@
 ---
 title: "MNO 2036 Smalt Khaki Avion 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC219.jpg"
 brand: AMMO

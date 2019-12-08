@@ -1,6 +1,6 @@
 ---
 title: "GERMAN ARMY EARLY WWII COLORS SET"
-price: 0 
+price: "1050" 
 desc: "Real Colors Paint Sets"
 img_path: "/assets/img/RCS002.jpg"
 brand: AMMO

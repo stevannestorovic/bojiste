@@ -1,7 +1,7 @@
 ---
 title: "Warm Dirty grey"
-price: 0 
-desc: "Bez opisa"
+price: "410" 
+desc: "Emajl efekti sa četkicom"
 img_path: "/assets/img/A.MIG-1257.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "AMMO-OILBRUSHERS"
 subcat: ""
 subsubcat: ""
+sifra: "A.MIG-1257"
 ---

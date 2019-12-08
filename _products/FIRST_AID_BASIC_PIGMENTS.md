@@ -1,7 +1,7 @@
 ---
 title: "FIRST AID BASIC PIGMENTS"
-price: 0 
-desc: "Bez opisa"
+price: "TBA" 
+desc: "Set efekata"
 img_path: "/assets/img/A.MIG-7448.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "Weathering"
 subcat: "wet-setovi"
 subsubcat: "wet-setovi"
+sifra: "A.MIG-7448"
 ---

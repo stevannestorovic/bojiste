@@ -49,7 +49,7 @@
 	grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 	grid-template-rows: 1fr 1fr;
 	grid-gap: 10px;*/
-	margin-bottom: 10px;
+	margin-bottom: 20px;
 }
 
 .product-panel-title {
@@ -61,10 +61,14 @@
 	display: flex;
 }
 
+product-panel-name {
+	font-size: 0.5rem;	
+}
+
 .panel-products .panel-product {
 	display: flex;
 	flex-direction: column;
-	max-width: 150px;
+	max-width: 350px;
 	max-height:350px;
 	width:100%;
 	margin: 0 10px;

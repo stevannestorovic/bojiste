@@ -1,6 +1,6 @@
 ---
 title: "Nato Brown RAL 8027 F9"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC081.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "RAF Fighters & V-Bombers 1970s"
-price: 0 
+price: "1050" 
 desc: "Real Colors Paint Sets"
 img_path: "/assets/img/RCS045.jpg"
 brand: AMMO

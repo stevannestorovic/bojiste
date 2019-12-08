@@ -1,6 +1,6 @@
 ---
 title: "Basaltgrau-Basalt Grey RAL 7012 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC212.jpg"
 brand: AMMO

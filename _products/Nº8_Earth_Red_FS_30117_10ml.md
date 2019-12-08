@@ -1,6 +1,6 @@
 ---
 title: "Nº8 Earth Red FS 30117 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC031.jpg"
 brand: AMMO

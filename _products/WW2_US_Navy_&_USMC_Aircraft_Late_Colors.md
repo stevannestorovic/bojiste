@@ -1,6 +1,6 @@
 ---
 title: "WW2 US Navy & USMC Aircraft Late Colors"
-price: 0 
+price: "1400" 
 desc: "Real Colors Paint Sets"
 img_path: "/assets/img/RCS025.jpg"
 brand: AMMO

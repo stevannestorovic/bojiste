@@ -1,7 +1,7 @@
 ---
 title: "GERMAN CAMO WEATHERING SET"
-price: 0 
-desc: "Bez opisa"
+price: "2600" 
+desc: "Set efekata"
 img_path: "/assets/img/A.MIG-7443.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "Weathering"
 subcat: "wet-setovi"
 subsubcat: "wet-setovi"
+sifra: "A.MIG-7443"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "LUFTWAFFE CAMOUFLAGES VOL.2 COLORS SET"
-price: 0 
+price: "2600" 
 desc: "Air Series Sets"
 img_path: "/assets/img/AK-2020.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AK-MENG"
 subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
+sifra: "AK-2020"
 ---

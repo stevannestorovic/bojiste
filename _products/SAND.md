@@ -1,7 +1,7 @@
 ---
 title: "SAND"
-price: 0 
-desc: "Bez opisa"
+price: "500" 
+desc: "PIgment 35mL"
 img_path: "/assets/img/A.MIG-3012.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "Weathering"
 subcat: "wet-pigmenti"
 subsubcat: "wet-pigmenti"
+sifra: "A.MIG-3012"
 ---

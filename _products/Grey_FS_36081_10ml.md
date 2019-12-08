@@ -1,6 +1,6 @@
 ---
 title: "Grey FS 36081 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC243.jpg"
 brand: AMMO

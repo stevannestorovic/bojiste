@@ -1,6 +1,6 @@
 ---
 title: "US ARMY & USMC GREEN COLORS"
-price: 0 
+price: "1750" 
 desc: "AK Akrilne Boje"
 img_path: "/assets/img/AK-4210.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AK-MENG"
 subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
+sifra: "AK-4210"
 ---

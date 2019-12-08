@@ -1,9 +1,9 @@
 ---
 title: "1/700 ROYAL NAVY BATTLESHIP H.M.S. RODNEY (29)"
-price: 0 
+price: 4750.0
 desc: ""
 img_path: "/assets/img/MM PS-001.jpg"
-brand: AMMO
+brand: AK
 available: true
 special_offer: false
 new: false
@@ -11,4 +11,5 @@ soon: false
 cat: "Plasticne-Makete"
 subcat: "PM-MENG"
 subsubcat: ""
+sifra: "MM PS-001"
 ---

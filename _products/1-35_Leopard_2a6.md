@@ -1,6 +1,6 @@
 ---
 title: "1/35 Leopard 2a6"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/BT002.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Plasticne-Makete"
 subcat: "PM-BORDER-MODEL"
 subsubcat: ""
+sifra: "BT002"
 ---

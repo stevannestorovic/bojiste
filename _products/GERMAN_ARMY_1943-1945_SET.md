@@ -1,6 +1,6 @@
 ---
 title: "GERMAN ARMY 1943-1945 SET"
-price: 0 
+price: "1050" 
 desc: "Real Colors Paint Sets"
 img_path: "/assets/img/RCS004.jpg"
 brand: AMMO

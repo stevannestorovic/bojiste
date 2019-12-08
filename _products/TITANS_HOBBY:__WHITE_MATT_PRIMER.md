@@ -1,6 +1,6 @@
 ---
 title: "TITANS HOBBY:  WHITE MATT PRIMER"
-price: 0 
+price: "1500" 
 desc: ""
 img_path: "/assets/img/TTH101.jpg"
 brand: AMMO
@@ -9,6 +9,7 @@ special_offer: false
 new: false
 soon: false
 cat: "ALCLAD-II-METALIC-BOJE"
-subcat: ""
+subcat: "ALC-Titans-AMMO-400mL"
 subsubcat: ""
+sifra: "TTH101"
 ---

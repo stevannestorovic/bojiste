@@ -1,8 +1,8 @@
 ---
 title: "RLM 04"
-price: 0 
-desc: "REAL COLORS PAINTS"
-img_path: "/assets/img/RC267.jpg"
+price: "300" 
+desc: "Air Series Special Paint"
+img_path: "/assets/img/AK-2091.jpg"
 brand: AMMO
 available: true
 special_offer: false
@@ -10,5 +10,6 @@ new: false
 soon: false
 cat: "Akrilne-Boje"
 subcat: "AB-AK-MENG"
-subsubcat: "AkrilneBoje-AKMENG-AK-REAL-COLORS"
+subsubcat: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"
+sifra: "AK-2091"
 ---

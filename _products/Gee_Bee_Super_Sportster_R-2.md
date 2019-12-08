@@ -1,6 +1,6 @@
 ---
 title: "Gee Bee Super Sportster R-2"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/DORAW48001.jpg"
 brand: AMMO
@@ -11,4 +11,5 @@ soon: false
 cat: "Plasticne-Makete"
 subcat: "PM-DORA-WINGS"
 subsubcat: ""
+sifra: "DORAW48001"
 ---

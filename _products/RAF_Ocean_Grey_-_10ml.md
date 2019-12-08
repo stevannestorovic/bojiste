@@ -1,6 +1,6 @@
 ---
 title: "RAF Ocean Grey - 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC288.jpg"
 brand: AMMO

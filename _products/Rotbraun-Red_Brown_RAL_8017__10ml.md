@@ -1,6 +1,6 @@
 ---
 title: "Rotbraun-Red Brown RAL 8017  10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC068.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "XTREME METAL BLACK BASE"
-price: 0 
+price: "0" 
 desc: "XTREME METAL COLOR"
 img_path: "/assets/img/AK-471.jpg"
 brand: AMMO

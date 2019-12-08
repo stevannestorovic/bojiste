@@ -1,6 +1,6 @@
 ---
 title: "XTREME METAL BURNT METAL"
-price: 0 
+price: "0" 
 desc: "XTREME METAL COLOR"
 img_path: "/assets/img/AK-484.jpg"
 brand: AMMO

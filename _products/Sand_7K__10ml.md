@@ -1,6 +1,6 @@
 ---
 title: "Sand 7K  10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC075.jpg"
 brand: AMMO

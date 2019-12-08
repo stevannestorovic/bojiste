@@ -1,7 +1,8 @@
 ---
 title: "HEAVY CHIPPING EFFECTS"
-price: 0 
-desc: "Bez opisa"
+price: "500" 
+desc: "Čiping tečnost
+"
 img_path: "/assets/img/A.MIG-2011.jpg"
 brand: AMMO
 available: true
@@ -11,4 +12,5 @@ soon: false
 cat: "Weathering"
 subcat: "wet-dodaci"
 subsubcat: "wet-pigmenti"
+sifra: "A.MIG-2011"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Forest Green FS 34079  10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC027.jpg"
 brand: AMMO

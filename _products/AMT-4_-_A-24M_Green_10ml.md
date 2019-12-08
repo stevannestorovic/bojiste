@@ -1,6 +1,6 @@
 ---
 title: "AMT-4 / A-24M Green 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC315.jpg"
 brand: AMMO

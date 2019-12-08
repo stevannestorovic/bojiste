@@ -1,6 +1,6 @@
 ---
 title: "BACKWATER TUFT 4mm"
-price: 0 
+price: "850.0"
 desc: ""
 img_path: "/assets/img/AK8122.jpg"
 brand: AK
@@ -11,4 +11,5 @@ soon: false
 cat: "Diorame"
 subcat: "DI-AK-Interactive"
 subsubcat: "Diorame-AKInteractive-TRAVA"
+sifra: "AK8122"
 ---

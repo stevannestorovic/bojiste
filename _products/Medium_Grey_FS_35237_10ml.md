@@ -1,6 +1,6 @@
 ---
 title: "Medium Grey FS 35237 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC237.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "FAA (Falklands/Malvinas) 1970s-1990s"
-price: 0 
+price: "1400" 
 desc: "Real Colors Paint Sets"
 img_path: "/assets/img/RCS054.jpg"
 brand: AMMO

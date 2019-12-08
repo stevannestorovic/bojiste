@@ -1,14 +1,15 @@
 ---
 title: "Germany WWII E-50 Medium Tank with 88/L71 gun (middle turret)"
-price: 0 
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72074.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false
 cat: "Plasticne-Makete"
 subcat: "PM-OSTALO"
 subsubcat: ""
+sifra: "UA72074"
 ---

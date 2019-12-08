@@ -1,6 +1,6 @@
 ---
 title: "ADC Grey FS 16473 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC221.jpg"
 brand: AMMO

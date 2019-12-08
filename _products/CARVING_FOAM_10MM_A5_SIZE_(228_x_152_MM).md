@@ -1,6 +1,6 @@
 ---
 title: "CARVING FOAM 10MM A5 SIZE (228 x 152 MM)"
-price: 0 
+price: "400.0"
 desc: ""
 img_path: "/assets/img/AK-8092.jpg"
 brand: AK
@@ -11,4 +11,5 @@ soon: false
 cat: "Diorame"
 subcat: "DI-AK-Interactive"
 subsubcat: "BM"
+sifra: "AK-8092"
 ---

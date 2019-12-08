@@ -1,6 +1,6 @@
 ---
 title: "BRITISH COUNTER SCHEME SET"
-price: 0 
+price: "1400" 
 desc: "Real Colors Paint Sets"
 img_path: "/assets/img/RCS010.jpg"
 brand: AMMO

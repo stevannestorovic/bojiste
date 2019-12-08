@@ -1,7 +1,7 @@
 ---
 title: "STARSHIP BAY SLUDGE"
-price: 0 
-desc: "Bez opisa"
+price: "400" 
+desc: "Uljana boja sa četkicom 10mL"
 img_path: "/assets/img/A.MIG-3532.jpg"
 brand: AMMO
 available: true
@@ -11,4 +11,5 @@ soon: false
 cat: "AMMO-OILBRUSHERS"
 subcat: ""
 subsubcat: ""
+sifra: "A.MIG-3532"
 ---

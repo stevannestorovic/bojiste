@@ -1,6 +1,6 @@
 ---
 title: "S.C.C. 1A Brown  10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC034.jpg"
 brand: AMMO

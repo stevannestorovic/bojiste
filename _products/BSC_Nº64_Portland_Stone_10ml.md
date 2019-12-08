@@ -1,6 +1,6 @@
 ---
 title: "BSC Nº64 Portland Stone 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC041.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "Microfiller Primer - Spray 150ml (Includes 2 nozzles)"
-price: 0 
+price: "1100" 
 desc: "AK SPRAYS - BASIC COLORS "
 img_path: "/assets/img/AK1018.jpg"
 brand: AMMO

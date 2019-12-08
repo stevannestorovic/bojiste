@@ -1,6 +1,6 @@
 ---
 title: "Hairanshoku (Grey Indigo) 10ml"
-price: 0 
+price: "330" 
 desc: "REAL COLORS PAINTS"
 img_path: "/assets/img/RC329.jpg"
 brand: AMMO
