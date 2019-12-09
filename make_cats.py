@@ -42,6 +42,8 @@ title: seo_title
 <div class="section">
 	<div class="container">
 	BREADCRUMB
+	<div class="filters" data-filter="FILTERS"></div>
+    SCRIPT
 	<div class="products">
 		{% for product in site.products  %}
 			{% if product.cat == "CLAB" %}</h3>
@@ -81,6 +83,8 @@ title: seo_title
 <div class="section">
 <div class="container">
 BREADCRUMB
+<div class="filters" data-filter="FILTERS"></div>
+SCRIPT
 <div class="products">
     {% for product in site.products %}
 		{% if product.cat == "CLAB" and product.subcat == "SLAB"%}
@@ -162,6 +166,12 @@ with open('_data/cats.yml') as f:
 
 
 for cat in CATS:
+	if 'filters' in cat['maincat'].keys():
+		filters = cat['maincat']['filters']
+		script_tag = '<script defer src="/assets/js/filters.js"></script>'
+	else:
+		filters = ""
+		script_tag = ""
 	cname = cat['maincat']['name']
 	clab = cat['maincat']['label']
 	#print(cname)
@@ -170,20 +180,29 @@ for cat in CATS:
 	fname = cname.replace(' ', '_') + '.html'
 	f = open(fname, 'w')
 	print(fname)
-	input('...')
 	content = CAT_PAGE.replace('PATH', cname)
 	content = content.replace('CLAB', clab)
 	content = content.replace('BREADCRUMB', breadcrumb)
 	content = content.replace('seo_title', seo_title)
+	content = content.replace('SCRIPT', script_tag)
+	content = content.replace('FILTERS', str(filters))
 	f.write(content)
 	f.close()
 	#print("[+] " + cname)
 print("[+] CATS DONE")
+
+
 for cat in CATS:
 	cname = cat['maincat']['name']
 	clab = cat['maincat']['label']
 	try:
 		for subcat in cat['subcats']:
+			if 'filters' in subcat.keys():
+				filters = subcat['filters']
+				script_tag = '<script defer src="/assets/js/filters.js"></script>'
+			else:
+				filters = ""
+				script_tag = ""
 			sname = subcat['name']
 			slab = subcat['label']
 			breadcrumb = make_breadcrumbs(cname=cname,sname=sname)
@@ -195,6 +214,8 @@ for cat in CATS:
 			content = content.replace('SLAB', slab)
 			content = content.replace('BREADCRUMB', breadcrumb)
 			content = content.replace('seo_title', seo_title)
+			content = content.replace('SCRIPT', script_tag)
+			content = content.replace('FILTERS', str(filters))
 			f.write(content)
 			f.close()
 			#print('[+]' + path)
