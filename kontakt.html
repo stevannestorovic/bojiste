@@ -6,11 +6,19 @@ title: Kontakt
    <div class="container">
    <div class="contact-info columns">
       <div class="contact-text column">
+	 <h4 class="subtitle">Kontakt</h4>
          <p><span class="contact-info is-main-txt">Email:</span> <a class="has-text-grey-dark" href="mailto:{{site.data.contact.email}}">{{site.data.contact.email}}</a></p>
-         <p><span class="contact-info is-main-txt">Adresa:</span> <a class="has-text-grey-dark" href="">{{site.data.contact.address}}</a></p>
+         <p><span class="contact-info is-main-txt">Adresa:</span> <a class="has-text-grey-dark" href="/kontakt.html">{{site.data.contact.address}}</a></p>
          <p><span class="contact-info is-main-txt">Telefon:</span> <a class="has-text-grey-dark" href="tel:{{site.data.contact.tel}}">{{site.data.contact.tel}}</a></p>
       </div>
+      <div class="work-hours column">
+	<h4 class="subtitle">Radno vreme</h4>
+        <p><span class="is-main-txt contact-info">Radnim danom:</span> {{site.data.contact.work_hours}}</p>
+        <p><span class="is-main-txt contact-info">Subota:</span> {{site.data.contact.work_hours_sat}}</p>
+        <p><span class="is-main-txt contact-info">Nedelja:</span> {{site.data.contact.work_hours_sun}}</p>
+      </div>
       <div class="contact-map column">
+	<h4 class="subtitle">Lokacija</h4>
 	{{site.data.contact.map_link}}
       </div>
    </div>
