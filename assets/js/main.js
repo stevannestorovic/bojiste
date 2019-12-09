@@ -19,7 +19,7 @@ simpleCart.currency({
 simpleCart({
 	checkout: { 
 		type: "SendForm", 
-		url:"https://diyrama.netlify.com/naplata.html",
+		url:"https://flakhobby.com/naplata.html",
 		method: "GET"
 		},
 	cartColumns: [
