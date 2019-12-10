@@ -5,7 +5,7 @@
             {name: "Eduard", label: "PM-EDUARD", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "Italeri", label: "PM-ITALERI", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "Dragon", label: "PM-DRAGON", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
-            {name: "Kinettic", label: "PM-KINETIC", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
+            {name: "Kinetic", label: "PM-KINETIC", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "Rye Field Modles", label: "PM-RYE-FIELD-MODELS", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "Great Wall Hobby", label: "PM-GREAT-WALL-HOBBY", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "Meng", label: "PM-MENG", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},

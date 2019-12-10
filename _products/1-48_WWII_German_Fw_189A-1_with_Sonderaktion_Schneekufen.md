@@ -4,7 +4,7 @@ price: TBA
 desc: ""
 img_path: "/assets/img/GWH04808.jpg"
 brand: AMMO
-available: false
+available: true
 special_offer: false
 new: false
 soon: false
