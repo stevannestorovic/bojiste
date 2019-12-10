@@ -1,6 +1,6 @@
 ---
 title: "1/35 Iraqi Medium Tank Type-69 II  2 in 1     "
-price: TBA
+price: 5600.0
 desc: ""
 img_path: "/assets/img/TAKO2054.jpg"
 brand: AMMO

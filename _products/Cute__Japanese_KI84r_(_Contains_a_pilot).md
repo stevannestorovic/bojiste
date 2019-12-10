@@ -1,6 +1,6 @@
 ---
 title: "Cute  Japanese KI84r ( Contains a pilot) "
-price: TBA
+price: 2600.0
 desc: ""
 img_path: "/assets/img/TIGETT001.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "1/48 MIRAGE 2000D-5i ROCAF"
-price: TBA
+price: 5850.0
 desc: ""
 img_path: "/assets/img/KIN48037.jpg"
 brand: AMMO

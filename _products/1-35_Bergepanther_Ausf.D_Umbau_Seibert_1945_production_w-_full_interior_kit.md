@@ -1,6 +1,6 @@
 ---
 title: "1/35 Bergepanther Ausf.D Umbau Seibert 1945 production w/ full interior kit"
-price: TBA
+price: 6300.0
 desc: ""
 img_path: "/assets/img/TAKO2102.jpg"
 brand: AMMO

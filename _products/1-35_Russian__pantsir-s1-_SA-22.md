@@ -1,6 +1,6 @@
 ---
 title: "1/35 Russian  pantsir-s1/ SA-22"
-price: TBA
+price: 9500.0
 desc: ""
 img_path: "/assets/img/TIGE4644.jpg"
 brand: AMMO

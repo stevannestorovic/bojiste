@@ -1,6 +1,6 @@
 ---
 title: "1/35 Sturmtiger With Full Interior"
-price: TBA
+price: 9500.0
 desc: ""
 img_path: "/assets/img/RFM5012.jpg"
 brand: AMMO

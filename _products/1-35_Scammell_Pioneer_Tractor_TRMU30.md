@@ -1,6 +1,6 @@
 ---
 title: "1/35 Scammell Pioneer Tractor TRMU30"
-price: TBA
+price: 4700.0
 desc: ""
 img_path: "/assets/img/TM35204.jpg"
 brand: AMMO

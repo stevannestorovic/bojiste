@@ -1,6 +1,6 @@
 ---
 title: "1/35 Tiger I Middle Production Full Interior"
-price: TBA
+price: 9500.0
 desc: ""
 img_path: "/assets/img/RFM5010.jpg"
 brand: AMMO

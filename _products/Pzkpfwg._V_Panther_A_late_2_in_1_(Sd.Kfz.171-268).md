@@ -1,6 +1,6 @@
 ---
 title: "Pzkpfwg. V Panther A late 2 in 1 (Sd.Kfz.171/268)"
-price: TBA
+price: 4500.0
 desc: ""
 img_path: "/assets/img/DW35011.jpg"
 brand: AMMO

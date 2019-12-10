@@ -1,6 +1,6 @@
 ---
 title: "1/35 Bergepanther Ausf.A Assembled by Demag production w/ full interior kit "
-price: TBA
+price: 6800.0
 desc: ""
 img_path: "/assets/img/TAKO2101.jpg"
 brand: AMMO

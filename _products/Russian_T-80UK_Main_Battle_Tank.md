@@ -1,6 +1,6 @@
 ---
 title: "Russian T-80UK Main Battle Tank"
-price: TBA
+price: 2000.0
 desc: ""
 img_path: "/assets/img/UA72060.jpg"
 brand: AMMO

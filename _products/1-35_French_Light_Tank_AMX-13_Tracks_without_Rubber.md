@@ -1,6 +1,6 @@
 ---
 title: "1/35 French Light Tank AMX-13 Tracks without Rubber    "
-price: TBA
+price: 1400.0
 desc: ""
 img_path: "/assets/img/TAKO2060.jpg"
 brand: AMMO

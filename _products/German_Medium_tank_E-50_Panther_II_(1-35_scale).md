@@ -1,6 +1,6 @@
 ---
 title: "German Medium tank E-50 Panther II (1/35 scale)"
-price: TBA
+price: 3500.0
 desc: ""
 img_path: "/assets/img/UA35001.jpg"
 brand: AMMO

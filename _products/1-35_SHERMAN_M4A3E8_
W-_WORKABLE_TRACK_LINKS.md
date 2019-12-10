@@ -1,7 +1,7 @@
 ---
 title: "1/35 SHERMAN M4A3E8 
 W/ WORKABLE TRACK LINKS"
-price: TBA
+price: 6500.0
 desc: ""
 img_path: "/assets/img/RFM5028.jpg"
 brand: AMMO

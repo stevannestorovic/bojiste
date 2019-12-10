@@ -1,6 +1,6 @@
 ---
 title: "Gee Bee Super Sportster R-1"
-price: TBA
+price: 3750.0
 desc: ""
 img_path: "/assets/img/DORAW48002.jpg"
 brand: AMMO

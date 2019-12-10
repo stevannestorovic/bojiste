@@ -1,6 +1,6 @@
 ---
 title: "1/48 MIG-29 9-12 Early Type “Fulcrum ”"
-price: TBA
+price: 8400.0
 desc: ""
 img_path: "/assets/img/GWH04814.jpg"
 brand: AMMO

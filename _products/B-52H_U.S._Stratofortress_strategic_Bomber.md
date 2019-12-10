@@ -1,6 +1,6 @@
 ---
 title: "B-52H U.S. Stratofortress strategic Bomber"
-price: TBA
+price: 10400.0
 desc: ""
 img_path: "/assets/img/UA72200.jpg"
 brand: AMMO

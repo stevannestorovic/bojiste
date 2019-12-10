@@ -1,6 +1,6 @@
 ---
 title: "-Sturmmann, 25/26.-Pz. Gren.Reg, summer 1944"
-price: TBA
+price: 0
 desc: ""
 img_path: "/assets/img/RDM35002.jpg"
 brand: AMMO

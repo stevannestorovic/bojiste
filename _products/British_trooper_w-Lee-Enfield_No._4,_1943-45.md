@@ -1,6 +1,6 @@
 ---
 title: "British trooper w/Lee-Enfield No. 4, 1943-45"
-price: TBA
+price: 0
 desc: ""
 img_path: "/assets/img/RDM35023.jpg"
 brand: AMMO

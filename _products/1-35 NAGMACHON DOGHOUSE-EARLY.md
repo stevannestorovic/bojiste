@@ -1,6 +1,6 @@
 ---
 title: "1/35 NAGMACHON DOGHOUSE-EARLY                "
-price: TBA
+price: 8700.0
 desc: ""
 img_path: "/assets/img/TIGE4624.jpg"
 brand: AMMO

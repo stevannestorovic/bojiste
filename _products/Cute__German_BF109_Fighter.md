@@ -1,6 +1,6 @@
 ---
 title: "Cute  German BF109 Fighter"
-price: TBA
+price: 1450.0
 desc: ""
 img_path: "/assets/img/TIGE103.jpg"
 brand: AMMO

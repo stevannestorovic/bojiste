@@ -1,6 +1,6 @@
 ---
 title: "German WWII E-75 Heavy Tank with 128mm flak 40 gun"
-price: TBA
+price: 2000.0
 desc: ""
 img_path: "/assets/img/UA72136.jpg"
 brand: AMMO

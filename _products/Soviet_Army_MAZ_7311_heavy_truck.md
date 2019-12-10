@@ -1,6 +1,6 @@
 ---
 title: "Soviet Army MAZ 7311 heavy truck  "
-price: TBA
+price: 3500.0
 desc: ""
 img_path: "/assets/img/UA72064.jpg"
 brand: AMMO

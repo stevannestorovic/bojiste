@@ -1,6 +1,6 @@
 ---
 title: "1/35 PANHARD ERC-90 F1 lynx"
-price: TBA
+price: 6250.0
 desc: ""
 img_path: "/assets/img/TIGE4632.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "1/48 F-16D Block 52+ RSAF                          "
-price: TBA
+price: 5850.0
 desc: ""
 img_path: "/assets/img/KIN48007.jpg"
 brand: AMMO

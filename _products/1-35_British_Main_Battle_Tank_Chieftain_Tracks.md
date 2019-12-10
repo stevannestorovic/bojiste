@@ -1,6 +1,6 @@
 ---
 title: "1/35 British Main Battle Tank Chieftain Tracks"
-price: TBA
+price: 1400.0
 desc: ""
 img_path: "/assets/img/TAKO2059.jpg"
 brand: AMMO

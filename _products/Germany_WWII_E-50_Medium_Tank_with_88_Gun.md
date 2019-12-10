@@ -1,6 +1,6 @@
 ---
 title: "Germany WWII E-50 Medium Tank with 88 Gun"
-price: TBA
+price: 2900.0
 desc: ""
 img_path: "/assets/img/MA72002.jpg"
 brand: AMMO

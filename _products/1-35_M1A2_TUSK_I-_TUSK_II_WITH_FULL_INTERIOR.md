@@ -1,6 +1,6 @@
 ---
 title: "1/35 M1A2 TUSK I/ TUSK II WITH FULL INTERIOR "
-price: TBA
+price: 8150.0
 desc: ""
 img_path: "/assets/img/RFM5026.jpg"
 brand: AMMO

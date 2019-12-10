@@ -1,6 +1,6 @@
 ---
 title: "1/35 Tiger I Gruppe “Fehrmann” April 1945 Northern Germany"
-price: TBA
+price: 6100.0
 desc: ""
 img_path: "/assets/img/RFM5005.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "1/35 WWII German King Tiger Porsche Turret w/interior [without Zimmerit] SPECIAL EDITION"
-price: TBA
+price: 6300.0
 desc: ""
 img_path: "/assets/img/TAKO2074S.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "1/35 PANHARD  AML-90 "
-price: TBA
+price: 6100.0
 desc: ""
 img_path: "/assets/img/TIGE4635.jpg"
 brand: AMMO

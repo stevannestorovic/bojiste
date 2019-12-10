@@ -1,6 +1,6 @@
 ---
 title: "U.S.A.F. B-52G Stratofortress strategic Bomber"
-price: TBA
+price: 11900.0
 desc: ""
 img_path: "/assets/img/UA72202.jpg"
 brand: AMMO

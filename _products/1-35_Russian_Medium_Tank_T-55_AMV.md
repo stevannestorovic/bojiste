@@ -1,7 +1,7 @@
 ---
 title: "1/35 Russian Medium Tank T-55 AMV
 "
-price: TBA
+price: 5300.0
 desc: ""
 img_path: "/assets/img/TAKO2042.jpg"
 brand: AMMO

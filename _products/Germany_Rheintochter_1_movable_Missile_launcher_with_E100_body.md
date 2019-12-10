@@ -1,6 +1,6 @@
 ---
 title: "Germany Rheintochter 1 movable Missile launcher with E100 body"
-price: TBA
+price: 2000.0
 desc: ""
 img_path: "/assets/img/UA72076.jpg"
 brand: AMMO

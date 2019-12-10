@@ -1,6 +1,6 @@
 ---
 title: "Fist of War German Sonder PanzerKamfpWagen E-100 ausf.k Wotan"
-price: TBA
+price: 4400.0
 desc: ""
 img_path: "/assets/img/UA72159.jpg"
 brand: AMMO

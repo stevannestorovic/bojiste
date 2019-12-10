@@ -1,6 +1,6 @@
 ---
 title: "Russian 3M-54“Caliber(CLUB)-M”Coastal Defense Missile Launcher Mzkt chassis"
-price: TBA
+price: 4400.0
 desc: ""
 img_path: "/assets/img/UA72091.jpg"
 brand: AMMO

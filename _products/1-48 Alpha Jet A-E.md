@@ -1,6 +1,6 @@
 ---
 title: "1/48 Alpha Jet A/E  "
-price: TBA
+price: 4900.0
 desc: ""
 img_path: "/assets/img/KIN48043.jpg"
 brand: AMMO

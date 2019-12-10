@@ -1,6 +1,6 @@
 ---
 title: "1/48 MIRAGE IIID/DS"
-price: TBA
+price: 6350.0
 desc: ""
 img_path: "/assets/img/KIN48054.jpg"
 brand: AMMO

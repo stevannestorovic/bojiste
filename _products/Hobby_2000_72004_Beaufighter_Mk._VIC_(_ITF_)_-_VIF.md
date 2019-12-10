@@ -1,6 +1,6 @@
 ---
 title: "Hobby 2000 72004 Beaufighter Mk. VIC ( ITF ) / VIF"
-price: TBA
+price: 4600.0
 desc: ""
 img_path: "/assets/img/H2K72004.jpg"
 brand: AMMO

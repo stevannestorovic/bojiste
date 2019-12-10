@@ -1,6 +1,6 @@
 ---
 title: "Home Army Assault Group, 1944"
-price: TBA
+price: 0
 desc: ""
 img_path: "/assets/img/RDM35018.jpg"
 brand: AMMO

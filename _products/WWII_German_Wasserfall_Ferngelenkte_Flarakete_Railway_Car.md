@@ -1,6 +1,6 @@
 ---
 title: "WWII German Wasserfall Ferngelenkte Flarakete Railway Car"
-price: TBA
+price: 2700.0
 desc: ""
 img_path: "/assets/img/UA72172.jpg"
 brand: AMMO

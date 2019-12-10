@@ -1,6 +1,6 @@
 ---
 title: "Hobby 2000 72003 Beaufighter Mk. VIF 307 Polish Sq"
-price: TBA
+price: 4600.0
 desc: ""
 img_path: "/assets/img/H2K72003.jpg"
 brand: AMMO

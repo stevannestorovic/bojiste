@@ -1,6 +1,6 @@
 ---
 title: "TOS-1A Heavy Flame Thrower System W/T-72 Chassis "
-price: TBA
+price: 1700.0
 desc: ""
 img_path: "/assets/img/UA72009.jpg"
 brand: AMMO

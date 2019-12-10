@@ -1,6 +1,6 @@
 ---
 title: "F-15J JASDF"
-price: TBA
+price: 1900.0
 desc: ""
 img_path: "/assets/img/GWHGQ002.jpg"
 brand: AMMO

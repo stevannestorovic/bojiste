@@ -1,6 +1,6 @@
 ---
 title: "1/35 US Crawler Sixty"
-price: TBA
+price: 5300.0
 desc: ""
 img_path: "/assets/img/TM35006.jpg"
 brand: AMMO

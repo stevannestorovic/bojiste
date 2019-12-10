@@ -1,6 +1,6 @@
 ---
 title: "German MAN KAT1M1014 8*8 HIGH-Mobility off-road truck with M870A1 semi-trailer"
-price: TBA
+price: 4400.0
 desc: ""
 img_path: "/assets/img/UA72125 .jpg"
 brand: AMMO

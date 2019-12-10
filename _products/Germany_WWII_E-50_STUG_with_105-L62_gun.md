@@ -1,6 +1,6 @@
 ---
 title: "Germany WWII E-50 STUG with 105/L62 gun"
-price: TBA
+price: 2000.0
 desc: ""
 img_path: "/assets/img/UA72070.jpg"
 brand: AMMO

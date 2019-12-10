@@ -1,6 +1,6 @@
 ---
 title: "Nato M1001 MAN Tractor & BGM-109G Ground Launched Cruise Missile"
-price: TBA
+price: 4400.0
 desc: ""
 img_path: "/assets/img/UA72096.jpg"
 brand: AMMO

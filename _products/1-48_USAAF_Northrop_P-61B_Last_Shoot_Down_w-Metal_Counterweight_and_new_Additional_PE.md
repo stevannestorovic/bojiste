@@ -1,6 +1,6 @@
 ---
 title: "1/48 USAAF Northrop P-61B Last Shoot Down w/Metal Counterweight and new Additional PE"
-price: TBA
+price: 7900.0
 desc: ""
 img_path: "/assets/img/GWHSNG02.jpg"
 brand: AMMO

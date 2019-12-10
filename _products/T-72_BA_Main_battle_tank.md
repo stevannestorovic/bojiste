@@ -1,6 +1,6 @@
 ---
 title: "T-72 BA Main battle tank"
-price: TBA
+price: 1700.0
 desc: ""
 img_path: "/assets/img/UA72015.jpg"
 brand: AMMO

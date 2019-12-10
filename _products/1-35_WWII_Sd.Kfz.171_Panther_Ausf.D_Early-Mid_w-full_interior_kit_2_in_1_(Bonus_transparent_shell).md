@@ -1,7 +1,7 @@
 ---
 title: "1/35 WWII Sd.Kfz.171 Panther Ausf.D Early/Mid w/full interior kit 2 in 1 (Bonus transparent shell)
 "
-price: TBA
+price: 6800.0
 desc: ""
 img_path: "/assets/img/TAKO2103.jpg"
 brand: AMMO

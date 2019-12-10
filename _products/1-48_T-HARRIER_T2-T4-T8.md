@@ -1,6 +1,6 @@
 ---
 title: "1/48 T-HARRIER T2/T4/T8"
-price: TBA
+price: 6350.0
 desc: ""
 img_path: "/assets/img/KIN48040.jpg"
 brand: AMMO

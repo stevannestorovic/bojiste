@@ -1,6 +1,6 @@
 ---
 title: "1/35 FRIES KRAN 16t Strabokran, 1943/44 Production"
-price: TBA
+price: 4800.0
 desc: ""
 img_path: "/assets/img/TAKO2109.jpg"
 brand: AMMO

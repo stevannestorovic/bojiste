@@ -1,6 +1,6 @@
 ---
 title: "1/35 Sweden CB-90 H Fast Assault Craft"
-price: TBA
+price: 10000.0
 desc: ""
 img_path: "/assets/img/TIGE6293.jpg"
 brand: AMMO

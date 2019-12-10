@@ -1,6 +1,6 @@
 ---
 title: "1/35 US Military Indian 741B  "
-price: TBA
+price: 3300.0
 desc: ""
 img_path: "/assets/img/TM35003.jpg"
 brand: AMMO

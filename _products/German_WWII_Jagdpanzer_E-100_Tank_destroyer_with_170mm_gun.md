@@ -1,6 +1,6 @@
 ---
 title: "German WWII Jagdpanzer E-100 Tank destroyer with 170mm gun"
-price: TBA
+price: 2000.0
 desc: ""
 img_path: "/assets/img/UA72116.jpg"
 brand: AMMO

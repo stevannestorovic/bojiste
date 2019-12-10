@@ -1,6 +1,6 @@
 ---
 title: "W- tanker POW, 1944-45"
-price: TBA
+price: 0
 desc: ""
 img_path: "/assets/img/RDM35022.jpg"
 brand: AMMO

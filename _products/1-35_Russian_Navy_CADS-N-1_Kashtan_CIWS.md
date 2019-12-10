@@ -1,6 +1,6 @@
 ---
 title: "1/35 Russian Navy CADS-N-1 Kashtan CIWS"
-price: TBA
+price: 3400.0
 desc: ""
 img_path: "/assets/img/TAKO2128.jpg"
 brand: AMMO

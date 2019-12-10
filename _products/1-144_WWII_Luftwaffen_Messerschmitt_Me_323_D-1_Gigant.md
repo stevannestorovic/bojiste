@@ -1,6 +1,6 @@
 ---
 title: "1/144 WWII Luftwaffen Messerschmitt Me 323 D-1 Gigant  "
-price: TBA
+price: 5700.0
 desc: ""
 img_path: "/assets/img/GWH01006.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "1/35 WWII German 12.8 cm FlaK 40 Zwilling"
-price: TBA
+price: 6100.0
 desc: ""
 img_path: "/assets/img/TAKO2023.jpg"
 brand: AMMO

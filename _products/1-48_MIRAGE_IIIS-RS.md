@@ -1,6 +1,6 @@
 ---
 title: "1/48 MIRAGE IIIS/RS"
-price: TBA
+price: 5600.0
 desc: ""
 img_path: "/assets/img/KIN48058.jpg"
 brand: AMMO

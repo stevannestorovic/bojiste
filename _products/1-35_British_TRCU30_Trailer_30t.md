@@ -1,6 +1,6 @@
 ---
 title: "1/35 British TRCU30 Trailer 30t"
-price: TBA
+price: 3200.0
 desc: ""
 img_path: "/assets/img/TM35205.jpg"
 brand: AMMO

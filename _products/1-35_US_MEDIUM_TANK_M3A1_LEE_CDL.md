@@ -1,6 +1,6 @@
 ---
 title: "1/35 US MEDIUM TANK M3A1 LEE CDL"
-price: TBA
+price: 4600.0
 desc: ""
 img_path: "/assets/img/TAKO2115.jpg"
 brand: AMMO

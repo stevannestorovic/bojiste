@@ -1,6 +1,6 @@
 ---
 title: "1/48 Luftwaffe Jack Stand Set with Saw Horses - Extended Edition"
-price: TBA
+price: 2700.0
 desc: ""
 img_path: "/assets/img/DW48002.jpg"
 brand: AMMO

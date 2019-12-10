@@ -1,6 +1,6 @@
 ---
 title: "1/35 NAGMACHON APC EARLY"
-price: TBA
+price: 8700.0
 desc: ""
 img_path: "/assets/img/TIGE4615.jpg"
 brand: AMMO

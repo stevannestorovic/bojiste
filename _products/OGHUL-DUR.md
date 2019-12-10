@@ -1,6 +1,6 @@
 ---
 title: "OGHUL-DUR"
-price: TBA
+price: 0
 desc: ""
 img_path: "/assets/img/BIGC0001.jpg"
 brand: AMMO

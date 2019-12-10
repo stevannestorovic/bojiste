@@ -1,6 +1,6 @@
 ---
 title: "British 8th Army soldier leaning, 1943-45"
-price: TBA
+price: 0
 desc: ""
 img_path: "/assets/img/RDM35007.jpg"
 brand: AMMO

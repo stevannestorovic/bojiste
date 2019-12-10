@@ -1,6 +1,6 @@
 ---
 title: "Percival Proctor Mk.1 marking of Czechoslovakia"
-price: TBA
+price: 2600.0
 desc: ""
 img_path: "/assets/img/DORAW72003.jpg"
 brand: AMMO

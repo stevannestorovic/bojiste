@@ -1,6 +1,6 @@
 ---
 title: "1/48 F-16D Block 52+ (HAF/Poland AF)          "
-price: TBA
+price: 5700.0
 desc: ""
 img_path: "/assets/img/KIN48010.jpg"
 brand: AMMO

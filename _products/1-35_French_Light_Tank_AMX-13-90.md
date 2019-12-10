@@ -1,6 +1,6 @@
 ---
 title: "1/35 French Light Tank AMX-13/90   "
-price: TBA
+price: 4600.0
 desc: ""
 img_path: "/assets/img/TAKO2037.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "USA M983A2 HEMTT Tractor & M870A1 Semi-trailer"
-price: TBA
+price: 4400.0
 desc: ""
 img_path: "/assets/img/UA72083.jpg"
 brand: AMMO

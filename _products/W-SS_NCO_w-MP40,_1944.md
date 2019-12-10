@@ -1,6 +1,6 @@
 ---
 title: "W- NCO w/MP40, 1944"
-price: TBA
+price: 0
 desc: ""
 img_path: "/assets/img/RDM35013.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "1/35 LEOPARD II REVOLUTION II MBT"
-price: TBA
+price: 8700.0
 desc: ""
 img_path: "/assets/img/TIGE4628.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "1/35 Tiger I Initial Production Early 1943 North African Front / Tunisia"
-price: TBA
+price: 6000.0
 desc: ""
 img_path: "/assets/img/RFM5001.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "Su-35S Flanker E Multirole Fighter Air to Surface Version"
-price: TBA
+price: 11800.0
 desc: ""
 img_path: "/assets/img/GWH04823.jpg"
 brand: AMMO

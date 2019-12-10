@@ -1,6 +1,6 @@
 ---
 title: "1/35 Panther Ausf.G w/ Interior Limited Edition"
-price: TBA
+price: 10000.0
 desc: ""
 img_path: "/assets/img/RFM5016.jpg"
 brand: AMMO

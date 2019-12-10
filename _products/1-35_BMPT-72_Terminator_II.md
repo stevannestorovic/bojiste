@@ -1,6 +1,6 @@
 ---
 title: "1/35 BMPT-72 Terminator II"
-price: TBA
+price: 9650.0
 desc: ""
 img_path: "/assets/img/TIGE4611.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "1/48 F-16I SURF                                            "
-price: TBA
+price: 6600.0
 desc: ""
 img_path: "/assets/img/KIN48006.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "Fist of War German WWII E75 Ausf.vierfubler Gerat 58"
-price: TBA
+price: 1900.0
 desc: ""
 img_path: "/assets/img/UA72115.jpg"
 brand: AMMO

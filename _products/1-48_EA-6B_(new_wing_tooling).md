@@ -1,6 +1,6 @@
 ---
 title: "1/48 EA-6B (new wing tooling)"
-price: TBA
+price: 5850.0
 desc: ""
 img_path: "/assets/img/KIN48044.jpg"
 brand: AMMO

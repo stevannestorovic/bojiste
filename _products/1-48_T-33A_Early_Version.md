@@ -1,6 +1,6 @@
 ---
 title: "1/48 T-33A Early Version"
-price: TBA
+price: 5700.0
 desc: ""
 img_path: "/assets/img/GWH04819.jpg"
 brand: AMMO

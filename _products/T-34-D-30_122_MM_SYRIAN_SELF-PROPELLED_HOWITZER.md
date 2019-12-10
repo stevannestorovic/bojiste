@@ -1,6 +1,6 @@
 ---
 title: "T-34/D-30 122 MM SYRIAN SELF-PROPELLED HOWITZER"
-price: TBA
+price: 5600.0
 desc: ""
 img_path: "/assets/img/RFM5030.jpg"
 brand: AMMO

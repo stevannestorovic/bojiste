@@ -1,6 +1,6 @@
 ---
 title: "1/35 Russian Medium Tank T-55 A [3 in 1]"
-price: TBA
+price: 5600.0
 desc: ""
 img_path: "/assets/img/TAKO2056.jpg"
 brand: AMMO

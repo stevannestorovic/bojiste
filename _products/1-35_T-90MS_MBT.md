@@ -1,6 +1,6 @@
 ---
 title: "1/35 T-90MS MBT"
-price: TBA
+price: 9650.0
 desc: ""
 img_path: "/assets/img/TIGE4612.jpg"
 brand: AMMO

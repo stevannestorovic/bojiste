@@ -1,6 +1,6 @@
 ---
 title: "Hobby 2000 72009 Grumman TBF/TBM-1C Avenger"
-price: TBA
+price: 3100.0
 desc: ""
 img_path: "/assets/img/H2K72009.jpg"
 brand: AMMO

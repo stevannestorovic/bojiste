@@ -1,6 +1,6 @@
 ---
 title: "T-90 Main Battle Tank (cast turret)"
-price: TBA
+price: 1700.0
 desc: ""
 img_path: "/assets/img/UA72002.jpg"
 brand: AMMO

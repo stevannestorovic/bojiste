@@ -1,6 +1,6 @@
 ---
 title: "T-90A Main Battle Tank (welded turret)"
-price: TBA
+price: 1700.0
 desc: ""
 img_path: "/assets/img/UA72001.jpg"
 brand: AMMO

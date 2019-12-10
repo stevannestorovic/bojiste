@@ -1,6 +1,6 @@
 ---
 title: "1/35 Scammell Tank Transporter 20t"
-price: TBA
+price: 8000.0
 desc: ""
 img_path: "/assets/img/TM35206.jpg"
 brand: AMMO

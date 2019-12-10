@@ -1,6 +1,6 @@
 ---
 title: "1/48 RoCAF  T-33A SHOOTING STAR  "
-price: TBA
+price: 6500.0
 desc: ""
 img_path: "/assets/img/GWHS4805.jpg"
 brand: AMMO

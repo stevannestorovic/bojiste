@@ -1,6 +1,6 @@
 ---
 title: "1/35  Workable Track Links For Tiger I Late Production"
-price: TBA
+price: 3300.0
 desc: ""
 img_path: "/assets/img/RFM5017.jpg"
 brand: AMMO

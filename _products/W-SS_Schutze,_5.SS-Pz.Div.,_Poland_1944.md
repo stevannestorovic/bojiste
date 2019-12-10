@@ -1,6 +1,6 @@
 ---
 title: "W- Schutze, 5.-Pz.Div., Poland 1944"
-price: TBA
+price: 0
 desc: ""
 img_path: "/assets/img/RDM35004.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "S-300PM/PMU (SA-10 Grumble), 5P85S Missile launcher"
-price: TBA
+price: 3500.0
 desc: ""
 img_path: "/assets/img/UA72045.jpg"
 brand: AMMO

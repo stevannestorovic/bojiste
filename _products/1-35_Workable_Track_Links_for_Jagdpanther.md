@@ -1,6 +1,6 @@
 ---
 title: "1/35 Workable Track Links for Jagdpanther"
-price: TBA
+price: 3300.0
 desc: ""
 img_path: "/assets/img/RFM5024.jpg"
 brand: AMMO

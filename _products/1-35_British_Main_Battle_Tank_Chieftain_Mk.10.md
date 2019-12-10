@@ -1,6 +1,6 @@
 ---
 title: "1/35 British Main Battle Tank Chieftain Mk.10"
-price: TBA
+price: 6300.0
 desc: ""
 img_path: "/assets/img/TAKO2028.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "WWII German tank transport trains "
-price: TBA
+price: 4400.0
 desc: ""
 img_path: "/assets/img/UA72158.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "1/48 F-16C Block 40 IDF Baraka"
-price: TBA
+price: 6300.0
 desc: ""
 img_path: "/assets/img/KIN48012.jpg"
 brand: AMMO

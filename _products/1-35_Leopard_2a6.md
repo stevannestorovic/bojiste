@@ -1,6 +1,6 @@
 ---
 title: "1/35 Leopard 2a6"
-price: TBA
+price: 6500.0
 desc: ""
 img_path: "/assets/img/BT002.jpg"
 brand: AMMO

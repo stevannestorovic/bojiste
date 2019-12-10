@@ -1,6 +1,6 @@
 ---
 title: "1/35 Bundeswehr SpPz 2 Luchs A1/A2 2 in 1"
-price: TBA
+price: 5850.0
 desc: ""
 img_path: "/assets/img/TAKO2017.jpg"
 brand: AMMO

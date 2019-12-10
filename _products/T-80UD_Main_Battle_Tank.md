@@ -1,6 +1,6 @@
 ---
 title: "T-80UD Main Battle Tank"
-price: TBA
+price: 2300.0
 desc: ""
 img_path: "/assets/img/UA72028.jpg"
 brand: AMMO

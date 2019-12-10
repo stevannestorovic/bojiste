@@ -1,6 +1,6 @@
 ---
 title: "Bell P-63C&E Kingcobra Dual combo (2 in 1)"
-price: TBA
+price: 3600.0
 desc: ""
 img_path: "/assets/img/DORAW7201D.jpg"
 brand: AMMO

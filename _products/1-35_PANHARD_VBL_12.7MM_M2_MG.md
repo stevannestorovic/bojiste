@@ -1,6 +1,6 @@
 ---
 title: "1/35 PANHARD VBL 12.7MM M2 MG"
-price: TBA
+price: 5300.0
 desc: ""
 img_path: "/assets/img/TIGE4619.jpg"
 brand: AMMO

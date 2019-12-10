@@ -1,6 +1,6 @@
 ---
 title: "1/48 NORTHORP P-61A w/Ground Attack weapons & Droptanks"
-price: TBA
+price: 8200.0
 desc: ""
 img_path: "/assets/img/GWHSNG07.jpg"
 brand: AMMO

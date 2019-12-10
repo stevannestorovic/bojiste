@@ -1,6 +1,6 @@
 ---
 title: "British 8th Army soldier standing, 1943-45"
-price: TBA
+price: 0
 desc: ""
 img_path: "/assets/img/RDM35008.jpg"
 brand: AMMO

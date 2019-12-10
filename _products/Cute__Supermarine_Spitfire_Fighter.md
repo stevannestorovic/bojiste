@@ -1,6 +1,6 @@
 ---
 title: "Cute  Supermarine Spitfire Fighter"
-price: TBA
+price: 1550.0
 desc: ""
 img_path: "/assets/img/TIGE105.jpg"
 brand: AMMO

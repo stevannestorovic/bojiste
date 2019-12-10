@@ -1,6 +1,6 @@
 ---
 title: "1/48 MIRAGE 2000C ROCAF W/ TRACTOR"
-price: TBA
+price: 5850.0
 desc: ""
 img_path: "/assets/img/KIN48045.jpg"
 brand: AMMO

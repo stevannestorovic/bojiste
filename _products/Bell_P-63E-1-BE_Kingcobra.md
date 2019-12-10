@@ -1,6 +1,6 @@
 ---
 title: "Bell P-63E-1-BE Kingcobra"
-price: TBA
+price: 4600.0
 desc: ""
 img_path: "/assets/img/DORAW48004.jpg"
 brand: AMMO

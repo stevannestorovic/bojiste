@@ -1,6 +1,6 @@
 ---
 title: "Russian “Bal-E” mobile coastal defense missile Launcher with Kh-35 anti-ship cruise missiles MZKT"
-price: TBA
+price: 4500.0
 desc: ""
 img_path: "/assets/img/UA72030.jpg"
 brand: AMMO

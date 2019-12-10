@@ -1,6 +1,6 @@
 ---
 title: "Fist of War German P.500 Gungnir"
-price: TBA
+price: 5200.0
 desc: ""
 img_path: "/assets/img/UA72180.jpg"
 brand: AMMO

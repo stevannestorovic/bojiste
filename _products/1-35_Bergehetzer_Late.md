@@ -1,6 +1,6 @@
 ---
 title: "1/35 Bergehetzer Late"
-price: TBA
+price: 5300.0
 desc: ""
 img_path: "/assets/img/TM35101.jpg"
 brand: AMMO

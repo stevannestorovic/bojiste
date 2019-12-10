@@ -1,6 +1,6 @@
 ---
 title: "Bell P-63A Kingcobra Racer (Sohio Handicap)"
-price: TBA
+price: 2800.0
 desc: ""
 img_path: "/assets/img/DORAW72010.jpg"
 brand: AMMO

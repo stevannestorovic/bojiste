@@ -1,6 +1,6 @@
 ---
 title: "1/35 M1 AAULT  BREACHER VEHICLE"
-price: TBA
+price: 8700.0
 desc: ""
 img_path: "/assets/img/RFM5011.jpg"
 brand: AMMO

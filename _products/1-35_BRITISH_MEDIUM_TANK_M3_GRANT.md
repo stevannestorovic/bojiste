@@ -1,6 +1,6 @@
 ---
 title: "1/35 BRITISH MEDIUM TANK M3 GRANT"
-price: TBA
+price: 4600.0
 desc: ""
 img_path: "/assets/img/TAKO2086.jpg"
 brand: AMMO

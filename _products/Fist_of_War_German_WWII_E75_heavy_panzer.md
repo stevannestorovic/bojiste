@@ -1,6 +1,6 @@
 ---
 title: "Fist of War German WWII E75 heavy panzer"
-price: TBA
+price: 1900.0
 desc: ""
 img_path: "/assets/img/UA72107.jpg"
 brand: AMMO

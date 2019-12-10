@@ -1,6 +1,6 @@
 ---
 title: "Messershmitt Bf.109 A/B  Legion Condor"
-price: TBA
+price: 4100.0
 desc: ""
 img_path: "/assets/img/DORAW48009.jpg"
 brand: AMMO

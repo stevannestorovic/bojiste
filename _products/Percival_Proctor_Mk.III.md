@@ -1,6 +1,6 @@
 ---
 title: "Percival Proctor Mk.III"
-price: TBA
+price: 3850.0
 desc: ""
 img_path: "/assets/img/DORAW48006.jpg"
 brand: AMMO

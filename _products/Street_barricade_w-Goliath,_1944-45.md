@@ -1,6 +1,6 @@
 ---
 title: "Street barricade w/Goliath, 1944-45"
-price: TBA
+price: 0
 desc: ""
 img_path: "/assets/img/RDM35B01.jpg"
 brand: AMMO

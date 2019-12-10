@@ -1,6 +1,6 @@
 ---
 title: "1/35 German  APV Katzchen    "
-price: TBA
+price: 5300.0
 desc: ""
 img_path: "/assets/img/TM35104.jpg"
 brand: AMMO

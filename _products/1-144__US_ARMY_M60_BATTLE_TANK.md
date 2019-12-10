@@ -1,6 +1,6 @@
 ---
 title: "1/144  US ARMY M60 BATTLE TANK"
-price: TBA
+price: 0
 desc: ""
 img_path: "/assets/img/UA-60003.jpg"
 brand: AMMO

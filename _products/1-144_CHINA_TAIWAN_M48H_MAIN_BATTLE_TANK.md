@@ -1,6 +1,6 @@
 ---
 title: "1/144 CHINA TAIWAN M48H MAIN BATTLE TANK "
-price: TBA
+price: 0
 desc: ""
 img_path: "/assets/img/UA-60002.jpg"
 brand: AMMO

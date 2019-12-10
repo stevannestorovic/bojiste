@@ -1,6 +1,6 @@
 ---
 title: "1/35 Bundeswehr Feldumschlaggerät FUG 2,5"
-price: TBA
+price: 5050.0
 desc: ""
 img_path: "/assets/img/TAKO2021.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "WWII German Landcruiser P.1000 ratte"
-price: TBA
+price: 10500.0
 desc: ""
 img_path: "/assets/img/UA72088.jpg"
 brand: AMMO

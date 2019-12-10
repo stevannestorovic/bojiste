@@ -1,6 +1,6 @@
 ---
 title: "F/A-18C US Navy, Swiss AirForce, Finnish AirForce & Topgun"
-price: TBA
+price: 6500.0
 desc: ""
 img_path: "/assets/img/KIN48031.jpg"
 brand: AMMO

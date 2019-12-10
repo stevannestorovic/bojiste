@@ -1,6 +1,6 @@
 ---
 title: "Germany WWII E-50 SPG GUN with 105/L62"
-price: TBA
+price: 2000.0
 desc: ""
 img_path: "/assets/img/UA72053.jpg"
 brand: AMMO

@@ -1,6 +1,6 @@
 ---
 title: "1/48 Royal Navy Sea Harrier FRS1"
-price: TBA
+price: 5850.0
 desc: ""
 img_path: "/assets/img/KIN48035.jpg"
 brand: AMMO

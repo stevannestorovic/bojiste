@@ -1,6 +1,6 @@
 ---
 title: "WWII Germany V1 Missile Railway Car"
-price: TBA
+price: 2700.0
 desc: ""
 img_path: "/assets/img/UA72171.jpg"
 brand: AMMO

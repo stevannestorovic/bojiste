@@ -1,6 +1,6 @@
 ---
 title: "1/48 WWII German Fw 189A-1 with Sonderaktion Schneekufen"
-price: TBA
+price: 4400.0
 desc: ""
 img_path: "/assets/img/GWH04808.jpg"
 brand: AMMO

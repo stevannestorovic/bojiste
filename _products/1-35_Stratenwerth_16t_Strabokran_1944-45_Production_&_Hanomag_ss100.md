@@ -1,6 +1,6 @@
 ---
 title: "1/35 Stratenwerth 16t Strabokran 1944/45 Production & Hanomag ss100"
-price: TBA
+price: 7200.0
 desc: ""
 img_path: "/assets/img/TAKO2124.jpg"
 brand: AMMO

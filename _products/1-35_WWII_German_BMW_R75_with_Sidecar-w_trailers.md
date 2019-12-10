@@ -1,6 +1,6 @@
 ---
 title: "1/35 WWII German BMW R75 with Sidecar/w trailers"
-price: TBA
+price: 3800.0
 desc: ""
 img_path: "/assets/img/GWH03510.jpg"
 brand: AMMO

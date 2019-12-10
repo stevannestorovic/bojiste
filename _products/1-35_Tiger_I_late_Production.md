@@ -1,6 +1,6 @@
 ---
 title: "1/35 Tiger I late Production "
-price: TBA
+price: 6000.0
 desc: ""
 img_path: "/assets/img/RFM5015.jpg"
 brand: AMMO
