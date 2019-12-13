@@ -1,15 +1,16 @@
 ---
-title: "CAMOUFLAGE MASKING PUTTY"
+title: Camouflage Masking Putty
 price: 1800
-desc: ""
-img_path: "/assets/img/AMIG8012.jpg"
+sifra: AMIG8012
+desc: Masa za maskiranje - Iznova upotrebljiva
+img_path: /assets/img/masking-putty-ammo-mig.webp
 brand: AMMO
 available: true
-special_offer: false
+special_offer: true
 new: false
 soon: false
-cat: "Plasticne-Makete"
-subcat: "PM-OSTALO"
-subsubcat: ""
-sifra: "AMIG8012"
+cat: Alat-i-dodaci
+subcat: AL-AMMO
+subsubcat: ''
 ---
+
