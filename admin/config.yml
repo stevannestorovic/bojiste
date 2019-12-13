@@ -76,6 +76,7 @@ collections:
          default: "Choose brand"}
       - {label: "Available", name: "available", widget: "boolean", default: true}
       - {label: "Special offer", name: "special_offer", widget: "boolean", default: false}
+      - {label: "New offer", name: "new", widget: "boolean", default: false}
       - {label: "Soon", name: "soon", widget: "boolean", default: false}
       - {name: "cat",
         label: "Category",
