@@ -1,4 +1,4 @@
-/* index main*/
+13/* index main*/
 .index-main {
     background-color: rgba(0,0,0,.25);
     background: url("/assets/img/slider-img-1.jpeg");
@@ -96,8 +96,8 @@
     display: grid;
     /*grid-template-columns: auto auto auto;*/
     grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-    grid-gap: 10px;
-    max-width: 600px;
+    grid-gap: 5px;
+    max-width: 80vw;
     margin: 0 auto;
     margin-top:10px;
 }
@@ -405,7 +405,7 @@ hr {
 		display: flex;
 	}	
 	.products {
-		max-width: 900px;
+		max-width: 80vw;
 	}
 }
 

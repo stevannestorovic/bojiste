@@ -58,6 +58,7 @@ collections:
       - {label: "layout", name: "layout", default: "product", widget: "hidden"}
       - {label: "Product name", name: "title", widget: "string"}
       - {label: "Product price", name: "price", widget: "string"}
+      - {label: "Productt code", name: "sifra", widget: "string"}
       - {label: "Product description", name: "desc", widget: "string"}
       - {label: "Image", name: "img_path", widget: "image", required: false}
       - {label: "Brand", 

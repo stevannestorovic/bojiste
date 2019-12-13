@@ -12,7 +12,7 @@ def make_breadcrumbs(cname="", sname="", ssname=""):
 	if sname != "":
 		html += '<li><a href="{}.html">{}</a></li>'.format(cname.replace(' ', '_') +'_'+ sname.replace(' ', '_'), sname)
 	if ssname != "":
-		html += '<li><a href="{}.html">{}</a></li>'.format(cname.replace(' ', '_') +'_'+ sname.replace(' ', '_') + ssname.replace(' ', '_'), ssname)
+		html += '<li><a href="{}.html">{}</a></li>'.format(cname.replace(' ', '_') + '_' + sname.replace(' ', '_') + '_' + ssname.replace(' ', '_'), ssname)
 	html += '</ul></nav>'
 	return html
 
