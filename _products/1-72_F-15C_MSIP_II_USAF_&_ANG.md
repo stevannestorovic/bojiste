@@ -1,15 +1,16 @@
 ---
-title: "1/72 F-15C MSIP II USAF & ANG"
+title: F-15C MSIP II USAF & ANG
 price: 4500
-desc: ""
-img_path: "/assets/img/GWH07205.jpg"
+sifra: GWH07205
+desc: Razmera 1/72
+img_path: /assets/img/gwh-f15c.webp
 brand: AMMO
 available: true
 special_offer: false
 new: false
 soon: false
-cat: "Plasticne-Makete"
-subcat: "PM-GREAT-WALL-HOBBY"
-subsubcat: ""
-sifra: "GWH07205"
+cat: Plasticne-Makete
+subcat: PM-GREAT-WALL-HOBBY
+subsubcat: ''
 ---
+
