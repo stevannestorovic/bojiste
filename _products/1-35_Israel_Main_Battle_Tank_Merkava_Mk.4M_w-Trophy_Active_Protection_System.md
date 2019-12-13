@@ -1,15 +1,16 @@
 ---
-title: "1/35 Israel Main Battle Tank Merkava Mk.4M w/Trophy Active Protection System"
+title: Israel Main Battle Tank Merkava Mk.4M w/Trophy Active Protection System
 price: 7300
-desc: ""
-img_path: "/assets/img/MM TS-036.jpg"
+sifra: MM TS-036
+desc: Razmera 1/35
+img_path: /assets/img/meng-merkava.webp
 brand: AK
 available: true
 special_offer: false
 new: false
 soon: false
-cat: "Plasticne-Makete"
-subcat: "PM-MENG"
-subsubcat: ""
-sifra: "MM TS-036"
+cat: Plasticne-Makete
+subcat: PM-MENG
+subsubcat: ''
 ---
+
