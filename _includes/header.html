@@ -1,3 +1,4 @@
+<div class="container">
 <div class="nav is-light">
     <nav class="navbar is-light" role="navigation" aria-label="main navigation">
         <div class="navbar-brand">
@@ -12,7 +13,7 @@
         </a>
         </div>
         <div id="navbarBasicExample" class="navbar-menu">
-        <div class="navbar-end">
+        <div class="navbar-start">
             <a class="navbar-item" href="/index.html">
                 Početna
             </a>
@@ -25,10 +26,13 @@
             <a class="navbar-item" id="cart-menu" href="/korpa.html">
             Korpa
             </a>
+        </div>
+        <div class="navbar-end">
             {% include search_form.html %}
         </div>
         </div>
     </nav>
+</div>
 </div>
   <script>
         let burger = document.querySelector('.burger');
