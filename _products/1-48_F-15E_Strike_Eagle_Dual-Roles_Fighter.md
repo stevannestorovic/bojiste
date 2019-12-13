@@ -1,10 +1,10 @@
 ---
 title: "1/48 F-15E Strike Eagle Dual-Roles Fighter "
-price: 10200.0
+price: TBA
 desc: ""
 img_path: "/assets/img/GWH04822.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

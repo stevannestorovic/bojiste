@@ -1,10 +1,10 @@
 ---
 title: "1/35 Jagdpanther G2 German Tank Destroyer Sd.Kfz.173  w/ full interior kit "
-price: 6800.0
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2118.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

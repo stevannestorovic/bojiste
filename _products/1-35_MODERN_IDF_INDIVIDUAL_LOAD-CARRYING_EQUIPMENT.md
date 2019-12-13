@@ -1,10 +1,10 @@
 ---
 title: "1/35 MODERN IDF INDIVIDUAL LOAD-CARRYING EQUIPMENT"
-price: 3400.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM SPS-020.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

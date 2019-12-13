@@ -1,6 +1,6 @@
 ---
 title: "VIPER UNDER THE SKIN, F-16  -  (English)"
-price: 4100.0
+price: 4100
 desc: ""
 img_path: "/assets/img/EA 16.jpg"
 brand: AK

@@ -15,9 +15,9 @@ title: Plastične Makete - Hobby 2000
 <script defer src="/assets/js/filters.js"></script>
 <div class="products">
     {% for product in site.products %}
-		{% if product.cat == "Plasticne-Makete" and product.subcat == "PM-HOBBY-2000"%}
+		{% if product.cat == "Plasticne-Makete" and product.subcat == "PM-HOBBY-2000" and product.price != "TBA" and product.price != "0" %}
 				<div class="product simpleCart_shelfItem">
-                                        <h3 style="display:none;" class="item_code">{{product.sifra}}
+                                        <h3 style="display:none;" class="item_code">{{product.sifra}}</h3>
 					<h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
 					<img class="product-img image" data-src="{{product.img_path}}" alt="">
 					<div class="product-data">

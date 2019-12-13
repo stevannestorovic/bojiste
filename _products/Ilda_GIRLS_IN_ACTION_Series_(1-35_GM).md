@@ -1,10 +1,10 @@
 ---
 title: "Ilda GIRLS IN ACTION Series (1/35 GM)"
-price: 1750.0
+price: TBA
 desc: ""
 img_path: "/assets/img/ZL GM-009.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

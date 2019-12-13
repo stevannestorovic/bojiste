@@ -1,10 +1,10 @@
 ---
 title: "Bellanca CH-300 Pacemaker"
-price: 2700.0
+price: TBA
 desc: ""
 img_path: "/assets/img/DORAW72022.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

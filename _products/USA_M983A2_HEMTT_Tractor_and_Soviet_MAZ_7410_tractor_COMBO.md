@@ -1,10 +1,10 @@
 ---
 title: "USA M983A2 HEMTT Tractor and Soviet MAZ 7410 tractor COMBO"
-price: 5200.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MA72009.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

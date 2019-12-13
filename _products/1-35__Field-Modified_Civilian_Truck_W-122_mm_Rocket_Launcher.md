@@ -1,10 +1,10 @@
 ---
 title: "1/35  Field-Modified Civilian Truck W/122 mm Rocket Launcher"
-price: 6750.0
+price: TBA
 desc: ""
 img_path: "/assets/img/DP-35016.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

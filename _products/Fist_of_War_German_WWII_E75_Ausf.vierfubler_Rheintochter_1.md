@@ -1,10 +1,10 @@
 ---
 title: "Fist of War German WWII E75 Ausf.vierfubler Rheintochter 1"
-price: 1900.0
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72113.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

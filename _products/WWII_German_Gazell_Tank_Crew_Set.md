@@ -1,10 +1,10 @@
 ---
 title: "WWII German Gazell Tank Crew Set"
-price: 3400.0
+price: TBA
 desc: ""
 img_path: "/assets/img/ZL AT-005.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

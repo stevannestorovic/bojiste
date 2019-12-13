@@ -1,10 +1,10 @@
 ---
 title: "1/35 French AUF1 155mm Self-propelled Howitzer                                                                         "
-price: 7850.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM TS-004.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

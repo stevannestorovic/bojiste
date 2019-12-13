@@ -1,6 +1,6 @@
 ---
 title: "Merkava Siman 3D - part 3"
-price: 4750.0
+price: 4750
 desc: ""
 img_path: "/assets/img/DEP-24.jpg"
 brand: AK

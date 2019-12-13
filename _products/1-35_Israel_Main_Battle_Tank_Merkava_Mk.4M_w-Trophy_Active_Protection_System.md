@@ -1,6 +1,6 @@
 ---
 title: "1/35 Israel Main Battle Tank Merkava Mk.4M w/Trophy Active Protection System"
-price: 6350.0
+price: 7300
 desc: ""
 img_path: "/assets/img/MM TS-036.jpg"
 brand: AK

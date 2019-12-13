@@ -1,10 +1,10 @@
 ---
 title: "SOVIET HEAVY TANK KV-2 CARTOON"
-price: 1420.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM WWT-004.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

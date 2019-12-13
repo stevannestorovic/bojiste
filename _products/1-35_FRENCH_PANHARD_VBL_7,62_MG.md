@@ -1,10 +1,10 @@
 ---
 title: "1/35 FRENCH PANHARD VBL 7,62 MG"
-price: 5300.0
+price: TBA
 desc: ""
 img_path: "/assets/img/TIGE4603.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

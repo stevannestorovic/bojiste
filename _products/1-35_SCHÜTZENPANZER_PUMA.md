@@ -1,10 +1,10 @@
 ---
 title: "1/35 SCHÜTZENPANZER PUMA"
-price: 6920.0
+price: TBA
 desc: ""
 img_path: "/assets/img/RFM5021.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

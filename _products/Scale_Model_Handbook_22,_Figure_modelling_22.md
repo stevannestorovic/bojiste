@@ -1,6 +1,6 @@
 ---
 title: "Scale Model Handbook 22, Figure modelling 22"
-price: 2100.0
+price: 2100
 desc: ""
 img_path: "/assets/img/MRB SMH22-FM22.jpg"
 brand: AK

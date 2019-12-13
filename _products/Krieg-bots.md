@@ -1,10 +1,10 @@
 ---
 title: "Krieg-bots"
-price: 3300.0
+price: TBA
 desc: ""
 img_path: "/assets/img/WM009.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

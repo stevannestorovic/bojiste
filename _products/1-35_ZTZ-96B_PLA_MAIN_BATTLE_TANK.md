@@ -1,10 +1,10 @@
 ---
 title: "1/35 ZTZ-96B PLA MAIN BATTLE TANK"
-price: 6100.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM TS-034.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

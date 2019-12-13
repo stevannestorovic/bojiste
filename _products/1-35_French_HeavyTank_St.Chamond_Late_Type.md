@@ -1,10 +1,10 @@
 ---
 title: "1/35 French HeavyTank St.Chamond Late Type"
-price: 3300.0
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2012.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

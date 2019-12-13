@@ -1,10 +1,10 @@
 ---
 title: "U.S. Heavy Tank M26 Pershing"
-price: 1420.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM WWT-010.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

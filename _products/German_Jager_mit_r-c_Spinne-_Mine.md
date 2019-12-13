@@ -1,10 +1,10 @@
 ---
 title: "German Jager mit r/c Spinne- Mine"
-price: 2500.0
+price: TBA
 desc: ""
 img_path: "/assets/img/WM006.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

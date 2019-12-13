@@ -1,10 +1,10 @@
 ---
 title: "Bell TP-63E Kingcobra (Two seat)"
-price: 4600.0
+price: TBA
 desc: ""
 img_path: "/assets/img/DORAW48003.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

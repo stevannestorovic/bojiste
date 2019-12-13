@@ -1,6 +1,6 @@
 ---
 title: "Precision Hobby Drill Bit Set"
-price: 1050.0
+price: 1050
 desc: ""
 img_path: "/assets/img/MM MTS-023A.jpg"
 brand: AK

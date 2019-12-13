@@ -1,10 +1,10 @@
 ---
 title: "1/35  WWII German heavy tank King Tiger initial production 4 in 1"
-price: 5400.0
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2096.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

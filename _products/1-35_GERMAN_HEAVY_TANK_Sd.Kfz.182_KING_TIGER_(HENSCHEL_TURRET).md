@@ -1,10 +1,10 @@
 ---
 title: "1/35 GERMAN HEAVY TANK Sd.Kfz.182 KING TIGER (HENSCHEL TURRET)"
-price: 3700.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM TS-031.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

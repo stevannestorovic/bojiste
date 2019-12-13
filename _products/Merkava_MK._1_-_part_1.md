@@ -1,6 +1,6 @@
 ---
 title: "Merkava MK. 1 - part 1"
-price: 4750.0
+price: 4750
 desc: ""
 img_path: "/assets/img/DEP-20.jpg"
 brand: AK

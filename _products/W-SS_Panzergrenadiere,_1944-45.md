@@ -1,6 +1,6 @@
 ---
 title: "W- Panzergrenadiere, 1944/45"
-price: 0
+price: TBA
 desc: ""
 img_path: "/assets/img/RDM35012.jpg"
 brand: AMMO

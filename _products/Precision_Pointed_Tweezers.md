@@ -1,6 +1,6 @@
 ---
 title: "Precision Pointed Tweezers"
-price: 2800.0
+price: 2800
 desc: ""
 img_path: "/assets/img/MM MTS-036.jpg"
 brand: AK

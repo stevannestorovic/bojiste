@@ -1,6 +1,6 @@
 ---
 title: "1/35 RUIAN MAIN BATTLE TANK T-90A"
-price: 7850.0
+price: 7800
 desc: ""
 img_path: "/assets/img/MM TS-006.jpg"
 brand: AK

@@ -1,10 +1,10 @@
 ---
 title: "German Tank Destroyer Sd.Kfz.173 Jagdpanther G1"
-price: 4900.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM TS-039.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

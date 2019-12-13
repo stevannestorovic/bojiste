@@ -1,10 +1,10 @@
 ---
 title: "Germany WWII E-75 STUG with 128/L55 gun"
-price: 2000.0
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72069.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

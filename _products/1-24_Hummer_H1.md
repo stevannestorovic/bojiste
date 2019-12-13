@@ -1,10 +1,10 @@
 ---
 title: "1/24 Hummer H1"
-price: 7850.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM CS-002.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

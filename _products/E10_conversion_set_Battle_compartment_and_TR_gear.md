@@ -1,10 +1,10 @@
 ---
 title: "E10 conversion set Battle compartment and TR gear"
-price: 2600.0
+price: TBA
 desc: ""
 img_path: "/assets/img/WM014.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

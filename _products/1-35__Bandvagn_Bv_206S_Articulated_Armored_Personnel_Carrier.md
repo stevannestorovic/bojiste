@@ -1,10 +1,10 @@
 ---
 title: "1/35  Bandvagn Bv 206S Articulated Armored Personnel Carrier"
-price: 4800.0
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2083.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

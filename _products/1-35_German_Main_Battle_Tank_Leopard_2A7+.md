@@ -1,10 +1,10 @@
 ---
 title: "1/35 German Main Battle Tank Leopard 2A7+"
-price: 800.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM TS-042.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

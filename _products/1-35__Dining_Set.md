@@ -1,10 +1,10 @@
 ---
 title: "1/35  Dining Set"
-price: 2500.0
+price: TBA
 desc: ""
 img_path: "/assets/img/DP-35003.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

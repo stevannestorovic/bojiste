@@ -1,6 +1,6 @@
 ---
 title: "Scale Model Handbook, Diorama modelling 2"
-price: 4100.0
+price: 4100
 desc: ""
 img_path: "/assets/img/MRB SMH-DM02.jpg"
 brand: AK

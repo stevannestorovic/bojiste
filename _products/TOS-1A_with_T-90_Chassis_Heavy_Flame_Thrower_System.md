@@ -1,6 +1,6 @@
 ---
 title: "TOS-1A with T-90 Chassis Heavy Flame Thrower System"
-price: 1700.0
+price: 1800
 desc: ""
 img_path: "/assets/img/UA72003.jpg"
 brand: AMMO

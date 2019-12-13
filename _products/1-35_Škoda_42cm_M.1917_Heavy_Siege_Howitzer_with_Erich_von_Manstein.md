@@ -1,10 +1,10 @@
 ---
 title: "1/35 Škoda 42cm M.1917 Heavy Siege Howitzer with Erich von Manstein"
-price: 3500.0
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2018.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

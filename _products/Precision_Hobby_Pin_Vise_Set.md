@@ -1,6 +1,6 @@
 ---
 title: "Precision Hobby Pin Vise Set"
-price: 3400.0
+price: 3400
 desc: ""
 img_path: "/assets/img/MM MTS-023.jpg"
 brand: AK

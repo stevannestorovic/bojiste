@@ -1,10 +1,10 @@
 ---
 title: "1/72 Object 279+Object 279M+NBC Soldier"
-price: 2800.0
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO5005.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

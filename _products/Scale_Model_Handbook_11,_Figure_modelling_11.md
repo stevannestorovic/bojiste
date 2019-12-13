@@ -1,6 +1,6 @@
 ---
 title: "Scale Model Handbook 11, Figure modelling 11"
-price: 2100.0
+price: 2100
 desc: ""
 img_path: "/assets/img/MRB SMH11-FM11.jpg"
 brand: AK

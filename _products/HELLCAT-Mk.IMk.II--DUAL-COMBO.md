@@ -1,10 +1,10 @@
 ---
 title: "HELLCAT Mk.I/Mk.II  DUAL COMBO"
-price: 3450.00 
+price: 3600 
 desc: "PROFIPACK, HELLCAT Mk.I/Mk.II  DUAL COMBO, razmera: 1/48"
 img_path: "/assets/img/8223.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

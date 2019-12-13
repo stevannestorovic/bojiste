@@ -1,10 +1,10 @@
 ---
 title: "1/48 F-16DG/DJ Block 50 - USAF Viper 2-IN-1"
-price: 5700.0
+price: TBA
 desc: ""
 img_path: "/assets/img/KIN48005.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

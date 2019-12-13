@@ -1,6 +1,6 @@
 ---
 title: "CAMOUFLAGE MASKING PUTTY"
-price: 1800.0
+price: 1800
 desc: ""
 img_path: "/assets/img/AMIG8012.jpg"
 brand: AMMO

@@ -1,11 +1,11 @@
 ---
 title: "U.S. B-24 Heavy Bomber
  (CARTOON MODEL)"
-price: 1420.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM mPLANE-006.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

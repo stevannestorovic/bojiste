@@ -1,10 +1,10 @@
 ---
 title: "USAF B-2A Spirit Stealth Bomber with Mop GBU-57"
-price: 13000.0
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72206.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

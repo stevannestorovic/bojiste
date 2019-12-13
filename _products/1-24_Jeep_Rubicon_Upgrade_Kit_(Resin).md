@@ -1,10 +1,10 @@
 ---
 title: "1/24 Jeep Rubicon Upgrade Kit (Resin)"
-price: 3500.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM SPS-054.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

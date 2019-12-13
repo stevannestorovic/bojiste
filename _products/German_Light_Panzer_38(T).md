@@ -1,10 +1,10 @@
 ---
 title: "German Light Panzer 38(T)"
-price: 1420.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM WWT-011.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

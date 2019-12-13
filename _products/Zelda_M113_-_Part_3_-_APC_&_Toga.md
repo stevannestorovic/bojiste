@@ -1,6 +1,6 @@
 ---
 title: "Zelda M113 - Part 3 - APC & Toga"
-price: 4750.0
+price: 4750
 desc: ""
 img_path: "/assets/img/DEP-23.jpg"
 brand: AK

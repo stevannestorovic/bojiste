@@ -1,10 +1,10 @@
 ---
 title: "1/35 VS-004 PICKUP w/ZU-23-2"
-price: 3400.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM VS-004.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

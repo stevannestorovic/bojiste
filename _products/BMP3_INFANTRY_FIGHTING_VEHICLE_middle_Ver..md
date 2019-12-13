@@ -1,6 +1,6 @@
 ---
 title: "BMP3 INFANTRY FIGHTING VEHICLE middle Ver."
-price: 2000.0
+price: 1800
 desc: ""
 img_path: "/assets/img/UA72035.jpg"
 brand: AMMO

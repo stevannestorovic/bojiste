@@ -1,6 +1,6 @@
 ---
 title: "PAINT BRUSH SET"
-price: 850.0
+price: 850
 desc: ""
 img_path: "/assets/img/MM MTS-010.jpg"
 brand: AK

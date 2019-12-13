@@ -1,10 +1,10 @@
 ---
 title: "1/35 Scammell Pioneer Tank Transporter 30t"
-price: 8000.0
+price: TBA
 desc: ""
 img_path: "/assets/img/TM35200.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

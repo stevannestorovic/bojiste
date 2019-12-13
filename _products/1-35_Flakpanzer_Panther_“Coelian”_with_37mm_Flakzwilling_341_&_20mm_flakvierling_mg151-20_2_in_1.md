@@ -1,10 +1,10 @@
 ---
 title: "1/35 Flakpanzer Panther “Coelian” with 37mm Flakzwilling 341 & 20mm flakvierling mg151/20 2 in 1"
-price: 5300.0
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2105.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

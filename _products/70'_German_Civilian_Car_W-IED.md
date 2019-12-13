@@ -1,10 +1,10 @@
 ---
 title: "70' German Civilian Car W/IED"
-price: 6100.0
+price: TBA
 desc: ""
 img_path: "/assets/img/DP-35013.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

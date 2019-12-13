@@ -1,6 +1,6 @@
 ---
 title: "Willys MB stowage set (for Tamiya)"
-price: 0
+price: TBA
 desc: ""
 img_path: "/assets/img/RDM35S01.jpg"
 brand: AMMO

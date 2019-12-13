@@ -1,10 +1,10 @@
 ---
 title: "1/35 ISRAEL MAIN BATTLE TANK MERKAVA Mk.3D LATE LIC"
-price: 7850.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM TS-025.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

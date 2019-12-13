@@ -1,10 +1,10 @@
 ---
 title: "British Royal Marine Soldiers Set A"
-price: 2050.0
+price: TBA
 desc: ""
 img_path: "/assets/img/DP-35014.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

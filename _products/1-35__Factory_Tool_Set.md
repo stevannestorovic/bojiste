@@ -1,10 +1,10 @@
 ---
 title: "1/35  Factory Tool Set"
-price: 2800.0
+price: TBA
 desc: ""
 img_path: "/assets/img/DP-35006.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

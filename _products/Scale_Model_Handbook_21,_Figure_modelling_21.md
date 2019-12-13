@@ -1,6 +1,6 @@
 ---
 title: "Scale Model Handbook 21, Figure modelling 21"
-price: 2100.0
+price: 2100
 desc: ""
 img_path: "/assets/img/MRB SMH21-FM21.jpg"
 brand: AK

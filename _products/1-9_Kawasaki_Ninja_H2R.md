@@ -1,10 +1,10 @@
 ---
 title: "1/9 Kawasaki Ninja H2R "
-price: 12900.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM MT-001.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

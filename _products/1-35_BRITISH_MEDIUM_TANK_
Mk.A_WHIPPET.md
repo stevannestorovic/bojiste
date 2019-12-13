@@ -1,11 +1,11 @@
 ---
 title: "1/35 BRITISH MEDIUM TANK 
 Mk.A WHIPPET"
-price: 3300.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM TS-021.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

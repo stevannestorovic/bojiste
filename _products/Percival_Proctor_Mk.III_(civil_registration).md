@@ -1,10 +1,10 @@
 ---
 title: "Percival Proctor Mk.III (civil registration)"
-price: 4000.0
+price: TBA
 desc: ""
 img_path: "/assets/img/DORAW48016.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

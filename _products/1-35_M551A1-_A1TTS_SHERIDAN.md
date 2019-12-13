@@ -1,10 +1,10 @@
 ---
 title: "1/35 M551A1/ A1TTS SHERIDAN "
-price: 7050.0
+price: TBA
 desc: ""
 img_path: "/assets/img/RFM5020.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

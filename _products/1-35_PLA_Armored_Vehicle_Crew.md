@@ -1,10 +1,10 @@
 ---
 title: "1/35 PLA Armored Vehicle Crew"
-price: 1650.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM HS-011.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

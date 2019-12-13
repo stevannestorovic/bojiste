@@ -1,10 +1,10 @@
 ---
 title: "Cute  Lavochkin La-7 Fighter"
-price: 1550.0
+price: TBA
 desc: ""
 img_path: "/assets/img/TIGE107.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

@@ -1,10 +1,10 @@
 ---
 title: "Cute  Japanese KI84 Fighter"
-price: 1450.0
+price: TBA
 desc: ""
 img_path: "/assets/img/TIGE102.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

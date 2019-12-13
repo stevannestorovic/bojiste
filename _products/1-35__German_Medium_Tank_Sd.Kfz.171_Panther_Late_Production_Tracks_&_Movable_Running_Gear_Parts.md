@@ -1,10 +1,10 @@
 ---
 title: "1/35  German Medium Tank Sd.Kfz.171 Panther Late Production Tracks & Movable Running Gear Parts"
-price: 3100.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM SPS-049.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

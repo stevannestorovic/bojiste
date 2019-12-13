@@ -1,10 +1,10 @@
 ---
 title: "Germany WWII V1 Missile launching position 2 in 1"
-price: 2000.0
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72033.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

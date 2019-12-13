@@ -1,10 +1,10 @@
 ---
 title: "1/35 DDR Medium Tank T-55 AM2B"
-price: 5600.0
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2057.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

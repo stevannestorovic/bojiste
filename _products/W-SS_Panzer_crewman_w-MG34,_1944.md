@@ -1,6 +1,6 @@
 ---
 title: "W- Panzer crewman w/MG34, 1944"
-price: 0
+price: TBA
 desc: ""
 img_path: "/assets/img/RDM35014.jpg"
 brand: AMMO

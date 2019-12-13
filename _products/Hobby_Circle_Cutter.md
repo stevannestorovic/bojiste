@@ -1,10 +1,10 @@
 ---
 title: "Hobby Circle Cutter"
-price: 12100.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM MTS-037.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

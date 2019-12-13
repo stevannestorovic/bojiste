@@ -1,10 +1,10 @@
 ---
 title: "1/35 WWI Heavy Battle Tank Mark IV Male"
-price: 6700.0
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2008.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

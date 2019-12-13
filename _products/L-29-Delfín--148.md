@@ -1,10 +1,10 @@
 ---
 title: "L-29 Delfín  1/48"
-price: 2750.00 
+price: 3000 
 desc: "WEEKEND EDITION, L-29 Delfín  1/48, razmera: 1/48"
 img_path: "/assets/img/8464.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

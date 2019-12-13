@@ -1,10 +1,10 @@
 ---
 title: "Water Dispensor Set (1/35)"
-price: 2600.0
+price: TBA
 desc: ""
 img_path: "/assets/img/ZL ZA-003.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

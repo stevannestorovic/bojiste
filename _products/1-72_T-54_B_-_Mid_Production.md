@@ -1,6 +1,6 @@
 ---
 title: "1/72 T-54 B - Mid Production"
-price: 2200.0
+price: 2200
 desc: ""
 img_path: "/assets/img/AMIG8502.jpg"
 brand: AMMO

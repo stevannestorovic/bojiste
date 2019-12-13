@@ -1,10 +1,10 @@
 ---
 title: "1/35 Bergepanzer 2"
-price: 5700.0
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2122.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

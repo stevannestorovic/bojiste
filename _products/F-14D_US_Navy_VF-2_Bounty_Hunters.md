@@ -1,10 +1,10 @@
 ---
 title: "F-14D US Navy VF-2 Bounty Hunters"
-price: 7100.0
+price: TBA
 desc: ""
 img_path: "/assets/img/GWH07203.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

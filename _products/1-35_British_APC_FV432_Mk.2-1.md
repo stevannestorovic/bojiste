@@ -1,10 +1,10 @@
 ---
 title: "1/35 British APC FV432 Mk.2/1"
-price: 4100.0
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2066.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

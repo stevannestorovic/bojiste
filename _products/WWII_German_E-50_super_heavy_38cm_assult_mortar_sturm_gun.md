@@ -1,10 +1,10 @@
 ---
 title: "WWII German E-50 super heavy 38cm assult mortar sturm gun"
-price: 2000.0
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72145.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

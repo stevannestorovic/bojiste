@@ -1,10 +1,10 @@
 ---
 title: "DECAL TYPE 2 – GERMAN MEDIUM TANK SD.KFZ.171 PANTHER AUSF.A LATE"
-price: 1420.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM SPS-051.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

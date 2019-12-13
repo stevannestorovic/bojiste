@@ -1,10 +1,10 @@
 ---
 title: "1/35 Russian BMR-3M Armored Mine Clearing Vehicle"
-price: 7850.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM SS-011.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

@@ -1,10 +1,10 @@
 ---
 title: "BMP3 with ERA  Infantry Fighting Vehicle "
-price: 1900.0
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72050.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

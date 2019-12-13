@@ -1,10 +1,10 @@
 ---
 title: "1/35 German Panzerhaubitze 2000 Self-Propelled"
-price: 6500.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM TS-012.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

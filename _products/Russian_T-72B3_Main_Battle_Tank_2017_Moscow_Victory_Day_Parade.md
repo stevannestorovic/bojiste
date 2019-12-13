@@ -1,10 +1,10 @@
 ---
 title: "Russian T-72B3 Main Battle Tank 2017 Moscow Victory Day Parade"
-price: 2000.0
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72102.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

@@ -1,10 +1,10 @@
 ---
 title: "German E-100 Ausf.Sechsfüßler 128mm KwK/B Operation Bulge January 1947"
-price: 4400.0
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72181.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

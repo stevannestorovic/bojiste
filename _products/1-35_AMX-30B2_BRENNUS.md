@@ -1,10 +1,10 @@
 ---
 title: "1/35 AMX-30B2 BRENNUS"
-price: 8150.0
+price: TBA
 desc: ""
 img_path: "/assets/img/TIGE4604.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

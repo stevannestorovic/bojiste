@@ -1,10 +1,10 @@
 ---
 title: "WWII German Hippo Tank Crew Set C"
-price: 3400.0
+price: TBA
 desc: ""
 img_path: "/assets/img/ZL AT-006.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

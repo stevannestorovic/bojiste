@@ -1,10 +1,10 @@
 ---
 title: "French Medium Tank Somua S-35 (CARTOON MODEL)"
-price: 1420.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM WWT-009.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

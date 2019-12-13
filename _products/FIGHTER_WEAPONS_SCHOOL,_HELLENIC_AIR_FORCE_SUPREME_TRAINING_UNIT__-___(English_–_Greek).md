@@ -1,6 +1,6 @@
 ---
 title: "FIGHTER WEAPONS SCHOOL, HELLENIC AIR FORCE SUPREME TRAINING UNIT  -   (English – Greek)"
-price: 4350.0
+price: 4350
 desc: ""
 img_path: "/assets/img/EA FWS.jpg"
 brand: AK

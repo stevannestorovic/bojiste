@@ -1,6 +1,6 @@
 ---
 title: "Scale Model Handbook 16, Figure modelling 16"
-price: 2100.0
+price: 2100
 desc: ""
 img_path: "/assets/img/MRB SMH16-FM16.jpg"
 brand: AK

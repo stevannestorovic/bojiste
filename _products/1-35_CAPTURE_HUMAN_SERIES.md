@@ -1,10 +1,10 @@
 ---
 title: "1/35 CAPTURE HUMAN SERIES"
-price: 3400.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM HS-009R.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

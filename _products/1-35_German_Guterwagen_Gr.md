@@ -1,10 +1,10 @@
 ---
 title: "1/35 German Guterwagen Gr"
-price: 5850.0
+price: TBA
 desc: ""
 img_path: "/assets/img/TM35902.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

@@ -1,10 +1,10 @@
 ---
 title: "60'-70' Southern Vietnamese"
-price: 1750.0
+price: TBA
 desc: ""
 img_path: "/assets/img/DP-35012.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

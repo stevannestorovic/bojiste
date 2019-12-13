@@ -1,10 +1,10 @@
 ---
 title: "Cute  U.S F4U Fighter"
-price: 1450.0
+price: TBA
 desc: ""
 img_path: "/assets/img/TIGE101.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

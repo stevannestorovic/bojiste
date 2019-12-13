@@ -15,9 +15,9 @@ title: Akril - AMMO - Pojedinačne Boje
             <script defer src="/assets/js/filters.js"></script>
             <div class="products">
                 {% for product in site.products %}
-                            {% if product.cat == "Akrilne-Boje" and product.subcat == "AB-AMMO" and product.subsubcat == "AkrilneBoje-AMMO-POJEDINACNE-BOJE"%}
+                            {% if product.cat == "Akrilne-Boje" and product.subcat == "AB-AMMO" and product.subsubcat == "AkrilneBoje-AMMO-POJEDINACNE-BOJE" and product.price != "TBA" and product.price != "0" %}
                                             <div class="product simpleCart_shelfItem">
-						    <h3 style="display:none;" class="item_code">{{product.sifra}}
+						    <h3 style="display:none;" class="item_code">{{product.sifra}}</h3>
                                                     <h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
                                                     <img class="product-img image" data-src="{{product.img_path}}" alt="">
                                                     <div class="product-data">

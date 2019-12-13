@@ -1,10 +1,10 @@
 ---
 title: "Bellanca CH-400 Skyrocket"
-price: 2700.0
+price: TBA
 desc: ""
 img_path: "/assets/img/DORAW72013.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

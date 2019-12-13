@@ -1,10 +1,10 @@
 ---
 title: "1/35 GERMAN A7V TANK(KRUPP)"
-price: 7850.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM TS-017.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

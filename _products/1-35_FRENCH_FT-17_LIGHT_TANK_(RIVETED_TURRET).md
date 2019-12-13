@@ -1,6 +1,6 @@
 ---
 title: "1/35 FRENCH FT-17 LIGHT TANK (RIVETED TURRET)"
-price: 3400.0
+price: 3700
 desc: ""
 img_path: "/assets/img/MM TS-011.jpg"
 brand: AK

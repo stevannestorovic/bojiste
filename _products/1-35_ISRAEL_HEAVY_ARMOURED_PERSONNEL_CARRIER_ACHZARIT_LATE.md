@@ -1,10 +1,10 @@
 ---
 title: "1/35 ISRAEL HEAVY ARMOURED PERSONNEL CARRIER ACHZARIT LATE"
-price: 6500.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM SS-008.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

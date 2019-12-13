@@ -1,6 +1,6 @@
 ---
 title: "YUN MO 0.2/0.3mm HIGH PRECISION AIRBRUSH"
-price: 17700.0
+price: 17700
 desc: ""
 img_path: "/assets/img/MM MTS-002.jpg"
 brand: AK

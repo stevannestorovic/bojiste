@@ -1,10 +1,10 @@
 ---
 title: "1/48 E-2C USN (4 Blades)"
-price: 8200.0
+price: TBA
 desc: ""
 img_path: "/assets/img/KIN48013.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

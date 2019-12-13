@@ -1,10 +1,10 @@
 ---
 title: "1/35 German Heavy Tank Sd.Kfz.182 King Tiger (Porsche Turret)"
-price: 4480.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM TS-037.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

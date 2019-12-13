@@ -1,10 +1,10 @@
 ---
 title: "1/35 French Light Tank AMX-13/75 with -11 ATGM 2 in 1  "
-price: 4400.0
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2038.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

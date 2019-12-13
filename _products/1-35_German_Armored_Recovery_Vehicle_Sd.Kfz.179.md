@@ -1,10 +1,10 @@
 ---
 title: "1/35 German Armored Recovery Vehicle Sd.Kfz.179"
-price: 5050.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM SS-015.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

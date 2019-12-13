@@ -1,10 +1,10 @@
 ---
 title: "1/35 BRITISH HEAVY TANK Mk.V MALE"
-price: 9200.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM TS-020.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

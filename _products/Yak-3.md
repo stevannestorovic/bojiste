@@ -1,10 +1,10 @@
 ---
 title: "Yak-3"
-price: 1650.00 
+price: 1800 
 desc: "WEEKEND EDITION, Yak-3, razmera: 1/48"
 img_path: "/assets/img/8457.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

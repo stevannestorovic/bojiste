@@ -1,6 +1,6 @@
 ---
 title: "Battering Ram Mini-kit Merkava 4/4M mini-kit"
-price: 5150.0
+price: 5150
 desc: ""
 img_path: "/assets/img/DEP-35002.jpg"
 brand: AK

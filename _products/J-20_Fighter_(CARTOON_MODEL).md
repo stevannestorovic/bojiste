@@ -1,10 +1,10 @@
 ---
 title: "J-20 Fighter (CARTOON MODEL)"
-price: 1420.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM MPLANE-005.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

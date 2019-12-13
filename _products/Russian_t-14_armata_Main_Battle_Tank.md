@@ -1,10 +1,10 @@
 ---
 title: "Russian t-14 armata Main Battle Tank"
-price: 2300.0
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72058.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

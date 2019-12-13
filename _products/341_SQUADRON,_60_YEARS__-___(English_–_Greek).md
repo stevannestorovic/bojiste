@@ -1,6 +1,6 @@
 ---
 title: "341 SQUADRON, 60 YEARS  -   (English – Greek)"
-price: 3400.0
+price: 3400
 desc: ""
 img_path: "/assets/img/EA 341 SQDR.jpg"
 brand: AK

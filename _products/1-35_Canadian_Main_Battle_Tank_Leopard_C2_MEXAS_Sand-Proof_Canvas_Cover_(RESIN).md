@@ -1,10 +1,10 @@
 ---
 title: "1/35 Canadian Main Battle Tank Leopard C2 MEXAS Sand-Proof Canvas Cover (RESIN) "
-price: 7450.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM SPS-066.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

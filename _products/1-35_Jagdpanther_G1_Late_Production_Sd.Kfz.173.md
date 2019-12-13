@@ -1,10 +1,10 @@
 ---
 title: "1/35 Jagdpanther G1 Late Production Sd.Kfz.173"
-price: 6800.0
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2106.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

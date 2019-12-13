@@ -1,10 +1,10 @@
 ---
 title: "1/35  S-5 Ammo Box for UB-32 and UB-16"
-price: 2500.0
+price: TBA
 desc: ""
 img_path: "/assets/img/DP-35022.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

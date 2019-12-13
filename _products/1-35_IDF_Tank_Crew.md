@@ -1,10 +1,10 @@
 ---
 title: "1/35 IDF Tank Crew"
-price: 1420.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM HS-002.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

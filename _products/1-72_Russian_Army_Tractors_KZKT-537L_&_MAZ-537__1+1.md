@@ -1,6 +1,6 @@
 ---
 title: "1/72 Russian Army Tractors KZKT-537L & MAZ-537  1+1"
-price: 4100.0
+price: 4700
 desc: ""
 img_path: "/assets/img/TAKO5003.jpg"
 brand: AMMO

@@ -1,10 +1,10 @@
 ---
 title: "1/35 Israel Main Battle Tank Magach 6B GAL BATASH"
-price: 8850.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM TS-040.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

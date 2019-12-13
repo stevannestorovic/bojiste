@@ -1,10 +1,10 @@
 ---
 title: "1/35 WWII German Single Stage Ballistic Missile V-2"
-price: 2800.0
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2075.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

@@ -1,10 +1,10 @@
 ---
 title: "Team Lotus 88B 1981　 　　　　　"
-price: 7850.0
+price: TBA
 desc: ""
 img_path: "/assets/img/EBB20010.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

@@ -1,10 +1,10 @@
 ---
 title: "Team Lotus 49B 1969"
-price: 6750.0
+price: TBA
 desc: ""
 img_path: "/assets/img/EBB20005.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

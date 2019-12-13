@@ -1,10 +1,10 @@
 ---
 title: "1/35 GERMAN FLAKPANZER GEPARD A1/A2 "
-price: 7850.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM TS-030.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

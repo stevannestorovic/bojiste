@@ -1,6 +1,6 @@
 ---
 title: "1/48 SOUTH AMERICAN MIRAGE IIIE/V"
-price: 5850.0
+price: 5850
 desc: ""
 img_path: "/assets/img/KIN48052.jpg"
 brand: AMMO

@@ -1,10 +1,10 @@
 ---
 title: "Spad XIII"
-price: 1400.00 
+price: 1600 
 desc: "PROFIPACK, Spad XIII, razmera: 1/72"
 img_path: "/assets/img/7053.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

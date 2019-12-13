@@ -1,6 +1,6 @@
 ---
 title: "W- Pz.Div. Wiking, Poland 1944"
-price: 0
+price: TBA
 desc: ""
 img_path: "/assets/img/RDM35006.jpg"
 brand: AMMO

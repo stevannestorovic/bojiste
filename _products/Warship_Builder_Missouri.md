@@ -1,10 +1,10 @@
 ---
 title: "Warship Builder Missouri"
-price: 2500.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM WB-004.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

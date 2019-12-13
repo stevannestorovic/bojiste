@@ -1,7 +1,7 @@
 ---
 title: "Pinky Tool
 "
-price: 2200.0
+price: 2200
 desc: ""
 img_path: "/assets/img/MM MTS-003A.jpg"
 brand: AK

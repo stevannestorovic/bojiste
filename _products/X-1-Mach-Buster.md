@@ -1,10 +1,10 @@
 ---
 title: "X-1 Mach Buster"
-price: 2750.00 
+price: 3000 
 desc: "PROFIPACK, X-1 Mach Buster, razmera: 1/48"
 img_path: "/assets/img/8079.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

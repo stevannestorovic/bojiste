@@ -1,6 +1,6 @@
 ---
 title: "D9 Doobi"
-price: 4750.0
+price: 4750
 desc: ""
 img_path: "/assets/img/DEP-07.jpg"
 brand: AK

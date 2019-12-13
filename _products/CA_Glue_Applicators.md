@@ -1,6 +1,6 @@
 ---
 title: "CA Glue Applicators"
-price: 3300.0
+price: 3300
 desc: ""
 img_path: "/assets/img/MM MTS-034.jpg"
 brand: AK

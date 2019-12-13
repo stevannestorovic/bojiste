@@ -1,10 +1,10 @@
 ---
 title: "T-64B Main Battle Tank Mod 1975"
-price: 1700.0
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72013.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

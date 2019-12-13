@@ -1,6 +1,6 @@
 ---
 title: "Merkava Mk. 3D"
-price: 4750.0
+price: 4750
 desc: ""
 img_path: "/assets/img/DEP-05.jpg"
 brand: AK

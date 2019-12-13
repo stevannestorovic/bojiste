@@ -1,10 +1,10 @@
 ---
 title: "Renault 4L Fourgonnette"
-price: 5850.0
+price: TBA
 desc: ""
 img_path: "/assets/img/EBB25003.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

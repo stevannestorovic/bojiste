@@ -1,6 +1,6 @@
 ---
 title: "YU HENG 0.3mm Trigger Airbrush"
-price: 20400.0
+price: 20400
 desc: ""
 img_path: "/assets/img/MM MTS-030.jpg"
 brand: AK

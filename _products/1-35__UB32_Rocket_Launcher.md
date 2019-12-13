@@ -1,10 +1,10 @@
 ---
 title: "1/35  UB32 Rocket Launcher"
-price: 2700.0
+price: TBA
 desc: ""
 img_path: "/assets/img/DP-35021.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

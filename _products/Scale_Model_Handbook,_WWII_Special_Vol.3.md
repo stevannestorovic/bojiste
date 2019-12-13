@@ -1,6 +1,6 @@
 ---
 title: "Scale Model Handbook, WWII Special Vol.3"
-price: 3400.0
+price: 3400
 desc: ""
 img_path: "/assets/img/MRB SMH-WWII03.jpg"
 brand: AK

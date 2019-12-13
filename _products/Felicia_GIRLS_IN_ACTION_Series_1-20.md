@@ -1,10 +1,10 @@
 ---
 title: "Felicia GIRLS IN ACTION Series 1/20"
-price: 4900.0
+price: TBA
 desc: ""
 img_path: "/assets/img/ZL GA-006.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

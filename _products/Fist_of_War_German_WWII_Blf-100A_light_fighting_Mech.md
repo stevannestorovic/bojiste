@@ -1,10 +1,10 @@
 ---
 title: "Fist of War German WWII Blf-100A light fighting Mech"
-price: 2000.0
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72195.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

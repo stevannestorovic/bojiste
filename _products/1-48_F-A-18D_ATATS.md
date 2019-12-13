@@ -1,10 +1,10 @@
 ---
 title: "1/48 F/A-18D ATATS"
-price: 6350.0
+price: TBA
 desc: ""
 img_path: "/assets/img/KIN48033.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

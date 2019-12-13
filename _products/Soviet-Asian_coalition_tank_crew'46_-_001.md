@@ -1,10 +1,10 @@
 ---
 title: "Soviet-Asian coalition tank crew'46 - 001"
-price: 2500.0
+price: TBA
 desc: ""
 img_path: "/assets/img/WM001.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

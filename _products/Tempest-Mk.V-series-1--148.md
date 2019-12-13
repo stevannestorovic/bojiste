@@ -1,10 +1,10 @@
 ---
 title: "Tempest Mk.V series 1  1/48"
-price: 4250.00 
+price: 4500 
 desc: "PROFIPACK, Tempest Mk.V series 1  1/48, razmera: 1/48"
 img_path: "/assets/img/82121.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

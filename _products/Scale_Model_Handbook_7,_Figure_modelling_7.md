@@ -1,6 +1,6 @@
 ---
 title: "Scale Model Handbook 7, Figure modelling 7"
-price: 2100.0
+price: 2100
 desc: ""
 img_path: "/assets/img/MRB SMH07-FM07.jpg"
 brand: AK

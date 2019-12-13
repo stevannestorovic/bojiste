@@ -1,10 +1,10 @@
 ---
 title: "Bf 110C/D"
-price: 2350.00 
+price: 2500 
 desc: "PROFIPACK, Bf 110C/D, razmera: 1/72"
 img_path: "/assets/img/7081.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

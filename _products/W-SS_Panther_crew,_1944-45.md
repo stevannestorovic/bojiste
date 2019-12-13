@@ -1,6 +1,6 @@
 ---
 title: "W- Panther crew, 1944-45"
-price: 0
+price: TBA
 desc: ""
 img_path: "/assets/img/RDM35015.jpg"
 brand: AMMO

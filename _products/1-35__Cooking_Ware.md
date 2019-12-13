@@ -1,10 +1,10 @@
 ---
 title: "1/35  Cooking Ware"
-price: 2750.0
+price: TBA
 desc: ""
 img_path: "/assets/img/DP-35005.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

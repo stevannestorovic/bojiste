@@ -1,10 +1,10 @@
 ---
 title: "Savoia-Marchetti S.55A"
-price: 6700.0
+price: TBA
 desc: ""
 img_path: "/assets/img/DORAW72018.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

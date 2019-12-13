@@ -1,10 +1,10 @@
 ---
 title: "SOVIET MEDIUM TANK T-43/76 CARTOON"
-price: 1420.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM WWT-006.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

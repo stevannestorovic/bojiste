@@ -1,6 +1,6 @@
 ---
 title: "VERMILION BIRD 0.3MM AIRBRUSH"
-price: 13600.0
+price: 13600
 desc: ""
 img_path: "/assets/img/MM MTS-001.jpg"
 brand: AK

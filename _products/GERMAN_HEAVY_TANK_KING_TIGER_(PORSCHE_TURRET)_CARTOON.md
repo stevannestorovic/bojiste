@@ -1,10 +1,10 @@
 ---
 title: "GERMAN HEAVY TANK KING TIGER (PORSCHE TURRET) CARTOON"
-price: 1420.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM WWT-003.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

@@ -1,10 +1,10 @@
 ---
 title: "Hobby 2000 72015 Nakajima B6N1 Model 11 Tenzam"
-price: 2200.0
+price: TBA
 desc: ""
 img_path: "/assets/img/H2K72015.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

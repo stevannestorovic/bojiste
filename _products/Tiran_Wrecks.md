@@ -1,6 +1,6 @@
 ---
 title: "Tiran Wrecks"
-price: 4750.0
+price: 4750
 desc: ""
 img_path: "/assets/img/DEP-TWR01.jpg"
 brand: AK

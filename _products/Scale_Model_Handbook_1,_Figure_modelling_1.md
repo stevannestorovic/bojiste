@@ -1,6 +1,6 @@
 ---
 title: "Scale Model Handbook 1, Figure modelling 1"
-price: 2100.0
+price: 2100
 desc: ""
 img_path: "/assets/img/MRB SMH01-FM01.jpg"
 brand: AK

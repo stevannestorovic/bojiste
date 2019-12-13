@@ -1,10 +1,10 @@
 ---
 title: "1/35 French Main Battle Tank AMX-30B2"
-price: 6500.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM TS-013.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

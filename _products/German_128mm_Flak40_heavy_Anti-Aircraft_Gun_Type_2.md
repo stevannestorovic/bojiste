@@ -1,10 +1,10 @@
 ---
 title: "German 128mm Flak40 heavy Anti-Aircraft Gun Type 2"
-price: 2000.0
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72101.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

@@ -1,10 +1,10 @@
 ---
 title: "1/35  JAGDPANTHER G2  W/ WORKABLE TRACK LINKS"
-price: 6100.0
+price: TBA
 desc: ""
 img_path: "/assets/img/RFM5031.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

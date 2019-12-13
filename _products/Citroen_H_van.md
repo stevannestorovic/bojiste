@@ -1,10 +1,10 @@
 ---
 title: "Citroen H van"
-price: 6750.0
+price: TBA
 desc: ""
 img_path: "/assets/img/EBB25007.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

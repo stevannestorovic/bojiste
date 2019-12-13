@@ -1,10 +1,10 @@
 ---
 title: "1/35  WWII British Military Biclycle"
-price: 2200.0
+price: TBA
 desc: ""
 img_path: "/assets/img/DP-35010.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

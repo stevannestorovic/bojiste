@@ -1,10 +1,10 @@
 ---
 title: "1/35 German Empire 420mm Big Bertha Siege Howitzer"
-price: 6700.0
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2035.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

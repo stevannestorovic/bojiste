@@ -1,6 +1,6 @@
 ---
 title: "Scale Model Handbook 9, Figure modelling 9"
-price: 2100.0
+price: 2100
 desc: ""
 img_path: "/assets/img/MRB SMH09-FM09.jpg"
 brand: AK

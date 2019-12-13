@@ -1,6 +1,6 @@
 ---
 title: "Scale Model Handbook 8, Figure modelling 8"
-price: 2100.0
+price: 2100
 desc: ""
 img_path: "/assets/img/MRB SMH08-FM08.jpg"
 brand: AK

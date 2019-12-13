@@ -1,10 +1,10 @@
 ---
 title: "1/35 Bergehetzer Early Special Edition"
-price: 6300.0
+price: TBA
 desc: ""
 img_path: "/assets/img/TM35103.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

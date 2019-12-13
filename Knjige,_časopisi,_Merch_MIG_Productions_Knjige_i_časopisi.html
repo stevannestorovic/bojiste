@@ -15,9 +15,9 @@ title: Knjige, časopisi, Merch - MIG Productions - Knjige i časopisi
             
             <div class="products">
                 {% for product in site.products %}
-                            {% if product.cat == "Knjige,-casopisi,-MERCH" and product.subcat == "KNJ-MIG-PRODUCTIONS" and product.subsubcat == "Knjige-MIG-KNJIGE-I-CASOPISI"%}
+                            {% if product.cat == "Knjige,-casopisi,-MERCH" and product.subcat == "KNJ-MIG-PRODUCTIONS" and product.subsubcat == "Knjige-MIG-KNJIGE-I-CASOPISI" and product.price != "TBA" and product.price != "0" %}
                                             <div class="product simpleCart_shelfItem">
-						    <h3 style="display:none;" class="item_code">{{product.sifra}}
+						    <h3 style="display:none;" class="item_code">{{product.sifra}}</h3>
                                                     <h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
                                                     <img class="product-img image" data-src="{{product.img_path}}" alt="">
                                                     <div class="product-data">

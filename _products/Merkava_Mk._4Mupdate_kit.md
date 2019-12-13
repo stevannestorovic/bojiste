@@ -1,6 +1,6 @@
 ---
 title: "Merkava Mk. 4Mupdate kit"
-price: 5150.0
+price: 5150
 desc: ""
 img_path: "/assets/img/DEP-35006.jpg"
 brand: AK

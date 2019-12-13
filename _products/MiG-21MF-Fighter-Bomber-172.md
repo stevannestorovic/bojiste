@@ -1,10 +1,10 @@
 ---
 title: "MiG-21MF Fighter-Bomber 1/72"
-price: 1550.00 
+price: 1750 
 desc: "WEEKEND EDITION, MiG-21MF Fighter-Bomber 1/72, razmera: 1/72"
 img_path: "/assets/img/7451.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

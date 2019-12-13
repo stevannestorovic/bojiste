@@ -1,10 +1,10 @@
 ---
 title: "Battle stations with E-7 EMW Panzerabwerwaffen "
-price: 1900.0
+price: TBA
 desc: ""
 img_path: "/assets/img/WM013.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

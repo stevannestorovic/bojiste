@@ -1,10 +1,10 @@
 ---
 title: "Dewoitine D.510 Spanish civil war (+bonus Japan, NIJ) "
-price: 3750.0
+price: TBA
 desc: ""
 img_path: "/assets/img/DORAW48008.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

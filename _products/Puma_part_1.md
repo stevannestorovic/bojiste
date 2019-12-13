@@ -1,6 +1,6 @@
 ---
 title: "Puma part 1"
-price: 4750.0
+price: 4750
 desc: ""
 img_path: "/assets/img/DEP-11.jpg"
 brand: AK

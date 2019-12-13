@@ -1,10 +1,10 @@
 ---
 title: "1/35 WWII German Krupp 12.8cm Pak44 Anti-Tank Gun"
-price: 4900.0
+price: TBA
 desc: ""
 img_path: "/assets/img/GWH03526.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

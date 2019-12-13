@@ -1,10 +1,10 @@
 ---
 title: "Panzergrenadier Nacht Jager"
-price: 2100.0
+price: TBA
 desc: ""
 img_path: "/assets/img/WM016.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

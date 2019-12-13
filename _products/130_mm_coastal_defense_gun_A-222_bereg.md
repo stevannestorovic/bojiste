@@ -1,10 +1,10 @@
 ---
 title: "130 mm coastal defense gun A-222 bereg"
-price: 4800.0
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72051.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

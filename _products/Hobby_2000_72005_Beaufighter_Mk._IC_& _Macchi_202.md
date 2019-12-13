@@ -1,10 +1,10 @@
 ---
 title: "Hobby 2000 72005 Beaufighter Mk. IC &  Macchi 202 "
-price: 6200.0
+price: TBA
 desc: ""
 img_path: "/assets/img/H2K72005.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

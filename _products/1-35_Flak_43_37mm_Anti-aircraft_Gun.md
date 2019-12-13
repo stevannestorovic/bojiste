@@ -1,10 +1,10 @@
 ---
 title: "1/35 Flak 43 37mm Anti-aircraft Gun"
-price: 5600.0
+price: TBA
 desc: ""
 img_path: "/assets/img/GWH03505.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

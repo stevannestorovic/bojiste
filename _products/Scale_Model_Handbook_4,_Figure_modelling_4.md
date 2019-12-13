@@ -1,6 +1,6 @@
 ---
 title: "Scale Model Handbook 4, Figure modelling 4"
-price: 2100.0
+price: 2100
 desc: ""
 img_path: "/assets/img/MRB SMH04-FM04.jpg"
 brand: AK

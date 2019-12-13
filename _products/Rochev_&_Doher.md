@@ -1,6 +1,6 @@
 ---
 title: "Rochev & Doher"
-price: 4750.0
+price: 4750
 desc: ""
 img_path: "/assets/img/DEP-10.jpg"
 brand: AK

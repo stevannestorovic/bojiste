@@ -1,6 +1,6 @@
 ---
 title: "W- Uscha., 5.- Pz.Div., Poland 1944"
-price: 0
+price: TBA
 desc: ""
 img_path: "/assets/img/RDM35005.jpg"
 brand: AMMO

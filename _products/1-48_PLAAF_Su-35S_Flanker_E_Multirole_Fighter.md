@@ -1,10 +1,10 @@
 ---
 title: "1/48 PLAAF Su-35S Flanker E Multirole Fighter"
-price: 11100.0
+price: TBA
 desc: ""
 img_path: "/assets/img/GWHSNG10.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

@@ -1,10 +1,10 @@
 ---
 title: "Russian 54K6E Baikal Air Defence Command Post"
-price: 4400.0
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72095.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

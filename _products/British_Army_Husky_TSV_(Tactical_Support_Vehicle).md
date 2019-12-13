@@ -1,10 +1,10 @@
 ---
 title: "British Army Husky TSV (Tactical Support Vehicle)"
-price: 4900.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM VS-009.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

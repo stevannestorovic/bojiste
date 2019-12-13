@@ -1,6 +1,6 @@
 ---
 title: "PHANTOM UNDERr THE SKIN, F-4E  -  (English)"
-price: 4350.0
+price: 4350
 desc: ""
 img_path: "/assets/img/EA F-4E.jpg"
 brand: AK

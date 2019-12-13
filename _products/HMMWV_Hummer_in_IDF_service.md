@@ -1,6 +1,6 @@
 ---
 title: "HMMWV Hummer in IDF service"
-price: 4750.0
+price: 4750
 desc: ""
 img_path: "/assets/img/DEP-16.jpg"
 brand: AK

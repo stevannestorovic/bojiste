@@ -1,10 +1,10 @@
 ---
 title: "1/35 WWII German V-2 Rocket Transporter/Erector Meillerwagen+Hanomag 100"
-price: 8400.0
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2030.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

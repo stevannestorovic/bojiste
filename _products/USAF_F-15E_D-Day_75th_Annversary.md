@@ -1,10 +1,10 @@
 ---
 title: "USAF F-15E D-Day 75th Annversary                                  "
-price: 4800.0
+price: TBA
 desc: ""
 img_path: "/assets/img/GWHS72001.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

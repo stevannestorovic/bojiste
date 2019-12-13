@@ -1,6 +1,6 @@
 ---
 title: "Scale Model Handbook 19, Figure modelling 19"
-price: 2100.0
+price: 2100
 desc: ""
 img_path: "/assets/img/MRB SMH19-FM19.jpg"
 brand: AK

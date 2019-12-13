@@ -1,10 +1,10 @@
 ---
 title: "1/72 F-15J JASDF"
-price: 4200.0
+price: TBA
 desc: ""
 img_path: "/assets/img/GWH07204.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

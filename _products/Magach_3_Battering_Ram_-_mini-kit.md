@@ -1,6 +1,6 @@
 ---
 title: "Magach 3 Battering Ram - mini-kit"
-price: 5150.0
+price: 5150
 desc: ""
 img_path: "/assets/img/DEP-35004.jpg"
 brand: AK

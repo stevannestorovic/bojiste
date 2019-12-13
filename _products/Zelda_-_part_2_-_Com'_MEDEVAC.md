@@ -1,6 +1,6 @@
 ---
 title: "Zelda - part 2 - Com' MEDEVAC"
-price: 4750.0
+price: 4750
 desc: ""
 img_path: "/assets/img/DEP-18.jpg"
 brand: AK

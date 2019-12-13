@@ -9,5 +9,5 @@ echo "[+] Jekyll build done"
 echo "[i] Moving files to /var/www/html"
 sudo rm -rf /var/www/html/*
 sudo mv _site/* /var/www/html/
-echo "[+] Files movede"
+echo "[+] Files moved"
 echo "[+] Site is online, visit at http://178.128.150.79"

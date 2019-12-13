@@ -1,10 +1,10 @@
 ---
 title: "Panther (CARTOON MODEL)"
-price: 1420.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM WWP-007.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

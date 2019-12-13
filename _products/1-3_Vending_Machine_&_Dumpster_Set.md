@@ -1,10 +1,10 @@
 ---
 title: "1/3 Vending Machine & Dumpster Set"
-price: 1700.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM SPS-018.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

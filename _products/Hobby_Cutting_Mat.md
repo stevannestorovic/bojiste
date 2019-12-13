@@ -1,6 +1,6 @@
 ---
 title: "Hobby Cutting Mat"
-price: 1420.0
+price: 1420
 desc: ""
 img_path: "/assets/img/MM MTS-021.jpg"
 brand: AK

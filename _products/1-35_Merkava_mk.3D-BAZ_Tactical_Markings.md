@@ -1,10 +1,10 @@
 ---
 title: "1/35 Merkava mk.3D/BAZ Tactical Markings"
-price: 920.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM SPS-003.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

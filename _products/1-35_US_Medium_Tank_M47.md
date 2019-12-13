@@ -1,6 +1,6 @@
 ---
 title: "1/35 US Medium Tank M47"
-price: 5300.0
+price: 5700
 desc: ""
 img_path: "/assets/img/TAKO2070.jpg"
 brand: AMMO

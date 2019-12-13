@@ -1,6 +1,6 @@
 ---
 title: "1/35 GAS STATION"
-price: 1350.0
+price: 1350
 desc: ""
 img_path: "/assets/img/AMIG8501.jpg"
 brand: AMMO

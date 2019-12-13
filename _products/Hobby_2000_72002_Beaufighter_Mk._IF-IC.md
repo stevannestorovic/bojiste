@@ -1,10 +1,10 @@
 ---
 title: "Hobby 2000 72002 Beaufighter Mk. IF/IC"
-price: 4600.0
+price: TBA
 desc: ""
 img_path: "/assets/img/H2K72002.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

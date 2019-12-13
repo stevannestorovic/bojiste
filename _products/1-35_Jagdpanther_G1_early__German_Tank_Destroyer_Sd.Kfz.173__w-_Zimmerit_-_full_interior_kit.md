@@ -1,10 +1,10 @@
 ---
 title: "1/35 Jagdpanther G1 early  German Tank Destroyer Sd.Kfz.173  w/ Zimmerit / full interior kit                "
-price: 7600.0
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2125.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

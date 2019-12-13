@@ -1,6 +1,6 @@
 ---
 title: "T-72B1 with ERA main battle tank"
-price: 1700.0
+price: 1800
 desc: ""
 img_path: "/assets/img/UA72011.jpg"
 brand: AMMO

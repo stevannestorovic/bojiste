@@ -1,10 +1,10 @@
 ---
 title: "LANCASTER BOMBER, MENG KIDS"
-price: 1420.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM MPLANE-002.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

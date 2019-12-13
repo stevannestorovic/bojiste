@@ -1,10 +1,10 @@
 ---
 title: "1/35 Modern German Tank Crew"
-price: 1750.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM HS-006.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

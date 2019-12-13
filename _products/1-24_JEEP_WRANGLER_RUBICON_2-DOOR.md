@@ -1,10 +1,10 @@
 ---
 title: "1/24 JEEP WRANGLER RUBICON 2-DOOR"
-price: 7450.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM CS-003.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

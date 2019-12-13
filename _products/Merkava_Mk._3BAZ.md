@@ -1,6 +1,6 @@
 ---
 title: "Merkava Mk. 3BAZ"
-price: 4750.0
+price: 4750
 desc: ""
 img_path: "/assets/img/DEP-06.jpg"
 brand: AK

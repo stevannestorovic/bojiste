@@ -1,11 +1,11 @@
 ---
 title: "1/35 German Medium Tank Sd.Kfz.171 Panther Ausf.D Turret（Travel Mode）(RESIN)
 "
-price: 5850.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM SPS-059.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

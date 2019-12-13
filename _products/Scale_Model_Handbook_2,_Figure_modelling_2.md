@@ -1,6 +1,6 @@
 ---
 title: "Scale Model Handbook 2, Figure modelling 2"
-price: 2100.0
+price: 2100
 desc: ""
 img_path: "/assets/img/MRB SMH02-FM02.jpg"
 brand: AK

@@ -1,6 +1,6 @@
 ---
 title: "Advanced Single-Edged Hobby Side Cutter"
-price: 5550.0
+price: 5550
 desc: ""
 img_path: "/assets/img/MM MTS-026.jpg"
 brand: AK

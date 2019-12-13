@@ -1,10 +1,10 @@
 ---
 title: "1/35 German Medium Tank Sd.Kfz.171 Panther Ausf.D"
-price: 4750.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM TS-038.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

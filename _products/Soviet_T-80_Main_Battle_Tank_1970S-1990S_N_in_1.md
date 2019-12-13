@@ -1,10 +1,10 @@
 ---
 title: "Soviet T-80 Main Battle Tank 1970S-1990S N in 1"
-price: 2300.0
+price: TBA
 desc: ""
 img_path: "/assets/img/UA72193.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

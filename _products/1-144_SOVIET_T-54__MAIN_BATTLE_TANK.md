@@ -1,6 +1,6 @@
 ---
 title: "1/144 SOVIET T-54  MAIN BATTLE TANK "
-price: 0
+price: TBA
 desc: ""
 img_path: "/assets/img/UA-60004.jpg"
 brand: AMMO

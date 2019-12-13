@@ -1,10 +1,10 @@
 ---
 title: "1/35 Modern U.S. Military Individual Load-Carrying Equipment"
-price: 1450.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM SPS-015.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

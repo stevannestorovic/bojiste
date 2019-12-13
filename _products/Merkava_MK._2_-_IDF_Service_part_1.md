@@ -1,6 +1,6 @@
 ---
 title: "Merkava MK. 2 - IDF Service part 1"
-price: 4750.0
+price: 4750
 desc: ""
 img_path: "/assets/img/DEP-12.jpg"
 brand: AK

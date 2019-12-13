@@ -1,6 +1,6 @@
 ---
 title: "Scale Model Handbook 3, Figure modelling 3"
-price: 2100.0
+price: 2100
 desc: ""
 img_path: "/assets/img/MRB SMH03-FM03.jpg"
 brand: AK

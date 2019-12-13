@@ -1,10 +1,10 @@
 ---
 title: "1/48 Su-35S Flanker E Multirole Fighter"
-price: 10900.0
+price: TBA
 desc: ""
 img_path: "/assets/img/GWH04820.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

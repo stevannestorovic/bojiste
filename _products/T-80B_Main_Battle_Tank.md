@@ -1,6 +1,6 @@
 ---
 title: "T-80B Main Battle Tank"
-price: 1800.0
+price: 1800
 desc: ""
 img_path: "/assets/img/UA72024.jpg"
 brand: AMMO

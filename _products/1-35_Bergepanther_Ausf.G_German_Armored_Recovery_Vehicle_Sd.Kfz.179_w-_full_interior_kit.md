@@ -1,10 +1,10 @@
 ---
 title: "1/35 Bergepanther Ausf.G German Armored Recovery Vehicle Sd.Kfz.179 w/ full interior kit "
-price: 6800.0
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO2107.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

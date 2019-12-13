@@ -1,10 +1,10 @@
 ---
 title: "Russian 9K720 Iskander-M Tactical ballistic missile MZKT chassis "
-price: 5600.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MA72011.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

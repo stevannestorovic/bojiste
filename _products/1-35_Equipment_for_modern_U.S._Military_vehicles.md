@@ -1,10 +1,10 @@
 ---
 title: "1/35 Equipment for modern U.S. Military vehicles"
-price: 1250.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM SPS-014.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

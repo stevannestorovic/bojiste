@@ -1,10 +1,10 @@
 ---
 title: "1/35 CHINESE PLZ05 155MM"
-price: 6350.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM TS-022.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

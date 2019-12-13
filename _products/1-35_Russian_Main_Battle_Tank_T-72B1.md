@@ -1,6 +1,6 @@
 ---
 title: "1/35 Russian Main Battle Tank T-72B1"
-price: 7850.0
+price: 7300
 desc: ""
 img_path: "/assets/img/MM TS-033.jpg"
 brand: AK

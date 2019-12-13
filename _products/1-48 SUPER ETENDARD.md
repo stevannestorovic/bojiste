@@ -1,10 +1,10 @@
 ---
 title: "1/48 SUPER ETENDARD   "
-price: 5850.0
+price: TBA
 desc: ""
 img_path: "/assets/img/KIN48061.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

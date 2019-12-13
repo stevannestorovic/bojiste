@@ -1,10 +1,10 @@
 ---
 title: "1/72 WWII German V-2 Rocket Transporter/Erector Meillerwagen+Hanomag 100"
-price: 4100.0
+price: TBA
 desc: ""
 img_path: "/assets/img/TAKO5001.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

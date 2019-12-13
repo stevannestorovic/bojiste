@@ -1,11 +1,11 @@
 ---
 title: "Warship Builder – Scharnhorst
 (CARTOON MODEL)"
-price: 2200.0
+price: TBA
 desc: ""
 img_path: "/assets/img/MM WB-002.jpg"
 brand: AK
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

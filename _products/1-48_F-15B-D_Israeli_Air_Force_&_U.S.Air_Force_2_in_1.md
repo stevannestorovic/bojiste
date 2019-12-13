@@ -1,10 +1,10 @@
 ---
 title: "1/48 F-15B/D Israeli Air Force & U.S.Air Force 2 in 1"
-price: 9900.0
+price: TBA
 desc: ""
 img_path: "/assets/img/GWH04815.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

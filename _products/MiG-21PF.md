@@ -1,10 +1,10 @@
 ---
 title: "MiG-21PF"
-price: 2750.00 
+price: 3000 
 desc: "WEEKEND EDITION, MiG-21PF, razmera: 1/48"
 img_path: "/assets/img/84127.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

@@ -1,6 +1,6 @@
 ---
 title: "M113 Zelda part 1"
-price: 4750.0
+price: 4750
 desc: ""
 img_path: "/assets/img/DEP-09.jpg"
 brand: AK

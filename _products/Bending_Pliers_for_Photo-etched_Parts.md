@@ -1,6 +1,6 @@
 ---
 title: "Bending Pliers for Photo-etched Parts"
-price: 2800.0
+price: 2800
 desc: ""
 img_path: "/assets/img/MM MTS-029.jpg"
 brand: AK

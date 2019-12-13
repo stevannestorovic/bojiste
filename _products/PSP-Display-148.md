@@ -1,10 +1,10 @@
 ---
 title: "PSP Display 1/48"
-price: 450.00 
+price: 500 
 desc: "Eduard, PSP Display 1/48, razmera: 1/48"
 img_path: "/assets/img/8801.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

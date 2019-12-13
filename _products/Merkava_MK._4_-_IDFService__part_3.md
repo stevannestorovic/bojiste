@@ -1,6 +1,6 @@
 ---
 title: "Merkava MK. 4 - IDFService  part 3"
-price: 4750.0
+price: 4750
 desc: ""
 img_path: "/assets/img/DEP-21.jpg"
 brand: AK
