@@ -1,15 +1,16 @@
 ---
-title: "1/35 GAS STATION"
+title: Gas Station
 price: 1350
-desc: ""
-img_path: "/assets/img/AMIG8501.jpg"
+sifra: AMIG8501
+desc: Razmera 1/35
+img_path: /assets/img/ammo-mig-gas-station.webp
 brand: AMMO
 available: true
 special_offer: false
 new: false
 soon: false
-cat: "Plasticne-Makete"
-subcat: "PM-OSTALO"
-subsubcat: ""
-sifra: "AMIG8501"
+cat: Plasticne-Makete
+subcat: PM-OSTALO
+subsubcat: ''
 ---
+
