@@ -3,7 +3,7 @@
 
 backend:
   name: github
-  repo: stevannestorovic/bojiste
+  repo: stevavoliajvar/bojiste
 
 media_folder: "assets/img"
 
