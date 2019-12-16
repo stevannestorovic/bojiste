@@ -3,7 +3,7 @@ title: "SE.5a Night Fighter 1/48"
 price: 3200 
 desc: "PROFIPACK, SE.5a Night Fighter 1/48, razmera: 1/48"
 img_path: "/assets/img/82133.jpg"
-brand: AMMO
+brand: EDUARD
 available: false
 special_offer: false
 new: false

@@ -3,7 +3,7 @@ title: "Spitfire Mk.XVI Bubbletop"
 price: 2200 
 desc: "WEEKEND EDITION, Spitfire Mk.XVI Bubbletop, razmera: 1/48"
 img_path: "/assets/img/84141.jpg"
-brand: AMMO
+brand: EDUARD
 available: false
 special_offer: false
 new: false

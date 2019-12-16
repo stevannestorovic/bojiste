@@ -3,7 +3,7 @@ title: "MiG-21SMT  1/48"
 price: 4500 
 desc: "PROFIPACK, MiG-21SMT  1/48, razmera: 1/48"
 img_path: "/assets/img/8233.jpg"
-brand: AMMO
+brand: EDUARD
 available: false
 special_offer: false
 new: false

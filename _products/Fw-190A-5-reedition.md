@@ -1,9 +1,9 @@
 ---
 title: "Fw 190A-5 (reedition)"
-price: 1800 
+price: 1900 
 desc: "PROFIPACK, Fw 190A-5 (reedition), razmera: 1/72"
 img_path: "/assets/img/70116.jpg"
-brand: AMMO
+brand: EDUARD
 available: false
 special_offer: false
 new: false

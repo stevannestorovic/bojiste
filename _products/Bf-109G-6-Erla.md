@@ -3,7 +3,7 @@ title: "Bf 109G-6 Erla"
 price: 2200 
 desc: "WEEKEND EDITION, Bf 109G-6 Erla, razmera: 1/48"
 img_path: "/assets/img/84142.jpg"
-brand: AMMO
+brand: EDUARD
 available: false
 special_offer: false
 new: false

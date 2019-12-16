@@ -1,9 +1,9 @@
 ---
 title: "Bodenplatte  1/48"
-price: 6700 
+price: 6500 
 desc: "LIMITED EDITION, Bodenplatte  1/48, razmera: 1/48"
 img_path: "/assets/img/11125.jpg"
-brand: AMMO
+brand: EDUARD
 available: false
 special_offer: false
 new: false

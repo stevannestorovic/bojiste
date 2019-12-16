@@ -3,7 +3,7 @@ title: "Bf 109G-10 WNF/Diana 1/48"
 price: 3600 
 desc: "PROFIPACK, Bf 109G-10 WNF/Diana 1/48, razmera: 1/48"
 img_path: "/assets/img/82161.jpg"
-brand: AMMO
+brand: EDUARD
 available: false
 special_offer: false
 new: false

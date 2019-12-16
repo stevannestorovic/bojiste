@@ -3,7 +3,7 @@ title: "Hellcat Mk.I"
 price: 1400 
 desc: "WEEKEND EDITION, Hellcat Mk.I, razmera: 1/72"
 img_path: "/assets/img/7437.jpg"
-brand: AMMO
+brand: EDUARD
 available: false
 special_offer: false
 new: false

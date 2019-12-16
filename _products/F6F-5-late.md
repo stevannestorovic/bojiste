@@ -1,9 +1,9 @@
 ---
 title: "F6F-5 late"
-price: 2500 
+price: 1500 
 desc: "PROFIPACK, F6F-5 late, razmera: 1/48"
 img_path: "/assets/img/8224.jpg"
-brand: AMMO
+brand: EDUARD
 available: false
 special_offer: false
 new: false

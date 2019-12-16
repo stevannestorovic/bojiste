@@ -3,7 +3,7 @@ title: "Albatros D.III OEFFAG 153"
 price: 1750 
 desc: "WEEKEND EDITION, Albatros D.III OEFFAG 153, razmera: 1/48"
 img_path: "/assets/img/84150.jpg"
-brand: AMMO
+brand: EDUARD
 available: false
 special_offer: false
 new: false

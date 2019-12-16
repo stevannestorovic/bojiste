@@ -3,7 +3,7 @@ title: "Spitfire Mk.IXe"
 price: 2200 
 desc: "WEEKEND EDITION, Spitfire Mk.IXe, razmera: 1/48"
 img_path: "/assets/img/84138.jpg"
-brand: AMMO
+brand: EDUARD
 available: false
 special_offer: false
 new: false

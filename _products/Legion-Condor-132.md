@@ -1,9 +1,9 @@
 ---
 title: "Legion Condor 1/32"
-price: 6000 
+price: 6200 
 desc: "LIMITED EDITION, Legion Condor 1/32, razmera: 1/32"
 img_path: "/assets/img/11105.jpg"
-brand: AMMO
+brand: EDUARD
 available: false
 special_offer: false
 new: false

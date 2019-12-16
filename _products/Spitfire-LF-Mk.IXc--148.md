@@ -3,7 +3,7 @@ title: "Spitfire LF Mk.IXc  1/48"
 price: 2200 
 desc: "WEEKEND EDITION, Spitfire LF Mk.IXc  1/48, razmera: 1/48"
 img_path: "/assets/img/84151.jpg"
-brand: AMMO
+brand: EDUARD
 available: false
 special_offer: false
 new: false

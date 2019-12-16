@@ -1,9 +1,9 @@
 ---
 title: "Grünherz DUAL COMBO  1/72"
-price: 3800 
+price: 3600 
 desc: "LIMITED EDITION, Grünherz DUAL COMBO  1/72, razmera: 1/72"
 img_path: "/assets/img/2122.jpg"
-brand: AMMO
+brand: EDUARD
 available: false
 special_offer: false
 new: false

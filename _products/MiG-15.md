@@ -1,9 +1,9 @@
 ---
 title: "MiG-15"
-price: 1800 
+price: 1900 
 desc: "PROFIPACK, MiG-15, razmera: 1/72"
 img_path: "/assets/img/7057.jpg"
-brand: AMMO
+brand: EDUARD
 available: false
 special_offer: false
 new: false

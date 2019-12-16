@@ -3,7 +3,7 @@ title: "Spitfire HF Mk.VIII 1/48"
 price: 2200 
 desc: "WEEKEND EDITION, Spitfire HF Mk.VIII 1/48, razmera: 1/48"
 img_path: "/assets/img/84132.jpg"
-brand: AMMO
+brand: EDUARD
 available: false
 special_offer: false
 new: false
