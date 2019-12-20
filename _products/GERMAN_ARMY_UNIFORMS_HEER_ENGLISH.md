@@ -1,10 +1,10 @@
 ---
 title: "GERMAN ARMY UNIFORMS HEER ENGLISH"
 price: "TBA" 
-desc: ""
+desc: "n"
 img_path: "/assets/img/EURO-0026.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

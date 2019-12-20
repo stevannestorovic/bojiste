@@ -1,10 +1,10 @@
 ---
 title: "MODULATION AND LIGHT TECHNIQUES ENGLISH"
 price: "TBA" 
-desc: ""
+desc: "n"
 img_path: "/assets/img/A.MIG-6005.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

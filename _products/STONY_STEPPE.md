@@ -4,7 +4,7 @@ price: "1800"
 desc: "Travnata podloga"
 img_path: "/assets/img/A.MIG-8350.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

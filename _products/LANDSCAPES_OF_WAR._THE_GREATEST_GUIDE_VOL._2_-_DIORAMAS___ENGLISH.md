@@ -1,10 +1,10 @@
 ---
 title: "LANDSCAPES OF WAR. THE GREATEST GUIDE VOL. 2 - DIORAMAS   ENGLISH"
 price: "TBA" 
-desc: ""
+desc: "n"
 img_path: "/assets/img/EURO-0008.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

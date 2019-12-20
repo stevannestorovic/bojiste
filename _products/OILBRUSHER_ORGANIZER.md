@@ -4,7 +4,7 @@ price: "1700"
 desc: "Polica za boje"
 img_path: "/assets/img/A.MIG-8020.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

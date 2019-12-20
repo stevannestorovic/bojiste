@@ -4,7 +4,7 @@ price: "550"
 desc: ""
 img_path: "/assets/img/A.MIG-1700.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

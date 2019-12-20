@@ -1,10 +1,10 @@
 ---
 title: "FOCKE WULF FW 190 & TA 152 ENGLISH"
 price: "TBA" 
-desc: ""
+desc: "n"
 img_path: "/assets/img/EURO-0020.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

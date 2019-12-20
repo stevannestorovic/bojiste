@@ -1,10 +1,10 @@
 ---
 title: "WWII LUFTWAFFE LATE FIGHTERS SOLUTION BOOK - MULTILINGUAL BOOK"
 price: "TBA" 
-desc: ""
+desc: "n"
 img_path: "/assets/img/A.MIG-6502.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

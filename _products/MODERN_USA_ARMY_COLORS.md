@@ -1,6 +1,6 @@
 ---
 title: "MODERN USA ARMY COLORS                                                 "
-price: "1750" 
+price: "1800" 
 desc: "Set akrilnih boja za oklop x6"
 img_path: "/assets/img/A.MIG-7159.jpg"
 brand: AMMO

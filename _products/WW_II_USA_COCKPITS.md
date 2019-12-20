@@ -4,7 +4,7 @@ price: "1350"
 desc: "Set efekata - Avijacija"
 img_path: "/assets/img/A.MIG-7433.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

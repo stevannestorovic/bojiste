@@ -4,7 +4,7 @@ price: "1500"
 desc: ""
 img_path: "/assets/img/TTH105.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

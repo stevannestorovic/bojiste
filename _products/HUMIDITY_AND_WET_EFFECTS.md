@@ -1,10 +1,10 @@
 ---
 title: "HUMIDITY AND WET EFFECTS "
-price: "1450" 
+price: "1500" 
 desc: "Set efekata"
 img_path: "/assets/img/A.MIG-7409.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

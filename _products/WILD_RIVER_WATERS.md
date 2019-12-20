@@ -4,7 +4,7 @@ price: "1200"
 desc: "Akrilna tekstura - Voda 250mL"
 img_path: "/assets/img/A.MIG-2203.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

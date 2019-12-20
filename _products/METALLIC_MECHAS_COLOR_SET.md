@@ -1,10 +1,10 @@
 ---
 title: "METALLIC MECHAS COLOR SET"
-price: "1750" 
+price: "1800" 
 desc: "Set akrilnih boja za oklop x6"
 img_path: "/assets/img/A.MIG-7158.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

@@ -4,7 +4,7 @@ price: "1500"
 desc: "Polica za četkice"
 img_path: "/assets/img/A.MIG-8022.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

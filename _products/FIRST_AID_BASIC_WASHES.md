@@ -4,7 +4,7 @@ price: "TBA"
 desc: "Set efekata"
 img_path: "/assets/img/A.MIG-7447.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

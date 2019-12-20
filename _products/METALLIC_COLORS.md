@@ -4,7 +4,7 @@ price: "3500"
 desc: "Set akrilnih boja x12"
 img_path: "/assets/img/A.MIG-7175.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

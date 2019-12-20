@@ -4,7 +4,7 @@ price: "500"
 desc: "PIgment 35mL"
 img_path: "/assets/img/A.MIG-3027.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

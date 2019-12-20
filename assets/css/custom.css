@@ -345,6 +345,13 @@ tr:nth-child(odd) {
 /* end table */
 
 
+.avl-true {
+	color: green;
+}
+
+.avl-false {
+	color: crimson	color: crimson;;
+}
 
 /* utils */
 .is-main-bg {

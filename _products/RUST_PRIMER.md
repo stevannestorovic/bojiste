@@ -4,7 +4,7 @@ price: "670"
 desc: "Akrilni prajmer"
 img_path: "/assets/img/A.MIG-2006.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

@@ -1,10 +1,10 @@
 ---
 title: "PAINTING WARGAME TANKS ENGLISH"
 price: "TBA" 
-desc: ""
+desc: "n"
 img_path: "/assets/img/A.MIG-6003.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

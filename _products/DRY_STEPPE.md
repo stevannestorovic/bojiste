@@ -1,7 +1,7 @@
 ---
 title: "DRY STEPPE         "
 price: "550" 
-desc: ""
+desc: "Efekat blata"
 img_path: "/assets/img/A.MIG-1751.jpg"
 brand: AMMO
 available: true

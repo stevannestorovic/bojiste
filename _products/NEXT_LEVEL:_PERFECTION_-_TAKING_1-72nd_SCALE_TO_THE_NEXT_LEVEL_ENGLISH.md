@@ -1,10 +1,10 @@
 ---
 title: "NEXT LEVEL: PERFECTION - TAKING 1/72nd SCALE TO THE NEXT LEVEL ENGLISH"
 price: "TBA" 
-desc: ""
+desc: "n"
 img_path: "/assets/img/A.MIG-6122.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

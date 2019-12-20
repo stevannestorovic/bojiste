@@ -1,10 +1,10 @@
 ---
 title: "GRAVITY 1.0 - SCI FI MODELLING PERFECT GUIDE ENGLISH"
 price: "TBA" 
-desc: ""
+desc: "n"
 img_path: "/assets/img/A.MIG-6110.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

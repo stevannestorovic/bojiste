@@ -1,10 +1,10 @@
 ---
 title: "T-SHIRT  ”THE LIFE IS A BOX OF AMMO. YOU NEVER WANT IT TO RUN OUT! "
 price: "TBA" 
-desc: ""
+desc: "n"
 img_path: "/assets/img/A.MIG-8000XXL .jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

@@ -5,7 +5,7 @@ desc: "Emajl efekat 35mL
 "
 img_path: "/assets/img/A.MIG-1406.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

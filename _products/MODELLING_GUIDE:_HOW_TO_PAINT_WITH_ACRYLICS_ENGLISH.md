@@ -1,10 +1,10 @@
 ---
 title: "MODELLING GUIDE: HOW TO PAINT WITH ACRYLICS ENGLISH"
 price: "TBA" 
-desc: ""
+desc: "n"
 img_path: "/assets/img/A.MIG-6040.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

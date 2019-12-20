@@ -4,7 +4,7 @@ price: "2100"
 desc: "Četkica od prirodne dlake"
 img_path: "/assets/img/A.MIG-8601.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

@@ -1,6 +1,6 @@
 ---
 title: "MYTHICAL RUAkrilneBoje-AMMO-SETOVI-AKRILNIH-BOJAIAN GREEN COLORS 1935-2016   "
-price: "1750" 
+price: "1800" 
 desc: "Set akrilnih boja za oklop x6"
 img_path: "/assets/img/A.MIG-7160.jpg"
 brand: AMMO

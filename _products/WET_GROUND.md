@@ -1,7 +1,7 @@
 ---
 title: "WET GROUND              "
 price: "550" 
-desc: ""
+desc: "Efekat blata"
 img_path: "/assets/img/A.MIG-1755.jpg"
 brand: AMMO
 available: true

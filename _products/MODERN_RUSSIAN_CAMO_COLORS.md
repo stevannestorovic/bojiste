@@ -1,6 +1,6 @@
 ---
 title: "MODERN RUAkrilneBoje-AMMO-SETOVI-AKRILNIH-BOJAIAN CAMO COLORS"
-price: "1750" 
+price: "1800" 
 desc: "Set akrilnih boja za oklop x6"
 img_path: "/assets/img/A.MIG-7109.jpg"
 brand: AMMO

@@ -4,7 +4,7 @@ price: "1300"
 desc: "Set akrilnih boja - Modulacija"
 img_path: "/assets/img/A.MIG-7001.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

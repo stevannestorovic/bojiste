@@ -1,10 +1,10 @@
 ---
 title: "ENCYCLOPEDIA OF ARMOUR MODELLING TECHNIQUES VOL. 4 - WEATHERING ENGLISH"
 price: "TBA" 
-desc: ""
+desc: "n"
 img_path: "/assets/img/A.MIG-6153.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

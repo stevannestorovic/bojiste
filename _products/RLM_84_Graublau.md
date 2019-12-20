@@ -4,7 +4,7 @@ price: "300"
 desc: "Akrilna boja"
 img_path: "/assets/img/A.MIG-0256.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

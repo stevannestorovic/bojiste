@@ -46,7 +46,7 @@ title: seo_title
     SCRIPT
 	<div class="products">
 		{% for product in site.products  %}
-			{% if product.cat == "CLAB" and product.price != "TBA" and product.price != "0" and product.available %}
+			{% if product.cat == "CLAB" and product.price != "TBA" and product.price != "0" %}
 				<div class="product simpleCart_shelfItem">
                                         <h3 style="display:none;" class="item_code">{{product.sifra}}</h3>
 					<h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
@@ -57,8 +57,13 @@ title: seo_title
 						<p class="product-category item_category">{{ product.category }}</p>
 					</div>
 					<div class="product-widgets">
-						<input type="number" value="1" class="item_Quantity input">
-						<a class="item_add button is-main-bg buy_button is-large" href="javascript:;">KUPI</a>
+                                                {% if product.available %}
+							<span class="avl-true"> Na stanju </span>
+                                                {% else %}
+							<span class="avl-false"> Nije na stanju </span>
+                                                {% endif %}
+						<input type="number" value="1" class="item_Quantity is-small input">
+						<a class="item_add button is-main-bg buy_button is-small" href="javascript:;">KUPI</a>
 					</div>
 				</div>
 			{% endif %}
@@ -98,8 +103,13 @@ SCRIPT
 						<p class="product-category item_category">{{ product.category }}</p>
 					</div>
 					<div class="product-widgets">
-						<input type="number" value="1" class="item_Quantity input">
-						<a class="item_add button is-main-bg buy_button is-large" href="javascript:;">KUPI</a>
+                                                {% if product.available %}
+							<span class="avl-true"> Na stanju </span>
+                                                {% else %}
+							<span class="avl-false"> Nije na stanju </span>
+                                                {% endif %}
+						<input type="number" value="1" class="item_Quantity input is-small">
+						<a class="item_add button is-main-bg buy_button is-small" href="javascript:;">KUPI</a>
 					</div>
 				</div>
 		{% endif %}
@@ -141,8 +151,13 @@ title: seo_title
                                                             <p class="product-category item_category">{{ product.category }}</p>
                                                     </div>
                                                     <div class="product-widgets">
-                                                            <input type="number" value="1" class="item_Quantity input">
-                                                            <a class="item_add button is-main-bg buy_button is-large" href="javascript:;">KUPI</a>
+							{% if product.available %}
+								<span class="avl-true"> Na stanju </span>
+							{% else %}
+								<span class="avl-false"> Nije na stanju </span>
+							{% endif %}
+                                                            <input type="number" value="1" class="item_Quantity input is-small">
+                                                            <a class="item_add button is-main-bg buy_button is-small" href="javascript:;">KUPI</a>
                                                     </div>
                                             </div>
                             {% endif %}

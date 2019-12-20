@@ -1,10 +1,10 @@
 ---
 title: "CASE COMPLETE ENCYCLOPEDIA OF ARMOUR MODELLING TECHNIQUES - ENGLISH"
 price: "TBA" 
-desc: ""
+desc: "n"
 img_path: "/assets/img/A.MIG-6149E.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

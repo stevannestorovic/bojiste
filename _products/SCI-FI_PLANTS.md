@@ -4,7 +4,7 @@ price: "1000"
 desc: "Laserski sečene biljke"
 img_path: "/assets/img/A.MIG-8459.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

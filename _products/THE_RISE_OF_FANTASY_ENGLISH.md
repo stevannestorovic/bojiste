@@ -1,10 +1,10 @@
 ---
 title: "THE RISE OF FANTASY ENGLISH"
 price: "TBA" 
-desc: ""
+desc: "n"
 img_path: "/assets/img/EURO-0006.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

@@ -4,7 +4,7 @@ price: "760"
 desc: ""
 img_path: "/assets/img/A.MIG-8218.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

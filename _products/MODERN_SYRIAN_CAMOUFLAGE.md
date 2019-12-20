@@ -1,6 +1,6 @@
 ---
 title: "MODERN SYRIAN CAMOUFLAGE"
-price: "1000" 
+price: "900" 
 desc: "Set akrilnih boja"
 img_path: "/assets/img/A.MIG-7103.jpg"
 brand: AMMO

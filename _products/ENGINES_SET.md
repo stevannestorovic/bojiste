@@ -1,6 +1,6 @@
 ---
 title: "ENGINES SET "
-price: "1450" 
+price: "1500" 
 desc: "Set efekata"
 img_path: "/assets/img/A.MIG-7402.jpg"
 brand: AMMO

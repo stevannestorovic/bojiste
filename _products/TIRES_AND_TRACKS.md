@@ -1,6 +1,6 @@
 ---
 title: "TIRES AND TRACKS"
-price: "1750" 
+price: "1800" 
 desc: "Set akrilnih boja za oklop x6"
 img_path: "/assets/img/A.MIG-7105.jpg"
 brand: AMMO

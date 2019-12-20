@@ -4,7 +4,7 @@ price: "1200"
 desc: "Set uljanih boja sa četkicom "
 img_path: "/assets/img/A.MIG-7512.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

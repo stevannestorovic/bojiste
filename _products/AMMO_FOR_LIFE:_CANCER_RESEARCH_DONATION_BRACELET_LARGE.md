@@ -1,10 +1,10 @@
 ---
 title: "AMMO FOR LIFE: CANCER RESEARCH DONATION BRACELET LARGE"
 price: "TBA" 
-desc: ""
+desc: "n"
 img_path: "/assets/img/A.MIG-8021.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

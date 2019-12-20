@@ -4,7 +4,7 @@ price: "300"
 desc: "Akrilna boja - Periva"
 img_path: "/assets/img/A.MIG-0105.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

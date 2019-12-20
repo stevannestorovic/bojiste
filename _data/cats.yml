@@ -9,7 +9,7 @@
             {name: "Rye Field Modles", label: "PM-RYE-FIELD-MODELS", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "Great Wall Hobby", label: "PM-GREAT-WALL-HOBBY", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "Meng", label: "PM-MENG", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
-            {name: "Das Werk", label: "PM-DAS WERK", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
+            {name: "Das Werk", label: "PM-DAS-WERK", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "Wingnuts Wings", label: "PM-WINGNUTS-WINGS", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "Bandai", label: "PM-BANDAI", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "AMMO", label: "PM-AMMO", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
@@ -41,7 +41,7 @@
              subsubcats: [{name: "AK Real Colors", label: "AkrilneBoje-AKMENG-AK-REAL-COLORS"},
                           {name: "AK Sprej", label: "AkrilneBoje-AKMENG-AK-SPREJ"}, 
                           {name: "AK Akrilne Boje", label: "AkrilneBoje-AKMENG-AK-AKRILNE-BOJE"}, 
-                          {name: "True Metal", label: "AkrilneBoje-AKMENG-TRUE METAL"}, 
+                          {name: "True Metal", label: "AkrilneBoje-AKMENG-TRUE-METAL"}, 
                           {name: "Xtreme Metal", label: "AkrilneBoje-AKMENG-XTREME-METAL"}]}, 
               {name: "Tamiya", label: "AB-TAMIYA"},
           {name: "MIG Productions", label: "AB-MIG-PRODUCTIONS"}]

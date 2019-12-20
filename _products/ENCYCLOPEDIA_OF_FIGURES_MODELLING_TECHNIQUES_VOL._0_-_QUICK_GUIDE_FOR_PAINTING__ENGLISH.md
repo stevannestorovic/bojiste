@@ -1,10 +1,10 @@
 ---
 title: "ENCYCLOPEDIA OF FIGURES MODELLING TECHNIQUES VOL. 0 - QUICK GUIDE FOR PAINTING  ENGLISH"
 price: "TBA" 
-desc: ""
+desc: "n"
 img_path: "/assets/img/A.MIG-6220.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

@@ -1,10 +1,10 @@
 ---
 title: "SHERMAN: THE AMERICAN MIRACLE ENGLISH"
 price: "TBA" 
-desc: ""
+desc: "n"
 img_path: "/assets/img/A.MIG-6080.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

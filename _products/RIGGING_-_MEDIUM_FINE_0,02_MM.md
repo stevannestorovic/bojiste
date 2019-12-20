@@ -4,7 +4,7 @@ price: "650"
 desc: "Konac za riging"
 img_path: "/assets/img/A.MIG-8017.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

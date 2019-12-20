@@ -1,10 +1,10 @@
 ---
 title: "EASTERN FRONT. RUKnjige-AMMO-KNJIGE-I-CASOPISIIAN VEHICLES 1935-1945. CAMOUFLAGE GUIDE ENGLISH"
 price: "TBA" 
-desc: ""
+desc: "n"
 img_path: "/assets/img/A.MIG-6007.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

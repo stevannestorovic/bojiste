@@ -1,10 +1,10 @@
 ---
 title: "STAR DEFENDERS SCI-FI COLORS"
-price: "1750" 
+price: "1800" 
 desc: "Set akrilnih boja za oklop x6"
 img_path: "/assets/img/A.MIG-7130.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

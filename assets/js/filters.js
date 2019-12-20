@@ -36,9 +36,15 @@ allProducts.forEach((el) => {
 let chBoxes = document.querySelectorAll("[type='checkbox']");
 chBoxes.forEach((el) => {
 	el.addEventListener('change', (evt) => {
+		let allCheckboxes = document.querySelectorAll('input[type=checkbox]');
+		allCheckboxes.forEach((el)=>{
+			if(evt.target.name !== el.name) {
+				el.checked = false;
+			} 
+		});
+		console.log(evt.target.name)
 		let key = evt.target.name;
 		if(evt.target.checked) {
-			console.log(key + " on");
 			productData.forEach((el) => {
 				if(!el['desc'].toLowerCase().includes(key)) {
 					console.log(key + " found ");
@@ -48,7 +54,6 @@ chBoxes.forEach((el) => {
 				}
 			});
 		} else {
-			console.log(key + " off");
 			productData.forEach((el) => {
 				let elem = el['elem'];
 				elem.classList.remove('hidden');

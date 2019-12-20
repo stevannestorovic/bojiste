@@ -1,10 +1,10 @@
 ---
 title: "1945 T-SHIRT"
 price: "TBA" 
-desc: ""
+desc: "n"
 img_path: "/assets/img/A.MIG-8011XXL.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

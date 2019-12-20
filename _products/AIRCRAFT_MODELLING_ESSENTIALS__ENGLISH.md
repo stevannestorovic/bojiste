@@ -1,10 +1,10 @@
 ---
 title: "AIRCRAFT MODELLING EKnjige-AMMO-KNJIGE-I-CASOPISIENTIALS  ENGLISH"
 price: "TBA" 
-desc: ""
+desc: "n"
 img_path: "/assets/img/EURO-0014.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

@@ -4,7 +4,7 @@ price: "TBA"
 desc: "TBA"
 img_path: "/assets/img/A.MIG-7701.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

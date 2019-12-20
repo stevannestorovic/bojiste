@@ -4,7 +4,7 @@ price: "560"
 desc: "Prazne posudice"
 img_path: "/assets/img/A.MIG-8004.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

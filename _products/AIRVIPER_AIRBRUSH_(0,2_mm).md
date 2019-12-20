@@ -4,7 +4,7 @@ price: "17000"
 desc: "Airbrush 0.2"
 img_path: "/assets/img/A.MIG-8624.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

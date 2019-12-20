@@ -4,7 +4,7 @@ price: "480"
 desc: "Zamenski deo za airbrush"
 img_path: "/assets/img/A.MIG-8645.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

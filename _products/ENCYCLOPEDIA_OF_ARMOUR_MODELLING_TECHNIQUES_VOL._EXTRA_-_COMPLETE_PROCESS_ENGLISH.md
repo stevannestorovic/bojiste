@@ -1,10 +1,10 @@
 ---
 title: "ENCYCLOPEDIA OF ARMOUR MODELLING TECHNIQUES VOL. EXTRA - COMPLETE PROCEKnjige-AMMO-KNJIGE-I-CASOPISI ENGLISH"
 price: "TBA" 
-desc: ""
+desc: "n"
 img_path: "/assets/img/A.MIG-6155.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

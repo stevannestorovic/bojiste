@@ -4,7 +4,7 @@ price: "900"
 desc: "Set četkica"
 img_path: "/assets/img/A.MIG-7605.jpg"
 brand: AMMO
-available: true
+available: false
 special_offer: false
 new: false
 soon: false
