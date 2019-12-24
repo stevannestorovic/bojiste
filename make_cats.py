@@ -140,7 +140,7 @@ title: seo_title
             SCRIPT
             <div class="products">
                 {% for product in site.products %}
-                            {% if product.cat == "CLAB" and product.subcat == "SLAB" and product.subsubcat == "SUBSUBLAB" and product.price != "TBA" and product.price != "0" and product.avaliable %}
+                            {% if product.cat == "CLAB" and product.subcat == "SLAB" and product.subsubcat == "SUBSUBLAB"%}
                                             <div class="product simpleCart_shelfItem">
 						    <h3 style="display:none;" class="item_code">{{product.sifra}}</h3>
                                                     <h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
