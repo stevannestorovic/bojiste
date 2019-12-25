@@ -15,21 +15,21 @@ title: Akril - Tamiya
 
 <div class="products">
     {% for product in site.products %}
-		{% if product.cat == "020000" and product.subcat == "020300" and product.price != "TBA" and product.price != "0"  and product.available %}
+		{% if product.cat == "020000" and product.subcat == "020300" and product.price != "TBA" and product.price != "0" %}
 				<div class="product simpleCart_shelfItem">
                                         <h3 style="display:none;" class="item_code">{{product.sifra}}</h3>
 					<h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
 					<img class="product-img image" data-src="{{product.img_path}}" alt="">
 					<div class="product-data">
 						<p class="product-description"> {{product.desc}}</p>
-						<strong class="product-price is-main-txt item_price">{{product.price}},00 <small>RSD</small></strong>
+						<strong class="product-price is-main-txt item_price">{{product.price}} <small>RSD</small></strong>
 						<p class="product-category item_category">{{ product.category }}</p>
 					</div>
 					<div class="product-widgets">
                                                 {% if product.available %}
-							<span class="avl-true"> Na stanju </span>
+							<span class="avl-true">Na stanju</span>
                                                 {% else %}
-							<span class="avl-false"> Nije na stanju </span>
+							<span class="avl-false">Rasprodato</span>
                                                 {% endif %}
 						<input type="number" value="1" class="item_Quantity input is-small">
 						<a class="item_add button is-main-bg buy_button is-small" href="javascript:;">KUPI</a>

@@ -8,7 +8,7 @@ available: false
 special_offer: false
 new: false
 soon: false
-cat: "0010000"
+cat: "010000"
 subcat: "011000"
 subsubcat: "00"
 sifra: "MM WWP-007"
