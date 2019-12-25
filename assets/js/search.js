@@ -1,13 +1,11 @@
-console.log('search init');
 let query = window.location.search.substring(1);
 query = query.slice(query.indexOf('=')+1);
 query = query.replace(/\+/g, '%20');
 query = decodeURI(query);
 
-console.log('index');
 let idx = new MiniSearch({
-    fields: ['name', 'price', 'desc', 'cat', 'subcat', 'subsubcat'],
-    storeFields: ['name', 'price', 'desc', 'img_path'],
+    fields: ['name', 'desc','sifra'],
+    storeFields: ['name', 'price', 'desc', 'img_path', 'sifra'],
     searchOptions: {prefix: true, fuzzy: 0.1}
 });
 
@@ -19,6 +17,12 @@ let products = document.querySelector('.products');
 res.forEach(element => {
     let product = document.createElement('div');
     product.className += 'product simpleCart_shelfItem';
+   
+
+    let productCode = document.createElement('h3');
+    productCode.className += 'item_code';
+    productCode.style.display = 'none';
+    productCode.innerText = element.sifra;
 
     let productTitle = document.createElement('h4');
     productTitle.className += 'product-name item_name';
@@ -37,7 +41,7 @@ res.forEach(element => {
 
     let productPrice = document.createElement('strong');
     productPrice.classData += 'product-price is-main-txt item_price';
-    productPrice.innerText = element.price;
+    productPrice.innerText = element.price + ',00 RSD';
 
     productData.appendChild(productDesc);
     productData.appendChild(productPrice);
@@ -60,6 +64,7 @@ res.forEach(element => {
     productWidgets.appendChild(productBuy);
 
     product.appendChild(productTitle);
+    product.appendChild(productCode);
     product.appendChild(productImg);
     product.appendChild(productData);
     product.appendChild(productWidgets);

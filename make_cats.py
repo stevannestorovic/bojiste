@@ -53,7 +53,7 @@ title: seo_title
 					<img class="product-img image" data-src="{{product.img_path}}" alt="">
 					<div class="product-data">
 						<p class="product-description"> {{product.desc}}</p>
-						<strong class="product-price is-main-txt item_price">{{product.price}} <small>RSD</small></strong>
+						<strong class="product-price is-main-txt item_price">{{product.price}},00 <small>RSD</small></strong>
 						<p class="product-category item_category">{{ product.category }}</p>
 					</div>
 					<div class="product-widgets">
@@ -99,7 +99,7 @@ SCRIPT
 					<img class="product-img image" data-src="{{product.img_path}}" alt="">
 					<div class="product-data">
 						<p class="product-description"> {{product.desc}}</p>
-						<strong class="product-price is-main-txt item_price">{{product.price}} <small>RSD</small></strong>
+						<strong class="product-price is-main-txt item_price">{{product.price}},00 <small>RSD</small></strong>
 						<p class="product-category item_category">{{ product.category }}</p>
 					</div>
 					<div class="product-widgets">
@@ -147,7 +147,7 @@ title: seo_title
                                                     <img class="product-img image" data-src="{{product.img_path}}" alt="">
                                                     <div class="product-data">
                                                             <p class="product-description"> {{product.desc}}</p>
-                                                            <strong class="product-price is-main-txt item_price">{{product.price}} <small>RSD</small></strong>
+                                                            <strong class="product-price is-main-txt item_price">{{product.price}},00 <small>RSD</small></strong>
                                                             <p class="product-category item_category">{{ product.category }}</p>
                                                     </div>
                                                     <div class="product-widgets">
