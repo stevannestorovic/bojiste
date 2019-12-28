@@ -4,7 +4,7 @@ price: "1800"
 desc: "N/A"
 img_path: "/assets/img/MM WWV-002.jpg"
 brand: "MENG"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false
