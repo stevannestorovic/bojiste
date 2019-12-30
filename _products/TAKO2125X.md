@@ -1,6 +1,7 @@
 ---
+layout: product
 title: "1/35 Jagdpanther G1 early w/ Zimmerit & Schwerer Plattformwagen Type 0N/Ays (interior not included)"
-price: "TBA" 
+price: "8200" 
 desc: "Maketa"
 img_path: "/assets/img/TAKO2125X.jpg"
 brand: "N/A"

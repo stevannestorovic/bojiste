@@ -1,6 +1,7 @@
 ---
+layout: product
 title: "Cute  U.S P-40 Warhawk Fighter"
-price: "TBA" 
+price: "1700" 
 desc: "Maketa"
 img_path: "/assets/img/TIGE106.jpg"
 brand: "N/A"

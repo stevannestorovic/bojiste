@@ -1,6 +1,7 @@
 ---
+layout: product
 title: "1/35 WWII German King Tiger Henschel Turret w/Zimmerit and interior falseIAL EDITION"
-price: "TBA" 
+price: "7000" 
 desc: "Maketa"
 img_path: "/assets/img/TAKO2045S.jpg"
 brand: "N/A"

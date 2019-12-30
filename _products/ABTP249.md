@@ -1,4 +1,5 @@
 ---
+layout: product
 title: "Fiksir pigmenata 75ml"
 price: "700" 
 desc: "Pigment fikser"

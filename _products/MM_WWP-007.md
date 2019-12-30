@@ -1,7 +1,8 @@
 ---
+layout: product
 title: "Panther (Cartoon model)"
 price: "1800" 
-desc: "N/A"
+desc: "Maketa"
 img_path: "/assets/img/MM WWP-007.jpg"
 brand: "MENG"
 available: false

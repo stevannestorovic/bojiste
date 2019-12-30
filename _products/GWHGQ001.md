@@ -1,6 +1,7 @@
 ---
+layout: product
 title: "F-35A USAF/RAAF"
-price: "TBA" 
+price: "2200" 
 desc: "Maketa"
 img_path: "/assets/img/GWHGQ001.jpg"
 brand: "N/A"

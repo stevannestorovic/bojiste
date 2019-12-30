@@ -1,4 +1,5 @@
 ---
+layout: product
 title: "RETARDER"
 price: "300" 
 desc: "Sredstvo za usporavanje sušenja boje"

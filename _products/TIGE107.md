@@ -1,6 +1,7 @@
 ---
+layout: product
 title: "Cute  Lavochkin La-7 Fighter"
-price: "TBA" 
+price: "1700" 
 desc: "Maketa"
 img_path: "/assets/img/TIGE107.jpg"
 brand: "N/A"

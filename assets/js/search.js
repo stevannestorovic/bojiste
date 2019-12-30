@@ -41,7 +41,7 @@ res.forEach(element => {
 
     let productPrice = document.createElement('strong');
     productPrice.classData += 'product-price is-main-txt item_price';
-    productPrice.innerText = element.price + ',00 RSD';
+    productPrice.innerText = element.price + ' RSD';
 
     productData.appendChild(productDesc);
     productData.appendChild(productPrice);

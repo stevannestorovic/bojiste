@@ -1,6 +1,7 @@
 ---
+layout: product
 title: "F-15J JASDF"
-price: "TBA" 
+price: "2200" 
 desc: "Maketa"
 img_path: "/assets/img/GWHGQ002.jpg"
 brand: "N/A"

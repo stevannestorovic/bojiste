@@ -1,6 +1,7 @@
 ---
+layout: product
 title: "Cute  Japanese KI84r ( Contains a pilot)"
-price: "TBA" 
+price: "2500" 
 desc: "Maketa"
 img_path: "/assets/img/TIGETT001.jpg"
 brand: "N/A"

@@ -1,6 +1,7 @@
 ---
+layout: product
 title: "1/35 WWII German King Tiger Henschel w/Zimmerit and interior [Pz.Abt.505] falseIAL EDITION"
-price: "TBA" 
+price: "7000" 
 desc: "Maketa"
 img_path: "/assets/img/TAKO2047S.jpg"
 brand: "N/A"

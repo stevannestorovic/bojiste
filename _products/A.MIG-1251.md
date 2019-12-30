@@ -1,4 +1,5 @@
 ---
+layout: product
 title: "COLD DIRTY GREY"
 price: "410" 
 desc: "Emajl efekat"

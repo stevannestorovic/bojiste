@@ -1,4 +1,5 @@
 ---
+layout: product
 title: "STARSHIP FILTH"
 price: "400" 
 desc: "Uljana boja sa četkicom"

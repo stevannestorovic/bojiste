@@ -1,4 +1,5 @@
 ---
+layout: product
 title: "GUN METAL"
 price: "400" 
 desc: "Uljana boja sa četkicom"

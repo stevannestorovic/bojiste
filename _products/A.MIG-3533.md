@@ -1,4 +1,5 @@
 ---
+layout: product
 title: "RAPTOR SHUTTLE TURQUOISE"
 price: "400" 
 desc: "Uljana boja sa četkicom"

@@ -1,4 +1,5 @@
 ---
+layout: product
 title: "STARSHIP GRIME"
 price: "410" 
 desc: "Emajl efekat"

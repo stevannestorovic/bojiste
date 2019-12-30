@@ -1,6 +1,7 @@
 ---
+layout: product
 title: "Cute  German BF109 Fighter"
-price: "TBA" 
+price: "1600" 
 desc: "Maketa"
 img_path: "/assets/img/TIGE103.jpg"
 brand: "N/A"

@@ -1,6 +1,7 @@
 ---
+layout: product
 title: "1/35 WWII German King Tiger Porsche Turret w/interior [without Zimmerit] falseIAL EDITION"
-price: "TBA" 
+price: "6500" 
 desc: "Maketa"
 img_path: "/assets/img/TAKO2074S.jpg"
 brand: "N/A"

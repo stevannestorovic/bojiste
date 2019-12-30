@@ -29,6 +29,8 @@
             {name: "EBBRO", label: "012800", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "Michael Kontraros", label: "012900", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "Young Miniatuers", label: "013000", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
+            {name: "HK Models", label: "013200", filters: ["1/32", "1/48"]},
+            {name: "ModelCollect", label: "013300", filters: ["1/35", "1/144", "1/72"]},
             {name: "Ostalo", label: "013100", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]}] 
 - maincat: {name: "Akril", label: "020000"}
   subcats: [{name: "AMMO", label: "020100",

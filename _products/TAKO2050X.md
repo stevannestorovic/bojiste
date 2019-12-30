@@ -1,7 +1,8 @@
 ---
+layout: product
 title: "1/35 WWII  Maus V1 & V2  2 in 1 (Limited Edition)"
-price: "TBA" 
-desc: "Out of Production"
+price: "5700" 
+desc: "Maketa"
 img_path: "/assets/img/TAKO2050X.jpg"
 brand: "N/A"
 available: false

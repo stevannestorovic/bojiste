@@ -1,4 +1,5 @@
 ---
+layout: product
 title: "MEDIUM SOIL"
 price: "400" 
 desc: "Uljana boja sa četkicom"

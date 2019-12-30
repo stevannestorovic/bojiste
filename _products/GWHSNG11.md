@@ -1,6 +1,7 @@
 ---
+layout: product
 title: "1/48 MiG-29 9-13 Fulcrum C Korean People's Army Air Force"
-price: "TBA" 
+price: "8700" 
 desc: "Maketa"
 img_path: "/assets/img/GWHSNG11.jpg"
 brand: "N/A"

@@ -111,6 +111,8 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    align-content: center;
+    justify-content: space-between;
     max-height: 500px;
     /*max-width: 200px; */
     width:100%;
@@ -135,6 +137,7 @@
     max-width: 100%;
     height: auto;
     margin-bottom: 3px;
+    margin-top: 3px;
 }
 .buy_button {
     margin-top: 15px;

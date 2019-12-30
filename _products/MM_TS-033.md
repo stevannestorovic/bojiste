@@ -1,7 +1,8 @@
 ---
+layout: product
 title: "1/35 Russian Main Battle Tank T-72B1"
 price: "7800" 
-desc: "N/A"
+desc: "Maketa"
 img_path: "/assets/img/MM TS-033.jpg"
 brand: "MENG"
 available: true

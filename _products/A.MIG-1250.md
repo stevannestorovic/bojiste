@@ -1,4 +1,5 @@
 ---
+layout: product
 title: "MEDIUM BROWN "
 price: "410" 
 desc: "Emajl efekat"

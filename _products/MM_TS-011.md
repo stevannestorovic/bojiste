@@ -1,7 +1,8 @@
 ---
+layout: product
 title: "1/35 French FT-17 Light Tank (Riveted Turret)"
 price: "3700" 
-desc: "N/A"
+desc: "Maketa"
 img_path: "/assets/img/MM TS-011.jpg"
 brand: "MENG"
 available: true

@@ -1,4 +1,5 @@
 ---
+layout: product
 title: "DARK BROWN"
 price: "400" 
 desc: "Uljana boja sa četkicom"

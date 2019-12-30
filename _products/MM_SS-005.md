@@ -1,7 +1,8 @@
 ---
+layout: product
 title: "1/35 U.S. Cougar 6×6 MRAP Vehicle"
 price: "7800" 
-desc: "N/A"
+desc: "Maketa"
 img_path: "/assets/img/MM 00-005.jpg"
 brand: "MENG"
 available: true

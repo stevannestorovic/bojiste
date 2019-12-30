@@ -1,4 +1,5 @@
 ---
+layout: product
 title: "RED TILE"
 price: "400" 
 desc: "Uljana boja sa četkicom"

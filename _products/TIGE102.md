@@ -1,6 +1,7 @@
 ---
+layout: product
 title: "Cute  Japanese KI84 Fighter"
-price: "TBA" 
+price: "1600" 
 desc: "Maketa"
 img_path: "/assets/img/TIGE102.jpg"
 brand: "N/A"

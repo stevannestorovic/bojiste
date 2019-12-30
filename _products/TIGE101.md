@@ -1,6 +1,7 @@
 ---
+layout: product
 title: "Cute  U.S F4U Fighter"
-price: "TBA" 
+price: "1600" 
 desc: "Maketa"
 img_path: "/assets/img/TIGE101.jpg"
 brand: "N/A"

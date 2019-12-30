@@ -1,4 +1,5 @@
 ---
+layout: product
 title: "FLESH TONES SET"
 price: "1200" 
 desc: "Set uljanih boja"

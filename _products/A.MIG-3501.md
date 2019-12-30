@@ -1,4 +1,5 @@
 ---
+layout: product
 title: "WHITE"
 price: "400" 
 desc: "Uljana boja sa četkicom"

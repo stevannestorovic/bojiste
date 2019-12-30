@@ -1,4 +1,5 @@
 ---
+layout: product
 title: "BLUE PATINAS SET"
 price: "1200" 
 desc: "Set uljanih boja"

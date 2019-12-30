@@ -1,4 +1,5 @@
 ---
+layout: product
 title: "DUSTY EARTH"
 price: "400" 
 desc: "Uljana boja sa četkicom"

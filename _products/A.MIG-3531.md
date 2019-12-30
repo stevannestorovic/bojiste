@@ -1,4 +1,5 @@
 ---
+layout: product
 title: "MECHA DARK GREEN"
 price: "400" 
 desc: "Uljana boja sa četkicom"

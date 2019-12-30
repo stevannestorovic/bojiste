@@ -1,7 +1,8 @@
 ---
+layout: product
 title: "1/35 VS-004 PICKUP w/ZU-23-2"
 price: "3300" 
-desc: "N/A"
+desc: "Maketa"
 img_path: "/assets/img/MM VS-004.jpg"
 brand: "MENG"
 available: false

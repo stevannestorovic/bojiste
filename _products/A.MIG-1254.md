@@ -1,4 +1,5 @@
 ---
+layout: product
 title: "RUST"
 price: "410" 
 desc: "Emajl efekat"

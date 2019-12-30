@@ -1,4 +1,5 @@
 ---
+layout: product
 title: "STARSHIP MARKINGS SET "
 price: "1200" 
 desc: "Set uljanih boja"

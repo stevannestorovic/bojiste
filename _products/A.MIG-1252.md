@@ -1,4 +1,5 @@
 ---
+layout: product
 title: "RED BROWN"
 price: "410" 
 desc: "Emajl efekat"

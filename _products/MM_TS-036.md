@@ -1,7 +1,8 @@
 ---
+layout: product
 title: "1/35 Israel Main Battle Tank Merkava Mk.4M"
 price: "7300" 
-desc: "N/A"
+desc: "Maketa"
 img_path: "/assets/img/MM TS-036.jpg"
 brand: "MENG"
 available: true

@@ -1,4 +1,5 @@
 ---
+layout: product
 title: "EARTH CLAY"
 price: "400" 
 desc: "Uljana boja sa četkicom"

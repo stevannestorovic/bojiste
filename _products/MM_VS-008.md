@@ -1,7 +1,8 @@
 ---
+layout: product
 title: "1/35 Russian GAZ 233115 “TIGER-M SPN SPV"
 price: "4300" 
-desc: "N/A"
+desc: "Maketa"
 img_path: "/assets/img/MM VS-008.jpg"
 brand: "MENG"
 available: true

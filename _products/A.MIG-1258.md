@@ -1,4 +1,5 @@
 ---
+layout: product
 title: "STREAKING DUST"
 price: "410" 
 desc: "Emajl efekat"

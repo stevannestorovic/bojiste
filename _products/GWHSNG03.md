@@ -1,6 +1,7 @@
 ---
-title: "1/48 F-15J - JASDF  2013 - Special version: very limited amount available"
-price: "TBA" 
+layout: product
+title: "1/48 F-15J - JASDF  2013 - Special version/ very limited amount available"
+price: "9800" 
 desc: "Maketa"
 img_path: "/assets/img/GWHSNG03.jpg"
 brand: "N/A"
