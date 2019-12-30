@@ -49,9 +49,12 @@ let pmMenu = document.querySelector('#dropdown-menu > li:nth-child(1) > a:nth-ch
 let pmExpandBtn = pmMenu.querySelector('a .list-expand');
 pmExpandBtn.addEventListener('click', (e) => {
 	let menu = document.querySelector('#dropdown-menu > li:nth-child(1) > ul:nth-child(2)');
+	if(menu.classList.value.includes('hidden')) {
+		menu.classList.remove('hidden');
+	} else {
+		menu.classList.add('hidden');
+	}
 	menu.classList.toggle('hidden');	
-	console.log('PM clicked');
-	console.log(pmMenu);
 });
 
 let linksLvl1 = document.querySelectorAll('.menu-list li a .list-expand');
