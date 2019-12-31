@@ -4,7 +4,7 @@ query = query.replace(/\+/g, '%20');
 query = decodeURI(query);
 
 let idx = new MiniSearch({
-    fields: ['name', 'desc','sifra'],
+    fields: ['name', 'desc'],
     storeFields: ['name', 'price', 'desc', 'img_path', 'sifra'],
     searchOptions: {prefix: true, fuzzy: 0.1}
 });
