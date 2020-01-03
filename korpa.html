@@ -5,6 +5,7 @@ title: Korpa
 <div class="section">
 	<div class="container">
 		<h3>Korpa</h3>
+		<p class='hidden empty-notify'>Korpa je prazna!</p>
 		<div class="simplecart-area">
 			<div class="simpleCart_items"></div>
 			<div class="simpleCart_total cart-total"></div>
@@ -13,3 +14,15 @@ title: Korpa
 		</div>
 	</div>
 </div>
+
+<script defer>
+let checkoutBtn = document.querySelector('.checkout-btn');
+let emptyNotify = document.querySelector('empty-notify');
+checkoutBtn.addEventListener('click', function(evt){
+	let n = simpleCart.itemCount;
+	if(n <= 0) {
+		evt.preventDefault();
+		emptyNotify.classList.remove('hidden');
+	} 
+});
+</script>

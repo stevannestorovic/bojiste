@@ -8,6 +8,10 @@ const imgOptions = {
 function preloadImage(img) {
 	const src = img.getAttribute("data-src");
 	if(!src) return;
+	img.onerror = (evt) => {
+		console.log('img error');
+		evt.target.src = '/assets/img/FlakHobby.png';
+	}
 	img.src = src;
 }
 const imgObserver = new IntersectionObserver((entries, imgObserver) =>{

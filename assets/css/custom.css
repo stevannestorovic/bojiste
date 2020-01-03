@@ -410,6 +410,10 @@ hr {
     background-image: linear-gradient(to right,rgb(231, 231, 231), rgba(0, 0, 0, 0.068), rgba(1231, 231, 231));
     background-color: rgba(0,0,0,0);
 }
+
+.btn-helper {
+	text-align: center;
+}
 /* endutils */
 @media (max-width 1000px) {
 	.cat-page section {
