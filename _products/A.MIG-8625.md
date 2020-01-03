@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "AIRCOBRA AIRBRUSH"
-price: "N/A" 
+price: "17000" 
 desc: "N/A"
 img_path: "/assets/img/A.MIG-8625.jpg"
 brand: "AMMO"

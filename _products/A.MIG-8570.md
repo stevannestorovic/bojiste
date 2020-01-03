@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "SNIPERBRUSH COLLECTION SET (7 different types)"
-price: "N/A" 
+price: "320" 
 desc: "N/A"
 img_path: "/assets/img/A.MIG-8570.jpg"
 brand: "AMMO"

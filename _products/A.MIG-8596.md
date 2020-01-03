@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "6 SYNTETIC FILBERT BRUSH"
-price: "N/A" 
+price: "300" 
 desc: "N/A"
 img_path: "/assets/img/A.MIG-8596.jpg"
 brand: "AMMO"

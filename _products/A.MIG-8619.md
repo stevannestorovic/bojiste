@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "1 SYNTETIC FLAT BRUSH"
-price: "N/A" 
+price: "250" 
 desc: "N/A"
 img_path: "/assets/img/A.MIG-8619.jpg"
 brand: "AMMO"
