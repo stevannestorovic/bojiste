@@ -53,7 +53,7 @@
 }
 
 .product-panel-title {
-	font-size: 0.1em;
+	font-size: 1.1em;
 	display: block;	
 1
 }
@@ -65,14 +65,14 @@
 }
 
 .product-panel-name {
-	font-size: 1.1rem;	
+	font-size: 1.1em;	
 }
 
 .panel-products .panel-product {
 	display: flex;
 	flex-direction: column;
-	max-width: 350px;
-	max-height:350px;
+	max-width: 250px;
+	max-height:250px;
 	min-width: 200px;
 	min-height: 390px;
 	width:100%;
@@ -358,7 +358,7 @@ tr:nth-child(odd) {
 }
 
 .avl-false {
-	color: crimson	color: crimson;;
+	color: crimson;
 }
 
 /* utils */
