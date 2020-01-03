@@ -265,6 +265,9 @@
 .menu-wrapper button:hover {
 	/*background-color: #6f8f2f;*/
 }
+.menu {
+	width: 18vw;
+}
 /* end_menu_cats */
 
 /* IMG fallback */

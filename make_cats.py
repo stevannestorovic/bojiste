@@ -60,7 +60,7 @@ title: seo_title
                                                 {% if product.available %}
 							<span class="avl-true">Na stanju</span>
                                                 {% else %}
-							<span class="avl-false">Rasprodato</span>
+							<span class="avl-false">Nema na stanju</span>
                                                 {% endif %}
 						<input type="number" value="1" class="item_Quantity is-small input">
 						<a class="item_add button is-main-bg buy_button is-small" href="javascript:;">KUPI</a>
@@ -83,7 +83,7 @@ title: seo_title
                                                 {% if product.available %}
 							<span class="avl-true">Na stanju</span>
                                                 {% else %}
-							<span class="avl-false">Rasprodato</span>
+							<span class="avl-false">Nema na stanju</span>
                                                 {% endif %}
 						<input type="number" value="1" class="item_Quantity is-small input">
 						<a class="item_add button is-main-bg buy_button is-small" href="javascript:;">KUPI</a>
@@ -129,7 +129,7 @@ SCRIPT
                                                 {% if product.available %}
 							<span class="avl-true">Na stanju</span>
                                                 {% else %}
-							<span class="avl-false">Rasprodato</span>
+							<span class="avl-false">Nije na stanju</span>
                                                 {% endif %}
 						<input type="number" value="1" class="item_Quantity input is-small">
 						<a class="item_add button is-main-bg buy_button is-small" href="javascript:;">KUPI</a>
@@ -152,7 +152,7 @@ SCRIPT
                                                 {% if product.available %}
 							<span class="avl-true">Na stanju</span>
                                                 {% else %}
-							<span class="avl-false">Rasprodato</span>
+							<span class="avl-false">Nije na stanju</span>
                                                 {% endif %}
 						<input type="number" value="1" class="item_Quantity input is-small">
 						<a class="item_add button is-main-bg buy_button is-small" href="javascript:;">KUPI</a>
@@ -200,7 +200,7 @@ title: seo_title
 							{% if product.available %}
 								<span class="avl-true">Na stanju</span>
 							{% else %}
-								<span class="avl-false">Rasprodato</span>
+								<span class="avl-false">Nije na stanju</span>
 							{% endif %}
                                                             <input type="number" value="1" class="item_Quantity input is-small">
                                                             <a class="item_add button is-main-bg buy_button is-small" href="javascript:;">KUPI</a>
@@ -223,7 +223,7 @@ title: seo_title
 							{% if product.available %}
 								<span class="avl-true">Na stanju</span>
 							{% else %}
-								<span class="avl-false">Rasprodato</span>
+								<span class="avl-false">Nije na stanju</span>
 							{% endif %}
                                                             <input type="number" value="1" class="item_Quantity input is-small">
                                                             <a class="item_add button is-main-bg buy_button is-small" href="javascript:;">KUPI</a>
