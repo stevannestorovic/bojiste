@@ -3,6 +3,8 @@
             {name: "Takom", label: "010200", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "Tamiya", label: "010300", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "Eduard", label: "010400", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
+            {name: "Trumpeter", label: "013400", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
+            {name: "Hobyboss", label: "013500", filters: ["1/16", "1/32", "1/48", "1/35", "1/72", "1/144"]},
             {name: "Italeri", label: "010500", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "Dragon", label: "010600", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "Kinetic", label: "010700", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
@@ -11,28 +13,23 @@
             {name: "Meng", label: "011000", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "Das Werk", label: "011100", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "Wingnuts Wings", label: "011200", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
-            {name: "Model  Collect", label: "011300", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "AMMO", label: "011400", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "Tiger Models", label: "011500", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
+            {name: "ICM", label: "013600", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
+            {name: "Aoshima", label: "013700", filters: ["1/16", "1/32", "1/48", "1/35", "1/72", "1/144"]},
+            {name: "AMT", label: "013800", filters: ["1/16", "1/32", "1/48", "1/35", "1/72", "1/144"]},
+            {name: "Roden", label: "013900", filters: ["1/16", "1/32", "1/48", "1/35", "1/72", "1/144"]},
+            {name: "Mistercraft", label: "014000", filters: ["1/16", "1/32", "1/48", "1/35", "1/72", "1/144"]},
             {name: "Border Model", label: "011600", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
-            {name: "Revosys", label: "011700", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
-            {name: "Wingsy Kits", label: "011800", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "Hobby 2000", label: "011900", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "Dora Wings", label: "012000", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
-            {name: "AK", label: "012100", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
-            {name: "Desert Eagle", label: "012200", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
-            {name: "Nuts Planet", label: "012300", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
-            {name: "Yan Models", label: "012400", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
-            {name: "Diopark", label: "012500", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "Doozy", label: "012600", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "MIG Productions", label: "012700", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "EBBRO", label: "012800", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
-            {name: "Michael Kontraros", label: "012900", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
-            {name: "Young Miniatuers", label: "013000", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "HK Models", label: "013200", filters: ["1/32", "1/48"]},
             {name: "ModelCollect", label: "013300", filters: ["1/35", "1/144", "1/72"]},
             {name: "Ostalo", label: "013100", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]}] 
-- maincat: {name: "Akril", label: "020000"}
+- maincat: {name: "Boje", label: "020000"}
   subcats: [{name: "AMMO", label: "020100",
              subsubcats: [ {name: "Pojedinačne Boje", label: "020101", filters: ["periva", "metali", "kristal"]},
                           {name: "Setovi Akrlinih Boja", label: "020102", filters: ["oklop", "avijacija", "figure", "modulacija"]},
@@ -49,7 +46,7 @@
 - maincat: {name: "AMMO Oilbrushers", label: "030000"}
 - maincat: {name: "ALCLAD II Metalic Boje", label: "040000"}
   subcats: [{name: "ALCLAD II 30mL", label: "040100"},
-            {name: "Titans AMMO 400mL", label: "040200"}]
+            {name: "ALCLAD II Original", label: "040300"}]
 - maincat: {name: "Abteilung 502", label: "050000"}
   subcats: [{name: "Uljane Boje", label: "050100"}, 
             {name: "Pigmenti", label: "050200"}, 
