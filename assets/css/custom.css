@@ -103,7 +103,7 @@
     /*grid-template-columns: auto auto auto;*/
     grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
     grid-gap: 5px;
-    max-width: 80vw;
+    max-width: 79vw;
     margin: 0 auto;
     margin-top:10px;
 }
