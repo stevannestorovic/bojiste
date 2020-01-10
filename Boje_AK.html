@@ -15,7 +15,7 @@ title: Boje - AK
 
 <div class="products">
     {% for product in site.products %}
-		{% if product.cat == "020000" and product.subcat == "020200" and product.price != "TBA" and product.price != "0" and product.available %}
+		{% if product.cat == "020000" and product.subcat == "020200" and product.price != "0" and product.available %}
 				<div class="product simpleCart_shelfItem">
                                         <h3 style="display:none;" class="item_code">{{product.sifra}}</h3>
 					<h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
@@ -38,7 +38,7 @@ title: Boje - AK
 		{% endif %}
     {% endfor %}
     {% for product in site.products %}
-		{% if product.cat == "020000" and product.subcat == "020200" and product.price != "TBA" and product.price != "0" and product.available  == false %}
+		{% if product.cat == "020000" and product.subcat == "020200"  and product.price != "0" and product.available  == false %}
 				<div class="product simpleCart_shelfItem">
                                         <h3 style="display:none;" class="item_code">{{product.sifra}}</h3>
 					<h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>

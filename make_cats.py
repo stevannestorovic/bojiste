@@ -46,7 +46,7 @@ title: seo_title
     SCRIPT
 	<div class="products">
 		{% for product in site.products  %}
-			{% if product.cat == "CLAB" and product.price != "TBA" and product.price != "0" and  product.available %}
+			{% if product.cat == "CLAB" and product.price != "0" and  product.available %}
 				<div class="product simpleCart_shelfItem">
                                         <h3 style="display:none;" class="item_code">{{product.sifra}}</h3>
 					<h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
@@ -69,7 +69,7 @@ title: seo_title
 			{% endif %}
 		{% endfor %}
 		{% for product in site.products  %}
-			{% if product.cat == "CLAB" and product.price != "TBA" and product.price != "0"  and product.available == false %}
+			{% if product.cat == "CLAB" and product.price != "0"  and product.available == false %}
 				<div class="product simpleCart_shelfItem">
                                         <h3 style="display:none;" class="item_code">{{product.sifra}}</h3>
 					<h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
@@ -115,7 +115,7 @@ BREADCRUMB
 SCRIPT
 <div class="products">
     {% for product in site.products %}
-		{% if product.cat == "CLAB" and product.subcat == "SLAB" and product.price != "TBA" and product.price != "0" and product.available %}
+		{% if product.cat == "CLAB" and product.subcat == "SLAB" and product.price != "0" and product.available %}
 				<div class="product simpleCart_shelfItem">
                                         <h3 style="display:none;" class="item_code">{{product.sifra}}</h3>
 					<h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
@@ -138,7 +138,7 @@ SCRIPT
 		{% endif %}
     {% endfor %}
     {% for product in site.products %}
-		{% if product.cat == "CLAB" and product.subcat == "SLAB" and product.price != "TBA" and product.price != "0" and product.available  == false %}
+		{% if product.cat == "CLAB" and product.subcat == "SLAB"  and product.price != "0" and product.available  == false %}
 				<div class="product simpleCart_shelfItem">
                                         <h3 style="display:none;" class="item_code">{{product.sifra}}</h3>
 					<h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
