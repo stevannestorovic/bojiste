@@ -62,7 +62,7 @@
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 	grid-gap: 10px;
-	max-width: 80vw;
+	max-width: 75vw;
 }
 
 .product-panel-name {
@@ -103,7 +103,7 @@
     /*grid-template-columns: auto auto auto;*/
     grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
     grid-gap: 5px;
-    max-width: 79vw;
+    max-width: 75vw;
     margin: 0 auto;
     margin-top:10px;
 }
@@ -428,6 +428,6 @@ hr {
 		display: flex;
 	}	
 	.products {
-		max-width: 80vw;
+		max-width: 75vw;
 	}
 }
