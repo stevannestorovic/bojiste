@@ -6,7 +6,7 @@ desc: "Emajl Efekat"
 img_path: "/assets/img/A.MIG-1408.jpg"
 brand: "AMMO"
 available: false
-special_offer: false
+special_offer: true
 new: false
 soon: false
 cat: "060000"
