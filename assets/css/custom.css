@@ -127,6 +127,11 @@
     color: gray;
     margin-right: auto;
 }
+
+.product-name {
+	font-size: 0.8rem;
+}
+
 .product-name, .product-price {
     margin: 10px 0;
 }
