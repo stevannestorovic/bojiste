@@ -4,7 +4,7 @@ echo "[i] Building pages..."
 ./make_cats.py > /dev/null
 echo "[+] Done building pages."
 echo "[i] Building jekyll site"
-bundle exec jekyll b
+bundle exec jekyll b --incremental
 echo "[+] Jekyll build done"
 echo "[i] Moving files to /var/www/html"
 sudo rm -rf /var/www/html/*
