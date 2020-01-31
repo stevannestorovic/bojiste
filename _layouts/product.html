@@ -17,25 +17,28 @@
 </head>
 <body>
     {% include header.html %}
-				<div class="product simpleCart_shelfItem">
+			<div class="container">
+				<div class="single-product simpleCart_shelfItem">
                                         <h3 style="display:none;" class="item_code">{{page.sifra}}</h3>
-					<h4 class="product-name item_name card-header-title"><a class="has-text-dark" href="#">{{page.title}}</a></h4>
-					<img class="product-img image" data-src="{{page.img_path}}" alt="">
-					<div class="product-data">
-						<p class="product-description"> {{page.desc}}</p>
-						<strong class="product-price is-main-txt item_price">{{page.price}} <small>RSD</small></strong>
-						<p class="product-category item_category">{{ page.category }}</p>
+					<h4 class="single-product-name item_name card-header-title"><a class="has-text-dark" href="#">{{page.title}}</a></h4>
+					<img class="single-product-img image" data-src="{{page.img_path}}" alt="">
+					<div class="single-product-data">
+						<p class="single-product-description"> {{page.desc}}</p>
+						<strong class="single-product-price is-main-txt item_price">{{page.price}} <small>RSD</small></strong>
+						<p class="single-product-category item_category">{{ page.category }}</p>
 					</div>
-					<div class="product-widgets">
+	          n                     <img class="single-product-img image" src="{{page.img_path}}" alt="">
+          				<div class="single-product-widgets">
                                                 {% if page.available %}
 							<span class="avl-true">Na stanju</span>
                                                 {% else %}
 							<span class="avl-false">Rasprodato</span>
                                                 {% endif %}
 						<input type="number" value="1" class="item_Quantity is-small input">
-						<a class="item_add button is-main-bg buy_button is-small" href="javascript:;">KUPI</a>
+						<a class="item_add button is-main-bg buy_button is-medium" href="javascript:;">KUPI</a>
 					</div>
 				</div>
+			</div>
     {%include footer.html %}
 
     <script src="/assets/js/simpleCart.js"></script>
