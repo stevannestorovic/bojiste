@@ -16,7 +16,6 @@ for f in files:
 		yaml_data = yaml.safe_load(y_string)
 		yd = yaml.safe_load(y_string)
 
-	if 'sifra' not in yd.keys() or yd['sifra'] == '':
-		print(yd)
+	if yd and'sifra' not in yd.keys() or yd['sifra'] == '':
+		#print(yd)
 		print(f + ' is corrupt')
-		input('')
