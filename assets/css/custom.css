@@ -137,10 +137,13 @@ input[type="number"] {
 
 .product-name {
 	font-size: 0.8rem;
+	font-weight: bold;
 }
+
 
 .product-name, .product-price {
     margin: 10px 0;
+    margin-bottom:3px;
 }
 
 .product-price {
@@ -423,6 +426,10 @@ tr:nth-child(odd) {
 }
 
 /* utils */
+.code{
+	font-size: 0.7rem;
+	border-bottom: 1px dotted #dfdfdf;
+}
 .is-main-bg {
     background-color: #6b8e23;
 }

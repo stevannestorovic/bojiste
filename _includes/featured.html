@@ -6,8 +6,8 @@
 	{% for product in site.products %}
 		{%- if product.featured -%}
 			<div class="panel-product simpleCart_shelfItem">
-				<h3 style="display:none;" class="item_code">{{product.sifra}}</h3>
 				<h4 class="product-panel-name item_name"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
+				<h5 class="code item_code">{{product.sifra}}</h5>
 				<img class="product-panel-img image" data-src="{{product.img_path}}" alt="">
 				<div class="product-panel-data">
 					<p class="product-panel-description"> {{product.desc}}</p>

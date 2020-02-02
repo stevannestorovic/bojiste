@@ -19,9 +19,9 @@ res.forEach(element => {
     product.className += 'product simpleCart_shelfItem';
    
 
-    let productCode = document.createElement('h3');
-    productCode.className += 'item_code';
-    productCode.style.display = 'none';
+    let productCode = document.createElement('h5');
+    productCode.className += 'code item_code';
+    //productCode.style.display = 'none';
     productCode.innerText = element.sifra;
 
     let productTitle = document.createElement('h4');
