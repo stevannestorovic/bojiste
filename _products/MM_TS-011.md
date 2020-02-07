@@ -5,7 +5,7 @@ price: "3700"
 desc: "Maketa"
 img_path: "/assets/img/MM TS-011.jpg"
 brand: "MENG"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

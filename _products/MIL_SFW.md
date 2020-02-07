@@ -1,11 +1,11 @@
 ---
 layout: product
 title: "Milliput 2 part epoxy Super fine"
-price: "TBA" 
+price: "1200" 
 desc: "N/A"
 img_path: "/assets/img/MIL_SFW.jpg"
 brand: "N/A"
-available: false
+available: true
 special_offer: false
 new: false
 soon: false
