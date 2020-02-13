@@ -4,7 +4,7 @@
 	</h2>
 	<div class="panel-products"> 
 	{% for product in site.products %}
-		{%- if product.featured -%}
+		{%- if product.special_offer -%}
 			<div class="panel-product simpleCart_shelfItem">
 				<h4 class="product-panel-name item_name"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
 				<h5 class="code item_code">{{product.sifra}}</h5>
