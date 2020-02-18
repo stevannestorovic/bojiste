@@ -5,7 +5,7 @@ price: "550"
 desc: "N/A"
 img_path: "/assets/img/A.MIG-2032.jpg"
 brand: "AMMO"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

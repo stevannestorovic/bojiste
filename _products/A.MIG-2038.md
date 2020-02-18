@@ -6,8 +6,8 @@ desc: "N/A"
 img_path: "/assets/img/A.MIG-2038.jpg"
 brand: "AMMO"
 available: true
-special_offer: false
-new: true
+special_offer: true
+new: false
 soon: false
 cat: "070000"
 subcat: "070100"

@@ -6,7 +6,7 @@ desc: "N/A"
 img_path: "/assets/img/A.MIG-8012.jpg"
 brand: "AMMO"
 available: false
-special_offer: true
+special_offer: false
 new: false
 soon: false
 cat: "070000"
