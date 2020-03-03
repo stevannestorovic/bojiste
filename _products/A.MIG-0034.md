@@ -5,7 +5,7 @@ price: "300"
 desc: "Akrilna boja 17mL"
 img_path: "/assets/img/A.MIG-0034.jpg"
 brand: "AMMO"
-available: false
+available: true
 special_offer: false
 new: false
 soon: false

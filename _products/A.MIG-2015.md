@@ -5,7 +5,7 @@ price: "500"
 desc: "N/A"
 img_path: "/assets/img/A.MIG-2015.jpg"
 brand: "AMMO"
-available: false
+available: true
 special_offer: false
 new: false
 soon: false

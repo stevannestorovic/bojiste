@@ -8,7 +8,7 @@ brand: "N/A"
 available: false
 special_offer: false
 new: false
-soon: false
+soon: true
 cat: "010000"
 subcat: "011500"
 subsubcat: "0N/A"

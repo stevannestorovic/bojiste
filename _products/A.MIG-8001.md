@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "WORKBENCH ORGANIZER"
-price: "N/A" 
+price: "1800" 
 desc: "N/A"
 img_path: "/assets/img/A.MIG-8001.jpg"
 brand: "AMMO"

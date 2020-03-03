@@ -5,9 +5,9 @@ price: "410"
 desc: "Emajl efekat"
 img_path: "/assets/img/A.MIG-1254.jpg"
 brand: "AMMO"
-available: false
+available: true
 special_offer: false
-new: false
+new: true
 soon: false
 cat: "030000"
 subcat: "00"

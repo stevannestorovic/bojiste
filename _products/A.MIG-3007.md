@@ -5,9 +5,9 @@ price: "500"
 desc: "Pigment"
 img_path: "/assets/img/A.MIG-3007.jpg"
 brand: "AMMO"
-available: false
+available: true
 special_offer: false
-new: false
+new: true
 soon: false
 cat: "060000"
 subcat: "060700"

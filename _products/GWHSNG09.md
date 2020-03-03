@@ -5,10 +5,10 @@ price: "9000"
 desc: "Maketa"
 img_path: "/assets/img/GWHSNG09.jpg"
 brand: "N/A"
-available: false
+available: true
 special_offer: false
-new: false
-soon: true
+new: true
+soon: false
 cat: "010000"
 subcat: "010900"
 subsubcat: "0N/A"

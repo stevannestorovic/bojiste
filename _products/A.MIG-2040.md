@@ -5,9 +5,9 @@ price: "630"
 desc: "N/A"
 img_path: "/assets/img/A.MIG-2040.jpg"
 brand: "AMMO"
-available: false
+available: true
 special_offer: false
-new: false
+new: true
 soon: false
 cat: "070000"
 subcat: "070100"

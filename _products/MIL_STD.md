@@ -6,8 +6,8 @@ desc: "N/A"
 img_path: "/assets/img/MIL_STD.jpg"
 brand: "N/A"
 available: true
-special_offer: false
-new: true
+special_offer: true
+new: false
 soon: false
 cat: "00"
 subcat: "00"

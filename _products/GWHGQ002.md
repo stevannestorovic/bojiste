@@ -5,9 +5,9 @@ price: "2200"
 desc: "Maketa"
 img_path: "/assets/img/GWHGQ002.jpg"
 brand: "N/A"
-available: false
+available: true
 special_offer: false
-new: false
+new: true
 soon: false
 cat: "010000"
 subcat: "010900"
