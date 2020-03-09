@@ -7,8 +7,8 @@ img_path: "/assets/img/A.MIG-0024.jpg"
 brand: "AMMO"
 available: true
 special_offer: false
-new: false
-soon: true
+new: true
+soon: false
 cat: "020000"
 subcat: "020100"
 subsubcat: "020101"
