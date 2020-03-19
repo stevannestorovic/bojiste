@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - PLAAF J20 Fighter"
-price: "TBA" 
+price: "1000" 
 desc: "N/A"
 img_path: "/assets/img/MM-PL-005S.jpg"
 brand: "N/A"

@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - PLA Main Battle Tank ZTZ96B"
-price: "TBA" 
+price: "5200" 
 desc: "N/A"
 img_path: "/assets/img/MM-TS-034.jpg"
 brand: "N/A"

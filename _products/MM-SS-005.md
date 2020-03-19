@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - U.S. Cougar 6×6 Mrap Vehicle"
-price: "TBA" 
+price: "7800" 
 desc: "N/A"
 img_path: "/assets/img/MM-0N/A-005.jpg"
 brand: "N/A"

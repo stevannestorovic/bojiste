@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Wasp Flamethrower Jeep"
-price: "TBA" 
+price: "5200" 
 desc: "N/A"
 img_path: "/assets/img/MM-VS-012.jpg"
 brand: "N/A"

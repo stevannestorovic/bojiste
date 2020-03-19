@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - D9R Armored Bulldozer"
-price: "TBA" 
+price: "8300" 
 desc: "N/A"
 img_path: "/assets/img/MM-0N/A-002.jpg"
 brand: "N/A"

@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - German Armored Recovery Vehicle Sd.Kfz.179 Bergepanther Ausf.A"
-price: "TBA" 
+price: "5000" 
 desc: "N/A"
 img_path: "/assets/img/MM-0N/A-015.jpg"
 brand: "N/A"

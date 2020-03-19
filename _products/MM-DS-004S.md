@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Fiat G.91R Nato Air Forces"
-price: "TBA" 
+price: "3000" 
 desc: "N/A"
 img_path: "/assets/img/MM-DS-004S.jpg"
 brand: "N/A"

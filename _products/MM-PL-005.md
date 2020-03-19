@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - J-20 Fighter"
-price: "TBA" 
+price: "1000" 
 desc: "N/A"
 img_path: "/assets/img/MM-PL-005.jpg"
 brand: "N/A"

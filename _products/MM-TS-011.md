@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - French Ft-17 Light Tank (Riveted Turret)"
-price: "TBA" 
+price: "3700" 
 desc: "N/A"
 img_path: "/assets/img/MM-TS-011.jpg"
 brand: "N/A"

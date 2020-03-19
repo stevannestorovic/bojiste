@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Milliput - Terracotta"
-price: "TBA" 
+price: "900" 
 desc: "N/A"
 img_path: "/assets/img/MIL_TER.jpg"
 brand: "N/A"

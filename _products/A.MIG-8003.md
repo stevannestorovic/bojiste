@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "STAINLE070105 STEEL PAINT MIXERS"
-price: "N/A" 
+price: "400" 
 desc: "N/A"
 img_path: "/assets/img/A.MIG-8003.jpg"
 brand: "AMMO"

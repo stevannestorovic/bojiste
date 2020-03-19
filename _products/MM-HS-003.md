@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - U.S. Explosive Ordnance Disposal Specialists & Robots"
-price: "TBA" 
+price: "1600" 
 desc: "N/A"
 img_path: "/assets/img/MM-HS-003.jpg"
 brand: "N/A"

@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Canadian Main Battle Tank Leopard C2 MEXAS w/Dozer Blade"
-price: "TBA" 
+price: "6500" 
 desc: "N/A"
 img_path: "/assets/img/MM-TS-041.jpg"
 brand: "N/A"

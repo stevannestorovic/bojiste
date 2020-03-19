@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Israel Heavy Armoured Personnel Carrier Achzarit Late"
-price: "TBA" 
+price: "6600" 
 desc: "N/A"
 img_path: "/assets/img/MM-0N/A-008.jpg"
 brand: "N/A"

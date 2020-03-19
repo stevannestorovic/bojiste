@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - German Heavy Tank Tiger I"
-price: "TBA" 
+price: "1600" 
 desc: "N/A"
 img_path: "/assets/img/MM-WWT-001.jpg"
 brand: "N/A"

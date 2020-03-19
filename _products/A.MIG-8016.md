@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "RIGGING - SUPER FINE 0,01 MM"
-price: "N/A" 
+price: "650" 
 desc: "N/A"
 img_path: "/assets/img/A.MIG-8016.jpg"
 brand: "AMMO"

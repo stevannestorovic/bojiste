@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Israel Main Battle Tank Magach 6B GAL BATASH"
-price: "TBA" 
+price: "7800" 
 desc: "N/A"
 img_path: "/assets/img/MM-TS-040.jpg"
 brand: "N/A"

@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Milliput  - 2 part epoxy Black"
-price: "TBA" 
+price: "1000" 
 desc: "N/A"
 img_path: "/assets/img/MIL_BL.jpg"
 brand: "N/A"

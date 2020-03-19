@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "MPC - 1969 Dodge Charger R/T City Slicker (Snap)"
-price: "TBA" 
+price: "4800" 
 desc: "N/A"
 img_path: "/assets/img/MPC879M.jpg"
 brand: "N/A"

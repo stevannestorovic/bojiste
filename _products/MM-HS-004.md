@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Idf Infantry Set"
-price: "TBA" 
+price: "1600" 
 desc: "N/A"
 img_path: "/assets/img/MM-HS-004.jpg"
 brand: "N/A"

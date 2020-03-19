@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Royal Navy Battleship H.M.S. Rodney (29)"
-price: "TBA" 
+price: "4900" 
 desc: "N/A"
 img_path: "/assets/img/MM-PS-001.jpg"
 brand: "N/A"

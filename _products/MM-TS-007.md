@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - German Main Battle Tank Leopard 1A3/A4"
-price: "TBA" 
+price: "7300" 
 desc: "N/A"
 img_path: "/assets/img/MM-TS-007.jpg"
 brand: "N/A"

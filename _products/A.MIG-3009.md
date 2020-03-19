@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "GUN METAL PIGMENT"
+title: "GUN METAL"
 price: "500" 
 desc: "Pigment"
 img_path: "/assets/img/A.MIG-3009.jpg"

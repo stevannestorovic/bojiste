@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Ford F-350 Super Duty Crew Cab"
-price: "TBA" 
+price: "4100" 
 desc: "N/A"
 img_path: "/assets/img/MM-VS-006.jpg"
 brand: "N/A"

@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - German Tank Destroyer Sd.Kfz.173 Jagdpanther G1"
-price: "TBA" 
+price: "5600" 
 desc: "N/A"
 img_path: "/assets/img/MM-TS-039.jpg"
 brand: "N/A"

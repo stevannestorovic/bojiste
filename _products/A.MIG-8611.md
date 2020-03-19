@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "3/0 SYNTETIC ROUND BRUSH"
-price: "N/A" 
+price: "230" 
 desc: "N/A"
 img_path: "/assets/img/A.MIG-8611.jpg"
 brand: "AMMO"

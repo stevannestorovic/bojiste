@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - New Chinese  Main Battle Tank"
-price: "TBA" 
+price: "1700" 
 desc: "N/A"
 img_path: "/assets/img/MM-KIDSV-001.jpg"
 brand: "N/A"

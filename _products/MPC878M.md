@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "MPC - 1969 Dodge Country Charger R/T"
-price: "TBA" 
+price: "4200" 
 desc: "N/A"
 img_path: "/assets/img/MPC878M.jpg"
 brand: "N/A"

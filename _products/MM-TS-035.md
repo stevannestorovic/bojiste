@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - German Medium Tank Sd.Kfz.171 Panther Ausf.A Late"
-price: "TBA" 
+price: "5000" 
 desc: "N/A"
 img_path: "/assets/img/MM-TS-035.jpg"
 brand: "N/A"

@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Tu-2 Bomber"
-price: "TBA" 
+price: "1300" 
 desc: "N/A"
 img_path: "/assets/img/MM-PL-004.jpg"
 brand: "N/A"

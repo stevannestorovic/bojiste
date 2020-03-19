@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "ENAMEL OUDERLE070105 THINNER 35 ML"
-price: "N/A" 
+price: "500" 
 desc: "N/A"
 img_path: "/assets/img/A.MIG-2018.jpg"
 brand: "AMMO"

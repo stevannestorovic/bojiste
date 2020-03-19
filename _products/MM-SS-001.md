@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - German Vskfz 617 Minenraumer"
-price: "TBA" 
+price: "6700" 
 desc: "N/A"
 img_path: "/assets/img/MM-0N/A-001.jpg"
 brand: "N/A"

@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "RIGGING - FINE 0,02 MM"
-price: "N/A" 
+price: "650" 
 desc: "N/A"
 img_path: "/assets/img/A.MIG-8017.jpg"
 brand: "AMMO"

@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "3/0 SYNTETIC LINER BRUSH"
-price: "N/A" 
+price: "190" 
 desc: "N/A"
 img_path: "/assets/img/A.MIG-8590.jpg"
 brand: "AMMO"

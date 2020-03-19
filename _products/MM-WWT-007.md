@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - German Medium Tank PzKpfw V Panther"
-price: "TBA" 
+price: "1400" 
 desc: "N/A"
 img_path: "/assets/img/MM-WWT-007.jpg"
 brand: "N/A"

@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Lockheed Martin F-35A Lightning II Fighter JASDF"
-price: "TBA" 
+price: "8200" 
 desc: "N/A"
 img_path: "/assets/img/MM-LS-008.jpg"
 brand: "N/A"

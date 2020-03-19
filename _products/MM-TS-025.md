@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "Meng Model - Israel Main Battle Tank Merkava Mk.3D Late Lic"
+title: "Meng Model - Israel Main Battle Tank Merkava Mk.3D Late Licence"
 price: "TBA" 
 desc: "N/A"
 img_path: "/assets/img/MM-TS-025.jpg"

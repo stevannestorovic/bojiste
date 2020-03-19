@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Russian Main Battle Tank T-90 W/Tbd-86 Tank Dozer"
-price: "TBA" 
+price: "7800" 
 desc: "N/A"
 img_path: "/assets/img/MM-TS-014.jpg"
 brand: "N/A"

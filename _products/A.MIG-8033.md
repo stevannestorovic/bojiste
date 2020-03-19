@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "SPARE JARS FOR MIXES (5 x 35 ml jars)"
-price: "N/A" 
+price: "700" 
 desc: "N/A"
 img_path: "/assets/img/A.MIG-8033.jpg"
 brand: "AMMO"

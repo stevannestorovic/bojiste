@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "MPC - 1984 GMC Pickup Black"
-price: "TBA" 
+price: "5400" 
 desc: "N/A"
 img_path: "/assets/img/MPC848M.jpg"
 brand: "N/A"

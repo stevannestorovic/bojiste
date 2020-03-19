@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - D9R Armored Bulldozer W/Slat Armor"
-price: "TBA" 
+price: "8900" 
 desc: "N/A"
 img_path: "/assets/img/MM-0N/A-010.jpg"
 brand: "N/A"

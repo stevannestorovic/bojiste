@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - French Super Heavy Tank Char 2C"
-price: "TBA" 
+price: "6700" 
 desc: "N/A"
 img_path: "/assets/img/MM-TS-009.jpg"
 brand: "N/A"

@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Russian BMR-3M Armored Mine Cleaning Vehicle"
-price: "TBA" 
+price: "7300" 
 desc: "N/A"
 img_path: "/assets/img/MM-0N/A-011.jpg"
 brand: "N/A"

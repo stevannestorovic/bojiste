@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Imperial German Army Stormtroopers"
-price: "TBA" 
+price: "1800" 
 desc: "N/A"
 img_path: "/assets/img/MM-HS-010.jpg"
 brand: "N/A"

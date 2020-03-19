@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - German Heavy Tank Sd.Kfz.182 King Tiger (Henschel Turret)"
-price: "TBA" 
+price: "5000" 
 desc: "N/A"
 img_path: "/assets/img/MM-TS-031.jpg"
 brand: "N/A"

@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - U.S. Infantry Fighting Vehicle M2A3 Bradley W/Busk Iii"
-price: "TBA" 
+price: "8300" 
 desc: "N/A"
 img_path: "/assets/img/MM-0N/A-004.jpg"
 brand: "N/A"

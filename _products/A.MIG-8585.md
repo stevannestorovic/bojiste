@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "8 SYNTETIC SAW BRUSH"
-price: "N/A" 
+price: "300" 
 desc: "N/A"
 img_path: "/assets/img/A.MIG-8585.jpg"
 brand: "AMMO"

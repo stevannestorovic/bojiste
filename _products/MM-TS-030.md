@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - German Flakpanzer Gepard A1/A2"
-price: "TBA" 
+price: "5200" 
 desc: "N/A"
 img_path: "/assets/img/MM-TS-030.jpg"
 brand: "N/A"

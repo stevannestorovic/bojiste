@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "POLISHED METAL"
+title: "POLISHED METAL PIGMENT"
 price: "500" 
 desc: "Pigment"
 img_path: "/assets/img/A.MIG-3021.jpg"

@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Main Battle Tank M1A2 SEP Abrams TUSK I/TUSK II LIMITED Christmas Edition"
-price: "TBA" 
+price: "11000" 
 desc: "N/A"
 img_path: "/assets/img/MM-TS-026S.jpg"
 brand: "N/A"

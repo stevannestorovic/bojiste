@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - British Medium Tank Mk.A Whippet"
-price: "TBA" 
+price: "4300" 
 desc: "N/A"
 img_path: "/assets/img/MM-TS-021.jpg"
 brand: "N/A"

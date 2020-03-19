@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "6 SYNTETIC ANGLE BRUSH"
-price: "N/A" 
+price: "270" 
 desc: "N/A"
 img_path: "/assets/img/A.MIG-8607.jpg"
 brand: "AMMO"

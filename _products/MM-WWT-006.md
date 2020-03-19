@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Soviet Medium Tank T-34/76"
-price: "TBA" 
+price: "1600" 
 desc: "N/A"
 img_path: "/assets/img/MM-WWT-006.jpg"
 brand: "N/A"

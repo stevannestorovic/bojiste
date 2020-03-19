@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Capture (resin)"
-price: "TBA" 
+price: "4000" 
 desc: "N/A"
 img_path: "/assets/img/MM-HS-009R.jpg"
 brand: "N/A"

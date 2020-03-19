@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - F-102A (Case XX)"
-price: "TBA" 
+price: "3400" 
 desc: "N/A"
 img_path: "/assets/img/MM-DS-005.jpg"
 brand: "N/A"

@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Pickup Set"
-price: "TBA" 
+price: "4700" 
 desc: "N/A"
 img_path: "/assets/img/MM-VS-007.jpg"
 brand: "N/A"

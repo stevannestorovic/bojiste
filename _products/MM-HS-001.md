@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Middle Easterns In The Street"
-price: "TBA" 
+price: "1800" 
 desc: "N/A"
 img_path: "/assets/img/MM-HS-001.jpg"
 brand: "N/A"

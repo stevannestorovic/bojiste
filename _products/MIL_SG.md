@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Milliput - 2 part epoxy Silver Grey"
-price: "TBA" 
+price: "1000" 
 desc: "N/A"
 img_path: "/assets/img/MIL_SG.jpg"
 brand: "N/A"

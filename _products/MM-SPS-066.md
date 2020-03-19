@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Canadian Main Battle Tank Leopard C2 MEXAS Sand-Proof Canvas Cover (RESIN)"
-price: "TBA" 
+price: "6500" 
 desc: "N/A"
 img_path: "/assets/img/MM-SPS-066.jpg"
 brand: "N/A"

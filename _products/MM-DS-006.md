@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - CONVAIR F-106A Delta Dart Interceptor"
-price: "TBA" 
+price: "5300" 
 desc: "N/A"
 img_path: "/assets/img/MM-DS-006.jpg"
 brand: "N/A"

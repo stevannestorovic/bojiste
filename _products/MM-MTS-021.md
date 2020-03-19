@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Hobby Cutting Mat"
-price: "TBA" 
+price: "2200" 
 desc: "N/A"
 img_path: "/assets/img/MM-MTS-021.jpg"
 brand: "N/A"
