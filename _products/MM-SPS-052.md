@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - German Medium Tank Panther Ausf.A Late Zimmerit Decal Type C"
-price: "TBA" 
+price: "1600" 
 desc: "N/A"
 img_path: "/assets/img/MM-SPS-052.jpg"
 brand: "N/A"

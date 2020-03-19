@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - F-106A Cockpit & Electronic Compartment (Resin)"
-price: "TBA" 
+price: "2300" 
 desc: "N/A"
 img_path: "/assets/img/MM-SPS-022.jpg"
 brand: "N/A"

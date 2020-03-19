@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Equipment For Modern U.S. Military Vehicles"
-price: "TBA" 
+price: "1100" 
 desc: "N/A"
 img_path: "/assets/img/MM-SPS-014.jpg"
 brand: "N/A"

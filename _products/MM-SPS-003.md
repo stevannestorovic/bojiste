@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Tactical Markings For Merkava Mk. 3D/Baz"
-price: "TBA" 
+price: "1100" 
 desc: "N/A"
 img_path: "/assets/img/MM-SPS-003.jpg"
 brand: "N/A"

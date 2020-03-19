@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - U.S. Satellite-guided Bombs"
-price: "TBA" 
+price: "1800" 
 desc: "N/A"
 img_path: "/assets/img/MM-SPS-045.jpg"
 brand: "N/A"

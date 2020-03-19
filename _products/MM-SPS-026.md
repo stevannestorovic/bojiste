@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Russian Light Aa Gun Set"
-price: "TBA" 
+price: "4100" 
 desc: "N/A"
 img_path: "/assets/img/MM-SPS-026.jpg"
 brand: "N/A"

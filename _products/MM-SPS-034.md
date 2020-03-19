@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Pickup Mounted Rocket Pods (Resin)"
-price: "TBA" 
+price: "3500" 
 desc: "N/A"
 img_path: "/assets/img/MM-SPS-034.jpg"
 brand: "N/A"

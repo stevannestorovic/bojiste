@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Hummer H1 Upgrade Kit (Resin)"
-price: "TBA" 
+price: "3500" 
 desc: "N/A"
 img_path: "/assets/img/MM-SPS-033.jpg"
 brand: "N/A"

@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - German Medium Tank Sd.Kfz.171 Panther Ausf.D Turret (Travel Mode)"
-price: "TBA" 
+price: "6500" 
 desc: "N/A"
 img_path: "/assets/img/MM-SPS-059.jpg"
 brand: "N/A"

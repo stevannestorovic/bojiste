@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Single-Pin Tracks For T-72 & T-90 Main Battle Tanks"
-price: "TBA" 
+price: "2800" 
 desc: "N/A"
 img_path: "/assets/img/MM-SPS-029.jpg"
 brand: "N/A"

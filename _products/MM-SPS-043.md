@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - U.S. Short-range Air-to-air Missiles"
-price: "TBA" 
+price: "1800" 
 desc: "N/A"
 img_path: "/assets/img/MM-SPS-043.jpg"
 brand: "N/A"

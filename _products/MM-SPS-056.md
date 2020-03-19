@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Israel Main Battle Tank Merkava Mk.4M Fully Loaded Rear Baskets (RESIN)"
-price: "TBA" 
+price: "6500" 
 desc: "N/A"
 img_path: "/assets/img/MM-SPS-056.jpg"
 brand: "N/A"

@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Nuts And Bolts For Vehicle & Diorama Set A Large"
-price: "TBA" 
+price: "500" 
 desc: "N/A"
 img_path: "/assets/img/MM-SPS-004.jpg"
 brand: "N/A"

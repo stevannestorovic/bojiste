@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Modern Russian Individual Support Weapons (Resin)"
-price: "TBA" 
+price: "3100" 
 desc: "N/A"
 img_path: "/assets/img/MM-SPS-048.jpg"
 brand: "N/A"

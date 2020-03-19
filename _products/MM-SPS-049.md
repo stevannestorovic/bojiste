@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - German Medium Tank Panther Late Tracks & Movable Running Gear Parts"
-price: "TBA" 
+price: "3600" 
 desc: "N/A"
 img_path: "/assets/img/MM-SPS-049.jpg"
 brand: "N/A"

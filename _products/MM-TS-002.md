@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - British Heavy Assault Tank A39 Tortoise"
-price: "TBA" 
+price: "8300" 
 desc: "N/A"
 img_path: "/assets/img/MM-TS-002.jpg"
 brand: "N/A"

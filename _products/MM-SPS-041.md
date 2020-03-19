@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Middle Eastern Refueling Equipment"
-price: "TBA" 
+price: "4800" 
 desc: "N/A"
 img_path: "/assets/img/MM-SPS-041.jpg"
 brand: "N/A"

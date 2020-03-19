@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - German Heavy Tank Sd.Kfz.182 King Tiger (Porsche Turret) Interior S"
-price: "TBA" 
+price: "4400" 
 desc: "N/A"
 img_path: "/assets/img/MM-SPS-062.jpg"
 brand: "N/A"

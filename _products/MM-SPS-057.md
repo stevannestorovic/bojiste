@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - German Medium Tank Sd.Kfz.171 Panther Early Production Tracks & Mov"
-price: "TBA" 
+price: "3500" 
 desc: "N/A"
 img_path: "/assets/img/MM-SPS-057.jpg"
 brand: "N/A"

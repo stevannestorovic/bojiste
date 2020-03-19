@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - German Heavy Tank Sd.Kfz.182 King Tiger Turret Maintenance Stand &"
-price: "TBA" 
+price: "4500" 
 desc: "N/A"
 img_path: "/assets/img/MM-SPS-061.jpg"
 brand: "N/A"

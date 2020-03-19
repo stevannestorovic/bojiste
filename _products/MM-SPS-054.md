@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Jeep Rubicon Upgrade Kit"
-price: "TBA" 
+price: "3500" 
 desc: "N/A"
 img_path: "/assets/img/MM-SPS-054.jpg"
 brand: "N/A"

@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Beer Bottles For Vehicle & Diorama"
-price: "TBA" 
+price: "650" 
 desc: "N/A"
 img_path: "/assets/img/MM-SPS-011.jpg"
 brand: "N/A"

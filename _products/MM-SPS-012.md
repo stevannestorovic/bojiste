@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Concrete & Plastic Barrier Set"
-price: "TBA" 
+price: "1400" 
 desc: "N/A"
 img_path: "/assets/img/MM-SPS-012.jpg"
 brand: "N/A"

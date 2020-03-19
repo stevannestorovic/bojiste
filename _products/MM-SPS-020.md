@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - Modern Idf Individual Load-Carrying Equipment"
-price: "TBA" 
+price: "1150" 
 desc: "N/A"
 img_path: "/assets/img/MM-SPS-020.jpg"
 brand: "N/A"
