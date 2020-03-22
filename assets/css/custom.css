@@ -396,7 +396,7 @@ tr:nth-child(even) {
     background: whitesmoke;
 }
 tr:nth-child(odd) {
-    background: #aabbaa;
+    background: var(--main-color);
 }
 
 .cart-total {
@@ -477,6 +477,10 @@ hr {
 
 .btn-helper {
 	text-align: center;
+}
+
+.section {
+    padding-top: 0;
 }
 /* endutils */
 @media (max-width 1000px) {
