@@ -49,10 +49,10 @@ allSubmenus.forEach(function (elem) {
 	elem.classList.add('hidden');
 });
 
-let pmMenu = document.querySelector('#dropdown-menu > li:nth-child(1) > a:nth-child(1)');
+let pmMenu = document.querySelector('#dropdown-menu > li:nth-child(4) > a');
 let pmExpandBtn = pmMenu.querySelector('a .list-expand');
 pmExpandBtn.addEventListener('click', (e) => {
-	let menu = document.querySelector('#dropdown-menu > li:nth-child(1) > ul:nth-child(2)');
+	let menu = document.querySelector('#dropdown-menu > li:nth-child(4) > ul');
 	if(menu.classList.value.includes('hidden')) {
 		menu.classList.remove('hidden');
 	} else {
