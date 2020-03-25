@@ -6,7 +6,7 @@ desc: "N/A"
 img_path: "/assets/img/MIL_SFW.jpg"
 brand: "N/A"
 available: true
-special_offer: false
+special_offer: true
 new: false
 soon: false
 cat: "00"

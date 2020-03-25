@@ -5,7 +5,7 @@ price: "700"
 desc: "N/A"
 img_path: "/assets/img/MIL_STD.jpg"
 brand: "N/A"
-available: true
+available: false
 special_offer: true
 new: false
 soon: false
