@@ -483,12 +483,23 @@ hr {
     padding-top: 0;
 }
 /* endutils */
-@media (max-width 1000px) {
-	.cat-page section {
+
+/* responsive rules */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+	.cat-page {
 		display: flex;
 		flex-direction: column;
-		border: 1px solid red;
 	}
+    
+    .menu {
+        text-align: center;
+        width: 100vw;
+        font-size: 0.9rem;
+    }
+
+    .product-panel-title {
+        text-align: center;
+    }
 }
 
 @media (min-width: 48rem) {
@@ -498,4 +509,13 @@ hr {
 	.products {
 		max-width: 75vw;
 	}
+/*	.cat-page section {
+		display: flex;
+		flex-direction: column;
+	}
+    .menu {
+        text-align: center;
+        width: 100vw;
+        font-size: 0.9rem;
+    } */
 }
