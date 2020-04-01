@@ -1,10 +1,6 @@
 <!-- <button class="is-light button toggle-menu-button">Meni</button> -->
 <div class="menu">
 		<ul class="menu-list menu" id="dropdown-menu" role="menu">
-        <li><a href="novo.html">Novo na stanju</a></li>
-        <li><a href="akcija.html">Akcija</a></li>
-        <!-- <li><a href="popularno.html">Popularno</a></li> -->
-        <li><a href="preporuka.html">Preporuka</a></li>
 		{%- for cat in site.data.cats -%}
 		<li>
 			<a href="{{cat.maincat.name | replace: ' ', '_'}}.html" class="lvl1">
@@ -64,11 +60,11 @@ allSubmenus.forEach(function (elem) {
 });
 
 
-let pmMenu = document.querySelector('#dropdown-menu > li:nth-child(4) > a');
+let pmMenu = document.querySelector('#dropdown-menu > li:nth-child(1) > a');
 let pmExpandBtn = pmMenu.querySelector('a .list-expand');
 pmExpandBtn.addEventListener('click', (e) => {
 	console.log('PM kliknuto');
-	let menu = document.querySelector('#dropdown-menu > li:nth-child(4) > ul');
+	let menu = document.querySelector('#dropdown-menu > li:nth-child(1) > ul');
 	console.log(menu.classList);
 	if(menu.classList.value.includes('hidden')) {
 		menu.classList.remove('hidden');
