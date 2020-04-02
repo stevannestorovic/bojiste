@@ -13,4 +13,5 @@ cat: "070000"
 subcat: "070100"
 subsubcat: "070102"
 sifra: "A.MIG-8585"
+popular: true
 ---

@@ -13,4 +13,5 @@ cat: "060000"
 subcat: "060300"
 subsubcat: "00"
 sifra: "A.MIG-1601"
+popular: true
 ---

@@ -13,4 +13,5 @@ cat: "040000"
 subcat: "040100"
 subsubcat: "00"
 sifra: "A.MIG-8205"
+popular: true
 ---

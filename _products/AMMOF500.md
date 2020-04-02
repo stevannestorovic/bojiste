@@ -13,4 +13,5 @@ cat: "020000"
 subcat: "020100"
 subsubcat: "020101"
 sifra: "AMMOF500"
+popular: true
 ---

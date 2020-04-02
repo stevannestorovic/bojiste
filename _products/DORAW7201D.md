@@ -13,4 +13,5 @@ cat: "010000"
 subcat: "012000"
 subsubcat: "0N/A"
 sifra: "DORAW7201D"
+popular: true
 ---

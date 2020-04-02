@@ -13,4 +13,5 @@ cat: "010000"
 subcat: "011500"
 subsubcat: "0N/A"
 sifra: "TIGETT001"
+popular: true
 ---

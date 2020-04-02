@@ -13,4 +13,5 @@ cat: "070000"
 subcat: "070100"
 subsubcat: "070101"
 sifra: "A.MIG-8625"
+popular: true
 ---
