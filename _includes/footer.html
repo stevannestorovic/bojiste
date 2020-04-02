@@ -5,18 +5,20 @@
         <hr>
         <p><span class="contact-info is-main-txt">Email:</span> <a  class="has-text-dark" href="mailto:{{site.data.contact.email}}">{{site.data.contact.email}}</a></p>
          <p><span class="contact-info is-main-txt">Adresa:</span> <a  class="has-text-dark" href="">{{site.data.contact.address}}</a></p>
-         <p><span class="contact-info is-main-txt">Telefon:</span> <a  class="has-text-dark href="tel:{{site.data.contact.tel}}">{{site.data.contact.tel}}</a></p>
+         <p><span class="contact-info is-main-txt">Telefon:</span> <a  class="has-text-dark" href="tel:{{site.data.contact.tel}}">{{site.data.contact.tel}}</a></p>
         </div>
         <div class="column">
-        <h3 class="title has-text-dark">Brendovi</h3>
+        <h3 class="title has-text-dark">Lokacija</h3>
         <hr>
+	    {{site.data.contact.map_link}}
+        <!--<hr>
             <ul>
                 {% for brand in site.data.brendovi %}
                     <li>
                         <a class="has-text-dark" href="#">{{brand.label}}</a>
                     </li>
                 {% endfor%}
-            </ul>
+            </ul> -->
         </div>
         <div class="column">
             <h3 class="title has-text-dark">Kategorije</h3>
