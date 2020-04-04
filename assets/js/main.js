@@ -35,3 +35,9 @@ simpleCart({
 //		currency: "dinar",
 	cartStyle: "table"
 });
+
+window.onload = (e) => {
+    let loadSpinner = document.querySelector('.custom-loader');
+    loadSpinner.classList.add('loader-hidden');
+    console.log('all loaded');
+}

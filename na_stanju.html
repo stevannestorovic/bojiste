@@ -3,10 +3,17 @@ layout: default
 title: Kategorije
 ---
 <div class="container">
-	<aside>
-		{% include menu.html %}
-	</aside>
-	<section>
-		{% include stanje.html %}
-	</section>
+    <div class="sidebar-helper">
+            <aside>
+                {% include menu_new.html %}
+            </aside>
+            <div class="section">
+                <div class="container">
+                    <section>
+                        <h2 class="is-main-txt" style="font-size: 1.2rem; font-weight: bold;">Proizvodi na stanju</h2>
+                        {% include stanje.html %}
+                    </section>
+                </div>
+            </div>
+    </div>
 </div>

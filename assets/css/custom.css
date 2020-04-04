@@ -1,6 +1,52 @@
 :root {
 	--main-color: #6b8e23;
 }
+
+/* loader */
+.custom-loader {
+    width:100%;
+    height:100%;
+    z-index: 99;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.custom-loader  img {
+    /*witdh: 100px;*/
+    animation: rotateLoader;
+}
+
+.custom-loader.loader-hidden {
+   animation: fadeOut 1s;
+   animation-fill-mode: forwards;
+}
+
+@keyframes fadeOut {
+    100% {
+        opacity: 0;
+        visibility: hidden;
+    }
+}
+
+
+@keyframes rotateLoader {
+    from {
+        transform: rotateX(360deg);
+    }
+
+    to {
+        transform: rotateX(0deg);
+    }
+
+}
+
+/* end loader */
+
 /* index main*/
 .index-main {
     background-color: rgba(0,0,0,.25);
@@ -97,7 +143,30 @@
 }
 
 .item_add:active {
-	background-color: #ade63a;
+	/*background-color: #ade63a;*/
+    animation: shake 1s cubic-bezier(.36,.07,.19,.97) both;
+    transform: translate3d(0, 0, 0);
+    backface-visibility: hidden;
+    perspective: 1000px;
+}
+
+
+@keyframes shake {
+  10%, 90% {
+    transform: translate3d(-2px, 0, 0);
+  }
+
+  20%, 80% {
+    transform: translate3d(4px, 0, 0);
+  }
+
+  30%, 50%, 70% {
+    transform: translate3d(-6px, 0, 0);
+  }
+
+  40%, 60% {
+    transform: translate3d(6px, 0, 0);
+  }
 }
 /* end product-panel */
 
@@ -396,7 +465,7 @@ tr:nth-child(even) {
     background: whitesmoke;
 }
 tr:nth-child(odd) {
-    background: var(--main-color);
+    background: white;
 }
 
 .cart-total {
@@ -409,10 +478,10 @@ tr:nth-child(odd) {
     padding: 5px;
     width: 100%;
     height: 100%;
-    border-radius: 10%;
+    border-radius: 1%;
     margin-left: 10px;
-    background-color: rgb(219, 219, 219);
-    color: grey;
+    background-color: var(--main-color);
+    color: whitesmoke;
 }
 /* end table */
 
@@ -431,11 +500,11 @@ tr:nth-child(odd) {
 	border-bottom: 1px dotted #dfdfdf;
 }
 .is-main-bg {
-    background-color: #6b8e23;
+    background-color: var(--main-color);
 }
 
 .is-main-txt {
-    color: #6b8e23;
+    color: var(--main-color);
 }
 
 .my-container {
