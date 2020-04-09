@@ -4,5 +4,5 @@
     X-Frame-Options = "DENY"
     X-XSS-Protection = "1; mode=block"
     Access-Control-Allow-Methods = "GET, POST, PATCH, OPTIONS"
-    Access-Control-Allow-Origin = "https://diferencija.herokuapp.com"
+    Access-Control-Allow-Origin = "https://diferencijal.herokuapp.com"
 
