@@ -7,7 +7,7 @@ img_path: "/assets/img/MFStrong.jpg"
 brand: "N/A"
 available: false
 special_offer: false
-new: true
+new: false
 soon: false
 cat: "0N/A"
 subcat: "0N/A"
