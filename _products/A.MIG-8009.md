@@ -2,7 +2,7 @@
 layout: product
 title: "ALUMINIUM PALLET (10 WELLS)"
 price: "430" 
-desc: "N/A"
+desc: "Alu paleta"
 img_path: "/assets/img/A.MIG-8009.jpg"
 brand: "AMMO"
 available: false

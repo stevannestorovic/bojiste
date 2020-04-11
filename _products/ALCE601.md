@@ -2,7 +2,7 @@
 layout: product
 title: "Alclad 2 - Israeli Camouflage Pale Green 30ml"
 price: "TBA" 
-desc: "N/A"
+desc: "Metalizer boja"
 img_path: "/assets/img/ALCE601.jpg"
 brand: "N/A"
 available: false

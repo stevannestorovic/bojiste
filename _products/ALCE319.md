@@ -2,7 +2,7 @@
 layout: product
 title: "Alclad 2 - USN WWII Intermediate Blue (FS59535164) 30ml"
 price: "TBA" 
-desc: "N/A"
+desc: "Metalizer boja"
 img_path: "/assets/img/ALCE319.jpg"
 brand: "N/A"
 available: false

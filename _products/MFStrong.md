@@ -2,7 +2,7 @@
 layout: product
 title: "Tamiya Mark Fit Strong"
 price: "700" 
-desc: "N/A"
+desc: "Sredstvo za dekale"
 img_path: "/assets/img/MFStrong.jpg"
 brand: "N/A"
 available: false

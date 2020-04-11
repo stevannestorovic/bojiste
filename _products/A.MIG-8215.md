@@ -2,7 +2,7 @@
 layout: product
 title: "AIRFRAME ALUMINIUM"
 price: "760" 
-desc: "N/A"
+desc: "Metalizer boja"
 img_path: "/assets/img/A.MIG-8215.jpg"
 brand: "Alclad II"
 available: false

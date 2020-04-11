@@ -2,7 +2,7 @@
 layout: product
 title: "Alclad 2 - RAF Barley Grey (BS 626) 30ml"
 price: "TBA" 
-desc: "N/A"
+desc: "Metalizer boja"
 img_path: "/assets/img/ALCE633.jpg"
 brand: "N/A"
 available: false

@@ -2,7 +2,7 @@
 layout: product
 title: "Alclad 2 - Light Ghost Grey (FS36375) 30ml"
 price: "TBA" 
-desc: "N/A"
+desc: "Metalizer boja"
 img_path: "/assets/img/ALCE636.jpg"
 brand: "N/A"
 available: false

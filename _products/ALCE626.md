@@ -2,7 +2,7 @@
 layout: product
 title: "Alclad 2 - RAF Azure Blue 30ml"
 price: "TBA" 
-desc: "N/A"
+desc: "Metalizer boja"
 img_path: "/assets/img/ALCE626.jpg"
 brand: "N/A"
 available: false

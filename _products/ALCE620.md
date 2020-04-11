@@ -2,7 +2,7 @@
 layout: product
 title: "Alclad 2 - Nato Black (BS480000ES3) 30ml"
 price: "TBA" 
-desc: "N/A"
+desc: "Metalizer boja"
 img_path: "/assets/img/ALCE620.jpg"
 brand: "N/A"
 available: false

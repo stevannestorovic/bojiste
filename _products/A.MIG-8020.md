@@ -2,7 +2,7 @@
 layout: product
 title: "OILBRUSHERS ORGANIZER"
 price: "1600" 
-desc: "N/A"
+desc: "Polica"
 img_path: "/assets/img/A.MIG-8020.jpg"
 brand: "AMMO"
 available: false

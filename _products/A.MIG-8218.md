@@ -2,7 +2,7 @@
 layout: product
 title: "ALC104 PALE BURNT METAL"
 price: "760" 
-desc: "N/A"
+desc: "Metalizer boja"
 img_path: "/assets/img/A.MIG-8218.jpg"
 brand: "Alclad II"
 available: false

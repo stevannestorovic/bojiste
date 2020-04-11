@@ -2,7 +2,7 @@
 layout: product
 title: "ACTIVATOR FOR CYANOACRYLATE"
 price: "1300" 
-desc: "N/A"
+desc: "Sredstvo za instant sušenje superlepka"
 img_path: "/assets/img/A.MIG-8037.jpg"
 brand: "AMMO"
 available: true

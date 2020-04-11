@@ -2,7 +2,7 @@
 layout: product
 title: "Alclad 2 - RMM76 White Blue 30ml"
 price: "TBA" 
-desc: "N/A"
+desc: "Metalizer boja"
 img_path: "/assets/img/ALCE222.jpg"
 brand: "N/A"
 available: false

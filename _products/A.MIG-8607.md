@@ -2,7 +2,7 @@
 layout: product
 title: "6 SYNTETIC ANGLE BRUSH"
 price: "270" 
-desc: "N/A"
+desc: "Sintetička četkica"
 img_path: "/assets/img/A.MIG-8607.jpg"
 brand: "AMMO"
 available: false

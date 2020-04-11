@@ -2,7 +2,7 @@
 layout: product
 title: "STAINLE00 STEEL"
 price: "760" 
-desc: "N/A"
+desc: "Metalizer boja"
 img_path: "/assets/img/A.MIG-8217.jpg"
 brand: "Alclad II"
 available: false

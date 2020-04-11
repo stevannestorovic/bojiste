@@ -2,7 +2,7 @@
 layout: product
 title: "POLISHED BRA00 ALC109"
 price: "760" 
-desc: "N/A"
+desc: "Metalizer boja"
 img_path: "/assets/img/A.MIG-8206.jpg"
 brand: "Alclad II"
 available: true

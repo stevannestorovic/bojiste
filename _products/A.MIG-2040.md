@@ -2,7 +2,7 @@
 layout: product
 title: "KLASIČNI GIT"
 price: "630" 
-desc: "Git"
+desc: "Klasični git"
 img_path: "/assets/img/A.MIG-2040.jpg"
 brand: "AMMO"
 available: true

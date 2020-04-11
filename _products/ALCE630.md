@@ -2,7 +2,7 @@
 layout: product
 title: "Alclad 2 - Air Defence Grey (FS16473) 30ml"
 price: "TBA" 
-desc: "N/A"
+desc: "Metalizer boja"
 img_path: "/assets/img/ALCE630.jpg"
 brand: "N/A"
 available: false

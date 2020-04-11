@@ -2,7 +2,7 @@
 layout: product
 title: "Alclad 2 - Dark Gull Grey 30ml"
 price: "TBA" 
-desc: "N/A"
+desc: "Metalizer boja"
 img_path: "/assets/img/ALCE635.jpg"
 brand: "N/A"
 available: false

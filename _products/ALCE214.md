@@ -2,7 +2,7 @@
 layout: product
 title: "Alclad 2 - RLM65 Pale Blue 30ml"
 price: "TBA" 
-desc: "N/A"
+desc: "Metalizer boja"
 img_path: "/assets/img/ALCE214.jpg"
 brand: "N/A"
 available: false

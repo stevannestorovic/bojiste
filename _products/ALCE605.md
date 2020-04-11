@@ -2,7 +2,7 @@
 layout: product
 title: "Alclad 2 - Signal Red 30ml"
 price: "TBA" 
-desc: "N/A"
+desc: "Metalizer boja"
 img_path: "/assets/img/ALCE605.jpg"
 brand: "N/A"
 available: false

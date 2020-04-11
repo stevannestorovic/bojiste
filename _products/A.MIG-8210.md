@@ -2,7 +2,7 @@
 layout: product
 title: "GLO00 BLACK BASE PRIMER"
 price: "760" 
-desc: "N/A"
+desc: "Gloss prajmer za metalik boje"
 img_path: "/assets/img/A.MIG-8210.jpg"
 brand: "Alclad II"
 available: true

@@ -2,7 +2,7 @@
 layout: product
 title: "AKRILNI GIT"
 price: "630" 
-desc: "Git"
+desc: "Akrilni git"
 img_path: "/assets/img/A.MIG-2039.jpg"
 brand: "AMMO"
 available: true

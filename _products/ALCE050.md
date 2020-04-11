@@ -2,7 +2,7 @@
 layout: product
 title: "Alclad 2 - British Deep Bronze Green (BS381C224) 30ml"
 price: "TBA" 
-desc: "N/A"
+desc: "Metalizer boja"
 img_path: "/assets/img/ALCE050.jpg"
 brand: "N/A"
 available: false

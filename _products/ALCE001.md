@@ -2,7 +2,7 @@
 layout: product
 title: "Alclad 2 - RAF Extra Dark Sea Grey (BS381C640) 30ml"
 price: "TBA" 
-desc: "N/A"
+desc: "Metalizer boja"
 img_path: "/assets/img/ALCE001.jpg"
 brand: "N/A"
 available: false

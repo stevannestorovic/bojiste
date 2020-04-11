@@ -2,7 +2,7 @@
 layout: product
 title: "Alclad 2 - Zinc Chromate Yellow (FS33481) 30ml"
 price: "TBA" 
-desc: "N/A"
+desc: "Metalizer boja"
 img_path: "/assets/img/ALCE104.jpg"
 brand: "N/A"
 available: false

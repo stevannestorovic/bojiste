@@ -2,7 +2,7 @@
 layout: product
 title: "RUST"
 price: "410" 
-desc: "Streaking emajl efekat"
+desc: "Emajl efekat sa četkicom"
 img_path: "/assets/img/A.MIG-1254.jpg"
 brand: "AMMO"
 available: true

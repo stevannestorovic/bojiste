@@ -2,7 +2,7 @@
 layout: product
 title: "ALC118 GOLD TITANIUM"
 price: "760" 
-desc: "N/A"
+desc: "Metalizer boja"
 img_path: "/assets/img/A.MIG-8216.jpg"
 brand: "Alclad II"
 available: true

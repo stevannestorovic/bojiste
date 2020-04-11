@@ -2,7 +2,7 @@
 layout: product
 title: "Alclad 2 - Medium Grey (FS35237) 30ml"
 price: "TBA" 
-desc: "N/A"
+desc: "Metalizer boja"
 img_path: "/assets/img/ALCE631.jpg"
 brand: "N/A"
 available: false

@@ -2,7 +2,7 @@
 layout: product
 title: "BURNT IRON ALC121"
 price: "760" 
-desc: "N/A"
+desc: "Metalizer boja"
 img_path: "/assets/img/A.MIG-8209.jpg"
 brand: "Alclad II"
 available: false

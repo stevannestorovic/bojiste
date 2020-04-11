@@ -2,7 +2,7 @@
 layout: product
 title: "ULTRA GLUE"
 price: "550" 
-desc: "N/A"
+desc: "Providni lepak za eceraj I providne delove"
 img_path: "/assets/img/A.MIG-2031.jpg"
 brand: "AMMO"
 available: true

@@ -2,7 +2,7 @@
 layout: product
 title: "AQUA GLO00 CLEAR"
 price: "760" 
-desc: "N/A"
+desc: "Lak za metalizer boje"
 img_path: "/assets/img/A.MIG-8211.jpg"
 brand: "Alclad II"
 available: true

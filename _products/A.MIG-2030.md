@@ -2,7 +2,7 @@
 layout: product
 title: "ULTRA DECAL-FIX"
 price: "650" 
-desc: "N/A"
+desc: "Sredstvo za fiksiranje dekala"
 img_path: "/assets/img/A.MIG-2030.jpg"
 brand: "AMMO"
 available: true

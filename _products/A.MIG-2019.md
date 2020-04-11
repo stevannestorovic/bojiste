@@ -2,7 +2,7 @@
 layout: product
 title: "ENAMEL OUDERLE070105 THINNER 100 ML"
 price: "850" 
-desc: "N/A"
+desc: "Bezmirisni emajl razređivač"
 img_path: "/assets/img/A.MIG-2019.jpg"
 brand: "AMMO"
 available: true

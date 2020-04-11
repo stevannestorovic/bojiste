@@ -2,7 +2,7 @@
 layout: product
 title: "Alclad 2 - USN Sea Blue (FS15042) 30ml"
 price: "TBA" 
-desc: "N/A"
+desc: "Metalizer boja"
 img_path: "/assets/img/ALCE644.jpg"
 brand: "N/A"
 available: false

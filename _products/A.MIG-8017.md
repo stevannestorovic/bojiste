@@ -2,7 +2,7 @@
 layout: product
 title: "RIGGING - FINE 0,02 MM"
 price: "650" 
-desc: "N/A"
+desc: "Konac za riging"
 img_path: "/assets/img/A.MIG-8017.jpg"
 brand: "AMMO"
 available: false

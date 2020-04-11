@@ -2,7 +2,7 @@
 layout: product
 title: "Alclad 2 - RLM75 Violet Grey 30ml"
 price: "TBA" 
-desc: "N/A"
+desc: "Metalizer boja"
 img_path: "/assets/img/ALCE221.jpg"
 brand: "N/A"
 available: false

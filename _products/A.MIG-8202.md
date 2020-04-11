@@ -2,7 +2,7 @@
 layout: product
 title: "DURALUMINIUM ALC102"
 price: "760" 
-desc: "N/A"
+desc: "Metalizer boja"
 img_path: "/assets/img/A.MIG-8202.jpg"
 brand: "Alclad II"
 available: true

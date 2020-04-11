@@ -2,7 +2,7 @@
 layout: product
 title: "TRANSPARATOR"
 price: "300" 
-desc: "N/A"
+desc: "Sredstvo za providne slojeve boje (akril)"
 img_path: "/assets/img/A.MIG-2016.jpg"
 brand: "AMMO"
 available: true

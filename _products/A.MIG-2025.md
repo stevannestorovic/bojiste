@@ -2,7 +2,7 @@
 layout: product
 title: "EXTRA THIN CEMENT"
 price: "550" 
-desc: "N/A"
+desc: "Ekstra razređeni cement"
 img_path: "/assets/img/A.MIG-2025.jpg"
 brand: "AMMO"
 available: true

@@ -1,8 +1,8 @@
 ---
 layout: product
-title: "MASKING PUTTY"
+title: "MASKING PUTTY (REUSABLE)"
 price: "1800" 
-desc: "N/A"
+desc: "Masa za maskiranje maketa"
 img_path: "/assets/img/A.MIG-8012.jpg"
 brand: "AMMO"
 available: false

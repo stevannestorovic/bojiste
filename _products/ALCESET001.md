@@ -2,7 +2,7 @@
 layout: product
 title: "Alclad 2 - Early War RAF Fighter & Bombers 30ml"
 price: "TBA" 
-desc: "N/A"
+desc: "Metalizer boja"
 img_path: "/assets/img/ALCESET001.jpg"
 brand: "N/A"
 available: false

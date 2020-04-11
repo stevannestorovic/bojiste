@@ -2,7 +2,7 @@
 layout: product
 title: "MASKING TAPE #1 (2mm X 25M)"
 price: "260" 
-desc: "N/A"
+desc: "Traka za maskiranje"
 img_path: "/assets/img/A.MIG-8038.jpg"
 brand: "AMMO"
 available: true

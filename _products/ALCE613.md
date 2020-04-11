@@ -2,7 +2,7 @@
 layout: product
 title: "Alclad 2 - Aggressor Blue (FS35109) 30ml"
 price: "TBA" 
-desc: "N/A"
+desc: "Metalizer boja"
 img_path: "/assets/img/ALCE613.jpg"
 brand: "N/A"
 available: false

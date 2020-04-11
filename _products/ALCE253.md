@@ -2,7 +2,7 @@
 layout: product
 title: "Alclad 2 - Panzer Olivgrun RAL6003 30ml"
 price: "TBA" 
-desc: "N/A"
+desc: "Metalizer boja"
 img_path: "/assets/img/ALCE253.jpg"
 brand: "N/A"
 available: false

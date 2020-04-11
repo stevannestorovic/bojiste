@@ -2,7 +2,7 @@
 layout: product
 title: "Alclad 2 - USN / USAAF WWII Interior Green (FS59534151) 30ml"
 price: "TBA" 
-desc: "N/A"
+desc: "Metalizer boja"
 img_path: "/assets/img/ALCE309.jpg"
 brand: "N/A"
 available: false

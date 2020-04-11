@@ -2,7 +2,7 @@
 layout: product
 title: "3/0 SYNTETIC LINER BRUSH"
 price: "190" 
-desc: "N/A"
+desc: "Sintetička četkica"
 img_path: "/assets/img/A.MIG-8590.jpg"
 brand: "AMMO"
 available: false

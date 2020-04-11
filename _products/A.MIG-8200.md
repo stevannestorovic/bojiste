@@ -2,7 +2,7 @@
 layout: product
 title: "LACQUER THINNER AND CLEANER ALC307"
 price: "760" 
-desc: "N/A"
+desc: "Metalizer razređivač "
 img_path: "/assets/img/A.MIG-8200.jpg"
 brand: "Alclad II"
 available: true

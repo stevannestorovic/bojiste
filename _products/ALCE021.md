@@ -2,7 +2,7 @@
 layout: product
 title: "Alclad 2 - RAF Dark Earth (BS381C450) 30ml"
 price: "TBA" 
-desc: "N/A"
+desc: "Metalizer boja"
 img_path: "/assets/img/ALCE021.jpg"
 brand: "N/A"
 available: false
