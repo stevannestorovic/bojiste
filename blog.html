@@ -1,0 +1,11 @@
+---
+layout: default
+title: FlakHobby ꞏ Blog
+---
+
+<div class="container">
+    {% for post in site.posts %}
+        <h2 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p>{{ post.excerpt }}</p>
+    {% endfor %}
+</div>
