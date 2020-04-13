@@ -5,7 +5,7 @@ price: "300"
 desc: "Akrilna boja 17mL - Periva"
 img_path: "/assets/img/A.MIG-0024.jpg"
 brand: "AMMO"
-available: true
+available: false
 special_offer: false
 new: true
 soon: false

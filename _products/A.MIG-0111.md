@@ -1,11 +1,11 @@
 ---
 layout: product
-title: "SCC2 Service Drabv"
+title: "SCC2 Service Drab"
 price: "300" 
 desc: "Akrilna boja 17mL - Kristal"
 img_path: "/assets/img/A.MIG-0111.jpg"
 brand: "AMMO"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false
