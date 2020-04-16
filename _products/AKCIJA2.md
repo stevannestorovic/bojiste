@@ -5,10 +5,10 @@ price: "9000"
 desc: "Bundle"
 img_path: "/assets/img/AKCIJA2.jpg"
 brand: "N/A"
-available: true
+available: false
 special_offer: false
 new: false
-soon: true
+soon: false
 cat: "0N/A"
 subcat: "0N/A"
 subsubcat: "0N/A"

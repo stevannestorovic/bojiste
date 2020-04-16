@@ -5,8 +5,8 @@ price: "760"
 desc: "Lak za metalizer boje"
 img_path: "/assets/img/A.MIG-8211.jpg"
 brand: "Alclad II"
-available: true
-special_offer: true
+available: false
+special_offer: false
 new: false
 soon: false
 cat: "040000"
