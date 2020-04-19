@@ -5,7 +5,7 @@ price: "650"
 desc: "Sredstvo za omekšavanje dekala"
 img_path: "/assets/img/A.MIG-2029.jpg"
 brand: "AMMO"
-available: true
+available: false
 special_offer: true
 new: false
 soon: false
