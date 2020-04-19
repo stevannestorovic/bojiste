@@ -3,7 +3,7 @@
 }
 
 html {
-	scroll-behavior: smoothG
+	scroll-behavior: smooth;
 }
 
 /* loader */
@@ -511,6 +511,8 @@ tr:nth-child(odd) {
 	justify-content: center;
 	border-radius: 50%;
 	z-index: 80;
+	color: white;
+	font-size: 0.6rem;
 }
 
 
