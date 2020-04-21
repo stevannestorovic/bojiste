@@ -6,6 +6,10 @@ html {
 	scroll-behavior: smooth;
 }
 
+.sidebar-helper {
+	display:flex;
+}
+
 /* loader */
 .custom-loader {
     width:100%;
@@ -451,8 +455,6 @@ img:before {
 }
 /* end slider */
 
-
-
 /* table */
 table {
     max-width: 1300px;
@@ -596,6 +598,9 @@ hr {
 
     .product-panel-title {
         text-align: center;
+    }
+    .sidebar-helper {
+	flex-direction: column;	
     }
 }
 
