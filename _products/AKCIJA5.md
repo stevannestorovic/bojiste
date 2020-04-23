@@ -6,9 +6,9 @@ desc: "Bundle"
 img_path: "/assets/img/AKCIJA5.jpg"
 brand: "N/A"
 available: true
-special_offer: false
+special_offer: true
 new: false
-soon: true
+soon: false
 cat: "0N/A"
 subcat: "0N/A"
 subsubcat: "0N/A"
