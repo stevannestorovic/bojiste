@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "RU020101IAN DARK BASE"
+title: "RUSSIAN DARK BASE"
 price: "300" 
 desc: "Akrilna boja 17mL"
 img_path: "/assets/img/A.MIG-0931.jpg"

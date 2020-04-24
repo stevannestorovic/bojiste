@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "RU00IAN EARTH"
+title: "RUSSIAN EARTH"
 price: "500" 
 desc: "Pigment"
 img_path: "/assets/img/A.MIG-3014.jpg"

@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "MYTHICAL RU020102IAN GREEN COLORS 1935"
+title: "MYTHICAL RUSSIAN GREEN COLORS 1935"
 price: "1800" 
 desc: "Set boja"
 img_path: "/assets/img/A.MIG-7160.jpg"

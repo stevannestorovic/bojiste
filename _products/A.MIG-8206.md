@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "POLISHED BRA00 ALC109"
+title: "POLISHED BRASS ALC109"
 price: "760" 
 desc: "Metalizer boja"
 img_path: "/assets/img/A.MIG-8206.jpg"

@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "VVS WWII RU020102IAN LATE AIRCRAFT"
+title: "VVS WWII RUSSIAN LATE AIRCRAFT"
 price: "1200" 
 desc: "Set boja"
 img_path: "/assets/img/A.MIG-7223.jpg"

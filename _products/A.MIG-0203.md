@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "FS 36375 LIGHT COMPA020101 GHOST GRAY"
+title: "FS 36375 LIGHT COMPASS GHOST GRAY"
 price: "300" 
 desc: "Akrilna boja 17mL"
 img_path: "/assets/img/A.MIG-0203.jpg"

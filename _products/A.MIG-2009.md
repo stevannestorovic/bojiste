@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "RU020103IAN GREEN PRIMER"
+title: "RUSSIAN GREEN PRIMER"
 price: "670" 
 desc: "Prajmer"
 img_path: "/assets/img/A.MIG-2009.jpg"

@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "6K RU020101IAN BROWN"
+title: "6K RUSSIAN BROWN"
 price: "300" 
 desc: "Akrilna boja 17mL"
 img_path: "/assets/img/A.MIG-0020.jpg"

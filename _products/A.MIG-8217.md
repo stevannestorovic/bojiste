@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "STAINLE00 STEEL"
+title: "STAINLESS STEEL"
 price: "760" 
 desc: "Metalizer boja"
 img_path: "/assets/img/A.MIG-8217.jpg"

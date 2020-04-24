@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "WAFFEN 020101 - POLIZEI GRÜN"
+title: "WAFFEN SS - POLIZEI GRÜN"
 price: "300" 
 desc: "Akrilna boja 17mL"
 img_path: "/assets/img/A.MIG-0018.jpg"

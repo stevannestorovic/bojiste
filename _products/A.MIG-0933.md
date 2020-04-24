@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "RU020101IAN LIGHT BASE"
+title: "RUSSIAN LIGHT BASE"
 price: "300" 
 desc: "Akrilna boja 17mL"
 img_path: "/assets/img/A.MIG-0933.jpg"

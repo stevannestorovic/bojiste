@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "7K RU020101IAN TAN"
+title: "7K RUSSIAN TAN"
 price: "300" 
 desc: "Akrilna boja 17mL"
 img_path: "/assets/img/A.MIG-0021.jpg"

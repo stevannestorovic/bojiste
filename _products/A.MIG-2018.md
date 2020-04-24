@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "ENAMEL OUDERLE070105 THINNER 35 ML"
+title: "ENAMEL OUDERLESS THINNER 35 ML"
 price: "500" 
 desc: "Bezmirisni emajl razređivač"
 img_path: "/assets/img/A.MIG-2018.jpg"

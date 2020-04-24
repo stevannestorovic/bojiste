@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "RU020101IAN BLUE AMT-7"
+title: "RUSSIAN BLUE AMT-7"
 price: "300" 
 desc: "Akrilna boja 17mL"
 img_path: "/assets/img/A.MIG-0251.jpg"

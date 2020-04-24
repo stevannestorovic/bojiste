@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "4BO RU020101IAN GREEN"
+title: "4BO RUSSIAN GREEN"
 price: "300" 
 desc: "Akrilna boja 17mL"
 img_path: "/assets/img/A.MIG-0019.jpg"

@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "MODERN RU00IAN VEHICLES"
+title: "MODERN RUSSIAN VEHICLES"
 price: "2500" 
 desc: "Set za weathering"
 img_path: "/assets/img/A.MIG-7147.jpg"

@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "GREEN MO020101"
+title: "GREEN MOSS"
 price: "300" 
 desc: "Akrilna boja 17mL"
 img_path: "/assets/img/A.MIG-0074.jpg"

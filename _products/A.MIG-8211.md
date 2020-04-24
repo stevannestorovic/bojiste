@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "AQUA GLO00 CLEAR"
+title: "AQUA GLOSS CLEAR"
 price: "760" 
 desc: "Lak za metalizer boje"
 img_path: "/assets/img/A.MIG-8211.jpg"

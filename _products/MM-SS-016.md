@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Russian Air Defense Weapon System 96K6 Pantsir-S1"
 price: "15000" 
 desc: "N/A"
-img_path: "/assets/img/MM-0N/A-016.jpg"
+img_path: "/assets/img/MM-SS-016.jpg"
 brand: "N/A"
 available: false
 special_offer: false

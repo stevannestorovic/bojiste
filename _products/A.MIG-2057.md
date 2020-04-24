@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "GLO020104Y LUCKY VARNISH (17 ML SIZE)"
+title: "GLOSSY LUCKY VARNISH (17 ML SIZE)"
 price: "300" 
 desc: "Akrilni Lak"
 img_path: "/assets/img/A.MIG-2057.jpg"

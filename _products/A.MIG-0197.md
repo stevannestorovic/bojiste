@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "BRA020101"
+title: "BRASS"
 price: "300" 
 desc: "Akrilna boja 17mL - Metalik"
 img_path: "/assets/img/A.MIG-0197.jpg"

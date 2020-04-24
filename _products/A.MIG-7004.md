@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "RU020102IAN 4BO MODULATION SET"
+title: "RUSSIAN 4BO MODULATION SET"
 price: "1200" 
 desc: "Set boja"
 img_path: "/assets/img/A.MIG-7004.jpg"

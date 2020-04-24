@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "Alclad 2 - RAF Medium Sea Grey (B0N/A81C637) 30ml"
+title: "Alclad 2 - RAF Medium Sea Grey (BSS81C637) 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
 img_path: "/assets/img/ALCE003.jpg"

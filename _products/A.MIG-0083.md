@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "ZASHCHITNIY ZELENO (RU020101IAN POSTWAR GREEN)"
+title: "ZASHCHITNIY ZELENO (RUSSIAN POSTWAR GREEN)"
 price: "300" 
 desc: "Akrilna boja 17mL"
 img_path: "/assets/img/A.MIG-0083.jpg"

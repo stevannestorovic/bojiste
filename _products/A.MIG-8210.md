@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "GLO00 BLACK BASE PRIMER"
+title: "GLOSS BLACK BASE PRIMER"
 price: "760" 
 desc: "Gloss prajmer za metalik boje"
 img_path: "/assets/img/A.MIG-8210.jpg"

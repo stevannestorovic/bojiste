@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "STAINLE070105 STEEL PAINT MIXERS"
+title: "STAINLESS STEEL PAINT MIXERS"
 price: "400" 
 desc: "Čelične kuglice za mešanje"
 img_path: "/assets/img/A.MIG-8003.jpg"

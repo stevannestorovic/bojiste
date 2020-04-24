@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "RU020101IAN SHADOW"
+title: "RUSSIAN SHADOW"
 price: "300" 
 desc: "Akrilna boja 17mL"
 img_path: "/assets/img/A.MIG-0930.jpg"

@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "RU020101IAN HIGH LIGHT"
+title: "RUSSIAN HIGH LIGHT"
 price: "300" 
 desc: "Akrilna boja 17mL"
 img_path: "/assets/img/A.MIG-0934.jpg"
