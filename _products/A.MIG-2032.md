@@ -5,7 +5,7 @@ price: "550"
 desc: "Maskol"
 img_path: "/assets/img/A.MIG-2032.jpg"
 brand: "AMMO"
-available: true
+available: false
 special_offer: true
 new: false
 soon: false
