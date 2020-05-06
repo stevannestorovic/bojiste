@@ -1,7 +1,7 @@
 - maincat: {name: "Plastične Makete", label: "010000", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]}
   subcats: [{name: "Amusing Hobby", label: "014900", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "Ark Models", label: "015000", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
-            {name: "AFV Klub", label: "015100", filters: ["1/35", "1/48", "1/350"]},
+            {name: "AFV Club", label: "015100", filters: ["1/35", "1/48", "1/350"]},
             {name: "Zoukei-Mura", label: "014100", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "Arma Hobby", label: "014200", filters: ["1/35", "1/144", "1/72"]},
             {name: "Miniart", label: "010100", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]}, 

@@ -5,7 +5,7 @@ price: "1500"
 desc: "Set za weathering"
 img_path: "/assets/img/A.MIG-7417.jpg"
 brand: "AMMO"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false
