@@ -2,6 +2,7 @@
   subcats: [{name: "Amusing Hobby", label: "014900", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "Ark Models", label: "015000", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "AFV Club", label: "015100", filters: ["1/35", "1/48", "1/350"]},
+            {name: "Special Hobby", label: "015200", filters: ["1/16", "1/32", "1/35", "1/48", "1/72"]},
             {name: "Zoukei-Mura", label: "014100", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "Arma Hobby", label: "014200", filters: ["1/35", "1/144", "1/72"]},
             {name: "Miniart", label: "010100", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]}, 
@@ -75,7 +76,8 @@
                           {name: "Farovi", label: "070202"},
                           {name: "Metalne Gusenice", label: "070203"},
                           {name: "Dekali", label: "070204"}, 
-                          {name: "Razno", label: "070205"}]}, 
+                          {name: "Razno", label: "070205"}]},
+            {name: "Uschi van der Rosten", label: "070900"}, 
             {name: "Tamiya", label: "070500"},
             {name: "Vertigo Jigs", label: "070300"}]
 - maincat: {name: "Diorame", label: "080000"}
@@ -90,7 +92,8 @@
                           {name: "Trava", label: "080203"}, 
                           {name: "Akrilne Teksture", label: "080204"}, 
                           {name: "Plutene Plocice", label: "080205"}, 
-                          {name: "Polistirenske Plocice", label: "080206"}]}]
+                          {name: "Polistirenske Plocice", label: "080206"}]},
+            {name: "Model Scene", label: "080300"}]
 - maincat: {name: "Knjige, časopisi, Merch", label: "090000"}
   subcats: [{name: "AMMO", label: "090100",
              subsubcats: [{name: "Knjige i časopisi", label: "090101"},
