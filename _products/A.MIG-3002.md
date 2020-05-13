@@ -6,7 +6,7 @@ desc: "Pigment"
 img_path: "/assets/img/A.MIG-3002.jpg"
 brand: "AMMO"
 available: true
-special_offer: false
+special_offer: true
 new: false
 soon: false
 cat: "060000"

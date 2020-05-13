@@ -5,7 +5,7 @@ price: "5000"
 desc: "N/A"
 img_path: "/assets/img/MM-TS-038.jpg"
 brand: "N/A"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

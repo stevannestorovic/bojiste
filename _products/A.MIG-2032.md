@@ -6,7 +6,7 @@ desc: "Maskol"
 img_path: "/assets/img/A.MIG-2032.jpg"
 brand: "AMMO"
 available: false
-special_offer: true
+special_offer: false
 new: false
 soon: false
 cat: "070000"

@@ -1,0 +1,17 @@
+---
+layout: product
+title: "ENCYCLOPEDIA OF ARMOUR MODELLING TECHNIQUES VOL. 2 - INTERIORS & BASE COLOUR ENGLISH"
+price: "4400" 
+desc: "Enciklopedija tom 2"
+img_path: "/assets/img/A.MIG-6151.jpg"
+brand: "AMMO"
+available: false
+special_offer: false
+new: true
+soon: false
+cat: "090000"
+subcat: "090100"
+subsubcat: "090101"
+sifra: "A.MIG-6151"
+popular: false
+---

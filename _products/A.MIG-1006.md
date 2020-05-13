@@ -6,7 +6,7 @@ desc: "Emajl Voš"
 img_path: "/assets/img/A.MIG-1006.jpg"
 brand: "AMMO"
 available: true
-special_offer: true
+special_offer: false
 new: false
 soon: false
 cat: "060000"

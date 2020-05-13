@@ -13,5 +13,5 @@ cat: "060000"
 subcat: "060700"
 subsubcat: "00"
 sifra: "A.MIG-3005"
-popular: true
+popular: false
 ---

@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "RUBBEL"
+title: "RUBBLE"
 price: "500" 
 desc: "Pigment"
 img_path: "/assets/img/A.MIG-3013.jpg"

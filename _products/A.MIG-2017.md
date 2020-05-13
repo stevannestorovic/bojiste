@@ -13,5 +13,5 @@ cat: "020000"
 subcat: "020100"
 subsubcat: "020105"
 sifra: "A.MIG-2017"
-popular: true
+popular: false
 ---

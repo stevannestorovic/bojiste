@@ -7,7 +7,7 @@ img_path: "/assets/img/VOLKSWS4807.jpg"
 brand: "ZOUKEI-MURA"
 available: false
 special_offer: false
-new: false
+new: true
 soon: false
 cat: "010000"
 subcat: "014100"
