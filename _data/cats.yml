@@ -38,6 +38,7 @@
                           {name: "Setovi Akrlinih Boja", label: "020102", filters: ["oklop", "avijacija", "figure", "modulacija"]},
                           {name: "Akrilni Prajmeri", label: "020103"},
                           {name: "Akrilni Lakovi", label: "020104"},
+                          {name: "AMMO Shaders", label: "020106"},
                           {name: "Akrilni Dodaci", label:  "020105"}]},
             {name: "AK", label: "020200",
              subsubcats: [{name: "AK Real Colors", label: "020201"},

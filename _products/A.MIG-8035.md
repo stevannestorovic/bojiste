@@ -8,7 +8,7 @@ brand: "AMMO"
 available: false
 special_offer: false
 new: false
-soon: true
+soon: false
 cat: "070000"
 subcat: "070100"
 subsubcat: "070105"

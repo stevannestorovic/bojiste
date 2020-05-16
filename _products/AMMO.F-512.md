@@ -7,7 +7,7 @@ img_path: "/assets/img/AMMO.F-512.jpg"
 brand: "AMMO"
 available: false
 special_offer: false
-new: true
+new: false
 soon: false
 cat: "020000"
 subcat: "020100"

@@ -2,7 +2,7 @@
 layout: product
 title: "Tamiya Panel Line Accent Color – Gray"
 price: "800" 
-desc: "Panel VoŠ"
+desc: "Panelni Voš"
 img_path: "/assets/img/PLACGray.jpg"
 brand: "N/A"
 available: true

@@ -2,7 +2,7 @@
 layout: product
 title: "Tamiya Panel Line Accent Color – Black"
 price: "800" 
-desc: "Panel VoŠ"
+desc: "Panelni Voš"
 img_path: "/assets/img/PLACBlack.jpg"
 brand: "N/A"
 available: false

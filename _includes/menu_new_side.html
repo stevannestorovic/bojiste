@@ -71,19 +71,19 @@ allSubmenus.forEach(function (elem) {
 });
 
 
-/*let pmMenu = document.querySelector('#dropdown-menu > li:nth-child(1) > a');
+let pmMenu = document.querySelector('#dropdown-menu > li:nth-child(1) > a');
 let pmExpandBtn = pmMenu.querySelector('a .list-expand');
 pmExpandBtn.addEventListener('click', (e) => {
 	console.log('PM kliknuto');
-	let menu = document.querySelector('#dropdown-menu > li:nth-child(1) > ul');
+	let menu = document.querySelector('#dropdown-menu > li:nth-child(1) > ul'); //e.target.querySelector('ul');
 	console.log(menu.classList);
 	if(menu.classList.value.includes('hidden')) {
 		menu.classList.remove('hidden');
 	} else {
 		menu.classList.add('hidden');
 	}
-	//menu.classList.toggle('hidden');	
-});*/
+        menu.classList.toggle('hidden');	
+});
 
 let linksLvl1 = document.querySelectorAll('.menu-list li a');
 linksLvl1.forEach(function (elem) {
