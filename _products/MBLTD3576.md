@@ -3,7 +3,7 @@ layout: product
 title: "Iraq events. Kit #2, Insurgence"
 price: "1300" 
 desc: "1/35 Figura"
-img_path: "/assets/img/MBLTD3576.jpg"
+img_path: "/assets/img/MBLTD3576.webp"
 brand: "MasterBox"
 available: false
 special_offer: false

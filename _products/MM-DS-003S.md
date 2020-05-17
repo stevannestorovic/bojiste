@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - F-102A (Case X) George Walker Bush"
 price: "3700" 
 desc: "N/A"
-img_path: "/assets/img/MM-DS-003S.jpg"
+img_path: "/assets/img/MM-DS-003S.webp"
 brand: "N/A"
 available: false
 special_offer: false

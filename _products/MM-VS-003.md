@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Gaz-2330014 Sts Tiger"
 price: "TBA" 
 desc: "N/A"
-img_path: "/assets/img/MM-VS-003.jpg"
+img_path: "/assets/img/MM-VS-003.webp"
 brand: "N/A"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "RUSSIAN 4BO MODULATION SET"
 price: "1200" 
 desc: "Set boja"
-img_path: "/assets/img/A.MIG-7004.jpg"
+img_path: "/assets/img/A.MIG-7004.webp"
 brand: "AMMO"
 available: false
 special_offer: false

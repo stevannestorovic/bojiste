@@ -3,7 +3,7 @@ layout: product
 title: "CHROME FOR PLASTIC ALC107"
 price: "760" 
 desc: "Metalizer boja"
-img_path: "/assets/img/A.MIG-8205.jpg"
+img_path: "/assets/img/A.MIG-8205.webp"
 brand: "Alclad II"
 available: true
 special_offer: false

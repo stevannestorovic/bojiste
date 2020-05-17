@@ -3,7 +3,7 @@ layout: product
 title: "LUCKY  VARNISH – ULTRA MATT (60mL)"
 price: "670" 
 desc: "Akrilni Lak"
-img_path: "/assets/img/A.MIG-2053.jpg"
+img_path: "/assets/img/A.MIG-2053.webp"
 brand: "AMMO"
 available: true
 special_offer: true

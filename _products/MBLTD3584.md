@@ -3,7 +3,7 @@ layout: product
 title: "German Infantry. Western Europe. 1944-1945                                             "
 price: "1300" 
 desc: "1/35 Figura"
-img_path: "/assets/img/MBLTD3584.jpg"
+img_path: "/assets/img/MBLTD3584.webp"
 brand: "MasterBox"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "ICM - U-Boat Type XXVIIB Seehund late"
 price: "TBA" 
 desc: "N/A"
-img_path: "/assets/img/ICMS007.jpg"
+img_path: "/assets/img/ICMS007.webp"
 brand: "N/A"
 available: false
 special_offer: false

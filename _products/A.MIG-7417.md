@@ -3,7 +3,7 @@ layout: product
 title: "WW II PACIFIC US NAVY AIRPLANES"
 price: "1500" 
 desc: "Set za weathering"
-img_path: "/assets/img/A.MIG-7417.jpg"
+img_path: "/assets/img/A.MIG-7417.webp"
 brand: "AMMO"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "Farmer's Cart, Europe, WWII Era"
 price: "950" 
 desc: "1/35 Figura"
-img_path: "/assets/img/MBLTD3537.jpg"
+img_path: "/assets/img/MBLTD3537.webp"
 brand: "MasterBox"
 available: false
 special_offer: false

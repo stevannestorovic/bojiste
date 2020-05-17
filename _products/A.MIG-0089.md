@@ -3,7 +3,7 @@ layout: product
 title: "MATT VARNISH"
 price: "300" 
 desc: "Akrilni Lak"
-img_path: "/assets/img/A.MIG-0089.jpg"
+img_path: "/assets/img/A.MIG-0089.webp"
 brand: "AMMO"
 available: true
 special_offer: false

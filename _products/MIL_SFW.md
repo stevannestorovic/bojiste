@@ -3,7 +3,7 @@ layout: product
 title: "Milliput 2 part epoxy Super fine"
 price: "1200" 
 desc: "N/A"
-img_path: "/assets/img/MIL_SFW.jpg"
+img_path: "/assets/img/MIL_SFW.webp"
 brand: "N/A"
 available: true
 special_offer: false

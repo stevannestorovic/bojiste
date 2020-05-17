@@ -3,7 +3,7 @@ layout: product
 title: "1/35 Meng Panther D + Metalne Gusenice"
 price: "8100" 
 desc: "Bundle"
-img_path: "/assets/img/AKCIJA4.jpg"
+img_path: "/assets/img/AKCIJA4.webp"
 brand: "N/A"
 available: false
 special_offer: false

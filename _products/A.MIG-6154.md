@@ -3,7 +3,7 @@ layout: product
 title: "ENCYCLOPEDIA OF ARMOUR MODELLING TECHNIQUES VOL. 5 - FINAL TOUCHES ENGLISH"
 price: "4400" 
 desc: "Enciklopedija tom 5"
-img_path: "/assets/img/A.MIG-6154.jpg"
+img_path: "/assets/img/A.MIG-6154.webp"
 brand: "AMMO"
 available: false
 special_offer: false

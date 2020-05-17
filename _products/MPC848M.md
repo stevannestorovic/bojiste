@@ -3,7 +3,7 @@ layout: product
 title: "MPC - 1984 GMC Pickup Black"
 price: "5400" 
 desc: "N/A"
-img_path: "/assets/img/MPC848M.jpg"
+img_path: "/assets/img/MPC848M.webp"
 brand: "N/A"
 available: false
 special_offer: false

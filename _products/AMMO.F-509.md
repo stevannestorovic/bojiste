@@ -3,7 +3,7 @@ layout: product
 title: "UNIFORM GREEN BASE FS-34128"
 price: "300" 
 desc: "Akrilna boja 17mL - Metalik"
-img_path: "/assets/img/AMMO.F-509.jpg"
+img_path: "/assets/img/AMMO.F-509.webp"
 brand: "AMMO"
 available: false
 special_offer: false

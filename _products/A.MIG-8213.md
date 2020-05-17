@@ -3,7 +3,7 @@ layout: product
 title: "STEEL"
 price: "760" 
 desc: "Metalizer boja"
-img_path: "/assets/img/A.MIG-8213.jpg"
+img_path: "/assets/img/A.MIG-8213.webp"
 brand: "Alclad II"
 available: false
 special_offer: false

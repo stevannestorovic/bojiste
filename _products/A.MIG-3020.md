@@ -3,7 +3,7 @@ layout: product
 title: "METAL SLAG"
 price: "500" 
 desc: "Pigment"
-img_path: "/assets/img/A.MIG-3020.jpg"
+img_path: "/assets/img/A.MIG-3020.webp"
 brand: "AMMO"
 available: true
 special_offer: false

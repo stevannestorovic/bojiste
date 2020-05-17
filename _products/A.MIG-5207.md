@@ -3,7 +3,7 @@ layout: product
 title: "Issue 7. INTERIORS   ENGLISH"
 price: "1300" 
 desc: "Časopis"
-img_path: "/assets/img/A.MIG-5207.jpg"
+img_path: "/assets/img/A.MIG-5207.webp"
 brand: "AMMO"
 available: false
 special_offer: false

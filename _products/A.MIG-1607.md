@@ -3,7 +3,7 @@ layout: product
 title: "PLW SKY GREY"
 price: "500" 
 desc: "Emajl Voš"
-img_path: "/assets/img/A.MIG-1607.jpg"
+img_path: "/assets/img/A.MIG-1607.webp"
 brand: "AMMO"
 available: false
 special_offer: false

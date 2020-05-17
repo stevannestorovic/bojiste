@@ -3,7 +3,7 @@ layout: product
 title: "SLOW DRY CYANOACRYLATE"
 price: "1100" 
 desc: "Providni superlepak (Colle21)"
-img_path: "/assets/img/A.MIG-8013.jpg"
+img_path: "/assets/img/A.MIG-8013.webp"
 brand: "AMMO"
 available: true
 special_offer: false

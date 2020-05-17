@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - Night Blue for Dark Grey 30ml"
 price: "TBA" 
 desc: "N/A"
-img_path: "/assets/img/ALCHW006.jpg"
+img_path: "/assets/img/ALCHW006.webp"
 brand: "N/A"
 available: false
 special_offer: false

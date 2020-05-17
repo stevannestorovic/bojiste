@@ -3,7 +3,7 @@ layout: product
 title: "RAL 8012 ROTBRAUN"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0014.jpg"
+img_path: "/assets/img/A.MIG-0014.webp"
 brand: "AMMO"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "STREAKING GRIME"
 price: "500" 
 desc: "Emajl Efekat"
-img_path: "/assets/img/A.MIG-1203.jpg"
+img_path: "/assets/img/A.MIG-1203.webp"
 brand: "AMMO"
 available: true
 special_offer: false

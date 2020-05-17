@@ -3,7 +3,7 @@ layout: product
 title: "LIGHT FLESH"
 price: "400" 
 desc: "Uljana boja sa četkicom"
-img_path: "/assets/img/A.MIG-3519.jpg"
+img_path: "/assets/img/A.MIG-3519.webp"
 brand: "AMMO"
 available: true
 special_offer: false

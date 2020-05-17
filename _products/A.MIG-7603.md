@@ -3,7 +3,7 @@ layout: product
 title: "CHIPPING AND DETAILING BRUSH SET"
 price: "2100" 
 desc: "Set četkica"
-img_path: "/assets/img/A.MIG-7603.jpg"
+img_path: "/assets/img/A.MIG-7603.webp"
 brand: "AMMO"
 available: false
 special_offer: false

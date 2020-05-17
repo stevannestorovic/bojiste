@@ -3,7 +3,7 @@ layout: product
 title: "BROWN FOR WHITE"
 price: "500" 
 desc: "Filter"
-img_path: "/assets/img/A.MIG-1500.jpg"
+img_path: "/assets/img/A.MIG-1500.webp"
 brand: "AMMO"
 available: true
 special_offer: false

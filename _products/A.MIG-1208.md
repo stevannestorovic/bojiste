@@ -3,7 +3,7 @@ layout: product
 title: "RAINMARKS EFFECTS"
 price: "500" 
 desc: "Emajl Efekat"
-img_path: "/assets/img/A.MIG-1208.jpg"
+img_path: "/assets/img/A.MIG-1208.webp"
 brand: "AMMO"
 available: true
 special_offer: false

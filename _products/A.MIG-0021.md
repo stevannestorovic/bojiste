@@ -3,7 +3,7 @@ layout: product
 title: "7K RUSSIAN TAN"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0021.jpg"
+img_path: "/assets/img/A.MIG-0021.webp"
 brand: "AMMO"
 available: true
 special_offer: false

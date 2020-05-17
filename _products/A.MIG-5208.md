@@ -3,7 +3,7 @@ layout: product
 title: "Issue 8. SEAPLANES   ENGLISH"
 price: "1300" 
 desc: "Časopis"
-img_path: "/assets/img/A.MIG-5208.jpg"
+img_path: "/assets/img/A.MIG-5208.webp"
 brand: "AMMO"
 available: false
 special_offer: false

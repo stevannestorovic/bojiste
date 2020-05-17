@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Drink Bottles For Vehicle & Diorama"
 price: "TBA" 
 desc: "N/A"
-img_path: "/assets/img/MM-SPS-002.jpg"
+img_path: "/assets/img/MM-SPS-002.webp"
 brand: "N/A"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "STARTER BRUSH SET"
 price: "1000" 
 desc: "Set četkica"
-img_path: "/assets/img/A.MIG-7602.jpg"
+img_path: "/assets/img/A.MIG-7602.webp"
 brand: "AMMO"
 available: false
 special_offer: false

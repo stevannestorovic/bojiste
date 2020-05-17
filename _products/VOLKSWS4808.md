@@ -3,7 +3,7 @@ layout: product
 title: "1/48 F-4J PHANTOM II MARINES"
 price: "11500" 
 desc: "Plastična maketa"
-img_path: "/assets/img/VOLKSWS4808.jpg"
+img_path: "/assets/img/VOLKSWS4808.webp"
 brand: "ZOUKEI-MURA"
 available: false
 special_offer: false

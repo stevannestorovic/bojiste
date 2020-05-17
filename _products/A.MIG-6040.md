@@ -3,7 +3,7 @@ layout: product
 title: "MODELLING GUIDE: HOW TO PAINT WITH ACRYLICS ENGLISH"
 price: "2300" 
 desc: "Knjiga"
-img_path: "/assets/img/A.MIG-6040.jpg"
+img_path: "/assets/img/A.MIG-6040.webp"
 brand: "AMMO"
 available: false
 special_offer: false

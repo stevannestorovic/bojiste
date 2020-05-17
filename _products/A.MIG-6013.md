@@ -3,7 +3,7 @@ layout: product
 title: "IN COMBAT - PAINTING MECHAS  ENGLISH"
 price: "2600" 
 desc: "Knjiga"
-img_path: "/assets/img/A.MIG-6013.jpg"
+img_path: "/assets/img/A.MIG-6013.webp"
 brand: "AMMO"
 available: false
 special_offer: false

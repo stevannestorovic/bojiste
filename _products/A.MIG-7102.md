@@ -3,7 +3,7 @@ layout: product
 title: "AFRIKA KORPS"
 price: "900" 
 desc: "Set boja"
-img_path: "/assets/img/A.MIG-7102.jpg"
+img_path: "/assets/img/A.MIG-7102.webp"
 brand: "AMMO"
 available: false
 special_offer: false

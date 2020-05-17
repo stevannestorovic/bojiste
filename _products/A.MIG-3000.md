@@ -3,7 +3,7 @@ layout: product
 title: "PIGMENT FIXER"
 price: "500" 
 desc: "Pigment fikser"
-img_path: "/assets/img/A.MIG-3000.jpg"
+img_path: "/assets/img/A.MIG-3000.webp"
 brand: "AMMO"
 available: true
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "PLW DARK RED BROWN"
 price: "500" 
 desc: "Emajl Voš"
-img_path: "/assets/img/A.MIG-1605.jpg"
+img_path: "/assets/img/A.MIG-1605.webp"
 brand: "AMMO"
 available: false
 special_offer: false

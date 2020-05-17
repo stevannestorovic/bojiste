@@ -3,7 +3,7 @@ layout: product
 title: "BROWN WASH FOR GERMAN DARK YELLOW"
 price: "500" 
 desc: "Emajl Voš"
-img_path: "/assets/img/A.MIG-1000.jpg"
+img_path: "/assets/img/A.MIG-1000.webp"
 brand: "AMMO"
 available: true
 special_offer: false

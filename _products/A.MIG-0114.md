@@ -3,7 +3,7 @@ layout: product
 title: "Zimmerit Ochre"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0114.jpg"
+img_path: "/assets/img/A.MIG-0114.webp"
 brand: "AMMO"
 available: true
 special_offer: false

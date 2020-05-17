@@ -3,7 +3,7 @@ layout: product
 title: "FS 26231 (BS638)"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0205.jpg"
+img_path: "/assets/img/A.MIG-0205.webp"
 brand: "AMMO"
 available: true
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "Patroling. Vietnam War series                                                             "
 price: "1700" 
 desc: "1/35 Figura"
-img_path: "/assets/img/MBLTD3599.jpg"
+img_path: "/assets/img/MBLTD3599.webp"
 brand: "MasterBox"
 available: false
 special_offer: false

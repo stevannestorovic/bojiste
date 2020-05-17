@@ -3,7 +3,7 @@ layout: product
 title: "ICM - U-Boat Type XXIII, WWII German Submarine"
 price: "TBA" 
 desc: "N/A"
-img_path: "/assets/img/ICMS004.jpg"
+img_path: "/assets/img/ICMS004.webp"
 brand: "N/A"
 available: false
 special_offer: false

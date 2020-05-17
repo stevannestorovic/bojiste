@@ -3,7 +3,7 @@ layout: product
 title: "COMPLETE ENCYCLOPEDIA OF ARMOUR MODELLING TECHNIQUES - ENGLISH"
 price: "20000" 
 desc: "Enciklopedija – potupuno izdanje"
-img_path: "/assets/img/A.MIG-6149.jpg"
+img_path: "/assets/img/A.MIG-6149.webp"
 brand: "AMMO"
 available: false
 special_offer: false

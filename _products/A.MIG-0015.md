@@ -3,7 +3,7 @@ layout: product
 title: "RAL 8017 SCHOKOBRAUN"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0015.jpg"
+img_path: "/assets/img/A.MIG-0015.webp"
 brand: "AMMO"
 available: false
 special_offer: false

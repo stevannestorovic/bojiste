@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - Dark Grey Bue (FS15102) 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE616.jpg"
+img_path: "/assets/img/ALCE616.webp"
 brand: "N/A"
 available: false
 special_offer: false

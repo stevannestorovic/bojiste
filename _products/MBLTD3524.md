@@ -3,7 +3,7 @@ layout: product
 title: "Eastern Front Series. Kit № 3. Hand-to-hand fight, 1941-1942 "
 price: "950" 
 desc: "1/35 Figura"
-img_path: "/assets/img/MBLTD3524.jpg"
+img_path: "/assets/img/MBLTD3524.webp"
 brand: "MasterBox"
 available: false
 special_offer: false

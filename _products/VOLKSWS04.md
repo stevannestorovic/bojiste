@@ -3,7 +3,7 @@ layout: product
 title: "1/32 P-51D MUSTANG"
 price: "14500" 
 desc: "Plastična maketa"
-img_path: "/assets/img/VOLKSWS04.jpg"
+img_path: "/assets/img/VOLKSWS04.webp"
 brand: "ZOUKEI-MURA"
 available: false
 special_offer: false

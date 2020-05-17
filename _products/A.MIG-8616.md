@@ -3,7 +3,7 @@ layout: product
 title: "6 SYNTETIC ROUND BRUSH"
 price: "300" 
 desc: "Sintetička četkica"
-img_path: "/assets/img/A.MIG-8616.jpg"
+img_path: "/assets/img/A.MIG-8616.webp"
 brand: "AMMO"
 available: true
 special_offer: false

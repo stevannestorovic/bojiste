@@ -3,7 +3,7 @@ layout: product
 title: "STREAKING RUST EFFECTS"
 price: "500" 
 desc: "Emajl Efekat"
-img_path: "/assets/img/A.MIG-1204.jpg"
+img_path: "/assets/img/A.MIG-1204.webp"
 brand: "AMMO"
 available: true
 special_offer: false

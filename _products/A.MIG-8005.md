@@ -3,7 +3,7 @@ layout: product
 title: "17 mL AMMO STORAGE SYSTEM"
 price: "2600" 
 desc: "Polica"
-img_path: "/assets/img/A.MIG-8005.jpg"
+img_path: "/assets/img/A.MIG-8005.webp"
 brand: "AMMO"
 available: false
 special_offer: false

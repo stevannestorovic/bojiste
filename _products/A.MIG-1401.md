@@ -3,7 +3,7 @@ layout: product
 title: "LIGHT DUST EFFECT"
 price: "500" 
 desc: "Emajl Efekat"
-img_path: "/assets/img/A.MIG-1401.jpg"
+img_path: "/assets/img/A.MIG-1401.webp"
 brand: "AMMO"
 available: true
 special_offer: false

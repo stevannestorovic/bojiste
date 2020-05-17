@@ -3,7 +3,7 @@ layout: product
 title: "GREY DARK BASE"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0907.jpg"
+img_path: "/assets/img/A.MIG-0907.webp"
 brand: "AMMO"
 available: true
 special_offer: false

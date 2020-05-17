@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - Egyptian Sand 20ml"
 price: "TBA" 
 desc: "N/A"
-img_path: "/assets/img/ALCWP007.jpg"
+img_path: "/assets/img/ALCWP007.webp"
 brand: "N/A"
 available: false
 special_offer: false

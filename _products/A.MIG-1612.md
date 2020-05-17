@@ -3,7 +3,7 @@ layout: product
 title: "PLW GREEN BROWN"
 price: "500" 
 desc: "Emajl Voš"
-img_path: "/assets/img/A.MIG-1612.jpg"
+img_path: "/assets/img/A.MIG-1612.webp"
 brand: "AMMO"
 available: false
 special_offer: false

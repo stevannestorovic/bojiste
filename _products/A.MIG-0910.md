@@ -3,7 +3,7 @@ layout: product
 title: "GREY HIGH LIGHT"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0910.jpg"
+img_path: "/assets/img/A.MIG-0910.webp"
 brand: "AMMO"
 available: true
 special_offer: false

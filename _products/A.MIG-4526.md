@@ -3,7 +3,7 @@ layout: product
 title: "Issue 27. RECYCLED ENGLISH"
 price: "1100" 
 desc: "Časopis"
-img_path: "/assets/img/A.MIG-4526.jpg"
+img_path: "/assets/img/A.MIG-4526.webp"
 brand: "AMMO"
 available: false
 special_offer: false

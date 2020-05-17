@@ -3,7 +3,7 @@ layout: product
 title: "DARK MUD"
 price: "500" 
 desc: "Emajl Efekat"
-img_path: "/assets/img/A.MIG-1405.jpg"
+img_path: "/assets/img/A.MIG-1405.webp"
 brand: "AMMO"
 available: true
 special_offer: false

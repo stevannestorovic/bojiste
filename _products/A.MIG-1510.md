@@ -3,7 +3,7 @@ layout: product
 title: "TAN FOR 3 TONE CAMO"
 price: "500" 
 desc: "Filter"
-img_path: "/assets/img/A.MIG-1510.jpg"
+img_path: "/assets/img/A.MIG-1510.webp"
 brand: "AMMO"
 available: true
 special_offer: false

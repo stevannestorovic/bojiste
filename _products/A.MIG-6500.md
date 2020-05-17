@@ -3,7 +3,7 @@ layout: product
 title: "WW II AMERICAN ETO SOLUTION BOOK - MULTILINGUAL BOOK"
 price: "1400" 
 desc: "Knjiga"
-img_path: "/assets/img/A.MIG-6500.jpg"
+img_path: "/assets/img/A.MIG-6500.webp"
 brand: "AMMO"
 available: false
 special_offer: false

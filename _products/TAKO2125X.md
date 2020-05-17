@@ -3,7 +3,7 @@ layout: product
 title: "1/35 Jagdpanther G1 early w/ Zimmerit & Schwerer Plattformwagen Type SSys (interior not included)"
 price: "8200" 
 desc: "Maketa"
-img_path: "/assets/img/TAKO2125X.jpg"
+img_path: "/assets/img/TAKO2125X.webp"
 brand: "N/A"
 available: false
 special_offer: false

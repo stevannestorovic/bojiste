@@ -3,7 +3,7 @@ layout: product
 title: "KING TIGER - VISUAL MODELERS GUIDE ENGLISH"
 price: "1800" 
 desc: "Knjiga"
-img_path: "/assets/img/A.MIG-6022.jpg"
+img_path: "/assets/img/A.MIG-6022.webp"
 brand: "AMMO"
 available: false
 special_offer: false

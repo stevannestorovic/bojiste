@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - RAF Blue Grey 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE641.jpg"
+img_path: "/assets/img/ALCE641.webp"
 brand: "N/A"
 available: false
 special_offer: false

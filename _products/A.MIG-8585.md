@@ -3,7 +3,7 @@ layout: product
 title: "8 SYNTETIC SAW BRUSH"
 price: "300" 
 desc: "Sintetička četkica"
-img_path: "/assets/img/A.MIG-8585.jpg"
+img_path: "/assets/img/A.MIG-8585.webp"
 brand: "AMMO"
 available: false
 special_offer: false

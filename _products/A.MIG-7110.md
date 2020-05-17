@@ -3,7 +3,7 @@ layout: product
 title: "I WW & II WW FRENCH CAMOUFLAGE COLORS"
 price: "1800" 
 desc: "Set boja"
-img_path: "/assets/img/A.MIG-7110.jpg"
+img_path: "/assets/img/A.MIG-7110.webp"
 brand: "AMMO"
 available: false
 special_offer: false

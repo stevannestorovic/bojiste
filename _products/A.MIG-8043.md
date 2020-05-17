@@ -3,7 +3,7 @@ layout: product
 title: "MASKING SHEETS"
 price: "900" 
 desc: "Papir za maskiranje"
-img_path: "/assets/img/A.MIG-8043.jpg"
+img_path: "/assets/img/A.MIG-8043.webp"
 brand: "AMMO"
 available: false
 special_offer: false

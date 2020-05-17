@@ -3,7 +3,7 @@ layout: product
 title: "Iraq events. Kit #1, US Marines"
 price: "1300" 
 desc: "1/35 Figura"
-img_path: "/assets/img/MBLTD3575.jpg"
+img_path: "/assets/img/MBLTD3575.webp"
 brand: "MasterBox"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "GREY LIGHT BROWN "
 price: "300" 
 desc: "Akrilna boja 17mL - Metalik"
-img_path: "/assets/img/AMMO.F-521.jpg"
+img_path: "/assets/img/AMMO.F-521.webp"
 brand: "AMMO"
 available: false
 special_offer: false

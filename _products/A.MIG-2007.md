@@ -3,7 +3,7 @@ layout: product
 title: "TRACKS PRIMER"
 price: "670" 
 desc: "Prajmer"
-img_path: "/assets/img/A.MIG-2007.jpg"
+img_path: "/assets/img/A.MIG-2007.webp"
 brand: "AMMO"
 available: true
 special_offer: false

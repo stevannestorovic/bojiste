@@ -3,7 +3,7 @@ layout: product
 title: "MATT LUCKY VARNISH (17 ML SIZE)"
 price: "300" 
 desc: "Akrilni Lak"
-img_path: "/assets/img/A.MIG-2055.jpg"
+img_path: "/assets/img/A.MIG-2055.webp"
 brand: "AMMO"
 available: true
 special_offer: false

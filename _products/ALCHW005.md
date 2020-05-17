@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - Ligth Liquid Streaks & Stains 30ml"
 price: "TBA" 
 desc: "N/A"
-img_path: "/assets/img/ALCHW005.jpg"
+img_path: "/assets/img/ALCHW005.webp"
 brand: "N/A"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - Dark Compass Grey 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE639.jpg"
+img_path: "/assets/img/ALCE639.webp"
 brand: "N/A"
 available: false
 special_offer: false

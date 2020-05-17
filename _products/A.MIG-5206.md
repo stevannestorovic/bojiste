@@ -3,7 +3,7 @@ layout: product
 title: "Issue 6. CAMOUFLAGE   ENGLISH"
 price: "1300" 
 desc: "Časopis"
-img_path: "/assets/img/A.MIG-5206.jpg"
+img_path: "/assets/img/A.MIG-5206.webp"
 brand: "AMMO"
 available: false
 special_offer: false

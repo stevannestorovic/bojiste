@@ -3,7 +3,7 @@ layout: product
 title: "TRACKS WASH"
 price: "500" 
 desc: "Emajl Voš"
-img_path: "/assets/img/A.MIG-1002.jpg"
+img_path: "/assets/img/A.MIG-1002.webp"
 brand: "AMMO"
 available: true
 special_offer: false

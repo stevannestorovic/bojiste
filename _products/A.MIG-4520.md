@@ -3,7 +3,7 @@ layout: product
 title: "Issue 21. FADED ENGLISH"
 price: "1100" 
 desc: "Časopis"
-img_path: "/assets/img/A.MIG-4520.jpg"
+img_path: "/assets/img/A.MIG-4520.webp"
 brand: "AMMO"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "CRYSTAL GREEN PERISCOPE (AND TAIL"
 price: "300" 
 desc: "Akrilna boja 17mL - Kristal"
-img_path: "/assets/img/A.MIG-0096.jpg"
+img_path: "/assets/img/A.MIG-0096.webp"
 brand: "AMMO"
 available: true
 special_offer: false

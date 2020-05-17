@@ -3,7 +3,7 @@ layout: product
 title: "M1A2SEP ABRAMS MAIN BATTLE TANK IN DETAIL - Sabot007 ENGLISH"
 price: "2800" 
 desc: "Knjiga"
-img_path: "/assets/img/A.MIG-5950.jpg"
+img_path: "/assets/img/A.MIG-5950.webp"
 brand: "AMMO"
 available: false
 special_offer: false

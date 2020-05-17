@@ -3,7 +3,7 @@ layout: product
 title: "STARSHIP BAY SLUDGE"
 price: "400" 
 desc: "Uljana boja sa četkicom"
-img_path: "/assets/img/A.MIG-3532.jpg"
+img_path: "/assets/img/A.MIG-3532.webp"
 brand: "AMMO"
 available: true
 special_offer: false

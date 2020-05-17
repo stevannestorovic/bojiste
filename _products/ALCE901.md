@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - Canadian Voodoo Grey (FS59536515) 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE901.jpg"
+img_path: "/assets/img/ALCE901.webp"
 brand: "N/A"
 available: false
 special_offer: false

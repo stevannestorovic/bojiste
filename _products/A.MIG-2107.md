@@ -3,7 +3,7 @@ layout: product
 title: "Asphalt Ground"
 price: "1300" 
 desc: "Akrilna tekstura 250mL"
-img_path: "/assets/img/A.MIG-2107.jpg"
+img_path: "/assets/img/A.MIG-2107.webp"
 brand: "AMMO"
 available: true
 special_offer: false

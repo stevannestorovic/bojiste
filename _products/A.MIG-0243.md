@@ -3,7 +3,7 @@ layout: product
 title: "SKY TYPE S (BS 210)"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0243.jpg"
+img_path: "/assets/img/A.MIG-0243.webp"
 brand: "AMMO"
 available: true
 special_offer: false

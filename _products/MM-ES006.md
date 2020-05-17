@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model – Victory Kiss M4A3 (76) W Limited Edition"
 price: "13000" 
 desc: "N/A"
-img_path: "/assets/img/MM-ES006.jpg"
+img_path: "/assets/img/MM-ES006.webp"
 brand: "N/A"
 available: false
 special_offer: false

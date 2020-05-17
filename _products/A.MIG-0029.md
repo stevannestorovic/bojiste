@@ -3,7 +3,7 @@ layout: product
 title: "DESERT SAND"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0029.jpg"
+img_path: "/assets/img/A.MIG-0029.webp"
 brand: "AMMO"
 available: false
 special_offer: false

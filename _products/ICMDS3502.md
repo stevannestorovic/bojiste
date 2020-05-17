@@ -3,7 +3,7 @@ layout: product
 title: "ICM - Army Group Center Summer 1941 Kfz.1 Typ L3000S German Infantry"
 price: "TBA" 
 desc: "N/A"
-img_path: "/assets/img/ICMDS3502.jpg"
+img_path: "/assets/img/ICMDS3502.webp"
 brand: "N/A"
 available: false
 special_offer: false

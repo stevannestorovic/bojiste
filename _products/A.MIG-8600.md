@@ -3,7 +3,7 @@ layout: product
 title: "5/0 PREMIUM MARTA KOLINSKY ROUND BRUSH"
 price: "1700" 
 desc: "Četkica"
-img_path: "/assets/img/A.MIG-8600.jpg"
+img_path: "/assets/img/A.MIG-8600.webp"
 brand: "AMMO"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "PHOTOETCH BURNISHING FLUID"
 price: "900" 
 desc: "Sredstvo za patiniranje eceraja"
-img_path: "/assets/img/A.MIG-2021.jpg"
+img_path: "/assets/img/A.MIG-2021.webp"
 brand: "AMMO"
 available: false
 special_offer: false

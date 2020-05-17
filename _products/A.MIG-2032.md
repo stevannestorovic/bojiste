@@ -3,7 +3,7 @@ layout: product
 title: "ULTRA LIQUID MASK"
 price: "550" 
 desc: "Maskol"
-img_path: "/assets/img/A.MIG-2032.jpg"
+img_path: "/assets/img/A.MIG-2032.webp"
 brand: "AMMO"
 available: false
 special_offer: false

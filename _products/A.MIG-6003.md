@@ -3,7 +3,7 @@ layout: product
 title: "PAINTING WARGAME TANKS ENGLISH"
 price: "3100" 
 desc: "Knjiga"
-img_path: "/assets/img/A.MIG-6003.jpg"
+img_path: "/assets/img/A.MIG-6003.webp"
 brand: "AMMO"
 available: false
 special_offer: false

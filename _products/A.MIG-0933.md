@@ -3,7 +3,7 @@ layout: product
 title: "RUSSIAN LIGHT BASE"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0933.jpg"
+img_path: "/assets/img/A.MIG-0933.webp"
 brand: "AMMO"
 available: true
 special_offer: false

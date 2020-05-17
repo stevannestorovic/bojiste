@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - German Medium Tank PzKpfw V Panther"
 price: "1400" 
 desc: "N/A"
-img_path: "/assets/img/MM-WWT-011.jpg"
+img_path: "/assets/img/MM-WWT-011.webp"
 brand: "N/A"
 available: false
 special_offer: false

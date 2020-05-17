@@ -3,7 +3,7 @@ layout: product
 title: "German Tank Crew, Kursk, 1943 "
 price: "950" 
 desc: "1/35 Figura"
-img_path: "/assets/img/MBLTD3536.jpg"
+img_path: "/assets/img/MBLTD3536.webp"
 brand: "MasterBox"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - German Main Battle Tank Leopard 2 A7"
 price: "TBA" 
 desc: "N/A"
-img_path: "/assets/img/MM-TS-027.jpg"
+img_path: "/assets/img/MM-TS-027.webp"
 brand: "N/A"
 available: false
 special_offer: false

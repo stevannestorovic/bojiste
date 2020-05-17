@@ -3,7 +3,7 @@ layout: product
 title: "RLM 65 HELLBLAU"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0231.jpg"
+img_path: "/assets/img/A.MIG-0231.webp"
 brand: "AMMO"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "LIGHT GREEN"
 price: "300" 
 desc: "Akrilna formulacija za senčenje"
-img_path: "/assets/img/A.MIG-0863.jpg"
+img_path: "/assets/img/A.MIG-0863.webp"
 brand: "AMMO"
 available: false
 special_offer: false

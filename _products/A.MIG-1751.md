@@ -3,7 +3,7 @@ layout: product
 title: "DRY STEPPE"
 price: "550" 
 desc: "Emajl Efekat"
-img_path: "/assets/img/A.MIG-1751.jpg"
+img_path: "/assets/img/A.MIG-1751.webp"
 brand: "AMMO"
 available: false
 special_offer: false

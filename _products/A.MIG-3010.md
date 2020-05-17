@@ -3,7 +3,7 @@ layout: product
 title: "CONCRETE"
 price: "500" 
 desc: "Pigment"
-img_path: "/assets/img/A.MIG-3010.jpg"
+img_path: "/assets/img/A.MIG-3010.webp"
 brand: "AMMO"
 available: true
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - German Late WWII Panzer Camouflage 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCESET011.jpg"
+img_path: "/assets/img/ALCESET011.webp"
 brand: "N/A"
 available: false
 special_offer: false

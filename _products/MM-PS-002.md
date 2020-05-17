@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - U.S. Navy Aircraft Carrier U.S.S. Lexington (Cv-2)"
 price: "4900" 
 desc: "N/A"
-img_path: "/assets/img/MM-PS-002.jpg"
+img_path: "/assets/img/MM-PS-002.webp"
 brand: "N/A"
 available: false
 special_offer: false

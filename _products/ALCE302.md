@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - US Vietnam Camouflage Tan 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE302.jpg"
+img_path: "/assets/img/ALCE302.webp"
 brand: "N/A"
 available: false
 special_offer: false

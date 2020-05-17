@@ -3,7 +3,7 @@ layout: product
 title: "PANEL LINES AND FADING BRUSH SET"
 price: "850" 
 desc: "Set četkica"
-img_path: "/assets/img/A.MIG-7605.jpg"
+img_path: "/assets/img/A.MIG-7605.webp"
 brand: "AMMO"
 available: false
 special_offer: false

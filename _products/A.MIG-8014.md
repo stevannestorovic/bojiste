@@ -3,7 +3,7 @@ layout: product
 title: "TAMIYA/GUNZE AMMO STORAGE SYSTEM"
 price: "2600" 
 desc: "Polica"
-img_path: "/assets/img/A.MIG-8014.jpg"
+img_path: "/assets/img/A.MIG-8014.webp"
 brand: "AMMO"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - Earth 30ml"
 price: "TBA" 
 desc: "N/A"
-img_path: "/assets/img/ALCHW009.jpg"
+img_path: "/assets/img/ALCHW009.webp"
 brand: "N/A"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - British Army Husky TSV Sagged Wheel Set (RESIN)"
 price: "TBA" 
 desc: "N/A"
-img_path: "/assets/img/MM-SPS-064.jpg"
+img_path: "/assets/img/MM-SPS-064.webp"
 brand: "N/A"
 available: false
 special_offer: false

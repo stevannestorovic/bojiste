@@ -3,7 +3,7 @@ layout: product
 title: "MiG & SU FIGHTERS GREYS"
 price: "1200" 
 desc: "Set boja"
-img_path: "/assets/img/A.MIG-7204.jpg"
+img_path: "/assets/img/A.MIG-7204.webp"
 brand: "AMMO"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - Olive Drab 20ml"
 price: "TBA" 
 desc: "N/A"
-img_path: "/assets/img/ALCWP011.jpg"
+img_path: "/assets/img/ALCWP011.webp"
 brand: "N/A"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Israel Nochri Degem Dalet Heavy Mine Roller System (For Ts-001 & Ts"
 price: "2200" 
 desc: "N/A"
-img_path: "/assets/img/MM-SPS-021.jpg"
+img_path: "/assets/img/MM-SPS-021.webp"
 brand: "N/A"
 available: false
 special_offer: false

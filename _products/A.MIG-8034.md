@@ -3,7 +3,7 @@ layout: product
 title: "BLACK SLOW DRY CYANOACRYLATE"
 price: "1300" 
 desc: "Crni superlepak (Colle21)"
-img_path: "/assets/img/A.MIG-8034.jpg"
+img_path: "/assets/img/A.MIG-8034.webp"
 brand: "AMMO"
 available: true
 special_offer: true

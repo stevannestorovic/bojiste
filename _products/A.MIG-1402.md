@@ -3,7 +3,7 @@ layout: product
 title: "FRESH MUD"
 price: "500" 
 desc: "Emajl Efekat"
-img_path: "/assets/img/A.MIG-1402.jpg"
+img_path: "/assets/img/A.MIG-1402.webp"
 brand: "AMMO"
 available: true
 special_offer: false

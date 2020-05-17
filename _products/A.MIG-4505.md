@@ -3,7 +3,7 @@ layout: product
 title: "Issue 6. KURSK & VEGETATION ENGLISH"
 price: "1100" 
 desc: "Časopis"
-img_path: "/assets/img/A.MIG-4505.jpg"
+img_path: "/assets/img/A.MIG-4505.webp"
 brand: "AMMO"
 available: false
 special_offer: false

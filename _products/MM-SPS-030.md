@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Double-Pin Tracks For T-72 & T-90 Main Battle Tanks"
 price: "2700" 
 desc: "N/A"
-img_path: "/assets/img/MM-SPS-030.jpg"
+img_path: "/assets/img/MM-SPS-030.webp"
 brand: "N/A"
 available: false
 special_offer: false

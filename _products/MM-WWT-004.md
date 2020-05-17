@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - German Heavy Tank Tiger I"
 price: "1600" 
 desc: "N/A"
-img_path: "/assets/img/MM-WWT-004.jpg"
+img_path: "/assets/img/MM-WWT-004.webp"
 brand: "N/A"
 available: false
 special_offer: false

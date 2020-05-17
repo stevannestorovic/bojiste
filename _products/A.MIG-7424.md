@@ -3,7 +3,7 @@ layout: product
 title: "DESERT AIRPLANES"
 price: "1500" 
 desc: "Set za weathering"
-img_path: "/assets/img/A.MIG-7424.jpg"
+img_path: "/assets/img/A.MIG-7424.webp"
 brand: "AMMO"
 available: false
 special_offer: false

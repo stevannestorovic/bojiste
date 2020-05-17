@@ -3,7 +3,7 @@ layout: product
 title: "MARINE BLUE"
 price: "400" 
 desc: "Uljana boja sa četkicom"
-img_path: "/assets/img/A.MIG-3527.jpg"
+img_path: "/assets/img/A.MIG-3527.webp"
 brand: "AMMO"
 available: true
 special_offer: false

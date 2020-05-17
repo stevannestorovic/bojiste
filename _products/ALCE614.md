@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - Light Grey (FS36495) 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE614.jpg"
+img_path: "/assets/img/ALCE614.webp"
 brand: "N/A"
 available: false
 special_offer: false

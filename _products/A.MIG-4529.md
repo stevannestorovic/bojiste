@@ -3,7 +3,7 @@ layout: product
 title: "Issue 30. ABANDONED ENGLISH"
 price: "1100" 
 desc: "Časopis"
-img_path: "/assets/img/A.MIG-4529.jpg"
+img_path: "/assets/img/A.MIG-4529.webp"
 brand: "AMMO"
 available: false
 special_offer: false

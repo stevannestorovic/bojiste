@@ -3,7 +3,7 @@ layout: product
 title: "THE WEATHERING falseIAL - HOW TO PAINT IDF TANKS - WEATHERING GUIDE ENGLISH"
 price: "2800" 
 desc: "Časopis"
-img_path: "/assets/img/A.MIG-6128.jpg"
+img_path: "/assets/img/A.MIG-6128.webp"
 brand: "AMMO"
 available: false
 special_offer: false

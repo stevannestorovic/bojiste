@@ -3,7 +3,7 @@ layout: product
 title: "Milliput - Standard"
 price: "700" 
 desc: "N/A"
-img_path: "/assets/img/MIL_STD.jpg"
+img_path: "/assets/img/MIL_STD.webp"
 brand: "N/A"
 available: true
 special_offer: true

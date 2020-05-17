@@ -3,7 +3,7 @@ layout: product
 title: "WASHABLE WHITE CAMO"
 price: "300" 
 desc: "Akrilna boja 17mL - Periva"
-img_path: "/assets/img/A.MIG-0024.jpg"
+img_path: "/assets/img/A.MIG-0024.webp"
 brand: "AMMO"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Hacksaw Ridge (resin)"
 price: "4000" 
 desc: "N/A"
-img_path: "/assets/img/MM-HS-008R.jpg"
+img_path: "/assets/img/MM-HS-008R.webp"
 brand: "N/A"
 available: false
 special_offer: false

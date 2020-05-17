@@ -3,7 +3,7 @@ layout: product
 title: "TURNED DIRT"
 price: "550" 
 desc: "Emajl Efekat"
-img_path: "/assets/img/A.MIG-1753.jpg"
+img_path: "/assets/img/A.MIG-1753.webp"
 brand: "AMMO"
 available: false
 special_offer: false

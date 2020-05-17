@@ -3,7 +3,7 @@ layout: product
 title: "MODELLING SCHOOL: URBAN DIORAMAS ENGLISH"
 price: "2800" 
 desc: "Knjiga"
-img_path: "/assets/img/A.MIG-6215.jpg"
+img_path: "/assets/img/A.MIG-6215.webp"
 brand: "AMMO"
 available: false
 special_offer: false

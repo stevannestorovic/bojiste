@@ -3,7 +3,7 @@ layout: product
 title: "Milliput - Terracotta"
 price: "900" 
 desc: "N/A"
-img_path: "/assets/img/MIL_TER.jpg"
+img_path: "/assets/img/MIL_TER.webp"
 brand: "N/A"
 available: false
 special_offer: false

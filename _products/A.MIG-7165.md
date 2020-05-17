@@ -3,7 +3,7 @@ layout: product
 title: "KING TIGER INT. COLOR (falseIAL TAKOM"
 price: "1800" 
 desc: "Set boja"
-img_path: "/assets/img/A.MIG-7165.jpg"
+img_path: "/assets/img/A.MIG-7165.webp"
 brand: "AMMO"
 available: false
 special_offer: false

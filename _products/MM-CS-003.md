@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Jeep Wrangler Rubicon 2-Door 10th Anniversary Edition"
 price: "6000" 
 desc: "N/A"
-img_path: "/assets/img/MM-CS-003.jpg"
+img_path: "/assets/img/MM-CS-003.webp"
 brand: "N/A"
 available: false
 special_offer: false

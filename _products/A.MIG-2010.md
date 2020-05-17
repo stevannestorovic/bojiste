@@ -3,7 +3,7 @@ layout: product
 title: "SCRATCHES EFFECTS"
 price: "500" 
 desc: "Efekat ogrebotina"
-img_path: "/assets/img/A.MIG-2010.jpg"
+img_path: "/assets/img/A.MIG-2010.webp"
 brand: "AMMO"
 available: true
 special_offer: false

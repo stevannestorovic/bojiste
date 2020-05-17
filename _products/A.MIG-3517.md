@@ -3,7 +3,7 @@ layout: product
 title: "BUFF"
 price: "400" 
 desc: "Uljana boja sa četkicom"
-img_path: "/assets/img/A.MIG-3517.jpg"
+img_path: "/assets/img/A.MIG-3517.webp"
 brand: "AMMO"
 available: true
 special_offer: true

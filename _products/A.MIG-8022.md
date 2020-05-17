@@ -3,7 +3,7 @@ layout: product
 title: "BRUSH ORGANIZER"
 price: "1500" 
 desc: "Polica"
-img_path: "/assets/img/A.MIG-8022.jpg"
+img_path: "/assets/img/A.MIG-8022.webp"
 brand: "AMMO"
 available: false
 special_offer: false

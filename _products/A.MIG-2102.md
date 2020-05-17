@@ -3,7 +3,7 @@ layout: product
 title: "Light Earth Ground"
 price: "1300" 
 desc: "Akrilna tekstura 250mL"
-img_path: "/assets/img/A.MIG-2102.jpg"
+img_path: "/assets/img/A.MIG-2102.webp"
 brand: "AMMO"
 available: false
 special_offer: false

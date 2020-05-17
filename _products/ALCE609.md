@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - Air Superiority Blue (FS35450) 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE609.jpg"
+img_path: "/assets/img/ALCE609.webp"
 brand: "N/A"
 available: false
 special_offer: false

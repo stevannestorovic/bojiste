@@ -3,7 +3,7 @@ layout: product
 title: "RETARDER"
 price: "300" 
 desc: "Sredstvo za usporavanje sušenja boje"
-img_path: "/assets/img/AMMOF500.jpg"
+img_path: "/assets/img/AMMOF500.webp"
 brand: "AMMO"
 available: true
 special_offer: false

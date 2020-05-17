@@ -3,7 +3,7 @@ layout: product
 title: "RIGGING - SUPER FINE 0,01 MM"
 price: "650" 
 desc: "Konac za riging"
-img_path: "/assets/img/A.MIG-8016.jpg"
+img_path: "/assets/img/A.MIG-8016.webp"
 brand: "AMMO"
 available: false
 special_offer: false

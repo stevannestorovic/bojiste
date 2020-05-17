@@ -3,7 +3,7 @@ layout: product
 title: "LIGHT CLAY"
 price: "300" 
 desc: "Akrilna formulacija za senčenje"
-img_path: "/assets/img/A.MIG-0869.jpg"
+img_path: "/assets/img/A.MIG-0869.webp"
 brand: "AMMO"
 available: false
 special_offer: false

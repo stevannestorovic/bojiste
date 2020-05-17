@@ -3,7 +3,7 @@ layout: product
 title: "Issue 4. ENGINE, GREASE AND OIL  ENGLISH"
 price: "1100" 
 desc: "Časopis"
-img_path: "/assets/img/A.MIG-4503.jpg"
+img_path: "/assets/img/A.MIG-4503.webp"
 brand: "AMMO"
 available: false
 special_offer: false

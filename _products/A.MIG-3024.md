@@ -3,7 +3,7 @@ layout: product
 title: "NEGEV SAND"
 price: "500" 
 desc: "Pigment"
-img_path: "/assets/img/A.MIG-3024.jpg"
+img_path: "/assets/img/A.MIG-3024.webp"
 brand: "AMMO"
 available: false
 special_offer: false

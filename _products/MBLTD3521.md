@@ -3,7 +3,7 @@ layout: product
 title: "U.S. Infantry, July 1944 "
 price: "950" 
 desc: "1/35 Figura"
-img_path: "/assets/img/MBLTD3521.jpg"
+img_path: "/assets/img/MBLTD3521.webp"
 brand: "MasterBox"
 available: false
 special_offer: false

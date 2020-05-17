@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Barricades & Highway Guardrail"
 price: "1100" 
 desc: "N/A"
-img_path: "/assets/img/MM-SPS-013.jpg"
+img_path: "/assets/img/MM-SPS-013.webp"
 brand: "N/A"
 available: false
 special_offer: false

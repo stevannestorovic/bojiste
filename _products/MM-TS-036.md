@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Israel Main Battle Tank Merkava Mk.4M w/Trophy Active Protection System"
 price: "7300" 
 desc: "N/A"
-img_path: "/assets/img/MM-TS-036.jpg"
+img_path: "/assets/img/MM-TS-036.webp"
 brand: "N/A"
 available: true
 special_offer: false

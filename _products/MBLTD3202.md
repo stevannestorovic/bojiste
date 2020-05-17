@@ -3,7 +3,7 @@ layout: product
 title: "Pilots of Luftwaffe, WW II era"
 price: "1100" 
 desc: "1/32 Figura"
-img_path: "/assets/img/MBLTD3202.jpg"
+img_path: "/assets/img/MBLTD3202.webp"
 brand: "MasterBox"
 available: false
 special_offer: false

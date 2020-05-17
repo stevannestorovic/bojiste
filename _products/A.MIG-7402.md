@@ -3,7 +3,7 @@ layout: product
 title: "ENGINES SET"
 price: "1500" 
 desc: "Set za weathering"
-img_path: "/assets/img/A.MIG-7402.jpg"
+img_path: "/assets/img/A.MIG-7402.webp"
 brand: "AMMO"
 available: false
 special_offer: false

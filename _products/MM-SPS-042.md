@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - German Main Battle Tank Leopard 2A4 AGDUS Training System (Resin)"
 price: "3000" 
 desc: "N/A"
-img_path: "/assets/img/MM-SPS-042.jpg"
+img_path: "/assets/img/MM-SPS-042.webp"
 brand: "N/A"
 available: false
 special_offer: false

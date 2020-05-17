@@ -3,7 +3,7 @@ layout: product
 title: "Who’s that?, German Mountain Troops & Soviet Marines, spring 1943 "
 price: "1300" 
 desc: "1/35 Figura"
-img_path: "/assets/img/MBLTD3571.jpg"
+img_path: "/assets/img/MBLTD3571.webp"
 brand: "MasterBox"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - French Auf1 155Mm Self-Propelled Howitzer"
 price: "6100" 
 desc: "N/A"
-img_path: "/assets/img/MM-TS-004.jpg"
+img_path: "/assets/img/MM-TS-004.webp"
 brand: "N/A"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "DARK BLUE"
 price: "400" 
 desc: "Uljana boja sa četkicom"
-img_path: "/assets/img/A.MIG-3504.jpg"
+img_path: "/assets/img/A.MIG-3504.webp"
 brand: "AMMO"
 available: true
 special_offer: false

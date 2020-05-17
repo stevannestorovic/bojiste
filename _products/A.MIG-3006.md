@@ -3,7 +3,7 @@ layout: product
 title: "LIGHT RUST "
 price: "500" 
 desc: "Pigment"
-img_path: "/assets/img/A.MIG-3006.jpg"
+img_path: "/assets/img/A.MIG-3006.webp"
 brand: "AMMO"
 available: true
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "Issue 13. DESERT ENGLISH"
 price: "1100" 
 desc: "Časopis"
-img_path: "/assets/img/A.MIG-4512.jpg"
+img_path: "/assets/img/A.MIG-4512.webp"
 brand: "AMMO"
 available: false
 special_offer: false

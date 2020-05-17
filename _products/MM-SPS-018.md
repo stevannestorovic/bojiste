@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Vending Machine & Dumpster Set"
 price: "TBA" 
 desc: "N/A"
-img_path: "/assets/img/MM-SPS-018.jpg"
+img_path: "/assets/img/MM-SPS-018.webp"
 brand: "N/A"
 available: false
 special_offer: false

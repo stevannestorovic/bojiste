@@ -3,7 +3,7 @@ layout: product
 title: "SPACESHIP SCI-FI WEATHERING SET"
 price: "N/A" 
 desc: "Set za weathering"
-img_path: "/assets/img/A.MIG-7444.jpg"
+img_path: "/assets/img/A.MIG-7444.webp"
 brand: "AMMO"
 available: false
 special_offer: false

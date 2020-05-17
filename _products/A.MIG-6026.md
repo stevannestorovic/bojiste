@@ -3,7 +3,7 @@ layout: product
 title: "IN COMBAT 2: MECHA BATTLEGROUNDS ENGLISH"
 price: "2800" 
 desc: "Knjiga"
-img_path: "/assets/img/A.MIG-6026.jpg"
+img_path: "/assets/img/A.MIG-6026.webp"
 brand: "AMMO"
 available: false
 special_offer: false

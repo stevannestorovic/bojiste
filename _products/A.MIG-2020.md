@@ -3,7 +3,7 @@ layout: product
 title: "METALLIC TRACKS BURNISHING FLUID"
 price: "900" 
 desc: "Sredstvo za patiniranje metalnih gusenica"
-img_path: "/assets/img/A.MIG-2020.jpg"
+img_path: "/assets/img/A.MIG-2020.webp"
 brand: "AMMO"
 available: true
 special_offer: false

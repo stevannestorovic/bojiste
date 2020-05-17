@@ -3,7 +3,7 @@ layout: product
 title: "SYRIAN GROUND"
 price: "500" 
 desc: "Pigment"
-img_path: "/assets/img/A.MIG-3025.jpg"
+img_path: "/assets/img/A.MIG-3025.webp"
 brand: "AMMO"
 available: false
 special_offer: false

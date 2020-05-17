@@ -3,7 +3,7 @@ layout: product
 title: "POLISHED BRASS ALC109"
 price: "760" 
 desc: "Metalizer boja"
-img_path: "/assets/img/A.MIG-8206.jpg"
+img_path: "/assets/img/A.MIG-8206.webp"
 brand: "Alclad II"
 available: true
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "Khaki green No3"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0113.jpg"
+img_path: "/assets/img/A.MIG-0113.webp"
 brand: "AMMO"
 available: true
 special_offer: false

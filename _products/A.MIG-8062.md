@@ -3,7 +3,7 @@ layout: product
 title: "T-54B. DECALS 1/72 "
 price: "1900" 
 desc: "Dekali"
-img_path: "/assets/img/A.MIG-8062.jpg"
+img_path: "/assets/img/A.MIG-8062.webp"
 brand: "AMMO"
 available: false
 special_offer: false

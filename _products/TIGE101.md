@@ -3,7 +3,7 @@ layout: product
 title: "Cute  U.S F4U Fighter"
 price: "1600" 
 desc: "Maketa"
-img_path: "/assets/img/TIGE101.jpg"
+img_path: "/assets/img/TIGE101.webp"
 brand: "N/A"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "1 SYNTETIC FLAT BRUSH"
 price: "250" 
 desc: "Sintetička četkica"
-img_path: "/assets/img/A.MIG-8619.jpg"
+img_path: "/assets/img/A.MIG-8619.webp"
 brand: "AMMO"
 available: false
 special_offer: false

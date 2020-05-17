@@ -3,7 +3,7 @@ layout: product
 title: "Auto-Repair Crew                         "
 price: "1150" 
 desc: "1/35 Figura"
-img_path: "/assets/img/MBLTD3582.jpg"
+img_path: "/assets/img/MBLTD3582.webp"
 brand: "MasterBox"
 available: false
 special_offer: false

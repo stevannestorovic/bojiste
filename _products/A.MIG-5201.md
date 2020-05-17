@@ -3,7 +3,7 @@ layout: product
 title: "Issue 1. PANELS   ENGLISH"
 price: "1300" 
 desc: "Časopis"
-img_path: "/assets/img/A.MIG-5201.jpg"
+img_path: "/assets/img/A.MIG-5201.webp"
 brand: "AMMO"
 available: false
 special_offer: false

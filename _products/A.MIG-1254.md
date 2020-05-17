@@ -3,7 +3,7 @@ layout: product
 title: "RUST"
 price: "410" 
 desc: "Emajl efekat sa četkicom"
-img_path: "/assets/img/A.MIG-1254.jpg"
+img_path: "/assets/img/A.MIG-1254.webp"
 brand: "AMMO"
 available: true
 special_offer: false

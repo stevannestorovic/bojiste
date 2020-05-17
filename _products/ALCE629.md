@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - Mig Grey Green (FS14233) 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE629.jpg"
+img_path: "/assets/img/ALCE629.webp"
 brand: "N/A"
 available: false
 special_offer: false

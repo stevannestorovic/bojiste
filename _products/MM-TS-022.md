@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Chinese Plz05 155Mm Self-Propelled Howitzer"
 price: "TBA" 
 desc: "N/A"
-img_path: "/assets/img/MM-TS-022.jpg"
+img_path: "/assets/img/MM-TS-022.webp"
 brand: "N/A"
 available: false
 special_offer: false

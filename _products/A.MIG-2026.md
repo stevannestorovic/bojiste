@@ -3,7 +3,7 @@ layout: product
 title: "ONE SHOT PRIMER - BROWN OXIDE"
 price: "800" 
 desc: "Prajmer"
-img_path: "/assets/img/A.MIG-2026.jpg"
+img_path: "/assets/img/A.MIG-2026.webp"
 brand: "AMMO"
 available: true
 special_offer: true

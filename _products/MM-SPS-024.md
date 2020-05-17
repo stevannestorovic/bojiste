@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - U.S. Cougar 6×6 Mrap Vehicle Wheel Set (Resin)"
 price: "3000" 
 desc: "N/A"
-img_path: "/assets/img/MM-SPS-024.jpg"
+img_path: "/assets/img/MM-SPS-024.webp"
 brand: "N/A"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "SAND"
 price: "500" 
 desc: "Pigment"
-img_path: "/assets/img/A.MIG-3012.jpg"
+img_path: "/assets/img/A.MIG-3012.webp"
 brand: "AMMO"
 available: true
 special_offer: false

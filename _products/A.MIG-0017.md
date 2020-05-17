@@ -3,7 +3,7 @@ layout: product
 title: "RAL 9001 CREMEWEISS"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0017.jpg"
+img_path: "/assets/img/A.MIG-0017.webp"
 brand: "AMMO"
 available: false
 special_offer: false

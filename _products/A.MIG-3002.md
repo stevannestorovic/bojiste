@@ -3,7 +3,7 @@ layout: product
 title: "LIGHT DUST"
 price: "500" 
 desc: "Pigment"
-img_path: "/assets/img/A.MIG-3002.jpg"
+img_path: "/assets/img/A.MIG-3002.webp"
 brand: "AMMO"
 available: true
 special_offer: true

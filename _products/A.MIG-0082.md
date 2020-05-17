@@ -3,7 +3,7 @@ layout: product
 title: "US APC INTERIOR GREEN"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0082.jpg"
+img_path: "/assets/img/A.MIG-0082.webp"
 brand: "AMMO"
 available: true
 special_offer: false

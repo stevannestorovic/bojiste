@@ -3,7 +3,7 @@ layout: product
 title: "ARMY GREEN"
 price: "500" 
 desc: "Pigment"
-img_path: "/assets/img/A.MIG-3019.jpg"
+img_path: "/assets/img/A.MIG-3019.webp"
 brand: "AMMO"
 available: false
 special_offer: false

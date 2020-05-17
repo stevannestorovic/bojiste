@@ -3,7 +3,7 @@ layout: product
 title: "Issue 1. RUST  ENGLISH"
 price: "1100" 
 desc: "Časopis"
-img_path: "/assets/img/A.MIG-4500.jpg"
+img_path: "/assets/img/A.MIG-4500.webp"
 brand: "AMMO"
 available: false
 special_offer: false

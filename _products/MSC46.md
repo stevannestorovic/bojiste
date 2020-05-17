@@ -3,7 +3,7 @@ layout: product
 title: "Grass Flock 4,5mm 50g – Beige"
 price: "750" 
 desc: "Statička trava"
-img_path: "/assets/img/MSC46.jpg"
+img_path: "/assets/img/MSC46.webp"
 brand: "ModelScene"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Soviet Heavy Tank KV-2 (cartoon model)"
 price: "1600" 
 desc: "N/A"
-img_path: "/assets/img/MM-WWT-006.jpg"
+img_path: "/assets/img/MM-WWT-006.webp"
 brand: "N/A"
 available: false
 special_offer: false

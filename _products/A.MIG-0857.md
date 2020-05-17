@@ -3,7 +3,7 @@ layout: product
 title: "NAVY GREY"
 price: "300" 
 desc: "Akrilna formulacija za senčenje"
-img_path: "/assets/img/A.MIG-0857.jpg"
+img_path: "/assets/img/A.MIG-0857.webp"
 brand: "AMMO"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "Issue 5. METALLICS   ENGLISH"
 price: "1300" 
 desc: "Časopis"
-img_path: "/assets/img/A.MIG-5205.jpg"
+img_path: "/assets/img/A.MIG-5205.webp"
 brand: "AMMO"
 available: false
 special_offer: false

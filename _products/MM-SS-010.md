@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - D9R Armored Bulldozer W/Slat Armor"
 price: "8900" 
 desc: "N/A"
-img_path: "/assets/img/MM-SS-010.jpg"
+img_path: "/assets/img/MM-SS-010.webp"
 brand: "N/A"
 available: false
 special_offer: false

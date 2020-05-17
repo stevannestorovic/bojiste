@@ -3,7 +3,7 @@ layout: product
 title: "Slow Rivers Water"
 price: "1200" 
 desc: "Akrilna tekstura 250mL"
-img_path: "/assets/img/A.MIG-2204.jpg"
+img_path: "/assets/img/A.MIG-2204.webp"
 brand: "AMMO"
 available: false
 special_offer: false

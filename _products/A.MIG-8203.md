@@ -3,7 +3,7 @@ layout: product
 title: "DARK ALUMINIUM ALC103"
 price: "760" 
 desc: "Metalizer boja"
-img_path: "/assets/img/A.MIG-8203.jpg"
+img_path: "/assets/img/A.MIG-8203.webp"
 brand: "Alclad II"
 available: true
 special_offer: false

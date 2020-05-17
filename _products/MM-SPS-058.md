@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - German Medium Tank Sd.Kfz.171 Panther Ausf.D Zimmerit Decal"
 price: "1500" 
 desc: "N/A"
-img_path: "/assets/img/MM-SPS-058.jpg"
+img_path: "/assets/img/MM-SPS-058.webp"
 brand: "N/A"
 available: false
 special_offer: false

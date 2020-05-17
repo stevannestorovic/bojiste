@@ -3,7 +3,7 @@ layout: product
 title: "ALC111 MAGNESIUM"
 price: "760" 
 desc: "Metalizer boja"
-img_path: "/assets/img/A.MIG-8214.jpg"
+img_path: "/assets/img/A.MIG-8214.webp"
 brand: "Alclad II"
 available: true
 special_offer: false

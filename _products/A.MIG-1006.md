@@ -3,7 +3,7 @@ layout: product
 title: "BLUE WASH FOR PANZER GREY"
 price: "500" 
 desc: "Emajl Voš"
-img_path: "/assets/img/A.MIG-1006.jpg"
+img_path: "/assets/img/A.MIG-1006.webp"
 brand: "AMMO"
 available: true
 special_offer: false

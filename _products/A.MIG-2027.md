@@ -3,7 +3,7 @@ layout: product
 title: "ONE SHOT PRIMER - SAND / FLESH BASE"
 price: "800" 
 desc: "Prajmer"
-img_path: "/assets/img/A.MIG-2027.jpg"
+img_path: "/assets/img/A.MIG-2027.webp"
 brand: "AMMO"
 available: true
 special_offer: false

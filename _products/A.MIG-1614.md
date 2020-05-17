@@ -3,7 +3,7 @@ layout: product
 title: "PLW NEUTRAL BROWN"
 price: "500" 
 desc: "Emajl Voš"
-img_path: "/assets/img/A.MIG-1614.jpg"
+img_path: "/assets/img/A.MIG-1614.webp"
 brand: "AMMO"
 available: false
 special_offer: false

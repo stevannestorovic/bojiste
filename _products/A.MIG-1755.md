@@ -3,7 +3,7 @@ layout: product
 title: "WET GROUND"
 price: "550" 
 desc: "Emajl Efekat"
-img_path: "/assets/img/A.MIG-1755.jpg"
+img_path: "/assets/img/A.MIG-1755.webp"
 brand: "AMMO"
 available: false
 special_offer: false

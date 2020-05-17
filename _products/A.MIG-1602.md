@@ -3,7 +3,7 @@ layout: product
 title: "PLW DEEP GREY"
 price: "500" 
 desc: "Emajl Voš"
-img_path: "/assets/img/A.MIG-1602.jpg"
+img_path: "/assets/img/A.MIG-1602.webp"
 brand: "AMMO"
 available: true
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "BOOMERANG ORGANIZER"
 price: "1400" 
 desc: "Polica"
-img_path: "/assets/img/A.MIG-8028.jpg"
+img_path: "/assets/img/A.MIG-8028.webp"
 brand: "AMMO"
 available: false
 special_offer: false

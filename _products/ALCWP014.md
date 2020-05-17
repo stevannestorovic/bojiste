@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - Brick Dust 20ml"
 price: "TBA" 
 desc: "N/A"
-img_path: "/assets/img/ALCWP014.jpg"
+img_path: "/assets/img/ALCWP014.webp"
 brand: "N/A"
 available: false
 special_offer: false

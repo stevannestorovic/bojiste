@@ -3,7 +3,7 @@ layout: product
 title: "AIRFIELD DUST"
 price: "500" 
 desc: "Pigment"
-img_path: "/assets/img/A.MIG-3011.jpg"
+img_path: "/assets/img/A.MIG-3011.webp"
 brand: "AMMO"
 available: true
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "PROTECTIVE GREEN"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0023.jpg"
+img_path: "/assets/img/A.MIG-0023.webp"
 brand: "AMMO"
 available: true
 special_offer: false

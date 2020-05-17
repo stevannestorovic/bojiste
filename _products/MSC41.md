@@ -3,7 +3,7 @@ layout: product
 title: "Grass Flock 4,5mm 50g – Spring"
 price: "750" 
 desc: "Statička trava"
-img_path: "/assets/img/MSC41.jpg"
+img_path: "/assets/img/MSC41.webp"
 brand: "ModelScene"
 available: true
 special_offer: false

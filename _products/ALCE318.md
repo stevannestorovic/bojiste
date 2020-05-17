@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - USN WWII Non Specular Sea Blue (FS59535042) 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE318.jpg"
+img_path: "/assets/img/ALCE318.webp"
 brand: "N/A"
 available: false
 special_offer: false

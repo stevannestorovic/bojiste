@@ -3,7 +3,7 @@ layout: product
 title: "ENCYCLOPEDIA OF AIRCRAFT MODELLING TECHNIQUES - VOL.4 - WEATHERING ENGLISH"
 price: "4400" 
 desc: "Enciklopedija tom 4"
-img_path: "/assets/img/A.MIG-6053.jpg"
+img_path: "/assets/img/A.MIG-6053.webp"
 brand: "AMMO"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "ICM - Kronprinz WWI German Battleship"
 price: "TBA" 
 desc: "N/A"
-img_path: "/assets/img/ICMS003.jpg"
+img_path: "/assets/img/ICMS003.webp"
 brand: "N/A"
 available: false
 special_offer: false

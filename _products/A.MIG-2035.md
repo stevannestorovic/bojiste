@@ -3,7 +3,7 @@ layout: product
 title: "ANTI-SLIP PASTE - BROWN COLOR FOR 1/35"
 price: "500" 
 desc: "Anti slip tekstura"
-img_path: "/assets/img/A.MIG-2035.jpg"
+img_path: "/assets/img/A.MIG-2035.webp"
 brand: "AMMO"
 available: false
 special_offer: false

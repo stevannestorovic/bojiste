@@ -3,7 +3,7 @@ layout: product
 title: "4BO RUSSIAN GREEN"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0019.jpg"
+img_path: "/assets/img/A.MIG-0019.webp"
 brand: "AMMO"
 available: true
 special_offer: false

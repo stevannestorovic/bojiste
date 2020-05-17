@@ -3,7 +3,7 @@ layout: product
 title: "LUFTWAFFE MID-WAR"
 price: "1200" 
 desc: "Set boja"
-img_path: "/assets/img/A.MIG-7220.jpg"
+img_path: "/assets/img/A.MIG-7220.webp"
 brand: "AMMO"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "ORANGE"
 price: "300" 
 desc: "Akrilna formulacija za senčenje"
-img_path: "/assets/img/A.MIG-0850.jpg"
+img_path: "/assets/img/A.MIG-0850.webp"
 brand: "AMMO"
 available: false
 special_offer: false

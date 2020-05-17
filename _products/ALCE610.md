@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - Mod Eagle Grey (FS36176) 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE610.jpg"
+img_path: "/assets/img/ALCE610.webp"
 brand: "N/A"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "MEDIUM BLUE"
 price: "300" 
 desc: "Akrilna boja 17mL - Metalik"
-img_path: "/assets/img/AMMO.F-525.jpg"
+img_path: "/assets/img/AMMO.F-525.webp"
 brand: "AMMO"
 available: false
 special_offer: false

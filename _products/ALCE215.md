@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - RLM66 Black Grey 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE215.jpg"
+img_path: "/assets/img/ALCE215.webp"
 brand: "N/A"
 available: false
 special_offer: false

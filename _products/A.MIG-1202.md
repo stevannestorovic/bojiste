@@ -3,7 +3,7 @@ layout: product
 title: "STREAKING GRIME FOR PANZER GREY"
 price: "500" 
 desc: "Emajl Efekat"
-img_path: "/assets/img/A.MIG-1202.jpg"
+img_path: "/assets/img/A.MIG-1202.webp"
 brand: "AMMO"
 available: true
 special_offer: false

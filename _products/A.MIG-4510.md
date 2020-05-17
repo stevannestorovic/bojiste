@@ -3,7 +3,7 @@ layout: product
 title: "Issue 11. 1945 ENGLISH"
 price: "1100" 
 desc: "Časopis"
-img_path: "/assets/img/A.MIG-4510.jpg"
+img_path: "/assets/img/A.MIG-4510.webp"
 brand: "AMMO"
 available: false
 special_offer: false

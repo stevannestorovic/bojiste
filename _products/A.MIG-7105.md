@@ -3,7 +3,7 @@ layout: product
 title: "TIRES AND TRACKS"
 price: "1800" 
 desc: "Set boja"
-img_path: "/assets/img/A.MIG-7105.jpg"
+img_path: "/assets/img/A.MIG-7105.webp"
 brand: "AMMO"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "LIGHT RUST"
 price: "300" 
 desc: "Akrilna formulacija za senčenje"
-img_path: "/assets/img/A.MIG-0851.jpg"
+img_path: "/assets/img/A.MIG-0851.webp"
 brand: "AMMO"
 available: false
 special_offer: false

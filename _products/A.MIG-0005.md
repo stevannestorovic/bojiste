@@ -3,7 +3,7 @@ layout: product
 title: "RAL 7008 GRAUGRÜN"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0005.jpg"
+img_path: "/assets/img/A.MIG-0005.webp"
 brand: "AMMO"
 available: true
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "Grass Flock 6,5mm 50g – Late Summer"
 price: "800" 
 desc: "Statička trava"
-img_path: "/assets/img/MSC64.jpg"
+img_path: "/assets/img/MSC64.webp"
 brand: "ModelScene"
 available: false
 special_offer: false

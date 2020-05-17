@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - Nato Brown (BS499) 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE618.jpg"
+img_path: "/assets/img/ALCE618.webp"
 brand: "N/A"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "FARM DARK EARTH"
 price: "500" 
 desc: "Pigment"
-img_path: "/assets/img/A.MIG-3027.jpg"
+img_path: "/assets/img/A.MIG-3027.webp"
 brand: "AMMO"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "ENAMEL OUDERLESS THINNER 100 ML"
 price: "850" 
 desc: "Bezmirisni emajl razređivač"
-img_path: "/assets/img/A.MIG-2019.jpg"
+img_path: "/assets/img/A.MIG-2019.webp"
 brand: "AMMO"
 available: false
 special_offer: false

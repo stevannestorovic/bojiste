@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Messerschmitt Me-410B-2/U4 Heavy Fighter"
 price: "7300" 
 desc: "N/A"
-img_path: "/assets/img/MM-LS-001.jpg"
+img_path: "/assets/img/MM-LS-001.webp"
 brand: "N/A"
 available: false
 special_offer: false

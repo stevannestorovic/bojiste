@@ -3,7 +3,7 @@ layout: product
 title: "MEDIUM DENSE CEMENT - SLOW DRY"
 price: "550" 
 desc: "Srednje gusti cement"
-img_path: "/assets/img/A.MIG-2038.jpg"
+img_path: "/assets/img/A.MIG-2038.webp"
 brand: "AMMO"
 available: true
 special_offer: true

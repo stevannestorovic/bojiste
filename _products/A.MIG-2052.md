@@ -3,7 +3,7 @@ layout: product
 title: "LUCKY  VARNISH – SATIN(60 mL)"
 price: "670" 
 desc: "Akrilni Lak"
-img_path: "/assets/img/A.MIG-2052.jpg"
+img_path: "/assets/img/A.MIG-2052.webp"
 brand: "AMMO"
 available: false
 special_offer: false

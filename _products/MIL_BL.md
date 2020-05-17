@@ -3,7 +3,7 @@ layout: product
 title: "Milliput  - 2 part epoxy Black"
 price: "1000" 
 desc: "N/A"
-img_path: "/assets/img/MIL_BL.jpg"
+img_path: "/assets/img/MIL_BL.webp"
 brand: "N/A"
 available: false
 special_offer: false

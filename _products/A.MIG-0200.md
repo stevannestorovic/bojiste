@@ -3,7 +3,7 @@ layout: product
 title: "FS 33531"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0200.jpg"
+img_path: "/assets/img/A.MIG-0200.webp"
 brand: "AMMO"
 available: true
 special_offer: false

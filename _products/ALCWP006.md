@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - Light Earth 20ml"
 price: "TBA" 
 desc: "N/A"
-img_path: "/assets/img/ALCWP006.jpg"
+img_path: "/assets/img/ALCWP006.webp"
 brand: "N/A"
 available: false
 special_offer: false

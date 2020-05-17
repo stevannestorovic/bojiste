@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - RLM78 Hellblau 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE231.jpg"
+img_path: "/assets/img/ALCE231.webp"
 brand: "N/A"
 available: false
 special_offer: false

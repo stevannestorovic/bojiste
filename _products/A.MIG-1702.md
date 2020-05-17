@@ -3,7 +3,7 @@ layout: product
 title: "TURNED EARTH"
 price: "550" 
 desc: "Emajl Efekat"
-img_path: "/assets/img/A.MIG-1702.jpg"
+img_path: "/assets/img/A.MIG-1702.webp"
 brand: "AMMO"
 available: false
 special_offer: false

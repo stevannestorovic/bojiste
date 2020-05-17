@@ -3,7 +3,7 @@ layout: product
 title: "PLW STORM GREY"
 price: "500" 
 desc: "Emajl Voš"
-img_path: "/assets/img/A.MIG-1609.jpg"
+img_path: "/assets/img/A.MIG-1609.webp"
 brand: "AMMO"
 available: true
 special_offer: false

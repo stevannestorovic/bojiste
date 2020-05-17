@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - Russian Cockpit Blue/Green 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE645.jpg"
+img_path: "/assets/img/ALCE645.webp"
 brand: "N/A"
 available: false
 special_offer: false

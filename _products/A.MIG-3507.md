@@ -3,7 +3,7 @@ layout: product
 title: "DARK GREEN"
 price: "400" 
 desc: "Uljana boja sa četkicom"
-img_path: "/assets/img/A.MIG-3507.jpg"
+img_path: "/assets/img/A.MIG-3507.webp"
 brand: "AMMO"
 available: true
 special_offer: false

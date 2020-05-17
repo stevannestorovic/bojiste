@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Pickup Mounted Quad Rocket Launcher"
 price: "4000" 
 desc: "N/A"
-img_path: "/assets/img/MM-SPS-040.jpg"
+img_path: "/assets/img/MM-SPS-040.webp"
 brand: "N/A"
 available: false
 special_offer: false

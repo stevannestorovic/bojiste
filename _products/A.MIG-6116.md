@@ -3,7 +3,7 @@ layout: product
 title: "THIRD WORLD WAR - THE WORLD IN CRISIS  ENGLISH"
 price: "3700" 
 desc: "Knjiga"
-img_path: "/assets/img/A.MIG-6116.jpg"
+img_path: "/assets/img/A.MIG-6116.webp"
 brand: "AMMO"
 available: false
 special_offer: false

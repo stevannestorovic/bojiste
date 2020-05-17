@@ -3,7 +3,7 @@ layout: product
 title: "4 SYNTETIC FILBERT BRUSH"
 price: "240" 
 desc: "Sintetička četkica"
-img_path: "/assets/img/A.MIG-8595.jpg"
+img_path: "/assets/img/A.MIG-8595.webp"
 brand: "AMMO"
 available: true
 special_offer: false

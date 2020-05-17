@@ -3,7 +3,7 @@ layout: product
 title: "GERMAN FIELD GREY UNIFORMS"
 price: "1200" 
 desc: "Set boja"
-img_path: "/assets/img/A.MIG-7021.jpg"
+img_path: "/assets/img/A.MIG-7021.webp"
 brand: "AMMO"
 available: false
 special_offer: false

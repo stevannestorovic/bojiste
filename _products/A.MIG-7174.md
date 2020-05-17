@@ -3,7 +3,7 @@ layout: product
 title: "SET PANTHER-G COLORS FOR INTERIORS"
 price: "3600" 
 desc: "Set boja"
-img_path: "/assets/img/A.MIG-7174.jpg"
+img_path: "/assets/img/A.MIG-7174.webp"
 brand: "AMMO"
 available: false
 special_offer: false

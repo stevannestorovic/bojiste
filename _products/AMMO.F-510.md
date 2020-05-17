@@ -3,7 +3,7 @@ layout: product
 title: "UNIFORM SAND YELLOW FS-32555"
 price: "300" 
 desc: "Akrilna boja 17mL - Metalik"
-img_path: "/assets/img/AMMO.F-510.jpg"
+img_path: "/assets/img/AMMO.F-510.webp"
 brand: "AMMO"
 available: false
 special_offer: false

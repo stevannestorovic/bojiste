@@ -3,7 +3,7 @@ layout: product
 title: "MODULATION AND LIGHT TECHNIQUES ENGLISH"
 price: "3500" 
 desc: "Knjiga"
-img_path: "/assets/img/A.MIG-6005.jpg"
+img_path: "/assets/img/A.MIG-6005.webp"
 brand: "AMMO"
 available: false
 special_offer: true

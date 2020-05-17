@@ -3,7 +3,7 @@ layout: product
 title: "F-15J JASDF"
 price: "2200" 
 desc: "Maketa"
-img_path: "/assets/img/GWHGQ002.jpg"
+img_path: "/assets/img/GWHGQ002.webp"
 brand: "N/A"
 available: true
 special_offer: false

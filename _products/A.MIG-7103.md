@@ -3,7 +3,7 @@ layout: product
 title: "MODERN SYRIAN CAMOUFLAGE"
 price: "900" 
 desc: "Set boja"
-img_path: "/assets/img/A.MIG-7103.jpg"
+img_path: "/assets/img/A.MIG-7103.webp"
 brand: "AMMO"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "STAINLESS STEEL PAINT MIXERS"
 price: "400" 
 desc: "Čelične kuglice za mešanje"
-img_path: "/assets/img/A.MIG-8003.jpg"
+img_path: "/assets/img/A.MIG-8003.webp"
 brand: "AMMO"
 available: false
 special_offer: false

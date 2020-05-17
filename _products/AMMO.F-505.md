@@ -3,7 +3,7 @@ layout: product
 title: "PALE YELLOW GREEN FS-33481"
 price: "300" 
 desc: "Akrilna boja 17mL - Metalik"
-img_path: "/assets/img/AMMO.F-505.jpg"
+img_path: "/assets/img/AMMO.F-505.webp"
 brand: "AMMO"
 available: false
 special_offer: false

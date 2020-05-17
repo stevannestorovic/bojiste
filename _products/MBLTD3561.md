@@ -3,7 +3,7 @@ layout: product
 title: "Rommel and German Tank Crew, DAK, WW II era "
 price: "1500" 
 desc: "1/35 Figura"
-img_path: "/assets/img/MBLTD3561.jpg"
+img_path: "/assets/img/MBLTD3561.webp"
 brand: "MasterBox"
 available: false
 special_offer: false

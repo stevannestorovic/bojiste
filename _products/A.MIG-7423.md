@@ -3,7 +3,7 @@ layout: product
 title: "METALLIC AIRPLANES & JETS"
 price: "1500" 
 desc: "Set za weathering"
-img_path: "/assets/img/A.MIG-7423.jpg"
+img_path: "/assets/img/A.MIG-7423.webp"
 brand: "AMMO"
 available: false
 special_offer: false

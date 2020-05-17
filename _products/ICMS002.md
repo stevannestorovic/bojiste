@@ -3,7 +3,7 @@ layout: product
 title: "ICM - Großer Kurfürst WWI German Battleship"
 price: "TBA" 
 desc: "N/A"
-img_path: "/assets/img/ICMS002.jpg"
+img_path: "/assets/img/ICMS002.webp"
 brand: "N/A"
 available: false
 special_offer: false

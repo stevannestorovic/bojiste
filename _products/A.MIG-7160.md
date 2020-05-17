@@ -3,7 +3,7 @@ layout: product
 title: "MYTHICAL RUSSIAN GREEN COLORS 1935"
 price: "1800" 
 desc: "Set boja"
-img_path: "/assets/img/A.MIG-7160.jpg"
+img_path: "/assets/img/A.MIG-7160.webp"
 brand: "AMMO"
 available: false
 special_offer: false

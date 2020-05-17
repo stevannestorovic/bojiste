@@ -3,7 +3,7 @@ layout: product
 title: "WET EFFECTS"
 price: "500" 
 desc: "Efekat vlažnosti"
-img_path: "/assets/img/A.MIG-2015.jpg"
+img_path: "/assets/img/A.MIG-2015.webp"
 brand: "AMMO"
 available: true
 special_offer: false

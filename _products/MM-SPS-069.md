@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Kawasaki Ninja H2R Movable Metal Front Fork Set"
 price: "5800" 
 desc: "N/A"
-img_path: "/assets/img/MM-SPS-069.jpg"
+img_path: "/assets/img/MM-SPS-069.webp"
 brand: "N/A"
 available: false
 special_offer: false

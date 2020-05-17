@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Middle Eastern Street Set (Resin)"
 price: "2900" 
 desc: "N/A"
-img_path: "/assets/img/MM-SPS-036.jpg"
+img_path: "/assets/img/MM-SPS-036.webp"
 brand: "N/A"
 available: false
 special_offer: false

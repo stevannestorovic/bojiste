@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Tyres For Vehicle & Diorama (4Pcs)"
 price: "550" 
 desc: "N/A"
-img_path: "/assets/img/MM-SPS-001.jpg"
+img_path: "/assets/img/MM-SPS-001.webp"
 brand: "N/A"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "POLISHED ALUMIMIUM ALC105"
 price: "760" 
 desc: "Metalizer boja"
-img_path: "/assets/img/A.MIG-8204.jpg"
+img_path: "/assets/img/A.MIG-8204.webp"
 brand: "Alclad II"
 available: true
 special_offer: false

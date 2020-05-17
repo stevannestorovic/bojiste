@@ -3,7 +3,7 @@ layout: product
 title: "RUSSIAN SHINE"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0935.jpg"
+img_path: "/assets/img/A.MIG-0935.webp"
 brand: "AMMO"
 available: true
 special_offer: false

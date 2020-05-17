@@ -3,7 +3,7 @@ layout: product
 title: "France, 1944                                                                          "
 price: "1900" 
 desc: "1/35 Figura"
-img_path: "/assets/img/MBLTD3578.jpg"
+img_path: "/assets/img/MBLTD3578.webp"
 brand: "MasterBox"
 available: false
 special_offer: false

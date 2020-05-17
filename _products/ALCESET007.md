@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - USN WWII Aircraft 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCESET007.jpg"
+img_path: "/assets/img/ALCESET007.webp"
 brand: "N/A"
 available: false
 special_offer: false

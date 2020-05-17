@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - Camouflage Gray (FS59536622) 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE314.jpg"
+img_path: "/assets/img/ALCE314.webp"
 brand: "N/A"
 available: false
 special_offer: false

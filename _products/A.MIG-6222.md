@@ -3,7 +3,7 @@ layout: product
 title: "ENCYCLOPEDIA OF FIGURES MODELLING TECHNIQUES VOL. 2 - TECHNIQUES AND MATERIALS ENGLISH"
 price: "4300" 
 desc: "Knjiga"
-img_path: "/assets/img/A.MIG-6222.jpg"
+img_path: "/assets/img/A.MIG-6222.webp"
 brand: "AMMO"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "GREY FOR WHITE"
 price: "500" 
 desc: "Filter"
-img_path: "/assets/img/A.MIG-1501.jpg"
+img_path: "/assets/img/A.MIG-1501.webp"
 brand: "AMMO"
 available: true
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "Issue 2. CHIPPING   ENGLISH"
 price: "1300" 
 desc: "Časopis"
-img_path: "/assets/img/A.MIG-5202.jpg"
+img_path: "/assets/img/A.MIG-5202.webp"
 brand: "AMMO"
 available: false
 special_offer: false

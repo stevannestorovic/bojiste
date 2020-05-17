@@ -3,7 +3,7 @@ layout: product
 title: "PLW MEDIUM TAN"
 price: "500" 
 desc: "Emajl Voš"
-img_path: "/assets/img/A.MIG-1606.jpg"
+img_path: "/assets/img/A.MIG-1606.webp"
 brand: "AMMO"
 available: false
 special_offer: false

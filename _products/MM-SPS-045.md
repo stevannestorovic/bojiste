@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - U.S. Satellite-guided Bombs"
 price: "1800" 
 desc: "N/A"
-img_path: "/assets/img/MM-SPS-045.jpg"
+img_path: "/assets/img/MM-SPS-045.webp"
 brand: "N/A"
 available: false
 special_offer: false

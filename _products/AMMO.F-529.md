@@ -3,7 +3,7 @@ layout: product
 title: "PURE YELLOW"
 price: "300" 
 desc: "Akrilna boja 17mL - Metalik"
-img_path: "/assets/img/AMMO.F-529.jpg"
+img_path: "/assets/img/AMMO.F-529.webp"
 brand: "AMMO"
 available: false
 special_offer: false

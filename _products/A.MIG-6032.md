@@ -3,7 +3,7 @@ layout: product
 title: "T-54/TYPE 59 – VISUAL MODELERS GUIDE   ENGLISH"
 price: "1800" 
 desc: "Knjiga"
-img_path: "/assets/img/A.MIG-6032.jpg"
+img_path: "/assets/img/A.MIG-6032.webp"
 brand: "AMMO"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "MECHAS GREEN TONES SET"
 price: "1200" 
 desc: "Set uljanih boja"
-img_path: "/assets/img/A.MIG-7509.jpg"
+img_path: "/assets/img/A.MIG-7509.webp"
 brand: "AMMO"
 available: false
 special_offer: false

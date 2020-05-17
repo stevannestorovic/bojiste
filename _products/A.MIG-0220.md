@@ -3,7 +3,7 @@ layout: product
 title: "Zinc Chrome Green"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0220.jpg"
+img_path: "/assets/img/A.MIG-0220.webp"
 brand: "AMMO"
 available: false
 special_offer: false

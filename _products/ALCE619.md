@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - Nato Green (BS285)30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE619.jpg"
+img_path: "/assets/img/ALCE619.webp"
 brand: "N/A"
 available: false
 special_offer: false

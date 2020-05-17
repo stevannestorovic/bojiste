@@ -3,7 +3,7 @@ layout: product
 title: "THE WEATHERING falseIAL - TRAINS ENGLISH"
 price: "1400" 
 desc: "Časopis"
-img_path: "/assets/img/A.MIG-6142.jpg"
+img_path: "/assets/img/A.MIG-6142.webp"
 brand: "AMMO"
 available: false
 special_offer: false

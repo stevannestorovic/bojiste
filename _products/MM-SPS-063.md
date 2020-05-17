@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Russian 9M38 Surface-to-air Missile Dispaly Racks & Container"
 price: "6500" 
 desc: "N/A"
-img_path: "/assets/img/MM-SPS-063.jpg"
+img_path: "/assets/img/MM-SPS-063.webp"
 brand: "N/A"
 available: false
 special_offer: false

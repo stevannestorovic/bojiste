@@ -3,7 +3,7 @@ layout: product
 title: "PANZER DNA ENGLISH"
 price: "3300" 
 desc: "Knjiga"
-img_path: "/assets/img/A.MIG-6035.jpg"
+img_path: "/assets/img/A.MIG-6035.webp"
 brand: "AMMO"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "KURSK SOIL"
 price: "500" 
 desc: "Emajl Efekat"
-img_path: "/assets/img/A.MIG-1400.jpg"
+img_path: "/assets/img/A.MIG-1400.webp"
 brand: "AMMO"
 available: true
 special_offer: false

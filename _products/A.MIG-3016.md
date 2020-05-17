@@ -3,7 +3,7 @@ layout: product
 title: "WHITE"
 price: "500" 
 desc: "Pigment"
-img_path: "/assets/img/A.MIG-3016.jpg"
+img_path: "/assets/img/A.MIG-3016.webp"
 brand: "AMMO"
 available: false
 special_offer: false

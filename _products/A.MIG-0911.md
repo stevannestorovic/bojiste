@@ -3,7 +3,7 @@ layout: product
 title: "GREY SHINE"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0911.jpg"
+img_path: "/assets/img/A.MIG-0911.webp"
 brand: "AMMO"
 available: true
 special_offer: false

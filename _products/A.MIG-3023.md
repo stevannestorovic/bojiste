@@ -3,7 +3,7 @@ layout: product
 title: "SINAI DUST"
 price: "500" 
 desc: "Pigment"
-img_path: "/assets/img/A.MIG-3023.jpg"
+img_path: "/assets/img/A.MIG-3023.webp"
 brand: "AMMO"
 available: false
 special_offer: false

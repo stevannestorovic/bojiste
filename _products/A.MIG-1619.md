@@ -3,7 +3,7 @@ layout: product
 title: "PLW BLUE DIRT"
 price: "500" 
 desc: "Emajl Voš"
-img_path: "/assets/img/A.MIG-1619.jpg"
+img_path: "/assets/img/A.MIG-1619.webp"
 brand: "AMMO"
 available: false
 special_offer: false

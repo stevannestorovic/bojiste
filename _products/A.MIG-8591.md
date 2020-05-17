@@ -3,7 +3,7 @@ layout: product
 title: "1 SYNTETIC LINER BRUSH"
 price: "220" 
 desc: "Sintetička četkica"
-img_path: "/assets/img/A.MIG-8591.jpg"
+img_path: "/assets/img/A.MIG-8591.webp"
 brand: "AMMO"
 available: false
 special_offer: false

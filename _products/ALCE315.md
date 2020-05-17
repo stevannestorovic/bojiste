@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - Gunship Gray (FS59536118) 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE315.jpg"
+img_path: "/assets/img/ALCE315.webp"
 brand: "N/A"
 available: false
 special_offer: false

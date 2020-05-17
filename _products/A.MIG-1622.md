@@ -3,7 +3,7 @@ layout: product
 title: "PLW OCHRE FOR SAND CAMO"
 price: "500" 
 desc: "Emajl Voš"
-img_path: "/assets/img/A.MIG-1622.jpg"
+img_path: "/assets/img/A.MIG-1622.webp"
 brand: "AMMO"
 available: false
 special_offer: false

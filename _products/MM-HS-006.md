@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Modern German Tank Crew"
 price: "1600" 
 desc: "N/A"
-img_path: "/assets/img/MM-HS-006.jpg"
+img_path: "/assets/img/MM-HS-006.webp"
 brand: "N/A"
 available: false
 special_offer: false

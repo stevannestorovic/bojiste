@@ -3,7 +3,7 @@ layout: product
 title: "RAL 7021 DUNKELGRAU"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0008.jpg"
+img_path: "/assets/img/A.MIG-0008.webp"
 brand: "AMMO"
 available: false
 special_offer: false

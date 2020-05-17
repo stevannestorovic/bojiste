@@ -3,7 +3,7 @@ layout: product
 title: "FACTORY DIRT GROUND"
 price: "500" 
 desc: "Pigment"
-img_path: "/assets/img/A.MIG-3030.jpg"
+img_path: "/assets/img/A.MIG-3030.webp"
 brand: "AMMO"
 available: false
 special_offer: false

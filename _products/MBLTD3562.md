@@ -3,7 +3,7 @@ layout: product
 title: "West European Cart "
 price: "950" 
 desc: "1/35 Figura"
-img_path: "/assets/img/MBLTD3562.jpg"
+img_path: "/assets/img/MBLTD3562.webp"
 brand: "MasterBox"
 available: false
 special_offer: false

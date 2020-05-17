@@ -3,7 +3,7 @@ layout: product
 title: "GLOSS BLACK BASE PRIMER"
 price: "760" 
 desc: "Gloss prajmer za metalik boje"
-img_path: "/assets/img/A.MIG-8210.jpg"
+img_path: "/assets/img/A.MIG-8210.webp"
 brand: "Alclad II"
 available: true
 special_offer: false

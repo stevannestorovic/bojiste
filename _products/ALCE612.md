@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - White Grey (FS36628) 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE612.jpg"
+img_path: "/assets/img/ALCE612.webp"
 brand: "N/A"
 available: false
 special_offer: false

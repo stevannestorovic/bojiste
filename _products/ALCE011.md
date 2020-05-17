@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - RAF Sky Type S (BS381C210) 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE011.jpg"
+img_path: "/assets/img/ALCE011.webp"
 brand: "N/A"
 available: false
 special_offer: false

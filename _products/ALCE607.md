@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - RAF training Orange 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE607.jpg"
+img_path: "/assets/img/ALCE607.webp"
 brand: "N/A"
 available: false
 special_offer: false

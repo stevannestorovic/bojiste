@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - German Vskfz 617 Minenraumer"
 price: "6700" 
 desc: "N/A"
-img_path: "/assets/img/MM-SS-001.jpg"
+img_path: "/assets/img/MM-SS-001.webp"
 brand: "N/A"
 available: false
 special_offer: false

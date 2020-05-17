@@ -3,7 +3,7 @@ layout: product
 title: "FRESH ENGINE OIL"
 price: "500" 
 desc: "Emajl Efekat"
-img_path: "/assets/img/A.MIG-1408.jpg"
+img_path: "/assets/img/A.MIG-1408.webp"
 brand: "AMMO"
 available: true
 special_offer: false

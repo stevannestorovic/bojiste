@@ -3,7 +3,7 @@ layout: product
 title: "RAL 6003 OLIVGRÜN OPT.1"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0001.jpg"
+img_path: "/assets/img/A.MIG-0001.webp"
 brand: "AMMO"
 available: true
 special_offer: false

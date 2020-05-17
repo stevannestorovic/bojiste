@@ -3,7 +3,7 @@ layout: product
 title: "Issue 3. ENGINES   ENGLISH"
 price: "1300" 
 desc: "Časopis"
-img_path: "/assets/img/A.MIG-5203.jpg"
+img_path: "/assets/img/A.MIG-5203.webp"
 brand: "AMMO"
 available: false
 special_offer: false

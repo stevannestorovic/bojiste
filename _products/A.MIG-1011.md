@@ -3,7 +3,7 @@ layout: product
 title: "BLACK WASH"
 price: "500" 
 desc: "Emajl Voš"
-img_path: "/assets/img/A.MIG-1011.jpg"
+img_path: "/assets/img/A.MIG-1011.webp"
 brand: "AMMO"
 available: true
 special_offer: false

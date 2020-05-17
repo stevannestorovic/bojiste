@@ -3,7 +3,7 @@ layout: product
 title: "DUCK EGG GREEN (BS 216)"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0244.jpg"
+img_path: "/assets/img/A.MIG-0244.webp"
 brand: "AMMO"
 available: true
 special_offer: false

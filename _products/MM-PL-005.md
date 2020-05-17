@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - J-20 Fighter"
 price: "1000" 
 desc: "N/A"
-img_path: "/assets/img/MM-PL-005.jpg"
+img_path: "/assets/img/MM-PL-005.webp"
 brand: "N/A"
 available: false
 special_offer: false

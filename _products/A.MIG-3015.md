@@ -3,7 +3,7 @@ layout: product
 title: "BRICK DUST"
 price: "500" 
 desc: "Pigment"
-img_path: "/assets/img/A.MIG-3015.jpg"
+img_path: "/assets/img/A.MIG-3015.webp"
 brand: "AMMO"
 available: true
 special_offer: false

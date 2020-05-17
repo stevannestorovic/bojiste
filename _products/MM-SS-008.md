@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Israel Heavy Armoured Personnel Carrier Achzarit Late"
 price: "6600" 
 desc: "N/A"
-img_path: "/assets/img/MM-SS-008.jpg"
+img_path: "/assets/img/MM-SS-008.webp"
 brand: "N/A"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "NEUTRAL WASH"
 price: "500" 
 desc: "Emajl Voš"
-img_path: "/assets/img/A.MIG-1010.jpg"
+img_path: "/assets/img/A.MIG-1010.webp"
 brand: "AMMO"
 available: true
 special_offer: true

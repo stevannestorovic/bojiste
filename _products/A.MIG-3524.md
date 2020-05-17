@@ -3,7 +3,7 @@ layout: product
 title: "EARTH CLAY"
 price: "400" 
 desc: "Uljana boja sa četkicom"
-img_path: "/assets/img/A.MIG-3524.jpg"
+img_path: "/assets/img/A.MIG-3524.webp"
 brand: "AMMO"
 available: true
 special_offer: false

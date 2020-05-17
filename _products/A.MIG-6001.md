@@ -3,7 +3,7 @@ layout: product
 title: "SS CAMOUFLAGE GUIDE ENGLISH"
 price: "2600" 
 desc: "Knjiga"
-img_path: "/assets/img/A.MIG-6001.jpg"
+img_path: "/assets/img/A.MIG-6001.webp"
 brand: "AMMO"
 available: false
 special_offer: false

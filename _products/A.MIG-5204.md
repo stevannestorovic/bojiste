@@ -3,7 +3,7 @@ layout: product
 title: "Issue 4. BASE COLORS   ENGLISH"
 price: "1300" 
 desc: "Časopis"
-img_path: "/assets/img/A.MIG-5204.jpg"
+img_path: "/assets/img/A.MIG-5204.webp"
 brand: "AMMO"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Pickup Set"
 price: "4700" 
 desc: "N/A"
-img_path: "/assets/img/MM-VS-007.jpg"
+img_path: "/assets/img/MM-VS-007.webp"
 brand: "N/A"
 available: false
 special_offer: false

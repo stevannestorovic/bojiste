@@ -3,7 +3,7 @@ layout: product
 title: "MIDDLE EAST DUST"
 price: "500" 
 desc: "Pigment"
-img_path: "/assets/img/A.MIG-3018.jpg"
+img_path: "/assets/img/A.MIG-3018.webp"
 brand: "AMMO"
 available: true
 special_offer: false

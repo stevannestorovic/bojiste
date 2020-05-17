@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - Light Gull Grey (FS16440) 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE632.jpg"
+img_path: "/assets/img/ALCE632.webp"
 brand: "N/A"
 available: false
 special_offer: false

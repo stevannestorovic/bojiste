@@ -3,7 +3,7 @@ layout: product
 title: "RLM 81 - FS 34079 - BS641"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0206.jpg"
+img_path: "/assets/img/A.MIG-0206.webp"
 brand: "AMMO"
 available: false
 special_offer: false

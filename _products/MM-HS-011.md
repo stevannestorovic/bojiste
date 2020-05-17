@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - PLA Armored Vehicle Crew"
 price: "1700" 
 desc: "N/A"
-img_path: "/assets/img/MM-HS-011.jpg"
+img_path: "/assets/img/MM-HS-011.webp"
 brand: "N/A"
 available: false
 special_offer: false

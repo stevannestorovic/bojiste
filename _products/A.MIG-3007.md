@@ -3,7 +3,7 @@ layout: product
 title: "DARK EARTH"
 price: "500" 
 desc: "Pigment"
-img_path: "/assets/img/A.MIG-3007.jpg"
+img_path: "/assets/img/A.MIG-3007.webp"
 brand: "AMMO"
 available: true
 special_offer: false

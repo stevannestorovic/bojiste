@@ -3,7 +3,7 @@ layout: product
 title: "WWII LUFTWAFFE LATE FIGHTERS SOLUTION BOOK - MULTILINGUAL BOOK"
 price: "1400" 
 desc: "Knjiga"
-img_path: "/assets/img/A.MIG-6502.jpg"
+img_path: "/assets/img/A.MIG-6502.webp"
 brand: "AMMO"
 available: false
 special_offer: false

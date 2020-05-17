@@ -3,7 +3,7 @@ layout: product
 title: "DARK BROWN WASH FOR GREEN"
 price: "500" 
 desc: "Emajl Voš"
-img_path: "/assets/img/A.MIG-1005.jpg"
+img_path: "/assets/img/A.MIG-1005.webp"
 brand: "AMMO"
 available: true
 special_offer: false

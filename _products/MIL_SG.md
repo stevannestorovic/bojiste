@@ -3,7 +3,7 @@ layout: product
 title: "Milliput - 2 part epoxy Silver Grey"
 price: "1000" 
 desc: "N/A"
-img_path: "/assets/img/MIL_SG.jpg"
+img_path: "/assets/img/MIL_SG.webp"
 brand: "N/A"
 available: false
 special_offer: false

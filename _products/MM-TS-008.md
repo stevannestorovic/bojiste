@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - French Ft-17 Light Tank (Cast Turret)"
 price: "6100" 
 desc: "N/A"
-img_path: "/assets/img/MM-TS-008.jpg"
+img_path: "/assets/img/MM-TS-008.webp"
 brand: "N/A"
 available: false
 special_offer: false

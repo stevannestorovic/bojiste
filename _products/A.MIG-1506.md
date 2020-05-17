@@ -3,7 +3,7 @@ layout: product
 title: "BROWN FOR DARK GREEN"
 price: "500" 
 desc: "Filter"
-img_path: "/assets/img/A.MIG-1506.jpg"
+img_path: "/assets/img/A.MIG-1506.webp"
 brand: "AMMO"
 available: false
 special_offer: false

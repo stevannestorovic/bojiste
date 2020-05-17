@@ -3,7 +3,7 @@ layout: product
 title: "1/35 US MEDIUM TANK M4A1 MID PRODUCTION"
 price: "5500" 
 desc: "Maketa"
-img_path: "/assets/img/ASUKA35AS001.jpg"
+img_path: "/assets/img/ASUKA35AS001.webp"
 brand: "Asuka Models"
 available: false
 special_offer: false

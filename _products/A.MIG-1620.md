@@ -3,7 +3,7 @@ layout: product
 title: "PLW DUST"
 price: "500" 
 desc: "Emajl Voš"
-img_path: "/assets/img/A.MIG-1620.jpg"
+img_path: "/assets/img/A.MIG-1620.webp"
 brand: "AMMO"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "WINTER SOIL"
 price: "500" 
 desc: "Pigment"
-img_path: "/assets/img/A.MIG-3029.jpg"
+img_path: "/assets/img/A.MIG-3029.webp"
 brand: "AMMO"
 available: false
 special_offer: false

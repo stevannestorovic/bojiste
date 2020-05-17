@@ -3,7 +3,7 @@ layout: product
 title: "DAK SET"
 price: "N/A" 
 desc: "Set za weathering"
-img_path: "/assets/img/A.MIG-7406.jpg"
+img_path: "/assets/img/A.MIG-7406.webp"
 brand: "AMMO"
 available: false
 special_offer: false

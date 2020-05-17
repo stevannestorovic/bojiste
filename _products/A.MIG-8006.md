@@ -3,7 +3,7 @@ layout: product
 title: "35 ml AMMO STORAGE SYSTEM"
 price: "2600" 
 desc: "Polica"
-img_path: "/assets/img/A.MIG-8006.jpg"
+img_path: "/assets/img/A.MIG-8006.webp"
 brand: "AMMO"
 available: false
 special_offer: false

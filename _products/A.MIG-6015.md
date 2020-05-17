@@ -3,7 +3,7 @@ layout: product
 title: " ILLUSTRATED WEATHERING GUIDE TO WWII LATE WAR GERMAN VEHICLES ENGLISH, SPANISH"
 price: "3500" 
 desc: "Knjiga"
-img_path: "/assets/img/A.MIG-6015.jpg"
+img_path: "/assets/img/A.MIG-6015.webp"
 brand: "AMMO"
 available: false
 special_offer: false

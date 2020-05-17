@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Russian V-84 Engine (For Ts-028 & All Other T-72 Models)"
 price: "2800" 
 desc: "N/A"
-img_path: "/assets/img/MM-SPS-028.jpg"
+img_path: "/assets/img/MM-SPS-028.webp"
 brand: "N/A"
 available: false
 special_offer: false

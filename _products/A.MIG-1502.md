@@ -3,7 +3,7 @@ layout: product
 title: "DARK GREY FOR WHITE"
 price: "500" 
 desc: "Filter"
-img_path: "/assets/img/A.MIG-1502.jpg"
+img_path: "/assets/img/A.MIG-1502.webp"
 brand: "AMMO"
 available: true
 special_offer: false

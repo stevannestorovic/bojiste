@@ -3,7 +3,7 @@ layout: product
 title: "RUBBER & TIRES"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0033.jpg"
+img_path: "/assets/img/A.MIG-0033.webp"
 brand: "AMMO"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - US Camouflage Tan  (FS59530400) 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE304.jpg"
+img_path: "/assets/img/ALCE304.webp"
 brand: "N/A"
 available: false
 special_offer: false

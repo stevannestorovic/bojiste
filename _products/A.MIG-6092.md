@@ -3,7 +3,7 @@ layout: product
 title: "PANTHER - VISUAL MODELERS GUIDE  ENGLISH"
 price: "1800" 
 desc: "Knjiga"
-img_path: "/assets/img/A.MIG-6092.jpg"
+img_path: "/assets/img/A.MIG-6092.webp"
 brand: "AMMO"
 available: false
 special_offer: false

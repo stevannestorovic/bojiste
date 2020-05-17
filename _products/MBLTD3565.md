@@ -3,7 +3,7 @@ layout: product
 title: "Operation Milkman "
 price: "1600" 
 desc: "1/35 Figura"
-img_path: "/assets/img/MBLTD3565.jpg"
+img_path: "/assets/img/MBLTD3565.webp"
 brand: "MasterBox"
 available: false
 special_offer: false

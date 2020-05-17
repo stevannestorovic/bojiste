@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Precast Concrete Walls (Resin)"
 price: "2800" 
 desc: "N/A"
-img_path: "/assets/img/MM-SPS-031.jpg"
+img_path: "/assets/img/MM-SPS-031.webp"
 brand: "N/A"
 available: false
 special_offer: false

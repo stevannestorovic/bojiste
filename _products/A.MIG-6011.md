@@ -3,7 +3,7 @@ layout: product
 title: "THE WEATHERING falseIAL - WORLD WAR I ENGLISH"
 price: "2200" 
 desc: "Časopis"
-img_path: "/assets/img/A.MIG-6011.jpg"
+img_path: "/assets/img/A.MIG-6011.webp"
 brand: "AMMO"
 available: false
 special_offer: false

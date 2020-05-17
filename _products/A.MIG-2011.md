@@ -3,7 +3,7 @@ layout: product
 title: "HEAVY CHIPPING EFFECTS"
 price: "500" 
 desc: "Efekat čiping"
-img_path: "/assets/img/A.MIG-2011.jpg"
+img_path: "/assets/img/A.MIG-2011.webp"
 brand: "AMMO"
 available: true
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "KING TIGER EXT. COLOR (falseIAL TAKOM ED. VOL. 2)"
 price: "1800" 
 desc: "Set boja"
-img_path: "/assets/img/A.MIG-7166.jpg"
+img_path: "/assets/img/A.MIG-7166.webp"
 brand: "AMMO"
 available: false
 special_offer: false

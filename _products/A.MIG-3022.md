@@ -3,7 +3,7 @@ layout: product
 title: "VIETNAM EARTH"
 price: "500" 
 desc: "Pigment"
-img_path: "/assets/img/A.MIG-3022.jpg"
+img_path: "/assets/img/A.MIG-3022.webp"
 brand: "AMMO"
 available: false
 special_offer: false

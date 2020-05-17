@@ -3,7 +3,7 @@ layout: product
 title: "NORTH AFRICA DUST"
 price: "500" 
 desc: "Emajl Efekat"
-img_path: "/assets/img/A.MIG-1404.jpg"
+img_path: "/assets/img/A.MIG-1404.webp"
 brand: "AMMO"
 available: true
 special_offer: false

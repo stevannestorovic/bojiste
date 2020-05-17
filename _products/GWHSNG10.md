@@ -3,7 +3,7 @@ layout: product
 title: "1/48 PLAAF Su-35S Flanker E Multirole Fighter"
 price: "11500" 
 desc: "Maketa"
-img_path: "/assets/img/GWHSNG10.jpg"
+img_path: "/assets/img/GWHSNG10.webp"
 brand: "N/A"
 available: false
 special_offer: false

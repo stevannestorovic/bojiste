@@ -3,7 +3,7 @@ layout: product
 title: "MODERN RUSSIAN CAMO COLORS"
 price: "1800" 
 desc: "Set boja"
-img_path: "/assets/img/A.MIG-7109.jpg"
+img_path: "/assets/img/A.MIG-7109.webp"
 brand: "AMMO"
 available: false
 special_offer: false

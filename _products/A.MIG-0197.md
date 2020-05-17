@@ -3,7 +3,7 @@ layout: product
 title: "BRASS"
 price: "300" 
 desc: "Akrilna boja 17mL - Metalik"
-img_path: "/assets/img/A.MIG-0197.jpg"
+img_path: "/assets/img/A.MIG-0197.webp"
 brand: "AMMO"
 available: false
 special_offer: false

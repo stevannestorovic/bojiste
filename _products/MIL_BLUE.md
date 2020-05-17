@@ -3,7 +3,7 @@ layout: product
 title: "Milliput  - 2 part epoxy Turquoise Blue"
 price: "1200" 
 desc: "N/A"
-img_path: "/assets/img/MIL_BLUE.jpg"
+img_path: "/assets/img/MIL_BLUE.webp"
 brand: "N/A"
 available: false
 special_offer: false

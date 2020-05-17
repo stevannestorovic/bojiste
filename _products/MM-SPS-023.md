@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - F-106A Wheel Wells & Exhaust Nozzle (Resin)"
 price: "2300" 
 desc: "N/A"
-img_path: "/assets/img/MM-SPS-023.jpg"
+img_path: "/assets/img/MM-SPS-023.webp"
 brand: "N/A"
 available: false
 special_offer: false

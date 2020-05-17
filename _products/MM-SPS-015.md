@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Modern U.S. Military Individual Load-Carrying Equipment"
 price: "1200" 
 desc: "N/A"
-img_path: "/assets/img/MM-SPS-015.jpg"
+img_path: "/assets/img/MM-SPS-015.webp"
 brand: "N/A"
 available: false
 special_offer: false

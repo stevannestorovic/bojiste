@@ -3,7 +3,7 @@ layout: product
 title: "ENCYCLOPEDIA OF FIGURES MODELLING TECHNIQUES VOL. 0 - QUICK GUIDE FOR PAINTING  ENGLISH"
 price: "2200" 
 desc: "Knjiga"
-img_path: "/assets/img/A.MIG-6220.jpg"
+img_path: "/assets/img/A.MIG-6220.webp"
 brand: "AMMO"
 available: false
 special_offer: false

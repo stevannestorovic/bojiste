@@ -3,7 +3,7 @@ layout: product
 title: "WORKBENCH ORGANIZER"
 price: "1800" 
 desc: "Polica"
-img_path: "/assets/img/A.MIG-8001.jpg"
+img_path: "/assets/img/A.MIG-8001.webp"
 brand: "AMMO"
 available: false
 special_offer: false

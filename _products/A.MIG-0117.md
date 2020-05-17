@@ -3,7 +3,7 @@ layout: product
 title: "WARM SKIN TONE"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0117.jpg"
+img_path: "/assets/img/A.MIG-0117.webp"
 brand: "AMMO"
 available: true
 special_offer: false

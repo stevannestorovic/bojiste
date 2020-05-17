@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - British Heavy Tank Mk.V Male"
 price: "TBA" 
 desc: "N/A"
-img_path: "/assets/img/MM-TS-020.jpg"
+img_path: "/assets/img/MM-TS-020.webp"
 brand: "N/A"
 available: false
 special_offer: false

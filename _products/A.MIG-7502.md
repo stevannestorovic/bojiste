@@ -3,7 +3,7 @@ layout: product
 title: "GREEN TONES SET"
 price: "1200" 
 desc: "Set uljanih boja"
-img_path: "/assets/img/A.MIG-7502.jpg"
+img_path: "/assets/img/A.MIG-7502.webp"
 brand: "AMMO"
 available: false
 special_offer: false

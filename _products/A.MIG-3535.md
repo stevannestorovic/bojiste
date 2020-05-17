@@ -3,7 +3,7 @@ layout: product
 title: "GUN METAL"
 price: "400" 
 desc: "Uljana boja sa četkicom"
-img_path: "/assets/img/A.MIG-3535.jpg"
+img_path: "/assets/img/A.MIG-3535.webp"
 brand: "AMMO"
 available: true
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "NORTH AFRICA DUST"
 price: "500" 
 desc: "Pigment"
-img_path: "/assets/img/A.MIG-3003.jpg"
+img_path: "/assets/img/A.MIG-3003.webp"
 brand: "AMMO"
 available: true
 special_offer: false

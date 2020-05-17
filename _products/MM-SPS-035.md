@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Russian Gaz 233115 “Tiger-M” Spn Spv Sagged Wheel Set (Resin)"
 price: "2800" 
 desc: "N/A"
-img_path: "/assets/img/MM-SPS-035.jpg"
+img_path: "/assets/img/MM-SPS-035.webp"
 brand: "N/A"
 available: false
 special_offer: false

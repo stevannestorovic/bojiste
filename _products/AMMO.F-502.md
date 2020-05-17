@@ -3,7 +3,7 @@ layout: product
 title: "OUTLINING BLACK"
 price: "300" 
 desc: "Akrilna boja 17mL - Metalik"
-img_path: "/assets/img/AMMO.F-502.jpg"
+img_path: "/assets/img/AMMO.F-502.webp"
 brand: "AMMO"
 available: false
 special_offer: false

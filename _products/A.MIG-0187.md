@@ -3,7 +3,7 @@ layout: product
 title: "JET EXHAUST BURNT IRON"
 price: "300" 
 desc: "Akrilna boja 17mL - Metalik"
-img_path: "/assets/img/A.MIG-0187.jpg"
+img_path: "/assets/img/A.MIG-0187.webp"
 brand: "AMMO"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "ENGINE GRIME"
 price: "500" 
 desc: "Emajl Efekat"
-img_path: "/assets/img/A.MIG-1407.jpg"
+img_path: "/assets/img/A.MIG-1407.webp"
 brand: "AMMO"
 available: true
 special_offer: false

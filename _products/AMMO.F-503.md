@@ -3,7 +3,7 @@ layout: product
 title: "DARK OLIVE GREEN FS-34130"
 price: "300" 
 desc: "Akrilna boja 17mL - Metalik"
-img_path: "/assets/img/AMMO.F-503.jpg"
+img_path: "/assets/img/AMMO.F-503.webp"
 brand: "AMMO"
 available: false
 special_offer: false

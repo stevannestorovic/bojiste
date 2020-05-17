@@ -3,7 +3,7 @@ layout: product
 title: "HEAVY EARTH"
 price: "550" 
 desc: "Emajl Efekat"
-img_path: "/assets/img/A.MIG-1704.jpg"
+img_path: "/assets/img/A.MIG-1704.webp"
 brand: "AMMO"
 available: true
 special_offer: false

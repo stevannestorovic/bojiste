@@ -3,7 +3,7 @@ layout: product
 title: "ENCYCLOPEDIA OF FIGURES. MODELLING TECHNIQUES VOL. 1 - COLOUR, SHAPE, AND LIGHT ENGLISH"
 price: "4300" 
 desc: "Knjiga"
-img_path: "/assets/img/A.MIG-6221.jpg"
+img_path: "/assets/img/A.MIG-6221.webp"
 brand: "AMMO"
 available: false
 special_offer: false

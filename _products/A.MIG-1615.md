@@ -3,7 +3,7 @@ layout: product
 title: "PLW STONE GREY FOR BLACK"
 price: "500" 
 desc: "Emajl Voš"
-img_path: "/assets/img/A.MIG-1615.jpg"
+img_path: "/assets/img/A.MIG-1615.webp"
 brand: "AMMO"
 available: false
 special_offer: false

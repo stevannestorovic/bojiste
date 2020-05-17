@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - Deep Rust Streaks & Stains 30ml"
 price: "TBA" 
 desc: "N/A"
-img_path: "/assets/img/ALCHW007.jpg"
+img_path: "/assets/img/ALCHW007.webp"
 brand: "N/A"
 available: false
 special_offer: false

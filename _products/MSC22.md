@@ -3,7 +3,7 @@ layout: product
 title: "Grass Flock 2mm 50g – Green"
 price: "700" 
 desc: "Statička trava"
-img_path: "/assets/img/MSC22.jpg"
+img_path: "/assets/img/MSC22.webp"
 brand: "ModelScene"
 available: false
 special_offer: false

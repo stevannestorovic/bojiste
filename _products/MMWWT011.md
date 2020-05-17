@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - German Light Panzer 38T"
 price: "1800" 
 desc: "N/A"
-img_path: "/assets/img/MMWWT011.jpg"
+img_path: "/assets/img/MMWWT011.webp"
 brand: "N/A"
 available: false
 special_offer: false

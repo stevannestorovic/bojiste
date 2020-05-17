@@ -3,7 +3,7 @@ layout: product
 title: "FS 33446 US MODERN VEHICLES"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0025.jpg"
+img_path: "/assets/img/A.MIG-0025.webp"
 brand: "AMMO"
 available: true
 special_offer: false

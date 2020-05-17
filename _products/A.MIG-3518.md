@@ -3,7 +3,7 @@ layout: product
 title: "SUNNY FLESH"
 price: "400" 
 desc: "Uljana boja sa četkicom"
-img_path: "/assets/img/A.MIG-3518.jpg"
+img_path: "/assets/img/A.MIG-3518.webp"
 brand: "AMMO"
 available: true
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - Buff 20ml"
 price: "TBA" 
 desc: "N/A"
-img_path: "/assets/img/ALCWP012.jpg"
+img_path: "/assets/img/ALCWP012.webp"
 brand: "N/A"
 available: false
 special_offer: false

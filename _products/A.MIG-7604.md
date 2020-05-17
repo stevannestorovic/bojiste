@@ -3,7 +3,7 @@ layout: product
 title: "STREAKING AND VERTICAL SURFACES BRUSH SET"
 price: "1200" 
 desc: "Set četkica"
-img_path: "/assets/img/A.MIG-7604.jpg"
+img_path: "/assets/img/A.MIG-7604.webp"
 brand: "AMMO"
 available: false
 special_offer: false

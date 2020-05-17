@@ -3,7 +3,7 @@ layout: product
 title: "AMT - Garage Accessory Set #1 2T"
 price: "TBA" 
 desc: "N/A"
-img_path: "/assets/img/AMTPP015M.jpg"
+img_path: "/assets/img/AMTPP015M.webp"
 brand: "N/A"
 available: false
 special_offer: false

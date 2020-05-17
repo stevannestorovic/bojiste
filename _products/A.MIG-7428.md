@@ -3,7 +3,7 @@ layout: product
 title: "CHIPPING SET FOR MECHAS"
 price: "N/A" 
 desc: "Set za weathering"
-img_path: "/assets/img/A.MIG-7428.jpg"
+img_path: "/assets/img/A.MIG-7428.webp"
 brand: "AMMO"
 available: false
 special_offer: false

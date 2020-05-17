@@ -3,7 +3,7 @@ layout: product
 title: "F-104G STARFIGHTER - VISUAL MODELERS GUIDE ENGLISH, SPANISH, ITALIAN"
 price: "1800" 
 desc: "Knjiga"
-img_path: "/assets/img/A.MIG-6004.jpg"
+img_path: "/assets/img/A.MIG-6004.webp"
 brand: "AMMO"
 available: false
 special_offer: false

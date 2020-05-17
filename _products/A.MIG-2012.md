@@ -3,7 +3,7 @@ layout: product
 title: "SAND & GRAVEL GLUE"
 price: "850" 
 desc: "Lepak za pesak, kamenčiće"
-img_path: "/assets/img/A.MIG-2012.jpg"
+img_path: "/assets/img/A.MIG-2012.webp"
 brand: "AMMO"
 available: true
 special_offer: false

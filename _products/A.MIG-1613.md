@@ -3,7 +3,7 @@ layout: product
 title: "PLW BLUE GREY"
 price: "500" 
 desc: "Emajl Voš"
-img_path: "/assets/img/A.MIG-1613.jpg"
+img_path: "/assets/img/A.MIG-1613.webp"
 brand: "AMMO"
 available: false
 special_offer: false

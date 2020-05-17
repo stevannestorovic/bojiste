@@ -3,7 +3,7 @@ layout: product
 title: "TRACK RUST"
 price: "500" 
 desc: "Pigment"
-img_path: "/assets/img/A.MIG-3008.jpg"
+img_path: "/assets/img/A.MIG-3008.webp"
 brand: "AMMO"
 available: true
 special_offer: false

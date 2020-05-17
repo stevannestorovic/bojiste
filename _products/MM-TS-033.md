@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Russian Main Battle Tank T-72B1"
 price: "7800" 
 desc: "N/A"
-img_path: "/assets/img/MM-TS-033.jpg"
+img_path: "/assets/img/MM-TS-033.webp"
 brand: "N/A"
 available: true
 special_offer: false

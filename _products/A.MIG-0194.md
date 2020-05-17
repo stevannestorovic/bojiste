@@ -3,7 +3,7 @@ layout: product
 title: "MATT ALLUMINUM"
 price: "300" 
 desc: "Akrilna boja 17mL - Metalik"
-img_path: "/assets/img/A.MIG-0194.jpg"
+img_path: "/assets/img/A.MIG-0194.webp"
 brand: "AMMO"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "ZINC CHROME YELLOW"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0221.jpg"
+img_path: "/assets/img/A.MIG-0221.webp"
 brand: "AMMO"
 available: true
 special_offer: false

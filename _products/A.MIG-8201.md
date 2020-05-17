@@ -3,7 +3,7 @@ layout: product
 title: "ALUMINIUM ALC101"
 price: "760" 
 desc: "Metalizer boja"
-img_path: "/assets/img/A.MIG-8201.jpg"
+img_path: "/assets/img/A.MIG-8201.webp"
 brand: "Alclad II"
 available: true
 special_offer: false

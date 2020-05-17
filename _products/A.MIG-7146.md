@@ -3,7 +3,7 @@ layout: product
 title: "CIVIL ENGINES WEATHERING SET"
 price: "N/A" 
 desc: "Set za weathering"
-img_path: "/assets/img/A.MIG-7146.jpg"
+img_path: "/assets/img/A.MIG-7146.webp"
 brand: "AMMO"
 available: false
 special_offer: false

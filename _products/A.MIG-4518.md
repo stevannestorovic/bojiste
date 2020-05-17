@@ -3,7 +3,7 @@ layout: product
 title: "Issue 19. PIGMENTS ENGLISH"
 price: "1100" 
 desc: "Časopis"
-img_path: "/assets/img/A.MIG-4518.jpg"
+img_path: "/assets/img/A.MIG-4518.webp"
 brand: "AMMO"
 available: false
 special_offer: false

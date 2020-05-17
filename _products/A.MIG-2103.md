@@ -3,7 +3,7 @@ layout: product
 title: "Turned Earth Ground"
 price: "1300" 
 desc: "Akrilna tekstura 250mL"
-img_path: "/assets/img/A.MIG-2103.jpg"
+img_path: "/assets/img/A.MIG-2103.webp"
 brand: "AMMO"
 available: true
 special_offer: false

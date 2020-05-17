@@ -3,7 +3,7 @@ layout: product
 title: "AMT - 1967 Chevy Chevelle Pro Street"
 price: "TBA" 
 desc: "N/A"
-img_path: "/assets/img/AMT876M.jpg"
+img_path: "/assets/img/AMT876M.webp"
 brand: "N/A"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "FS 34424 LIGHT GRAY"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0201.jpg"
+img_path: "/assets/img/A.MIG-0201.webp"
 brand: "AMMO"
 available: true
 special_offer: false

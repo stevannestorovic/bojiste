@@ -3,7 +3,7 @@ layout: product
 title: "1/35 AMMO King Tiger 1945 + KT Visual Modelers Guide"
 price: "6700" 
 desc: "Bundle"
-img_path: "/assets/img/AKCIJA1.jpg"
+img_path: "/assets/img/AKCIJA1.webp"
 brand: "N/A"
 available: true
 special_offer: true

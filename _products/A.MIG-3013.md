@@ -3,7 +3,7 @@ layout: product
 title: "RUBBLE"
 price: "500" 
 desc: "Pigment"
-img_path: "/assets/img/A.MIG-3013.jpg"
+img_path: "/assets/img/A.MIG-3013.webp"
 brand: "AMMO"
 available: true
 special_offer: false

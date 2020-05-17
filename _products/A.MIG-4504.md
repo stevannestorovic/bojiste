@@ -3,7 +3,7 @@ layout: product
 title: "Issue 5. MUD  ENGLISH"
 price: "1100" 
 desc: "Časopis"
-img_path: "/assets/img/A.MIG-4504.jpg"
+img_path: "/assets/img/A.MIG-4504.webp"
 brand: "AMMO"
 available: false
 special_offer: false

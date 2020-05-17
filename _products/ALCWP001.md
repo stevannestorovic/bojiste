@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - Deep Rust 20ml"
 price: "TBA" 
 desc: "N/A"
-img_path: "/assets/img/ALCWP001.jpg"
+img_path: "/assets/img/ALCWP001.webp"
 brand: "N/A"
 available: false
 special_offer: false

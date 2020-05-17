@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - RAF Pru Blue 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE623.jpg"
+img_path: "/assets/img/ALCE623.webp"
 brand: "N/A"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - RLM 02 Grey 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE202.jpg"
+img_path: "/assets/img/ALCE202.webp"
 brand: "N/A"
 available: false
 special_offer: false

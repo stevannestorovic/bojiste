@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - U.S. Navy Battleship U.S.S. Missouri (BB-63)"
 price: "4000" 
 desc: "N/A"
-img_path: "/assets/img/MM-PS-004.jpg"
+img_path: "/assets/img/MM-PS-004.webp"
 brand: "N/A"
 available: false
 special_offer: false

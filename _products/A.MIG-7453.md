@@ -3,7 +3,7 @@ layout: product
 title: "FILTER SET FOR GERMAN TANKS"
 price: "1500" 
 desc: "Set za weathering"
-img_path: "/assets/img/A.MIG-7453.jpg"
+img_path: "/assets/img/A.MIG-7453.webp"
 brand: "AMMO"
 available: false
 special_offer: false

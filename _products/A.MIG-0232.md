@@ -3,7 +3,7 @@ layout: product
 title: "RLM 70 SCHWARTZGRÜN"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0232.jpg"
+img_path: "/assets/img/A.MIG-0232.webp"
 brand: "AMMO"
 available: false
 special_offer: false

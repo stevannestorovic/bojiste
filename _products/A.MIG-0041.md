@@ -3,7 +3,7 @@ layout: product
 title: "DARK RUST"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0041.jpg"
+img_path: "/assets/img/A.MIG-0041.webp"
 brand: "AMMO"
 available: true
 special_offer: false

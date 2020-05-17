@@ -3,7 +3,7 @@ layout: product
 title: "WET MUD"
 price: "550" 
 desc: "Emajl Efekat"
-img_path: "/assets/img/A.MIG-1705.jpg"
+img_path: "/assets/img/A.MIG-1705.webp"
 brand: "AMMO"
 available: true
 special_offer: false

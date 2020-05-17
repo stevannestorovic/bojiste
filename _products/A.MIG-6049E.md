@@ -3,7 +3,7 @@ layout: product
 title: "CASE FOR ENCYCLOPEDIA OF AIRCRAFT MODELLING TECHNIQUES ENGLISH"
 price: "700" 
 desc: "Kutija za enciklopediju"
-img_path: "/assets/img/A.MIG-6049E.jpg"
+img_path: "/assets/img/A.MIG-6049E.webp"
 brand: "AMMO"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "GLOSSY LUCKY VARNISH (17 ML SIZE)"
 price: "300" 
 desc: "Akrilni Lak"
-img_path: "/assets/img/A.MIG-2057.jpg"
+img_path: "/assets/img/A.MIG-2057.webp"
 brand: "AMMO"
 available: false
 special_offer: false

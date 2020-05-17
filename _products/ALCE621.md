@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - Medium Gunship Greu (FS361766) 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE621.jpg"
+img_path: "/assets/img/ALCE621.webp"
 brand: "N/A"
 available: false
 special_offer: false

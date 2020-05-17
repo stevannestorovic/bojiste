@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - Rust Streaks & Stains 30ml"
 price: "TBA" 
 desc: "N/A"
-img_path: "/assets/img/ALCHW003.jpg"
+img_path: "/assets/img/ALCHW003.webp"
 brand: "N/A"
 available: false
 special_offer: false

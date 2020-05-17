@@ -3,7 +3,7 @@ layout: product
 title: "US MODERN VEHICLES WASH"
 price: "500" 
 desc: "Emajl Voš"
-img_path: "/assets/img/A.MIG-1007.jpg"
+img_path: "/assets/img/A.MIG-1007.webp"
 brand: "AMMO"
 available: true
 special_offer: false

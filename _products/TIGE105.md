@@ -3,7 +3,7 @@ layout: product
 title: "Cute  Supermarine Spitfire Fighter"
 price: "1700" 
 desc: "Maketa"
-img_path: "/assets/img/TIGE105.jpg"
+img_path: "/assets/img/TIGE105.webp"
 brand: "N/A"
 available: false
 special_offer: false

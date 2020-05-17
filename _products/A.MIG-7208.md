@@ -3,7 +3,7 @@ layout: product
 title: "SU-33 COLORS"
 price: "1200" 
 desc: "Set boja"
-img_path: "/assets/img/A.MIG-7208.jpg"
+img_path: "/assets/img/A.MIG-7208.webp"
 brand: "AMMO"
 available: false
 special_offer: false

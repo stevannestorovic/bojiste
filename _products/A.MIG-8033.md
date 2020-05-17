@@ -3,7 +3,7 @@ layout: product
 title: "SPARE JARS FOR MIXES (5 x 35 ml jars)"
 price: "700" 
 desc: "Prazne posude za mešanje"
-img_path: "/assets/img/A.MIG-8033.jpg"
+img_path: "/assets/img/A.MIG-8033.webp"
 brand: "AMMO"
 available: true
 special_offer: false

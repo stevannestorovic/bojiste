@@ -3,7 +3,7 @@ layout: product
 title: "EASTERN FRONT. RUSSIAN VEHICLES 1935-1945. CAMOUFLAGE GUIDE ENGLISH"
 price: "2800" 
 desc: "Knjiga"
-img_path: "/assets/img/A.MIG-6007.jpg"
+img_path: "/assets/img/A.MIG-6007.webp"
 brand: "AMMO"
 available: false
 special_offer: false

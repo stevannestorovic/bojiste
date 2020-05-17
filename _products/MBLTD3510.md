@@ -3,7 +3,7 @@ layout: product
 title: "German military men (1939-1942) "
 price: "900" 
 desc: "1/35 Figura"
-img_path: "/assets/img/MBLTD3510.jpg"
+img_path: "/assets/img/MBLTD3510.webp"
 brand: "MasterBox"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "1/48 NORTHORP P-61A w/Ground Attack weapons & Droptanks"
 price: "8500" 
 desc: "Maketa"
-img_path: "/assets/img/GWHSNG07.jpg"
+img_path: "/assets/img/GWHSNG07.webp"
 brand: "N/A"
 available: false
 special_offer: false

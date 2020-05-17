@@ -3,7 +3,7 @@ layout: product
 title: "FS 35164 INTERMEDIATE BLUE (ANA 608)"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0228.jpg"
+img_path: "/assets/img/A.MIG-0228.webp"
 brand: "AMMO"
 available: true
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "CRYSTAL RED"
 price: "300" 
 desc: "Akrilna boja 17mL - Kristal"
-img_path: "/assets/img/A.MIG-0093.jpg"
+img_path: "/assets/img/A.MIG-0093.webp"
 brand: "AMMO"
 available: true
 special_offer: false

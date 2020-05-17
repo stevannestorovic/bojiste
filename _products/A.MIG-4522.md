@@ -3,7 +3,7 @@ layout: product
 title: "Issue 23. DIE CAST: FROM TOY TO MODEL ENGLISH"
 price: "1100" 
 desc: "Časopis"
-img_path: "/assets/img/A.MIG-4522.jpg"
+img_path: "/assets/img/A.MIG-4522.webp"
 brand: "AMMO"
 available: false
 special_offer: false

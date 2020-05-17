@@ -3,7 +3,7 @@ layout: product
 title: "RUSSIAN GREEN PRIMER"
 price: "670" 
 desc: "Prajmer"
-img_path: "/assets/img/A.MIG-2009.jpg"
+img_path: "/assets/img/A.MIG-2009.webp"
 brand: "AMMO"
 available: true
 special_offer: false

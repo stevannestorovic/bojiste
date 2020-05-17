@@ -3,7 +3,7 @@ layout: product
 title: "Issue 22. BASICS ENGLISH"
 price: "1100" 
 desc: "Časopis"
-img_path: "/assets/img/A.MIG-4521.jpg"
+img_path: "/assets/img/A.MIG-4521.webp"
 brand: "AMMO"
 available: false
 special_offer: false

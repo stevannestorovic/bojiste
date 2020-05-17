@@ -3,7 +3,7 @@ layout: product
 title: "CITY DARK DUST"
 price: "500" 
 desc: "Pigment"
-img_path: "/assets/img/A.MIG-3028.jpg"
+img_path: "/assets/img/A.MIG-3028.webp"
 brand: "AMMO"
 available: false
 special_offer: false

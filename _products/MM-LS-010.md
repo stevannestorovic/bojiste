@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - North American P-51D/K 8th Air Force"
 price: "5600" 
 desc: "N/A"
-img_path: "/assets/img/MM-LS-010.jpg"
+img_path: "/assets/img/MM-LS-010.webp"
 brand: "N/A"
 available: false
 special_offer: false

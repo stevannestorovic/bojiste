@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - German Medium Tank Sd.Kfz.171 Panther Ausf.D"
 price: "5000" 
 desc: "N/A"
-img_path: "/assets/img/MM-TS-038.jpg"
+img_path: "/assets/img/MM-TS-038.webp"
 brand: "N/A"
 available: false
 special_offer: false

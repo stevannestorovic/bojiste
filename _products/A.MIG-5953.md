@@ -3,7 +3,7 @@ layout: product
 title: "M60A3 MAIN BATTLE TANK VOL. 1 ENGLISH"
 price: "2800" 
 desc: "Knjiga"
-img_path: "/assets/img/A.MIG-5953.jpg"
+img_path: "/assets/img/A.MIG-5953.webp"
 brand: "AMMO"
 available: false
 special_offer: false

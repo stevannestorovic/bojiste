@@ -3,7 +3,7 @@ layout: product
 title: "ACRYLIC THINNER (60 mL)"
 price: "670" 
 desc: "Razređivač za akrilne boje"
-img_path: "/assets/img/A.MIG-2000.jpg"
+img_path: "/assets/img/A.MIG-2000.webp"
 brand: "AMMO"
 available: false
 special_offer: false

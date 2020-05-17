@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - German Medium Tank Sd.Kfz.171 Commander Ernst Barkmann"
 price: "9000" 
 desc: "N/A"
-img_path: "/assets/img/MM-ES-003.jpg"
+img_path: "/assets/img/MM-ES-003.webp"
 brand: "N/A"
 available: false
 special_offer: false

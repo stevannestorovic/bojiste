@@ -3,7 +3,7 @@ layout: product
 title: "3B AU BASIC PROTECTOR ALKIDNO-"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0022.jpg"
+img_path: "/assets/img/A.MIG-0022.webp"
 brand: "AMMO"
 available: true
 special_offer: false

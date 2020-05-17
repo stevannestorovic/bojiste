@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Modern U.S. Marines Individual Load-Carrying Equipment (Resin)"
 price: "TBA" 
 desc: "N/A"
-img_path: "/assets/img/MM-SPS-027.jpg"
+img_path: "/assets/img/MM-SPS-027.webp"
 brand: "N/A"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "SLIMY GRIME LIGHT"
 price: "500" 
 desc: "Emajl Efekat"
-img_path: "/assets/img/A.MIG-1411.jpg"
+img_path: "/assets/img/A.MIG-1411.webp"
 brand: "AMMO"
 available: true
 special_offer: false

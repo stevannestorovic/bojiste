@@ -3,7 +3,7 @@ layout: product
 title: "ONE SHOT PRIMER – BLACK"
 price: "800" 
 desc: "Prajmer"
-img_path: "/assets/img/A.MIG-2023.jpg"
+img_path: "/assets/img/A.MIG-2023.webp"
 brand: "AMMO"
 available: false
 special_offer: false

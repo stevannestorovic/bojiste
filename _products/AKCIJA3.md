@@ -3,7 +3,7 @@ layout: product
 title: "1/35 RFM M1A1/A2 w/Interior + AMMO Modern US Army Paint Set"
 price: "10000" 
 desc: "Bundle"
-img_path: "/assets/img/AKCIJA3.jpg"
+img_path: "/assets/img/AKCIJA3.webp"
 brand: "N/A"
 available: false
 special_offer: false

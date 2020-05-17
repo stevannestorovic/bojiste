@@ -3,7 +3,7 @@ layout: product
 title: "RED"
 price: "400" 
 desc: "Uljana boja sa četkicom"
-img_path: "/assets/img/A.MIG-3503.jpg"
+img_path: "/assets/img/A.MIG-3503.webp"
 brand: "AMMO"
 available: true
 special_offer: false

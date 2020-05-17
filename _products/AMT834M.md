@@ -3,7 +3,7 @@ layout: product
 title: "AMT - 1967 Shelby GT350"
 price: "TBA" 
 desc: "N/A"
-img_path: "/assets/img/AMT834M.jpg"
+img_path: "/assets/img/AMT834M.webp"
 brand: "N/A"
 available: false
 special_offer: false

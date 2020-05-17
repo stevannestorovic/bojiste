@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - Skyline Blue (FS25250) 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE615.jpg"
+img_path: "/assets/img/ALCE615.webp"
 brand: "N/A"
 available: false
 special_offer: false

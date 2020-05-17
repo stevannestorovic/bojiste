@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - D9R Armored Bulldozer"
 price: "8300" 
 desc: "N/A"
-img_path: "/assets/img/MM-SS-002.jpg"
+img_path: "/assets/img/MM-SS-002.webp"
 brand: "N/A"
 available: false
 special_offer: false

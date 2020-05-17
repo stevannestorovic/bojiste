@@ -3,7 +3,7 @@ layout: product
 title: "RAL 7028 DUNKELGELB AUS '44 DG III"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0012.jpg"
+img_path: "/assets/img/A.MIG-0012.webp"
 brand: "AMMO"
 available: false
 special_offer: false

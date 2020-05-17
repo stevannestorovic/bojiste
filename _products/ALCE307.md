@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - US Vietnam Camouflage Medium Green 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE307.jpg"
+img_path: "/assets/img/ALCE307.webp"
 brand: "N/A"
 available: false
 special_offer: false

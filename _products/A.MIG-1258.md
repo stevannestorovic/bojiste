@@ -3,7 +3,7 @@ layout: product
 title: "STREAKING DUST"
 price: "410" 
 desc: "Emajl efekat sa četkicom"
-img_path: "/assets/img/A.MIG-1258.jpg"
+img_path: "/assets/img/A.MIG-1258.webp"
 brand: "AMMO"
 available: true
 special_offer: false

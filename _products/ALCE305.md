@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - US Camouflage Earth (FS595B30118) 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE305.jpg"
+img_path: "/assets/img/ALCE305.webp"
 brand: "N/A"
 available: false
 special_offer: false

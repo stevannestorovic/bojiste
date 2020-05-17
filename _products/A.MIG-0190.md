@@ -3,7 +3,7 @@ layout: product
 title: "OLD BRASS"
 price: "300" 
 desc: "Akrilna boja 17mL - Metalik"
-img_path: "/assets/img/A.MIG-0190.jpg"
+img_path: "/assets/img/A.MIG-0190.webp"
 brand: "AMMO"
 available: true
 special_offer: false

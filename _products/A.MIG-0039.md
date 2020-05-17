@@ -3,7 +3,7 @@ layout: product
 title: "LIGHT RUST"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0039.jpg"
+img_path: "/assets/img/A.MIG-0039.webp"
 brand: "AMMO"
 available: true
 special_offer: false

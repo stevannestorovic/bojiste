@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - Olive Drab (BS381C298) 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE617.jpg"
+img_path: "/assets/img/ALCE617.webp"
 brand: "N/A"
 available: false
 special_offer: false

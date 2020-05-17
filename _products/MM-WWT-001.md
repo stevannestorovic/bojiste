@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Warship Builder - Lexington"
 price: "TBA" 
 desc: "N/A"
-img_path: "/assets/img/MM-WWT-001.jpg"
+img_path: "/assets/img/MM-WWT-001.webp"
 brand: "N/A"
 available: false
 special_offer: false

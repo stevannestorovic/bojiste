@@ -3,7 +3,7 @@ layout: product
 title: "LOOSE GROUND"
 price: "550" 
 desc: "Emajl Efekat"
-img_path: "/assets/img/A.MIG-1752.jpg"
+img_path: "/assets/img/A.MIG-1752.webp"
 brand: "AMMO"
 available: false
 special_offer: false

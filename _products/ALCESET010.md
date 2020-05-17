@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - Russian 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCESET010.jpg"
+img_path: "/assets/img/ALCESET010.webp"
 brand: "N/A"
 available: false
 special_offer: false

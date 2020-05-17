@@ -3,7 +3,7 @@ layout: product
 title: "DIORAMAS AND SCENIC BRUSH SET"
 price: "1000" 
 desc: "Set četkica"
-img_path: "/assets/img/A.MIG-7601.jpg"
+img_path: "/assets/img/A.MIG-7601.webp"
 brand: "AMMO"
 available: false
 special_offer: false

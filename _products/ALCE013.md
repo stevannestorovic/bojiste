@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - RAF Dark Green (BS381C241) 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE013.jpg"
+img_path: "/assets/img/ALCE013.webp"
 brand: "N/A"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "Alclad 2 - British Brown Bess 30ml"
 price: "TBA" 
 desc: "Metalizer boja"
-img_path: "/assets/img/ALCE062.jpg"
+img_path: "/assets/img/ALCE062.webp"
 brand: "N/A"
 available: false
 special_offer: false

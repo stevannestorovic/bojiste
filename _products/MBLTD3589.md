@@ -3,7 +3,7 @@ layout: product
 title: "U.S. Marines in Jungle, WW II era                                                                      "
 price: "1300" 
 desc: "1/35 Figura"
-img_path: "/assets/img/MBLTD3589.jpg"
+img_path: "/assets/img/MBLTD3589.webp"
 brand: "MasterBox"
 available: false
 special_offer: false

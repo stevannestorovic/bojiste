@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Israel Main Battle Tank Magach 6B GAL BATASH Fully Loaded Rear Basket Closed Smoke Grenade Launchers RESIN"
 price: "6500" 
 desc: "N/A"
-img_path: "/assets/img/MM-SPS-065.jpg"
+img_path: "/assets/img/MM-SPS-065.webp"
 brand: "N/A"
 available: false
 special_offer: false

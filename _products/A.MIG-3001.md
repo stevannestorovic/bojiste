@@ -3,7 +3,7 @@ layout: product
 title: "BLACK "
 price: "500" 
 desc: "Pigment"
-img_path: "/assets/img/A.MIG-3001.jpg"
+img_path: "/assets/img/A.MIG-3001.webp"
 brand: "AMMO"
 available: true
 special_offer: false

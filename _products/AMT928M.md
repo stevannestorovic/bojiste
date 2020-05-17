@@ -3,7 +3,7 @@ layout: product
 title: "AMT - 1970 Chevy Monte Carlo"
 price: "TBA" 
 desc: "N/A"
-img_path: "/assets/img/AMT928M.jpg"
+img_path: "/assets/img/AMT928M.webp"
 brand: "N/A"
 available: false
 special_offer: false

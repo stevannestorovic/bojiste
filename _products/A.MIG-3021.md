@@ -3,7 +3,7 @@ layout: product
 title: "POLISHED METAL PIGMENT"
 price: "500" 
 desc: "Pigment"
-img_path: "/assets/img/A.MIG-3021.jpg"
+img_path: "/assets/img/A.MIG-3021.webp"
 brand: "AMMO"
 available: true
 special_offer: false

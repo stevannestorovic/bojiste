@@ -3,7 +3,7 @@ layout: product
 title: "FIGURES BRUSH SET"
 price: "3700" 
 desc: "Set četkica"
-img_path: "/assets/img/A.MIG-7600.jpg"
+img_path: "/assets/img/A.MIG-7600.webp"
 brand: "AMMO"
 available: false
 special_offer: false

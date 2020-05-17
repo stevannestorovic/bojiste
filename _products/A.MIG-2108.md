@@ -3,7 +3,7 @@ layout: product
 title: "Concrete Texture"
 price: "1300" 
 desc: "Akrilna tekstura 250mL"
-img_path: "/assets/img/A.MIG-2108.jpg"
+img_path: "/assets/img/A.MIG-2108.webp"
 brand: "AMMO"
 available: true
 special_offer: false

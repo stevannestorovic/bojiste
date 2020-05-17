@@ -3,7 +3,7 @@ layout: product
 title: "EARTH COLORS SET:"
 price: "1200" 
 desc: "Set uljanih boja"
-img_path: "/assets/img/A.MIG-7512.jpg"
+img_path: "/assets/img/A.MIG-7512.webp"
 brand: "AMMO"
 available: false
 special_offer: false

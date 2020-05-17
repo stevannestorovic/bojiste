@@ -3,7 +3,7 @@ layout: product
 title: "GOLAN EARTH"
 price: "500" 
 desc: "Pigment"
-img_path: "/assets/img/A.MIG-3026.jpg"
+img_path: "/assets/img/A.MIG-3026.webp"
 brand: "AMMO"
 available: false
 special_offer: false

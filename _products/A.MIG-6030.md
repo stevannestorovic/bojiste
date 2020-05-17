@@ -3,7 +3,7 @@ layout: product
 title: "MODELLING SCHOOL: AN INITIATION TO AIRCRAFT WEATHERING ENGLISH"
 price: "3100" 
 desc: "Knjiga"
-img_path: "/assets/img/A.MIG-6030.jpg"
+img_path: "/assets/img/A.MIG-6030.webp"
 brand: "AMMO"
 available: false
 special_offer: false

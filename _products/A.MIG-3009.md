@@ -3,7 +3,7 @@ layout: product
 title: "GUN METAL"
 price: "500" 
 desc: "Pigment"
-img_path: "/assets/img/A.MIG-3009.jpg"
+img_path: "/assets/img/A.MIG-3009.webp"
 brand: "AMMO"
 available: true
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "M2A3 BRADLEY FIGHTING VEHICLE IN EUROPE IN DETAIL VOL 2 - Sabot010 ENGLISH"
 price: "2800" 
 desc: "Knjiga"
-img_path: "/assets/img/A.MIG-5952.jpg"
+img_path: "/assets/img/A.MIG-5952.webp"
 brand: "AMMO"
 available: false
 special_offer: false

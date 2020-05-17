@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Hobby Cutting Mat"
 price: "2200" 
 desc: "N/A"
-img_path: "/assets/img/MM-MTS-021.jpg"
+img_path: "/assets/img/MM-MTS-021.webp"
 brand: "N/A"
 available: false
 special_offer: false

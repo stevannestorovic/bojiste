@@ -3,7 +3,7 @@ layout: product
 title: "RAL 7017 DUNKELBRAUN"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0007.jpg"
+img_path: "/assets/img/A.MIG-0007.webp"
 brand: "AMMO"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "DRY EARTH"
 price: "550" 
 desc: "Emajl Efekat"
-img_path: "/assets/img/A.MIG-1750.jpg"
+img_path: "/assets/img/A.MIG-1750.webp"
 brand: "AMMO"
 available: false
 special_offer: false

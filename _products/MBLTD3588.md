@@ -3,7 +3,7 @@ layout: product
 title: "Eastern Region Peasants, WW II era "
 price: "1300" 
 desc: "1/35 Figura"
-img_path: "/assets/img/MBLTD3588.jpg"
+img_path: "/assets/img/MBLTD3588.webp"
 brand: "MasterBox"
 available: false
 special_offer: false

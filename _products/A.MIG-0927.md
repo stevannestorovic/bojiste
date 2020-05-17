@@ -3,7 +3,7 @@ layout: product
 title: "OLIVE DRAB LIGHT BASE"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0927.jpg"
+img_path: "/assets/img/A.MIG-0927.webp"
 brand: "AMMO"
 available: true
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "FUEL STAINS"
 price: "500" 
 desc: "Emajl Efekat"
-img_path: "/assets/img/A.MIG-1409.jpg"
+img_path: "/assets/img/A.MIG-1409.webp"
 brand: "AMMO"
 available: true
 special_offer: false

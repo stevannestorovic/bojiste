@@ -3,7 +3,7 @@ layout: product
 title: "Issue 11. EMBARKED  ENGLISH"
 price: "1300" 
 desc: "Časopis"
-img_path: "/assets/img/A.MIG-5211.jpg"
+img_path: "/assets/img/A.MIG-5211.webp"
 brand: "AMMO"
 available: false
 special_offer: false

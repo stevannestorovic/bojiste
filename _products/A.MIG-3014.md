@@ -3,7 +3,7 @@ layout: product
 title: "RUSSIAN EARTH"
 price: "500" 
 desc: "Pigment"
-img_path: "/assets/img/A.MIG-3014.jpg"
+img_path: "/assets/img/A.MIG-3014.webp"
 brand: "AMMO"
 available: true
 special_offer: false

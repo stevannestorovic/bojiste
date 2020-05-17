@@ -3,7 +3,7 @@ layout: product
 title: "MODELLING SCHOOL - RAILWAY MODELING: PAINTING REALISTIC TRAINS ENGLISH"
 price: "3100" 
 desc: "Knjiga"
-img_path: "/assets/img/A.MIG-6250.jpg"
+img_path: "/assets/img/A.MIG-6250.webp"
 brand: "AMMO"
 available: false
 special_offer: false

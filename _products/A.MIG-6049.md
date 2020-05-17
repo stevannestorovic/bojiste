@@ -3,7 +3,7 @@ layout: product
 title: "COMPLETE ENCYCLOPEDIA OF AIRCRAFT MODELLING TECHNIQUES ENGLISH"
 price: "19000" 
 desc: "Enciklopedija – potupuno izdanje"
-img_path: "/assets/img/A.MIG-6049.jpg"
+img_path: "/assets/img/A.MIG-6049.webp"
 brand: "AMMO"
 available: false
 special_offer: false

@@ -3,7 +3,7 @@ layout: product
 title: "METALLIC RED"
 price: "300" 
 desc: "Akrilna boja 17mL"
-img_path: "/assets/img/A.MIG-0188.jpg"
+img_path: "/assets/img/A.MIG-0188.webp"
 brand: "AMMO"
 available: true
 special_offer: false

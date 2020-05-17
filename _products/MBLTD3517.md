@@ -3,7 +3,7 @@ layout: product
 title: "German Captives, 1944 "
 price: "950" 
 desc: "1/35 Figura"
-img_path: "/assets/img/MBLTD3517.jpg"
+img_path: "/assets/img/MBLTD3517.webp"
 brand: "MasterBox"
 available: false
 special_offer: false

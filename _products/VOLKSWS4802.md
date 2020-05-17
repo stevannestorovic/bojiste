@@ -3,7 +3,7 @@ layout: product
 title: "1/48 FOCKE-WULF TA152H-1"
 price: "8500" 
 desc: "Plastična maketa"
-img_path: "/assets/img/VOLKSWS4802.jpg"
+img_path: "/assets/img/VOLKSWS4802.webp"
 brand: "ZOUKEI-MURA"
 available: false
 special_offer: false

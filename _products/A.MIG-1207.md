@@ -3,7 +3,7 @@ layout: product
 title: "STREAKING GRIME FOR US MODERN"
 price: "500" 
 desc: "Emajl Efekat"
-img_path: "/assets/img/A.MIG-1207.jpg"
+img_path: "/assets/img/A.MIG-1207.webp"
 brand: "AMMO"
 available: true
 special_offer: false

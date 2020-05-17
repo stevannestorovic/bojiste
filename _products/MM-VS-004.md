@@ -3,7 +3,7 @@ layout: product
 title: "Meng Model - Pickup  Zu-23-2"
 price: "3400" 
 desc: "N/A"
-img_path: "/assets/img/MM-VS-004.jpg"
+img_path: "/assets/img/MM-VS-004.webp"
 brand: "N/A"
 available: false
 special_offer: false
