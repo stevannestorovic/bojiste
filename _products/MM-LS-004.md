@@ -1,14 +1,14 @@
 ---
 layout: product
 title: "Meng Model - Messerschmitt Me 410B-2/U2/R4 Heavy Fighter"
-price: "7300" 
+price: "6400" 
 desc: "N/A"
 img_path: "/assets/img/MM-LS-004.webp"
 brand: "N/A"
-available: false
+available: true
 special_offer: false
 new: false
-soon: false
+soon: true
 cat: "010000"
 subcat: "011000"
 subsubcat: "0N/A"
