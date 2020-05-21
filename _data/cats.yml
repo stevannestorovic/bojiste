@@ -2,6 +2,7 @@
   subcats: [{name: "Amusing Hobby", label: "014900", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "Ark Models", label: "015000", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "AFV Club", label: "015100", filters: ["1/35", "1/48", "1/350"]},
+            {name: "IBG", label: "015500", filters: ["1/35", "1/48", "1/350"]},
             {name: "Special Hobby", label: "015200", filters: ["1/16", "1/32", "1/35", "1/48", "1/72"]},
             {name: "Zoukei-Mura", label: "014100", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "MasterBox", label: "015300", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
