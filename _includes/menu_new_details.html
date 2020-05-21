@@ -1,0 +1,78 @@
+<div class="menu">
+		<div class="menu-list menu" id="dropdown-menu" role="menu">
+			{%- for cat in site.data.cats -%}
+			<details>
+				<summary>
+					<a href="{{cat.maincat.name | replace: ' ', '_'}}.html">
+					{{cat.maincat.name}}
+					</a>
+				</summary>
+				{%- if cat.subcats -%}
+				<div class="menu-list menu">
+				{%- for subcat in cat.subcats -%}
+					<details>
+						<summary>
+							<a href="{{cat.maincat.name | replace: ' ', '_'}}_{{subcat.name | replace: ' ', '_'}}.html" class="dropdown-item">
+							{{subcat.name}}
+							</a>
+						</summary>
+					{%- if subcat.subsubcats -%}
+						<div class="menu-list menu">
+						{%- for subsubcat in subcat.subsubcats -%}
+							<summary>
+								<a href="{{cat.maincat.name | replace: ' ', '_'}}_{{subcat.name | replace: ' ', '_'}}_{{subsubcat.name | replace: ' ', '_'}}.html" class="dropdown-item">
+								{{subsubcat.name}}
+								</a>
+							</summary>
+						{%- endfor -%}
+						</div>
+					{%- endif -%}
+					</details>
+				{%- endfor -%}
+				</div>
+				{%- endif -%}
+				</details>
+			{%- endfor -%}
+		</div>
+</div>
+
+<!-- <script>
+/* Menu links */ 
+let allSubmenus = document.querySelectorAll('.menu-list ul');
+allSubmenus.forEach(function (elem) {
+	elem.classList.add('hidden');
+});
+
+let pmMenu = document.querySelector('#dropdown-menu > li:nth-child(1) > a:nth-child(1)');
+let pmExpandBtn = pmMenu.querySelector('a .list-expand');
+pmExpandBtn.addEventListener('click', (e) => {
+	let menu = document.querySelector('#dropdown-menu > li:nth-child(1) > ul');
+	if(menu.classList.value.includes('hidden')) {
+		menu.classList.remove('hidden');
+	} else {
+		menu.classList.add('hidden');
+	}
+	//menu.classList.toggle('hidden');	
+});
+
+let linksLvl1 = document.querySelectorAll('.menu-list li a .list-expand i');
+linksLvl1.forEach(function (elem) {
+		elem.addEventListener('click', function(evt) {	
+			console.log(elem);
+			evt.preventDefault();
+			let menu = evt.target.parentNode.parentNode.parentNode.querySelector('.menu-list');
+			menu.classList.toggle('hidden');
+			console.log(menu);
+		});
+});
+
+let linksLvl2 = document.querySelectorAll('.menu-list li .menu-list li a');
+linksLvl2.forEach(function (elem) {
+	let btn = document.querySelector('.list-expand i');
+	btn.addEventListener('click', function(evt) {
+		evt.preventDefault();
+  		let menu = evt.target.parentNode.parentNode.parentNode.querySelector('.menu-list');
+		menu.classList.toggle('hidden');
+  });
+});
+</script> -->
