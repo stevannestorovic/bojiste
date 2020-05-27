@@ -5,7 +5,7 @@ query = decodeURI(query);
 
 let idx = new MiniSearch({
     fields: ['name', 'desc', 'sifra'],
-    storeFields: ['name', 'price', 'desc', 'img_path', 'sifra'],
+    storeFields: ['name', 'price', 'desc', 'img_path', 'sifra', 'available'],
     searchOptions: {prefix: true, fuzzy: 0.1}
 });
 
@@ -52,6 +52,10 @@ res.forEach(element => {
     productQuantity.value = 1;
     productQuantity.classList += 'item_Quantity input';
 
+    let productAvl = document.createElement('span');
+    productAvl.innerText += 'true' == element.available ? 'Na stanju' : 'Nije na stanju';
+    productAvl.classList += 'avl-'+element.available;
+
     let productBuy = document.createElement('a');
     productBuy.className += 'item_add button is-main-bg buy_button is-large';
     productBuy.href = 'javascript:;';
@@ -60,6 +64,7 @@ res.forEach(element => {
 
     let productWidgets = document.createElement('div');
     productWidgets.classList += 'product-widgets';
+    productWidgets.appendChild(productAvl);
     productWidgets.appendChild(productQuantity);
     productWidgets.appendChild(productBuy);
 
@@ -71,4 +76,5 @@ res.forEach(element => {
     
 
     products.appendChild(product);
+    console.log(element);
 });

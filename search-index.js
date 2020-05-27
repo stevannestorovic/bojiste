@@ -8,7 +8,8 @@ let data = [
 		desc: "{{product.desc}}",
 		img_path: "{{product.img_path}}",
 		price: "{{product.price}}",
-		sifra: "{{product.sifra}}"
+		sifra: "{{product.sifra}}",
+	        available: "{{product.available}}"
 	},
  {% endfor %}
 ];
