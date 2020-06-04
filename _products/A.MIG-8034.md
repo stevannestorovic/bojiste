@@ -5,7 +5,7 @@ price: "1300"
 desc: "Crni superlepak (Colle21)"
 img_path: "/assets/img/A.MIG-8034.webp"
 brand: "AMMO"
-available: true
+available: false
 special_offer: true
 new: false
 soon: false

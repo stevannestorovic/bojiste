@@ -5,7 +5,7 @@ price: "700"
 desc: "Prazne posude za mešanje"
 img_path: "/assets/img/A.MIG-8033.webp"
 brand: "AMMO"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

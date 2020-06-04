@@ -5,7 +5,7 @@ price: "9000"
 desc: "Maketa"
 img_path: "/assets/img/GWHSNG09.webp"
 brand: "N/A"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

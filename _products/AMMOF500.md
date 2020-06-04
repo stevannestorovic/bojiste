@@ -5,7 +5,7 @@ price: "300"
 desc: "Sredstvo za usporavanje sušenja boje"
 img_path: "/assets/img/AMMOF500.webp"
 brand: "AMMO"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

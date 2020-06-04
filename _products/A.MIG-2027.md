@@ -5,7 +5,7 @@ price: "800"
 desc: "Prajmer"
 img_path: "/assets/img/A.MIG-2027.webp"
 brand: "AMMO"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

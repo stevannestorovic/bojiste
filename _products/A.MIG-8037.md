@@ -5,7 +5,7 @@ price: "1300"
 desc: "Sredstvo za instant sušenje superlepka"
 img_path: "/assets/img/A.MIG-8037.webp"
 brand: "AMMO"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

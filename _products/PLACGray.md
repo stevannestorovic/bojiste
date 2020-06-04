@@ -5,7 +5,7 @@ price: "800"
 desc: "Panelni Voš"
 img_path: "/assets/img/PLACGray.webp"
 brand: "N/A"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false
