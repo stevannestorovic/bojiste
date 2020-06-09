@@ -5,7 +5,7 @@ price: "630"
 desc: "Akrilni git"
 img_path: "/assets/img/A.MIG-2039.webp"
 brand: "AMMO"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false
