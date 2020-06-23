@@ -8,7 +8,7 @@ brand: "ModelSvit"
 available: false
 special_offer: false
 new: false
-soon: true
+soon: false
 cat: "010000"
 subcat: "015600"
 subsubcat: "0N/A"
