@@ -5,7 +5,7 @@ price: "7300"
 desc: "N/A"
 img_path: "/assets/img/MM-TS-036.webp"
 brand: "N/A"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false
