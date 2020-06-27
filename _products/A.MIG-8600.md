@@ -5,9 +5,9 @@ price: "1700"
 desc: "Četkica"
 img_path: "/assets/img/A.MIG-8600.webp"
 brand: "AMMO"
-available: false
+available: true
 special_offer: false
-new: false
+new: true
 soon: false
 cat: "070000"
 subcat: "070100"

@@ -5,7 +5,7 @@ price: "670"
 desc: "Razređivač za akrilne boje"
 img_path: "/assets/img/A.MIG-2000.webp"
 brand: "AMMO"
-available: false
+available: true
 special_offer: false
 new: false
 soon: false

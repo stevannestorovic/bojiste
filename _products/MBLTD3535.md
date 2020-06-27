@@ -7,7 +7,7 @@ img_path: "/assets/img/MBLTD3535.webp"
 brand: "MasterBox"
 available: false
 special_offer: false
-new: true
+new: false
 soon: false
 cat: "010000"
 subcat: "015300"

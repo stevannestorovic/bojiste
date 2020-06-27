@@ -5,7 +5,7 @@ price: "550"
 desc: "Providni lepak za eceraj I providne delove"
 img_path: "/assets/img/A.MIG-2031.webp"
 brand: "AMMO"
-available: false
+available: true
 special_offer: false
 new: false
 soon: false
