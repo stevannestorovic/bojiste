@@ -7,7 +7,7 @@ img_path: "/assets/img/A.MIG-2056.webp"
 brand: "AMMO"
 available: false
 special_offer: false
-new: true
+new: false
 soon: false
 cat: "020000"
 subcat: "020100"
