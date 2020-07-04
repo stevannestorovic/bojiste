@@ -5,9 +5,9 @@ price: "1200"
 desc: "Akrilna tekstura 250mL"
 img_path: "/assets/img/A.MIG-2205.webp"
 brand: "AMMO"
-available: true
+available: false
 special_offer: false
-new: true
+new: false
 soon: false
 cat: "080000"
 subcat: "080100"
