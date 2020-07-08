@@ -5,7 +5,7 @@ price: "340"
 desc: "Alu paleta"
 img_path: "/assets/img/A.MIG-8008.webp"
 brand: "AMMO"
-available: false
+available: true
 special_offer: false
 new: false
 soon: false

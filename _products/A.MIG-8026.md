@@ -5,9 +5,9 @@ price: "1600"
 desc: "Mesingane čačkalice"
 img_path: "/assets/img/A.MIG-8026.webp"
 brand: "AMMO"
-available: true
+available: false
 special_offer: false
-new: true
+new: false
 soon: false
 cat: "070000"
 subcat: "070100"
