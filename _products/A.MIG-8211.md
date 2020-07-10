@@ -7,7 +7,7 @@ img_path: "/assets/img/A.MIG-8211.webp"
 brand: "Alclad II"
 available: true
 special_offer: false
-new: true
+new: false
 soon: false
 cat: "040000"
 subcat: "040100"
