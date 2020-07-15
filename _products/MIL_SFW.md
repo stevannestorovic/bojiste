@@ -5,7 +5,7 @@ price: "1200"
 desc: "N/A"
 img_path: "/assets/img/MIL_SFW.webp"
 brand: "N/A"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false
