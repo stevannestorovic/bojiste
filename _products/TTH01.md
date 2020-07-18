@@ -6,8 +6,8 @@ desc: "Prajmer 400mL"
 img_path: "/assets/img/TTH01.webp"
 brand: "N/A"
 available: true
-special_offer: false
-new: true
+special_offer: true
+new: false
 soon: false
 cat: "0N/A"
 subcat: "0N/A"
