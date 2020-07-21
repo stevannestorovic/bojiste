@@ -5,7 +5,7 @@ price: "900"
 desc: "Sredstvo za patiniranje metalnih gusenica"
 img_path: "/assets/img/A.MIG-2020.webp"
 brand: "AMMO"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false
