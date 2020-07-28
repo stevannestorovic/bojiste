@@ -1,5 +1,5 @@
 <div class="menu">
-		<div class="menu-list menu" id="dropdown-menu" role="menu">
+		<div class="" id="dropdown-menu" role="menu">
 			{%- for cat in site.data.cats -%}
 			<details>
 				<summary>
@@ -8,19 +8,19 @@
 					</a>
 				</summary>
 				{%- if cat.subcats -%}
-				<div class="menu-list menu">
+				<div class="">
 				{%- for subcat in cat.subcats -%}
 					<details>
 						<summary>
-							<a href="{{cat.maincat.name | replace: ' ', '_'}}_{{subcat.name | replace: ' ', '_'}}.html" class="dropdown-item">
+							<a href="{{cat.maincat.name | replace: ' ', '_'}}_{{subcat.name | replace: ' ', '_'}}.html" class="">
 							{{subcat.name}}
 							</a>
 						</summary>
 					{%- if subcat.subsubcats -%}
-						<div class="menu-list menu">
+						<div class="">
 						{%- for subsubcat in subcat.subsubcats -%}
 							<summary>
-								<a href="{{cat.maincat.name | replace: ' ', '_'}}_{{subcat.name | replace: ' ', '_'}}_{{subsubcat.name | replace: ' ', '_'}}.html" class="dropdown-item">
+								<a href="{{cat.maincat.name | replace: ' ', '_'}}_{{subcat.name | replace: ' ', '_'}}_{{subsubcat.name | replace: ' ', '_'}}.html" class="">
 								{{subsubcat.name}}
 								</a>
 							</summary>
