@@ -3,6 +3,7 @@
             {name: "Ark Models", label: "015000", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "AFV Club", label: "015100", filters: ["1/35", "1/48", "1/350"]},
             {name: "ModelSvit", label: "015600", filters: ["1/32", "1/48", "1/72"]},
+            {name: "Fine Molds", label: "015900", filters: ["1/32", "1/48", "1/72"]},
             {name: "Hasegawa", label: "015700", filters: ["1/32", "1/48", "1/72"]},
             {name: "Bronco Models", label: "015800", filters: ["1/32", "1/48", "1/72"]},
             {name: "IBG", label: "015500", filters: ["1/35", "1/48", "1/350"]},
