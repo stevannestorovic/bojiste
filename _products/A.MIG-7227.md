@@ -5,7 +5,7 @@ price: "1200"
 desc: "Set boja"
 img_path: "/assets/img/A.MIG-7227.webp"
 brand: "AMMO"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false
