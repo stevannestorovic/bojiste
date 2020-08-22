@@ -5,7 +5,7 @@ price: "500"
 desc: "Emajl Voš"
 img_path: "/assets/img/A.MIG-1010.webp"
 brand: "AMMO"
-available: true
+available: false
 special_offer: true
 new: false
 soon: false
