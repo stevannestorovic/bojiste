@@ -9,7 +9,7 @@ available: false
 special_offer: false
 new: false
 soon: false
-cat: "0N/A"
+cat: "099999"
 subcat: "0N/A"
 subsubcat: "0N/A"
 sifra: "AKCIJA5"
