@@ -4,7 +4,7 @@
 	</h2>
 	<div class="panel-products"> 
     {% assign counter = 0 %}
-	{% for product in site.products | sort: "price" %}
+	{% for product in site.products %}
 		{%- if product.new -%}
             {% assign counter = counter | plus: 1%}
 			<div class="panel-product simpleCart_shelfItem">
