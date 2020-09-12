@@ -5,7 +5,7 @@ price: "400"
 desc: "Čelične kuglice za mešanje"
 img_path: "/assets/img/A.MIG-8003.webp"
 brand: "AMMO"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

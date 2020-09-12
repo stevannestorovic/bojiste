@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "ANTI-SLIP PASTE - SAND COLOR FOR 1/35"
-price: "500" 
+price: "550" 
 desc: "Anti slip tekstura"
 img_path: "/assets/img/A.MIG-2033.webp"
 brand: "AMMO"

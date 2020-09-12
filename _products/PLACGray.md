@@ -13,5 +13,5 @@ cat: "0N/A"
 subcat: "0N/A"
 subsubcat: "0N/A"
 sifra: "PLACGray"
-popular: true
+popular: false
 ---

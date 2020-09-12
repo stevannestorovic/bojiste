@@ -5,9 +5,9 @@ price: "8500"
 desc: "Plastična maketa"
 img_path: "/assets/img/VOLKSWS4802.webp"
 brand: "ZOUKEI-MURA"
-available: false
+available: true
 special_offer: false
-new: false
+new: true
 soon: false
 cat: "010000"
 subcat: "014100"

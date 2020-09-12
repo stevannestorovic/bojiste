@@ -6,7 +6,7 @@ desc: "Providni superlepak (Colle21)"
 img_path: "/assets/img/A.MIG-8013.webp"
 brand: "AMMO"
 available: true
-special_offer: false
+special_offer: true
 new: false
 soon: false
 cat: "070000"

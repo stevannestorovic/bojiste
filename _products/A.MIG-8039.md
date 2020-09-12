@@ -13,5 +13,5 @@ cat: "070000"
 subcat: "070100"
 subsubcat: "070105"
 sifra: "A.MIG-8039"
-popular: true
+popular: false
 ---

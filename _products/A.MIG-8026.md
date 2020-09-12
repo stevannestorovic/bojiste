@@ -1,11 +1,11 @@
 ---
 layout: product
-title: "Brass Toothpicks"
+title: "BRASS TOOTHPICKS"
 price: "1600" 
 desc: "Mesingane čačkalice"
 img_path: "/assets/img/A.MIG-8026.webp"
 brand: "AMMO"
-available: false
+available: true
 special_offer: false
 new: false
 soon: false

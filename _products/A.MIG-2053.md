@@ -6,7 +6,7 @@ desc: "Akrilni Lak"
 img_path: "/assets/img/A.MIG-2053.webp"
 brand: "AMMO"
 available: true
-special_offer: true
+special_offer: false
 new: false
 soon: false
 cat: "020000"
