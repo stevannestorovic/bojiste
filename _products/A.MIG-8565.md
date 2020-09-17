@@ -5,7 +5,7 @@ price: "300"
 desc: "Štapić za šmirglanje velike površine"
 img_path: "/assets/img/A.MIG-8565.webp"
 brand: "AMMO"
-available: true
+available: false
 special_offer: true
 new: false
 soon: false

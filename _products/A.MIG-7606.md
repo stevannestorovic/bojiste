@@ -5,7 +5,7 @@ price: "950"
 desc: "Set gumenih četkica"
 img_path: "/assets/img/A.MIG-7606.webp"
 brand: "AMMO"
-available: true
+available: false
 special_offer: true
 new: false
 soon: false
