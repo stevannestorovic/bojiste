@@ -6,7 +6,7 @@ desc: "Papir za maskiranje"
 img_path: "/assets/img/A.MIG-8043.webp"
 brand: "AMMO"
 available: true
-special_offer: false
+special_offer: true
 new: false
 soon: false
 cat: "070000"
