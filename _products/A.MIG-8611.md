@@ -5,7 +5,7 @@ price: "230"
 desc: "Sintetička četkica"
 img_path: "/assets/img/A.MIG-8611.webp"
 brand: "AMMO"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

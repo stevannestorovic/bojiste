@@ -5,8 +5,8 @@ price: "360"
 desc: "Set četkica"
 img_path: "/assets/img/A.MIG-8570.webp"
 brand: "AMMO"
-available: true
-special_offer: true
+available: false
+special_offer: false
 new: false
 soon: false
 cat: "070000"
