@@ -5,10 +5,10 @@ price: "8500"
 desc: "Bundle"
 img_path: "/assets/img/AKCIJA5.webp"
 brand: "N/A"
-available: false
+available: true
 special_offer: false
 new: false
-soon: false
+soon: true
 cat: "0N/A"
 subcat: "0N/A"
 subsubcat: "0N/A"

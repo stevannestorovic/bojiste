@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "1/48 PHANTOM F-4D"
-price: "11500" 
+price: "12500" 
 desc: "Plastična maketa"
 img_path: "/assets/img/VOLKSWS4807.webp"
 brand: "ZOUKEI-MURA"

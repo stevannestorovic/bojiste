@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "1/32 DOUGLAS A-1H Skyraider U.S NAVY Incl U.S Aircraft Weapons"
-price: "20000" 
+price: "22000" 
 desc: "Plastična maketa"
 img_path: "/assets/img/VOLKSWS15.webp"
 brand: "ZOUKEI-MURA"
