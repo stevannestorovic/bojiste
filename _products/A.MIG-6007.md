@@ -5,7 +5,7 @@ price: "2800"
 desc: "Knjiga"
 img_path: "/assets/img/A.MIG-6007.webp"
 brand: "AMMO"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false
