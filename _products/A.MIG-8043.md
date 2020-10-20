@@ -5,8 +5,8 @@ price: "900"
 desc: "Papir za maskiranje"
 img_path: "/assets/img/A.MIG-8043.webp"
 brand: "AMMO"
-available: true
-special_offer: true
+available: false
+special_offer: false
 new: false
 soon: false
 cat: "070000"

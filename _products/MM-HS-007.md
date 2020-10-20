@@ -7,7 +7,7 @@ img_path: "/assets/img/MM-HS-007.webp"
 brand: "N/A"
 available: true
 special_offer: false
-new: false
+new: true
 soon: false
 cat: "010000"
 subcat: "011000"
