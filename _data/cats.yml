@@ -28,6 +28,7 @@
             {name: "Meng", label: "011000", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "ModelSvit", label: "015600", filters: ["1/32", "1/48", "1/72"]},
             {name: "ModelCollect", label: "013300", filters: ["1/35", "1/144", "1/72"]},
+            {name: "Quinta Studio", label: "016000", filters: ["1/35", "1/144", "1/72"]},
             {name: "Rye Field Model", label: "010800", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
             {name: "Special Hobby", label: "015200", filters: ["1/16", "1/32", "1/35", "1/48", "1/72"]},
             {name: "Takom", label: "010200", filters: ["1/16", "1/32", "1/35", "1/48", "1/72", "1/144"]},
