@@ -102,6 +102,7 @@
                           {name: "Akrilne Teksture", label: "080204"}, 
                           {name: "Plutene Plocice", label: "080205"}, 
                           {name: "Polistirenske Plocice", label: "080206"}]},
+            {name: "RT Diorama", label: "080400"},
             {name: "Model Scene", label: "080300"}]
 - maincat: {name: "Knjige, časopisi, Merch", label: "090000"}
   subcats: [{name: "AMMO", label: "090100",
