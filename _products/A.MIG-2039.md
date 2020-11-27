@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "AKRILNI GIT"
-price: "630" 
+price: "650" 
 desc: "Akrilni git"
 img_path: "/assets/img/A.MIG-2039.webp"
 brand: "AMMO"
