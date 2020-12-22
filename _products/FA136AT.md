@@ -6,7 +6,7 @@ desc: "Airbrush sa tri zamenske dizne"
 img_path: "/assets/img/FA136AT.webp"
 brand: "N/A"
 available: true
-special_offer: true
+special_offer: false
 new: false
 soon: false
 cat: "0N/A"

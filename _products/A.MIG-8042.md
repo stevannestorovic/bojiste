@@ -6,7 +6,7 @@ desc: "Traka za maskiranje savitljiva"
 img_path: "/assets/img/A.MIG-8042.webp"
 brand: "AMMO"
 available: true
-special_offer: true
+special_offer: false
 new: false
 soon: false
 cat: "070000"

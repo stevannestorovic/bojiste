@@ -5,9 +5,9 @@ price: "700"
 desc: "N/A"
 img_path: "/assets/img/MIL_STD.webp"
 brand: "N/A"
-available: true
+available: false
 special_offer: false
-new: true
+new: false
 soon: false
 cat: "00"
 subcat: "00"
