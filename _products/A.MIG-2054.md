@@ -1,11 +1,11 @@
 ---
 layout: product
-title: "ULTRA-MATT LUCKY VARNISH (17 ML SIZE)"
+title: "Lucky Varnish – Ultra mat akrilni lak (17mL)"
 price: "300" 
 desc: "Akrilni Lak"
 img_path: "/assets/img/A.MIG-2054.webp"
 brand: "AMMO"
-available: false
+available: true
 special_offer: false
 new: false
 soon: false

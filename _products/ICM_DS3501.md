@@ -2,7 +2,7 @@
 layout: product
 title: "Gallipoli (1915)   (ANZAC Infantry (4 figures), Turkish Infantry (4 figures))"
 price: "TBA" 
-desc: "N/A"
+desc: "Maketa"
 img_path: "/assets/img/ICM DS3501.webp"
 brand: "N/A"
 available: false

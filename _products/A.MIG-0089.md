@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "MATT VARNISH"
+title: "Akrilni mat lak (17mL)"
 price: "300" 
 desc: "Akrilni Lak"
 img_path: "/assets/img/A.MIG-0089.webp"

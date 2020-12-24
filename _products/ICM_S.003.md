@@ -2,7 +2,7 @@
 layout: product
 title: "Kronprinz, WWI German Battleship"
 price: "TBA" 
-desc: "N/A"
+desc: "Maketa"
 img_path: "/assets/img/ICM S.003.webp"
 brand: "N/A"
 available: false

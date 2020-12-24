@@ -2,7 +2,7 @@
 layout: product
 title: "Wehrmacht 3-axle Trucks (Henschel 33D1, Krupp L3H163, LG3000)"
 price: "TBA" 
-desc: "N/A"
+desc: "Maketa"
 img_path: "/assets/img/ICM DS3508.webp"
 brand: "N/A"
 available: false

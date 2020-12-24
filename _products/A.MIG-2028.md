@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "ONE SHOT PRIMER - GREEN"
+title: "One Shot Prajmer – Zelena (Stynyl Rez Badger) 60mL"
 price: "800" 
 desc: "Prajmer"
 img_path: "/assets/img/A.MIG-2028.webp"

@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "FS -36293"
+title: "FS 36293"
 price: "300" 
 desc: "Akrilna boja 17mL"
 img_path: "/assets/img/A.MIG-0236.webp"

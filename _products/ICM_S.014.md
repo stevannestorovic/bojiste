@@ -2,7 +2,7 @@
 layout: product
 title: "“König”, WWI German Battleship, full hull and waterline   "
 price: "TBA" 
-desc: "N/A"
+desc: "Maketa"
 img_path: "/assets/img/ICM S.014.webp"
 brand: "N/A"
 available: false

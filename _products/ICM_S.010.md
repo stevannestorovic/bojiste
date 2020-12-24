@@ -2,7 +2,7 @@
 layout: product
 title: "U-Boat Type IIB (1943), German Submarine                                                        "
 price: "TBA" 
-desc: "N/A"
+desc: "Maketa"
 img_path: "/assets/img/ICM S.010.webp"
 brand: "N/A"
 available: false

@@ -2,7 +2,7 @@
 layout: product
 title: "Markgraf (full hull & waterline), WWI German Battleship"
 price: "TBA" 
-desc: "N/A"
+desc: "Maketa"
 img_path: "/assets/img/ICM S.017.webp"
 brand: "N/A"
 available: false

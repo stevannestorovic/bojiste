@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "CLEANER (100 mL)"
-price: "750" 
+price: "800" 
 desc: "Univerzalno sredstvo za čišćenje"
 img_path: "/assets/img/A.MIG-2001.webp"
 brand: "AMMO"

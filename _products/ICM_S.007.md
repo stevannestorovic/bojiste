@@ -2,7 +2,7 @@
 layout: product
 title: "U-Boat Type XXVIIB “Seehund” (late), WWII German Midget Submarine                                "
 price: "TBA" 
-desc: "N/A"
+desc: "Maketa"
 img_path: "/assets/img/ICM S.007.webp"
 brand: "N/A"
 available: false

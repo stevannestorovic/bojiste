@@ -2,7 +2,7 @@
 layout: product
 title: "Army Group Center (Summer 1941)   (Kfz.1, Typ L3000S, German Infantry (4 figures), German Drivers (4 figures))"
 price: "TBA" 
-desc: "N/A"
+desc: "Maketa"
 img_path: "/assets/img/ICM DS3502.webp"
 brand: "N/A"
 available: false

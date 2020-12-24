@@ -5,7 +5,7 @@ price: "1500"
 desc: "Prajmer 400mL"
 img_path: "/assets/img/TTH01.webp"
 brand: "N/A"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

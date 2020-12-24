@@ -2,7 +2,7 @@
 layout: product
 title: "Wehrmacht 3t Trucks (V3000S, KHD S3000, L3000S)"
 price: "TBA" 
-desc: "N/A"
+desc: "Maketa"
 img_path: "/assets/img/ICM DS3507.webp"
 brand: "N/A"
 available: false

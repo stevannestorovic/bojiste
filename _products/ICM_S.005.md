@@ -2,7 +2,7 @@
 layout: product
 title: "Markgraf, WWI German Battleship"
 price: "TBA" 
-desc: "N/A"
+desc: "Maketa"
 img_path: "/assets/img/ICM S.005.webp"
 brand: "N/A"
 available: false

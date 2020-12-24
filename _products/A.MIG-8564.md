@@ -5,8 +5,8 @@ price: "300"
 desc: "Višenamenski štapić za šmirglanje"
 img_path: "/assets/img/A.MIG-8564.webp"
 brand: "AMMO"
-available: false
-special_offer: false
+available: true
+special_offer: true
 new: false
 soon: false
 cat: "070000"

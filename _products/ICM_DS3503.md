@@ -2,7 +2,7 @@
 layout: product
 title: "Wehrmacht Off-road Cars (Kfz.1, Horch 108 Typ 40, L1500A)"
 price: "TBA" 
-desc: "N/A"
+desc: "Maketa"
 img_path: "/assets/img/ICM DS3503.webp"
 brand: "N/A"
 available: false

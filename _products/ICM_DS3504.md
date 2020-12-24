@@ -2,7 +2,7 @@
 layout: product
 title: "Wehrmacht Personnel Cars (Kadett K38 Saloon, Kapitan Saloon, Admiral Saloon)"
 price: "TBA" 
-desc: "N/A"
+desc: "Maketa"
 img_path: "/assets/img/ICM DS3504.webp"
 brand: "N/A"
 available: false

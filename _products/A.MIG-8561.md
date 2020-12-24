@@ -5,8 +5,8 @@ price: "200"
 desc: "Sundjer za uklanjanje washeva i pigmenata"
 img_path: "/assets/img/A.MIG-8561.webp"
 brand: "AMMO"
-available: false
-special_offer: false
+available: true
+special_offer: true
 new: false
 soon: false
 cat: "070000"

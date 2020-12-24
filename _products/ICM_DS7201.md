@@ -2,7 +2,7 @@
 layout: product
 title: "Afghan Motorcade (1979-1989) (URAL-375D, URAL-375A, ATZ-5-375, BTR-60PB)"
 price: "TBA" 
-desc: "N/A"
+desc: "Maketa"
 img_path: "/assets/img/ICM DS7201.webp"
 brand: "N/A"
 available: false
