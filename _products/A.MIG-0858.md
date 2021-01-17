@@ -5,8 +5,8 @@ price: "300"
 desc: "Akrilna formulacija za senčenje"
 img_path: "/assets/img/A.MIG-0858.webp"
 brand: "AMMO"
-available: true
-special_offer: true
+available: false
+special_offer: false
 new: false
 soon: false
 cat: "020000"
