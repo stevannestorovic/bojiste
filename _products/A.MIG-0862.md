@@ -6,7 +6,7 @@ desc: "Akrilna formulacija za senčenje"
 img_path: "/assets/img/A.MIG-0862.webp"
 brand: "AMMO"
 available: false
-special_offer: true
+special_offer: false
 new: false
 soon: false
 cat: "020000"
