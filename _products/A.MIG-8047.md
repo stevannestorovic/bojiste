@@ -5,8 +5,8 @@ price: "1000"
 desc: "Prah za armiranje superlepka"
 img_path: "/assets/img/A.MIG-8047.webp"
 brand: "AMMO"
-available: true
-special_offer: true
+available: false
+special_offer: false
 new: false
 soon: false
 cat: "070000"
