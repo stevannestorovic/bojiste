@@ -5,8 +5,8 @@ price: "2200"
 desc: "Šablon za bojenje"
 img_path: "/assets/img/A.MIG-8035.webp"
 brand: "AMMO"
-available: false
-special_offer: false
+available: true
+special_offer: true
 new: false
 soon: false
 cat: "070000"

@@ -6,8 +6,8 @@ desc: "Set boja"
 img_path: "/assets/img/A.MIG-7227.webp"
 brand: "AMMO"
 available: true
-special_offer: false
-new: true
+special_offer: true
+new: false
 soon: false
 cat: "020000"
 subcat: "020100"

@@ -5,7 +5,7 @@ price: "650"
 desc: "Klasični git"
 img_path: "/assets/img/A.MIG-2040.webp"
 brand: "AMMO"
-available: false
+available: true
 special_offer: false
 new: false
 soon: false

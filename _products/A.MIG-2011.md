@@ -5,7 +5,7 @@ price: "500"
 desc: "Efekat čiping"
 img_path: "/assets/img/A.MIG-2011.webp"
 brand: "AMMO"
-available: false
+available: true
 special_offer: false
 new: false
 soon: false
