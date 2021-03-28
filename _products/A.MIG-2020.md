@@ -6,7 +6,7 @@ desc: "Sredstvo za patiniranje metalnih gusenica"
 img_path: "/assets/img/A.MIG-2020.webp"
 brand: "AMMO"
 available: false
-special_offer: true
+special_offer: false
 new: false
 soon: false
 cat: "070000"

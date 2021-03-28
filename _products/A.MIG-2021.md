@@ -5,8 +5,8 @@ price: "900"
 desc: "Sredstvo za patiniranje eceraja"
 img_path: "/assets/img/A.MIG-2021.webp"
 brand: "AMMO"
-available: true
-special_offer: true
+available: false
+special_offer: false
 new: false
 soon: false
 cat: "070000"
