@@ -2,7 +2,7 @@
 layout: product
 title: "Instant Dry"
 price: "1300" 
-desc: "Superlepal"
+desc: "Superlepak"
 img_path: "/assets/img/A.MIG-8046.webp"
 brand: "AMMO"
 available: true

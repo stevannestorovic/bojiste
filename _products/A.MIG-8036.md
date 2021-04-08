@@ -5,7 +5,7 @@ price: "1300"
 desc: "Skidač superlepka"
 img_path: "/assets/img/A.MIG-8036.webp"
 brand: "AMMO"
-available: true
+available: false
 special_offer: true
 new: false
 soon: false
