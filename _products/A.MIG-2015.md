@@ -5,7 +5,7 @@ price: "500"
 desc: "Efekat vlažnosti"
 img_path: "/assets/img/A.MIG-2015.webp"
 brand: "AMMO"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

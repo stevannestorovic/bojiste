@@ -5,7 +5,7 @@ price: "4000"
 desc: "Airbrush sa tri zamenske dizne"
 img_path: "/assets/img/FA136AT.webp"
 brand: "N/A"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false
