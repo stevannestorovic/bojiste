@@ -46,7 +46,7 @@ title: seo_title
     SCRIPT
 	<div class="products">
 		{% for product in site.products  %}
-			{% if product.cat == "CLAB" and product.price != "0" and  product.available %}
+			{% if product.cat == "CLAB" and product.price != "0" and  product.available  %}
 				<div class="product simpleCart_shelfItem">
 					<h4 class="product-name item_name"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
                                         <h5 class="code item_code">{{product.sifra}}</h5>
@@ -68,6 +68,7 @@ title: seo_title
 				</div>
 			{% endif %}
 		{% endfor %}
+		<!--
 		{% for product in site.products  %}
 			{% if product.cat == "CLAB" and product.price != "0"  and product.available == false %}
 				<div class="product simpleCart_shelfItem">
@@ -90,7 +91,7 @@ title: seo_title
 					</div>
 				</div>
 			{% endif %}
-		{% endfor %}
+		{% endfor %} -->
 	</div>
 	</div>
 </section>
@@ -137,6 +138,7 @@ SCRIPT
 				</div>
 		{% endif %}
     {% endfor %}
+    <!--
     {% for product in site.products %}
 		{% if product.cat == "CLAB" and product.subcat == "SLAB"  and product.price != "0" and product.available  == false %}
 				<div class="product simpleCart_shelfItem">
@@ -160,6 +162,7 @@ SCRIPT
 				</div>
 		{% endif %}
     {% endfor %}
+    -->
 </div>
 </div>
 </div>
@@ -208,6 +211,7 @@ title: seo_title
                                             </div>
                             {% endif %}
                 {% endfor %}
+		<!--
                 {% for product in site.products %}
                             {% if product.cat == "CLAB" and product.subcat == "SLAB" and product.subsubcat == "SUBSUBLAB" and product.available == false%}
                                             <div class="product simpleCart_shelfItem">
@@ -231,6 +235,7 @@ title: seo_title
                                             </div>
                             {% endif %}
                 {% endfor %}
+		-->
             </div>
             </div>
         </div>
