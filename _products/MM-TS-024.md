@@ -7,7 +7,7 @@ img_path: "/assets/img/MM-TS-024.webp"
 brand: "N/A"
 available: true
 special_offer: false
-new: true
+new: false
 soon: false
 cat: "010000"
 subcat: "011000"

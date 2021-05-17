@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - G.91R Light Fighter Bomber"
-price: "3000" 
+price: "3600" 
 desc: "N/A"
 img_path: "/assets/img/MM-DS-004.webp"
 brand: "N/A"

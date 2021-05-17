@@ -7,7 +7,7 @@ img_path: "/assets/img/ICM S.010.webp"
 brand: "N/A"
 available: true
 special_offer: false
-new: true
+new: false
 soon: false
 cat: "010000"
 subcat: "013600"

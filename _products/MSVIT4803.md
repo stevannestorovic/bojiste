@@ -7,7 +7,7 @@ img_path: "/assets/img/MSVIT4803.webp"
 brand: "ModelSvit"
 available: true
 special_offer: false
-new: true
+new: false
 soon: false
 cat: "010000"
 subcat: "015600"
