@@ -1,11 +1,11 @@
 ---
 layout: product
 title: "RUBBER BRUSH SET"
-price: "950" 
+price: "1000" 
 desc: "Set gumenih četkica"
 img_path: "/assets/img/A.MIG-7606.webp"
 brand: "AMMO"
-available: false
+available: true
 special_offer: false
 new: false
 soon: false

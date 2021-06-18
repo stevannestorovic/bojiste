@@ -7,7 +7,7 @@ img_path: "/assets/img/MIL_STD.webp"
 brand: "N/A"
 available: true
 special_offer: false
-new: true
+new: false
 soon: false
 cat: "00"
 subcat: "00"

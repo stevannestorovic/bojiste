@@ -1,11 +1,11 @@
 ---
 layout: product
 title: "Clear Water"
-price: "1200" 
+price: "1300" 
 desc: "Akrilna tekstura 250mL"
 img_path: "/assets/img/A.MIG-2205.webp"
 brand: "AMMO"
-available: false
+available: true
 special_offer: false
 new: false
 soon: false

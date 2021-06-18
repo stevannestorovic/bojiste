@@ -5,7 +5,7 @@ price: "650"
 desc: "Sredstvo za fiksiranje dekala"
 img_path: "/assets/img/A.MIG-2030.webp"
 brand: "AMMO"
-available: false
+available: true
 special_offer: false
 new: false
 soon: false
