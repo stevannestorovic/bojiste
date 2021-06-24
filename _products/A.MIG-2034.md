@@ -5,8 +5,8 @@ price: "500"
 desc: "Anti slip tekstura"
 img_path: "/assets/img/A.MIG-2034.webp"
 brand: "AMMO"
-available: true
-special_offer: true
+available: false
+special_offer: false
 new: false
 soon: false
 cat: "070000"
