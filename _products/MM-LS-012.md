@@ -5,9 +5,9 @@ price: "9400"
 desc: "Maketa"
 img_path: "/assets/img/MM-LS-012.webp"
 brand: "N/A"
-available: true
+available: false
 special_offer: false
-new: true
+new: false
 soon: false
 cat: "010000"
 subcat: "011000"
