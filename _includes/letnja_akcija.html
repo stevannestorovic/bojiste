@@ -1,0 +1,35 @@
+<div class="product-panel">
+	<h2 class="product-panel-title">
+	<span class="is-main-txt">Letnja Akcija</span>
+	</h2>
+	<div class="panel-products"> 
+    {% assign counter = 0 %}
+	{% for product in site.products %}
+		{%- if product.spec -%}
+            {% assign counter = counter | plus: 1%}
+			<div class="panel-product simpleCart_shelfItem">
+				<h4 class="product-panel-name item_name"><a class="has-text-dark" href="{{product.url}}">{{product.title}}</a></h4>
+				<h5 class="code item_code">{{product.sifra}}</h5>
+				<img class="product-panel-img image" data-src="{{product.img_path}}" alt="">
+				<div class="product-panel-data">
+					<p class="product-panel-description"> {{product.desc}}</p>
+					<strong class="product-panel-price is-main-txt item_price">{{product.price}} <small>RSD</small></strong>
+				</div>
+				<div class="product-widgets">
+					{% if product.available %}
+						<span class="avl-true">Na stanju</span>
+					{% else %}
+						<span class="avl-false">Nema na stanju</span>
+					{% endif %}
+					<input type="number" value="1" class="item_Quantity input">
+					<a class="item_add button is-main-bg buy_button is-small" href="javascript:;">KUPI</a>
+				</div>
+			</div>
+		{%- endif -%}
+        {% if counter == 5%}
+           {% break %}
+        {% endif %}
+	{% endfor %}
+</div>
+<a href="/popularno.html" class="button is-light" style="margin-top:10px;">Svi popularni artikli <i class="fa fa-chevron-circle-right" style="margin-left: 5px;"></i></a>
+</div>
