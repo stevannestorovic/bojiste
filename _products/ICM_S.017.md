@@ -14,4 +14,5 @@ subcat: "013600"
 subsubcat: "0N/A"
 sifra: "ICM S.017"
 popular: false
+spec: false
 ---

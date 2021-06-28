@@ -14,4 +14,5 @@ subcat: "010200"
 subsubcat: "0N/A"
 sifra: "TAKO2074S"
 popular: false
+spec: false
 ---

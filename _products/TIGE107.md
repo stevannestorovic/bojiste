@@ -14,4 +14,5 @@ subcat: "011500"
 subsubcat: "0N/A"
 sifra: "TIGE107"
 popular: false
+spec: false
 ---

@@ -14,4 +14,5 @@ subcat: "020100"
 subsubcat: "020101"
 sifra: "A.MIG-0273"
 popular: true
+spec: false
 ---

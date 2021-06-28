@@ -14,4 +14,5 @@ subcat: "020100"
 subsubcat: "020101"
 sifra: "A.MIG-0931"
 popular: false
+spec: false
 ---

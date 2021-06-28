@@ -14,4 +14,5 @@ subcat: "011000"
 subsubcat: "0N/A"
 sifra: "MM-SPS-014"
 popular: false
+spec: false
 ---

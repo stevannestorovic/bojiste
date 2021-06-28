@@ -14,4 +14,5 @@ subcat: "00"
 subsubcat: "00"
 sifra: "A.MIG-7507"
 popular: false
+spec: false
 ---

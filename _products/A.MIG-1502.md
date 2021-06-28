@@ -14,4 +14,5 @@ subcat: "060500"
 subsubcat: "00"
 sifra: "A.MIG-1502"
 popular: false
+spec: false
 ---

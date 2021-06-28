@@ -14,4 +14,5 @@ subcat: "015300"
 subsubcat: "0N/A"
 sifra: "MBLTD3561"
 popular: false
+spec: false
 ---

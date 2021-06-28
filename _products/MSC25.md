@@ -14,4 +14,5 @@ subcat: "080300"
 subsubcat: "0N/A"
 sifra: "MSC25"
 popular: false
+spec: false
 ---

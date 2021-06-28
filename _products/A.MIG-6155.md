@@ -14,4 +14,5 @@ subcat: "090100"
 subsubcat: "090101"
 sifra: "A.MIG-6155"
 popular: false
+spec: false
 ---

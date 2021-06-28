@@ -14,4 +14,5 @@ subcat: "070100"
 subsubcat: "070102"
 sifra: "A.MIG-7603"
 popular: false
+spec: false
 ---

@@ -14,4 +14,5 @@ subcat: "015400"
 subsubcat: "0N/A"
 sifra: "ASUKA35AS001"
 popular: false
+spec: false
 ---

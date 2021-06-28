@@ -14,4 +14,5 @@ subcat: "090100"
 subsubcat: "090101"
 sifra: "A.MIG-6043"
 popular: false
+spec: false
 ---

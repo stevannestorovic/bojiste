@@ -14,4 +14,5 @@ subcat: "060100"
 subsubcat: "00"
 sifra: "A.MIG-1010"
 popular: false
+spec: false
 ---

@@ -14,4 +14,5 @@ subcat: "020100"
 subsubcat: "020103"
 sifra: "A.MIG-2023"
 popular: false
+spec: false
 ---

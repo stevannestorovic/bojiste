@@ -14,4 +14,5 @@ subcat: "015300"
 subsubcat: "0N/A"
 sifra: "MBLTD3509"
 popular: false
+spec: false
 ---

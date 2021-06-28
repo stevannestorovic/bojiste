@@ -14,4 +14,5 @@ subcat: "050500"
 subsubcat: "00"
 sifra: "ABTP249"
 popular: false
+spec: false
 ---

@@ -14,4 +14,5 @@ subcat: "090100"
 subsubcat: "090101"
 sifra: "A.MIG-5201"
 popular: true
+spec: false
 ---

@@ -14,4 +14,5 @@ subcat: "010200"
 subsubcat: "0N/A"
 sifra: "TAKO2125X"
 popular: false
+spec: false
 ---

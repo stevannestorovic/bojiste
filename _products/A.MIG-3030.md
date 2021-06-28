@@ -14,4 +14,5 @@ subcat: "060700"
 subsubcat: "00"
 sifra: "A.MIG-3030"
 popular: false
+spec: false
 ---

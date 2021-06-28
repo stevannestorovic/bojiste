@@ -14,4 +14,5 @@ subcat: "013600"
 subsubcat: "0N/A"
 sifra: "ICM DS3509"
 popular: false
+spec: false
 ---

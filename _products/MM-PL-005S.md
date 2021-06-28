@@ -14,4 +14,5 @@ subcat: "011000"
 subsubcat: "0N/A"
 sifra: "MM-PL-005S"
 popular: false
+spec: false
 ---

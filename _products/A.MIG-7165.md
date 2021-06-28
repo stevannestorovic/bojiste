@@ -14,4 +14,5 @@ subcat: "020100"
 subsubcat: "020102"
 sifra: "A.MIG-7165"
 popular: false
+spec: false
 ---

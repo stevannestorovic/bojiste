@@ -14,4 +14,5 @@ subcat: "080100"
 subsubcat: "080104"
 sifra: "A.MIG-2105"
 popular: false
+spec: false
 ---

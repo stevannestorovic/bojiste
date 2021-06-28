@@ -14,4 +14,5 @@ subcat: "015800"
 subsubcat: "0N/A"
 sifra: "BRNC35081SP"
 popular: false
+spec: false
 ---

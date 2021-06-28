@@ -14,4 +14,5 @@ subcat: "014100"
 subsubcat: "00"
 sifra: "VOLKSWS15"
 popular: false
+spec: false
 ---

@@ -14,4 +14,5 @@ subcat: "015600"
 subsubcat: "0N/A"
 sifra: "MSVIT4817"
 popular: false
+spec: false
 ---

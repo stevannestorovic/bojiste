@@ -14,4 +14,5 @@ subcat: "040300"
 subsubcat: "0N/A"
 sifra: "ALCWP005"
 popular: false
+spec: false
 ---

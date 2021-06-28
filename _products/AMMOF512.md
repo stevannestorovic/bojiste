@@ -14,4 +14,5 @@ subcat: "020100"
 subsubcat: "020101"
 sifra: "AMMOF512"
 popular: false
+spec: false
 ---

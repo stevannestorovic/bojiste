@@ -14,4 +14,5 @@ subcat: "020100"
 subsubcat: "020103"
 sifra: "A.MIG-2022"
 popular: true
+spec: false
 ---

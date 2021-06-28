@@ -14,4 +14,5 @@ subcat: "020100"
 subsubcat: "020106"
 sifra: "A.MIG-0865"
 popular: false
+spec: false
 ---

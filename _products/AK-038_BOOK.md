@@ -14,4 +14,5 @@ subcat: "090200"
 subsubcat: "090202"
 sifra: "AK-038 BOOK"
 popular: false
+spec: false
 ---

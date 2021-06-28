@@ -14,4 +14,5 @@ subcat: "00"
 subsubcat: "0N/A"
 sifra: "MIL_SG"
 popular: false
+spec: false
 ---

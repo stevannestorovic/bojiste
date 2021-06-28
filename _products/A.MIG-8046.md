@@ -14,4 +14,5 @@ subcat: "070100"
 subsubcat: "070104"
 sifra: "A.MIG-8046"
 popular: false
+spec: true
 ---

@@ -14,4 +14,5 @@ subcat: "010900"
 subsubcat: "0N/A"
 sifra: "GWHSNG10"
 popular: false
+spec: false
 ---

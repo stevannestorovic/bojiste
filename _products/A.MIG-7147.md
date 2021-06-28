@@ -14,4 +14,5 @@ subcat: "060800"
 subsubcat: "00"
 sifra: "A.MIG-7147"
 popular: false
+spec: false
 ---

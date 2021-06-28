@@ -14,4 +14,5 @@ subcat: "011000"
 subsubcat: "00"
 sifra: "MM-VS-008"
 popular: false
+spec: false
 ---

@@ -14,4 +14,5 @@ subcat: "011000"
 subsubcat: "0N/A"
 sifra: "MM-DS-003S"
 popular: false
+spec: false
 ---

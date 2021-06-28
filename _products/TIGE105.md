@@ -14,4 +14,5 @@ subcat: "011500"
 subsubcat: "0N/A"
 sifra: "TIGE105"
 popular: false
+spec: false
 ---

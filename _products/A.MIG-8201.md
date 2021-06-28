@@ -14,4 +14,5 @@ subcat: "040100"
 subsubcat: "00"
 sifra: "A.MIG-8201"
 popular: false
+spec: false
 ---

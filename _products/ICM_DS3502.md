@@ -14,4 +14,5 @@ subcat: "013600"
 subsubcat: "0N/A"
 sifra: "ICM DS3502"
 popular: false
+spec: false
 ---

@@ -14,4 +14,5 @@ subcat: "013400"
 subsubcat: "0N/A"
 sifra: "MBASE 8001"
 popular: false
+spec: false
 ---

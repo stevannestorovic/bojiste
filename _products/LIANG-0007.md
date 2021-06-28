@@ -14,4 +14,5 @@ subcat: "070100"
 subsubcat: "070105"
 sifra: "LIANG-0007"
 popular: false
+spec: false
 ---
