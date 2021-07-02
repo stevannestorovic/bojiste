@@ -14,5 +14,5 @@ subcat: "020100"
 subsubcat: "020102"
 sifra: "A.MIG-7227"
 popular: false
-spec: true
+spec: false
 ---
