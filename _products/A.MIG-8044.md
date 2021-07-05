@@ -5,8 +5,8 @@ price: "600"
 desc: "Dvostrana mekana traka"
 img_path: "/assets/img/A.MIG-8044.webp"
 brand: "AMMO"
-available: true
-special_offer: true
+available: false
+special_offer: false
 new: false
 soon: false
 cat: "070000"
