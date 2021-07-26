@@ -14,5 +14,5 @@ subcat: "011000"
 subsubcat: "0N/A"
 sifra: "MM-TS-006"
 popular: false
-spec: true
+spec: false
 ---

@@ -14,5 +14,5 @@ subcat: "014100"
 subsubcat: "00"
 sifra: "VOLKSWS4802"
 popular: false
-spec: true
+spec: false
 ---

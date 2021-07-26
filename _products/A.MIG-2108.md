@@ -14,5 +14,5 @@ subcat: "080100"
 subsubcat: "080104"
 sifra: "A.MIG-2108"
 popular: false
-spec: false
+spec: true
 ---
