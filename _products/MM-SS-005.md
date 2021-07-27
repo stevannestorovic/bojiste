@@ -14,5 +14,5 @@ subcat: "011000"
 subsubcat: "0N/A"
 sifra: "MM-SS-005"
 popular: false
-spec: false
+spec: true
 ---
