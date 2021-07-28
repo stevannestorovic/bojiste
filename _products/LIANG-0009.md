@@ -7,7 +7,7 @@ img_path: "/assets/img/LIANG-0009.webp"
 brand: "AMMO"
 available: true
 special_offer: false
-new: true
+new: false
 soon: false
 cat: "070000"
 subcat: "070100"
