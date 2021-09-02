@@ -5,7 +5,7 @@ price: "550"
 desc: "Emajl Efekat"
 img_path: "/assets/img/A.MIG-1754.webp"
 brand: "AMMO"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false
