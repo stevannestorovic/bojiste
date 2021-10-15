@@ -1,11 +1,11 @@
 ---
 layout: product
 title: "AKRILNI GIT"
-price: "650" 
+price: "630" 
 desc: "Akrilni git"
 img_path: "/assets/img/A.MIG-2039.webp"
 brand: "AMMO"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false
@@ -13,6 +13,6 @@ cat: "070000"
 subcat: "070100"
 subsubcat: "070105"
 sifra: "A.MIG-2039"
-popular: false
+popular: true
 spec: false
 ---

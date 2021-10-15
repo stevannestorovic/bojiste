@@ -5,8 +5,8 @@ price: "550"
 desc: "Ekstra razređeni cement"
 img_path: "/assets/img/A.MIG-2025.webp"
 brand: "AMMO"
-available: true
-special_offer: false
+available: false
+special_offer: true
 new: false
 soon: false
 cat: "070000"

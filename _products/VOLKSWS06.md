@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "1/32 HEINKEL HE 219 UHU"
-price: "27000" 
+price: "25000" 
 desc: "Plastična maketa"
 img_path: "/assets/img/VOLKSWS06.webp"
 brand: "ZOUKEI-MURA"

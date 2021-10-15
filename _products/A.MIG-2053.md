@@ -1,12 +1,12 @@
 ---
 layout: product
-title: "Lucky Varnish – Sjajni akrilni lak (60mL)"
-price: "700" 
+title: "LUCKY  VARNISH – ULTRA MATT (60mL)"
+price: "670" 
 desc: "Akrilni Lak"
 img_path: "/assets/img/A.MIG-2053.webp"
 brand: "AMMO"
 available: true
-special_offer: false
+special_offer: true
 new: false
 soon: false
 cat: "020000"

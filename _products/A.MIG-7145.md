@@ -1,11 +1,11 @@
 ---
 layout: product
 title: "CIVIL VEHICLES WEATHERING SET"
-price: "2300" 
+price: "2500" 
 desc: "Set za weathering"
 img_path: "/assets/img/A.MIG-7145.webp"
 brand: "AMMO"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

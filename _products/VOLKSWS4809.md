@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "1/48 F-4J PHANTOM II NAVY"
-price: "12500" 
+price: "12000" 
 desc: "Plastična maketa"
 img_path: "/assets/img/VOLKSWS4809.webp"
 brand: "ZOUKEI-MURA"

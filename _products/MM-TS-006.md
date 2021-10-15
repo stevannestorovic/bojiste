@@ -1,11 +1,11 @@
 ---
 layout: product
 title: "Meng Model - Russian Main Battle Tank T-90A"
-price: "7000" 
+price: "7800" 
 desc: "N/A"
 img_path: "/assets/img/MM-TS-006.webp"
 brand: "N/A"
-available: false
+available: true
 special_offer: false
 new: false
 soon: false
@@ -14,5 +14,5 @@ subcat: "011000"
 subsubcat: "0N/A"
 sifra: "MM-TS-006"
 popular: false
-spec: true
+spec: false
 ---

@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "1/32 DOUGLAS A-1J Skyraider U.S AIR FORCE Incl U.S Aircraft Weapons 2"
-price: "24000" 
+price: "22000" 
 desc: "Plastična maketa"
 img_path: "/assets/img/VOLKSWS16.webp"
 brand: "ZOUKEI-MURA"

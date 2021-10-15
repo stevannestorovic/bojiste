@@ -5,7 +5,7 @@ price: "500"
 desc: "Bezmirisni emajl razređivač"
 img_path: "/assets/img/A.MIG-2018.webp"
 brand: "AMMO"
-available: false
+available: true
 special_offer: false
 new: false
 soon: false

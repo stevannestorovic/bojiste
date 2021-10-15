@@ -5,7 +5,7 @@ price: "300"
 desc: "Sredstvo za usporavanje sušenja boje"
 img_path: "/assets/img/AMMOF500.webp"
 brand: "AMMO"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false
@@ -14,5 +14,5 @@ subcat: "020100"
 subsubcat: "020101"
 sifra: "AMMOF500"
 popular: false
-spec: false
+spec: true
 ---

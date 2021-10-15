@@ -1,11 +1,11 @@
 ---
 layout: product
-title: "Meng Model – Idf Tank Crew"
-price: "1800" 
+title: "Meng Model - Idf Infantry Set"
+price: "1600" 
 desc: "N/A"
 img_path: "/assets/img/MM-HS-004.webp"
 brand: "N/A"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

@@ -5,7 +5,7 @@ price: "1700"
 desc: "Maketa"
 img_path: "/assets/img/TIGE107.webp"
 brand: "N/A"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

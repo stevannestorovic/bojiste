@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "AIRBRUSH STENCILS by Uschi van den Rosten"
-price: "2200" 
+price: "1900" 
 desc: "Šablon za bojenje"
 img_path: "/assets/img/A.MIG-8035.webp"
 brand: "AMMO"

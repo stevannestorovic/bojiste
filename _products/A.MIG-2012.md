@@ -5,7 +5,7 @@ price: "850"
 desc: "Lepak za pesak, kamenčiće"
 img_path: "/assets/img/A.MIG-2012.webp"
 brand: "AMMO"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

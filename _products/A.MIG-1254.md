@@ -5,7 +5,7 @@ price: "410"
 desc: "Emajl efekat sa četkicom"
 img_path: "/assets/img/A.MIG-1254.webp"
 brand: "AMMO"
-available: false
+available: true
 special_offer: false
 new: false
 soon: false

@@ -6,7 +6,7 @@ desc: "Knjiga"
 img_path: "/assets/img/A.MIG-6005.webp"
 brand: "AMMO"
 available: false
-special_offer: false
+special_offer: true
 new: false
 soon: false
 cat: "090000"

@@ -1,11 +1,11 @@
 ---
 layout: product
-title: "Akrilni mat lak (17mL)"
+title: "MATT VARNISH"
 price: "300" 
 desc: "Akrilni Lak"
 img_path: "/assets/img/A.MIG-0089.webp"
 brand: "AMMO"
-available: false
+available: true
 special_offer: false
 new: false
 soon: false

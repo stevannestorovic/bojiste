@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "Meng Model - British Heavy Tank Mk.V Female"
-price: "7800" 
+price: "7600" 
 desc: "N/A"
 img_path: "/assets/img/MM-TS-029.webp"
 brand: "N/A"

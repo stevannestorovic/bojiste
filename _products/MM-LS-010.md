@@ -1,11 +1,11 @@
 ---
 layout: product
-title: "Meng Model – 1/48 North American P-51D/K 8th Airforce"
+title: "Meng Model - North American P-51D/K 8th Air Force"
 price: "5600" 
-desc: "Maketa"
+desc: "N/A"
 img_path: "/assets/img/MM-LS-010.webp"
 brand: "N/A"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

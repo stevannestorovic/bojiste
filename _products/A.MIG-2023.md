@@ -1,11 +1,11 @@
 ---
 layout: product
-title: "One Shot Prajmer – Crni (Stynyl Rez Badger) 60mL"
+title: "ONE SHOT PRIMER – BLACK"
 price: "800" 
 desc: "Prajmer"
 img_path: "/assets/img/A.MIG-2023.webp"
 brand: "AMMO"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

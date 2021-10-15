@@ -2,11 +2,11 @@
 layout: product
 title: "Milliput - Standard"
 price: "700" 
-desc: "Dvodelna epoksi masa"
+desc: "N/A"
 img_path: "/assets/img/MIL_STD.webp"
 brand: "N/A"
-available: true
-special_offer: false
+available: false
+special_offer: true
 new: false
 soon: false
 cat: "00"

@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "1/32 KAWASAKI KI-45 KAI TEY TYPE"
-price: "21000" 
+price: "20000" 
 desc: "Plastična maketa"
 img_path: "/assets/img/VOLKSWS13.webp"
 brand: "ZOUKEI-MURA"

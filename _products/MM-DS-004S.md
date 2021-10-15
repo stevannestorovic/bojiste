@@ -1,11 +1,11 @@
 ---
 layout: product
 title: "Meng Model - Fiat G.91R Nato Air Forces"
-price: "3600" 
-desc: "Maketa"
+price: "3000" 
+desc: "N/A"
 img_path: "/assets/img/MM-DS-004S.webp"
 brand: "N/A"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

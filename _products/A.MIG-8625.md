@@ -1,11 +1,11 @@
 ---
 layout: product
-title: "AIRVIPER AIRBRUSH"
+title: "AIRCOBRA AIRBRUSH"
 price: "17000" 
-desc: "Airbrush 0.2mm"
+desc: "Airbrush 0.3mm (Badger)"
 img_path: "/assets/img/A.MIG-8625.webp"
 brand: "AMMO"
-available: false
+available: true
 special_offer: false
 new: false
 soon: false

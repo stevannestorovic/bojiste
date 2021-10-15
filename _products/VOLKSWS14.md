@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "1/32 KAWASAKI KI-45 KAI KOU HEI TORIYU"
-price: "22000" 
+price: "20000" 
 desc: "Plastična maketa"
 img_path: "/assets/img/VOLKSWS14.webp"
 brand: "ZOUKEI-MURA"

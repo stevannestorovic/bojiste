@@ -5,7 +5,7 @@ price: "750"
 desc: "Statička trava"
 img_path: "/assets/img/MSC41.webp"
 brand: "ModelScene"
-available: false
+available: true
 special_offer: false
 new: false
 soon: false
