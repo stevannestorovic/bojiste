@@ -13,6 +13,6 @@ cat: "020000"
 subcat: "020100"
 subsubcat: "020101"
 sifra: "A.MIG-0271"
-popular: true
+popular: false
 spec: false
 ---

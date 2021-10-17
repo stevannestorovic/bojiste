@@ -13,6 +13,6 @@ cat: "080000"
 subcat: "080300"
 subsubcat: "0N/A"
 sifra: "MSC-SM200"
-popular: true
+popular: false
 spec: false
 ---

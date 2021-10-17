@@ -5,7 +5,7 @@ price: "1100"
 desc: "Časopis"
 img_path: "/assets/img/A.MIG-4510.webp"
 brand: "AMMO"
-available: false
+available: true
 special_offer: false
 new: false
 soon: false

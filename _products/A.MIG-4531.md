@@ -13,6 +13,6 @@ cat: "090000"
 subcat: "090100"
 subsubcat: "090101"
 sifra: "A.MIG-4531"
-popular: true
+popular: false
 spec: false
 ---

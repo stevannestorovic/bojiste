@@ -1,11 +1,11 @@
 ---
 layout: product
 title: "Yak-1 Early version"
-price: "3900" 
+price: "4000" 
 desc: "Maketa"
 img_path: "/assets/img/MSVIT4803.webp"
 brand: "ModelSvit"
-available: false
+available: true
 special_offer: false
 new: false
 soon: false

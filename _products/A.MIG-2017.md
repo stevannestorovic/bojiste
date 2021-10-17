@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "TRANSPARATOR 60 ML"
-price: "670" 
+price: "700" 
 desc: "Sredstvo za providne slojeve boje (akril)"
 img_path: "/assets/img/A.MIG-2017.webp"
 brand: "AMMO"

@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "ONE SHOT PRIMER - SAND / FLESH BASE"
+title: "One Shot Prajmer – Pesak žuta (Stynyl Rez Badger) 60mL"
 price: "800" 
 desc: "Prajmer"
 img_path: "/assets/img/A.MIG-2027.webp"

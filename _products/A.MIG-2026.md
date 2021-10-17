@@ -1,12 +1,12 @@
 ---
 layout: product
-title: "ONE SHOT PRIMER - BROWN OXIDE"
+title: "One Shot Prajmer – Braon oksid (Stynyl Rez Badger) 60mL"
 price: "800" 
 desc: "Prajmer"
 img_path: "/assets/img/A.MIG-2026.webp"
 brand: "AMMO"
-available: true
-special_offer: true
+available: false
+special_offer: false
 new: false
 soon: false
 cat: "020000"

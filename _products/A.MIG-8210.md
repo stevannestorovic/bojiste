@@ -6,7 +6,7 @@ desc: "Gloss prajmer za metalik boje"
 img_path: "/assets/img/A.MIG-8210.webp"
 brand: "Alclad II"
 available: true
-special_offer: false
+special_offer: true
 new: false
 soon: false
 cat: "040000"

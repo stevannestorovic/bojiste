@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "1/32 HORTEN HO229"
-price: "21500" 
+price: "23000" 
 desc: "Plastična maketa"
 img_path: "/assets/img/VOLKSWS08.webp"
 brand: "ZOUKEI-MURA"

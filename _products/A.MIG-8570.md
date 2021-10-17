@@ -1,11 +1,11 @@
 ---
 layout: product
 title: "SNIPERBRUSH COLLECTION SET (7 different types)"
-price: "320" 
+price: "350" 
 desc: "Set četkica"
 img_path: "/assets/img/A.MIG-8570.webp"
 brand: "AMMO"
-available: false
+available: true
 special_offer: false
 new: false
 soon: false

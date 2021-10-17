@@ -1,7 +1,7 @@
 ---
 layout: product
-title: "RUSSIAN GREEN PRIMER"
-price: "670" 
+title: "Akrilni prajmer – Rusko zelena"
+price: "700" 
 desc: "Prajmer"
 img_path: "/assets/img/A.MIG-2009.webp"
 brand: "AMMO"

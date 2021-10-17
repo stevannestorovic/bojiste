@@ -1,11 +1,11 @@
 ---
 layout: product
-title: "ONE SHOT PRIMER - GREY"
+title: "One Shot Prajmer – Sivi (Stynyl Rez Badger) 60mL"
 price: "800" 
 desc: "Prajmer"
 img_path: "/assets/img/A.MIG-2024.webp"
 brand: "AMMO"
-available: false
+available: true
 special_offer: false
 new: false
 soon: false

@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "MATT LUCKY VARNISH (17 ML SIZE)"
+title: "Lucky Varnish – Mat akrilni lak (17mL)"
 price: "300" 
 desc: "Akrilni Lak"
 img_path: "/assets/img/A.MIG-2055.webp"

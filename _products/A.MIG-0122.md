@@ -1,11 +1,11 @@
 ---
 layout: product
-title: "Bone"
+title: "BONE"
 price: "300" 
 desc: "Akrilna boja 17mL"
 img_path: "/assets/img/A.MIG-0122.webp"
 brand: "AMMO"
-available: false
+available: true
 special_offer: false
 new: false
 soon: false

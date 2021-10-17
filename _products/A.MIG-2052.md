@@ -1,11 +1,11 @@
 ---
 layout: product
-title: "LUCKY  VARNISH – SATIN(60 mL)"
-price: "670" 
+title: "Lucky Varnish – Satenski akrilni lak (60mL)"
+price: "700" 
 desc: "Akrilni Lak"
 img_path: "/assets/img/A.MIG-2052.webp"
 brand: "AMMO"
-available: false
+available: true
 special_offer: false
 new: false
 soon: false

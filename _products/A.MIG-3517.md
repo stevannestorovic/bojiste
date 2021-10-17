@@ -5,8 +5,8 @@ price: "400"
 desc: "Uljana boja sa četkicom"
 img_path: "/assets/img/A.MIG-3517.webp"
 brand: "AMMO"
-available: false
-special_offer: true
+available: true
+special_offer: false
 new: false
 soon: false
 cat: "030000"
