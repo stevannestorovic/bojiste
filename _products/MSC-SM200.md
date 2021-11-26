@@ -5,7 +5,7 @@ price: "1800"
 desc: "Drveće"
 img_path: "/assets/img/MSC-SM200.webp"
 brand: "ModelScene"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false
