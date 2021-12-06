@@ -5,7 +5,7 @@ price: "700"
 desc: "Dvodelna epoksi masa"
 img_path: "/assets/img/MIL_STD.webp"
 brand: "N/A"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false
