@@ -5,7 +5,7 @@ price: "1800"
 desc: "N/A"
 img_path: "/assets/img/MM-HS-004.webp"
 brand: "N/A"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

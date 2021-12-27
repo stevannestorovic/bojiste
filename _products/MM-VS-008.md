@@ -5,9 +5,9 @@ price: "4500"
 desc: "Maketa"
 img_path: "/assets/img/MM-VS-008.webp"
 brand: "MENG"
-available: true
+available: false
 special_offer: false
-new: true
+new: false
 soon: false
 cat: "010000"
 subcat: "011000"

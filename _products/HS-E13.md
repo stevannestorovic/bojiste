@@ -5,7 +5,7 @@ price: "1000"
 desc: "Turntable"
 img_path: "/assets/img/HS-E13.webp"
 brand: "N/A"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

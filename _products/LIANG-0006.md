@@ -5,7 +5,7 @@ price: "1500"
 desc: "Šablon za bojenje"
 img_path: "/assets/img/LIANG-0006.webp"
 brand: "AMMO"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

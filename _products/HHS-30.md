@@ -5,7 +5,7 @@ price: "3200"
 desc: "Airbrush 0.3mm"
 img_path: "/assets/img/HHS-30.webp"
 brand: "N/A"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false
