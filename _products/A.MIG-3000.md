@@ -5,7 +5,7 @@ price: "500"
 desc: "Pigment fikser"
 img_path: "/assets/img/A.MIG-3000.webp"
 brand: "AMMO"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

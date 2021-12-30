@@ -5,7 +5,7 @@ price: "3600"
 desc: "Maketa"
 img_path: "/assets/img/MM-DS-004S.webp"
 brand: "N/A"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

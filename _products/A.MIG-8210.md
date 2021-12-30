@@ -5,8 +5,8 @@ price: "760"
 desc: "Gloss prajmer za metalik boje"
 img_path: "/assets/img/A.MIG-8210.webp"
 brand: "Alclad II"
-available: true
-special_offer: true
+available: false
+special_offer: false
 new: false
 soon: false
 cat: "040000"
