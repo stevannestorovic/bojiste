@@ -5,7 +5,7 @@ price: "700"
 desc: "Akrilni Lak"
 img_path: "/assets/img/A.MIG-2051.webp"
 brand: "AMMO"
-available: true
+available: false
 special_offer: true
 new: false
 soon: false

@@ -5,7 +5,7 @@ price: "2000"
 desc: "Maketa"
 img_path: "/assets/img/ICM S.007.webp"
 brand: "N/A"
-available: true
+available: false
 special_offer: false
 new: false
 soon: false

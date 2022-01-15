@@ -5,7 +5,7 @@ price: "700"
 desc: "Sredstvo za providne slojeve boje (akril)"
 img_path: "/assets/img/A.MIG-2017.webp"
 brand: "AMMO"
-available: false
+available: true
 special_offer: false
 new: false
 soon: false
